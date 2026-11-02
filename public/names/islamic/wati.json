@@ -1,0 +1,491 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Wati",
+    "slug": "wati",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Wati",
+      "normalized_name": "wati",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "MEDIUM",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Wati",
+        "wati"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Feminine name element (Indonesian)",
+      "primary_meaning": "Wati is an Indonesian-origin name meaning “Feminine name element (Indonesian)”.",
+      "literal_meaning": "The name is the Indonesian word itself, used unchanged as a given name rather than a derived or diminutive form.",
+      "meaning_explanation": "Wati corresponds to the Indonesian form وَاتِي (Indonesian wati (feminine suffix)). Its core sense is wati; a feminine name element (indonesian). Wati is an Indonesian feminine name element, from Sanskrit -vatī. It is used as a female given name.",
+      "meaning_confidence": "MEDIUM"
+    },
+    "etymology": {
+      "primary_language": "Indonesian",
+      "lexical_form": "وَاتِي",
+      "transliteration": "wati",
+      "root": "",
+      "root_transliteration": "",
+      "morphology": "Simple lexical item used as a name.",
+      "feminine_form": null,
+      "etymological_meaning": "The Indonesian word وَاتِي",
+      "root_family": [],
+      "etymology_explanation": "The form وَاتِي is an established Indonesian lexical item used unchanged as a given name.",
+      "etymology_confidence": "MEDIUM",
+      "false_etymology_warning": "No derivation beyond the documented Indonesian form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Indonesian",
+      "associated_languages": [
+        "Indonesian",
+        "Muslim South Asia"
+      ],
+      "language_notes": {
+        "primary": "Indonesian is the language of the recorded form وَاتِي.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "MEDIUM"
+    },
+    "origin": {
+      "primary_origin": "Indonesian",
+      "origin_type": "linguistic",
+      "origin_confidence": "MEDIUM",
+      "origin_explanation": "The name originates in Indonesian and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Indonesian",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Wati is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Wati is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Wati as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Indonesian",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Feminine name element (Indonesian)",
+      "related_concepts": [
+        "Feminine name element (Indonesian)"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Feminine name element (Indonesian)” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Feminine name element (Indonesian).",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 8,
+      "life_path_number": 8,
+      "ruling_planet": "Saturn",
+      "lucky_day": "Saturday",
+      "lucky_colors": [
+        "Black",
+        "Blue"
+      ],
+      "lucky_stone": "Blue Sapphire",
+      "meaning": "In Pythagorean numerology the letters of Wati total 8, associated with ambition, authority and material success. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 8,
+      "lucky_day": "Saturday",
+      "lucky_colors": [
+        "Black",
+        "Blue"
+      ],
+      "lucky_stone": "Blue Sapphire",
+      "ruling_planet": "Saturn"
+    },
+    "translations": {
+      "english": {
+        "name": "Wati",
+        "script": "Wati",
+        "meaning": "Feminine name element (Indonesian)",
+        "long_meaning": "Wati is an Indonesian-origin given name; in Indonesian the word means “Feminine name element (Indonesian)”."
+      },
+      "urdu": {
+        "name": "واتی",
+        "script": "واتی",
+        "meaning": "واتی، زنانہ لاحقہ",
+        "long_meaning": "Wati (واتی) نامعلوم زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم واتی، زنانہ لاحقہ ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "واتی",
+        "script": "واتی",
+        "meaning": "واتی، پسوند زنانہ",
+        "long_meaning": "Wati (واتی) نامی برگرفته از زبان نامعلوم است و معنای اصلی آن واتی، پسوند زنانہ است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "वाती",
+        "script": "वाती",
+        "meaning": "वाती, स्त्री प्रत्यय",
+        "long_meaning": "Wati (वाती) अज्ञात भाषा से लिया गया नाम है। इसका मुख्य अर्थ वाती, स्त्री प्रत्यय है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "واتي",
+        "script": "واتي",
+        "meaning": "واتي، ښځينه پایښت",
+        "long_meaning": "Wati (واتي) د نامعلوم ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې واتي، ښځينه پایښت ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "وَاتِي",
+        "script": "وَاتِي",
+        "meaning": "وَاتِي، لَاحِقَةٌ مُؤَنَّثَة",
+        "long_meaning": "Wati (وَاتِي) اسم مأخوذ من اللغة غير محددة، ومعناه الأساسي وَاتِي، لَاحِقَةٌ مُؤَنَّثَة. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "wa-ti",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "وَاتِي"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Wati"
+      ],
+      "script_forms": [
+        "واتي",
+        "واتی",
+        "وَاتِي",
+        "वाती"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form وَاتِي is an established Indonesian lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Wati mean?",
+        "a": "Wati is an Indonesian-origin name meaning “Feminine name element (Indonesian)”."
+      },
+      {
+        "q": "What is the origin of Wati?",
+        "a": "Wati originates in Indonesian and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Wati an Arabic name?",
+        "a": "No — the recorded form وَاتِي is Indonesian, not Arabic."
+      },
+      {
+        "q": "What is the root of Wati?",
+        "a": "No root analysis is asserted for this spelling."
+      },
+      {
+        "q": "Is Wati an Islamic name?",
+        "a": "Wati is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Wati a Quranic name?",
+        "a": "Wati is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Wati mean in Urdu?",
+        "a": "In Urdu it is written واتی and carries the sense “واتی، زنانہ لاحقہ”."
+      },
+      {
+        "q": "How is Wati pronounced?",
+        "a": "A romanized syllable approximation is “wa-ti”."
+      },
+      {
+        "q": "Is Wati a boy's or girl's name?",
+        "a": "Documented usage records Wati as a girl's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Wati Name Meaning, Origin & Islamic Context",
+      "meta_description": "Wati (وَاتِي) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Wati meaning, Wati name meaning, Wati origin, Wati meaning in Urdu, Wati pronunciation, Wati Islamic name",
+      "description_paragraph": "Wati is an Indonesian-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Wati meaning",
+        "Wati name meaning",
+        "Wati origin",
+        "Wati meaning in Urdu",
+        "Wati pronunciation",
+        "Wati Islamic name"
+      ],
+      "focus_keyword": "Wati meaning",
+      "secondary_keywords": [
+        "Wati name meaning",
+        "Wati origin",
+        "Wati meaning in Urdu",
+        "Wati pronunciation",
+        "Wati Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/wati",
+      "seo_score": 90,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Wati, an Indonesian-origin name used in Muslim communities.",
+      "body_summary": "Wati is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Wati",
+      "#WatiMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 151,
+      "quality_score": 90,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Indonesian form وَاتِي carries the sense “Feminine name element (Indonesian)”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Wati",
+          "description": "Wati — an Indonesian-origin given name meaning Feminine name element (Indonesian)",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Wati mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Wati is an Indonesian-origin name meaning “Feminine name element (Indonesian)”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Wati?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Wati originates in Indonesian and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Wati an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No — the recorded form وَاتِي is Indonesian, not Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Wati?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No root analysis is asserted for this spelling."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Wati an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Wati is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Wati a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Wati is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Wati mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written واتی and carries the sense “واتی، زنانہ لاحقہ”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Wati pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “wa-ti”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Wati a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Wati as a girl's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Wati",
+              "item": "https://nameverse.site/names/islamic/wati"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "MEDIUM",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

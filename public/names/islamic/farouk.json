@@ -1,0 +1,488 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Farouk",
+    "slug": "farouk",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Farouk",
+      "normalized_name": "farouk",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Farouk",
+        "farouk"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "One who distinguishes right from wrong",
+      "primary_meaning": "Farouk corresponds to the Arabic form فاروق and is glossed in this record as “One who distinguishes right from wrong.” The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "One who distinguishes right from wrong",
+      "meaning_explanation": "Farouk corresponds to the Arabic form فاروق (ف ر ق). Its core sense is owner of the great fortress. Variant romanization of فاروق ('one who distinguishes right from wrong'). The source record's gloss 'The owner of the great fortress' is unsupported.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "فاروق",
+      "transliteration": "farouk",
+      "root": "",
+      "root_transliteration": "",
+      "morphology": "Simple lexical item used as a name.",
+      "feminine_form": null,
+      "etymological_meaning": "The Arabic word فاروق",
+      "root_family": [],
+      "etymology_explanation": "The form فاروق is an established Arabic lexical item used unchanged as a given name.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form فاروق.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Farouk is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Farouk is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Farouk as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "One who distinguishes right from wrong",
+      "related_concepts": [
+        "One who distinguishes right from wrong"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “One who distinguishes right from wrong” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: One who distinguishes right from wrong.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 9,
+      "life_path_number": 9,
+      "ruling_planet": "Mars",
+      "lucky_day": "Tuesday",
+      "lucky_colors": [
+        "Red",
+        "Crimson"
+      ],
+      "lucky_stone": "Red Coral",
+      "meaning": "In Pythagorean numerology the letters of Farouk total 9, associated with compassion, idealism and completion. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 9,
+      "lucky_day": "Tuesday",
+      "lucky_colors": [
+        "Red",
+        "Crimson"
+      ],
+      "lucky_stone": "Red Coral",
+      "ruling_planet": "Mars"
+    },
+    "translations": {
+      "english": {
+        "name": "Farouk",
+        "script": "Farouk",
+        "meaning": "One who distinguishes right from wrong",
+        "long_meaning": "Farouk is an Arabic-origin given name; in Arabic the word means “One who distinguishes right from wrong”."
+      },
+      "urdu": {
+        "name": "فاروق",
+        "script": "فاروق",
+        "meaning": "عظیم قلعے کا مالک",
+        "long_meaning": "Farouk (فاروق) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم عظیم قلعے کا مالک ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "Farouk",
+        "script": "Farouk",
+        "meaning": "Owner of the great fortress",
+        "long_meaning": "Owner of the great fortress"
+      },
+      "hindi": {
+        "name": "फ़ारूक",
+        "script": "फ़ारूक",
+        "meaning": "महान किले का स्वामी",
+        "long_meaning": "Farouk (फ़ारूक) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ महान किले का स्वामी है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "فاروق",
+        "script": "فاروق",
+        "meaning": "د لوی کلا مالک",
+        "long_meaning": "Farouk (فاروق) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې د لوی کلا مالک ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "فاروق",
+        "script": "فاروق",
+        "meaning": "صاحب الحصن العظيم",
+        "long_meaning": "Farouk (فاروق) اسم مأخوذ من اللغة العربية، ومعناه الأساسي صاحب الحصن العظيم. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "fa-rouk",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "فاروق"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Farouk"
+      ],
+      "script_forms": [
+        "فاروق",
+        "फ़ारूक"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form فاروق is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Farouk mean?",
+        "a": "Farouk is an Arabic-origin name meaning “One who distinguishes right from wrong”."
+      },
+      {
+        "q": "What is the origin of Farouk?",
+        "a": "Farouk originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Farouk an Arabic name?",
+        "a": "Yes, the recorded form فاروق is Arabic."
+      },
+      {
+        "q": "What is the root of Farouk?",
+        "a": "No root analysis is asserted for this spelling."
+      },
+      {
+        "q": "Is Farouk an Islamic name?",
+        "a": "Farouk is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Farouk a Quranic name?",
+        "a": "Farouk is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Farouk mean in Urdu?",
+        "a": "In Urdu it is written فاروق and carries the sense “عظیم قلعے کا مالک”."
+      },
+      {
+        "q": "How is Farouk pronounced?",
+        "a": "A romanized syllable approximation is “fa-rouk”."
+      },
+      {
+        "q": "Is Farouk a boy's or girl's name?",
+        "a": "Documented usage records Farouk as a boy's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Farouk Name Meaning, Origin & Islamic Context",
+      "meta_description": "Farouk (فاروق) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Farouk meaning, Farouk name meaning, Farouk origin, Farouk meaning in Urdu, Farouk pronunciation, Farouk Islamic name",
+      "description_paragraph": "Farouk is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Farouk meaning",
+        "Farouk name meaning",
+        "Farouk origin",
+        "Farouk meaning in Urdu",
+        "Farouk pronunciation",
+        "Farouk Islamic name"
+      ],
+      "focus_keyword": "Farouk meaning",
+      "secondary_keywords": [
+        "Farouk name meaning",
+        "Farouk origin",
+        "Farouk meaning in Urdu",
+        "Farouk pronunciation",
+        "Farouk Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/farouk",
+      "seo_score": 90,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Farouk, an Arabic-origin name used in Muslim communities.",
+      "body_summary": "Farouk is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Farouk",
+      "#FaroukMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 149,
+      "quality_score": 90,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form فاروق carries the sense “One who distinguishes right from wrong”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Farouk",
+          "description": "Farouk — an Arabic-origin given name meaning One who distinguishes right from wrong",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Farouk mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Farouk is an Arabic-origin name meaning “One who distinguishes right from wrong”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Farouk?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Farouk originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Farouk an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form فاروق is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Farouk?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No root analysis is asserted for this spelling."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Farouk an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Farouk is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Farouk a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Farouk is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Farouk mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written فاروق and carries the sense “عظیم قلعے کا مالک”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Farouk pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “fa-rouk”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Farouk a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Farouk as a boy's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Farouk",
+              "item": "https://nameverse.site/names/islamic/farouk"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

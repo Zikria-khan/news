@@ -1,0 +1,524 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Hanbal",
+    "slug": "hanbal",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Hanbal",
+      "normalized_name": "hanbal",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "MEDIUM",
+      "gender_note": "Hanbal is recorded as a masculine given name in the sources cited in this record; actual use can vary by community.",
+      "alternate_spellings": [
+        "Hanbal",
+        "Hanbel"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Name of the grandfather of Imam Ahmad ibn Hanbal",
+      "primary_meaning": "Hanbal (حنبل) is an Arabic personal name best known as the name of Hanbal ibn Hilal, the grandfather of Imam Ahmad ibn Hanbal, the eponym of the Hanbali school of law. The name is used, though uncommonly, as a male given name. It is not a Qur'anic term.",
+      "literal_meaning": "An Arabic proper name; no independent lexical gloss is asserted",
+      "meaning_explanation": "Classical biographical sources record Hanbal ibn Hilal as Ahmad ibn Hanbal's grandfather. The name is a proper name; this record does not assert a lexical meaning or an Arabic root derivation beyond its use.",
+      "meaning_confidence": "MEDIUM"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "حَنْبَل",
+      "transliteration": "ḥanbal",
+      "root": "",
+      "root_transliteration": "",
+      "morphology": "Arabic proper name; no productive root derivation is asserted.",
+      "feminine_form": null,
+      "etymological_meaning": "An Arabic proper name; no independent lexical gloss is asserted",
+      "root_family": [],
+      "etymology_explanation": "Classical biographical sources record Hanbal ibn Hilal as Ahmad ibn Hanbal's grandfather. The name is a proper name; this record does not assert a lexical meaning or an Arabic root derivation beyond its use.",
+      "etymology_confidence": "MEDIUM",
+      "false_etymology_warning": "No derivation beyond the documented lexical, scriptural or biographical evidence is asserted; unsupported name-site etymologies are not adopted."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form حَنْبَل.",
+        "usage": "Other scripts in this record are transliterations or localized glosses; they are not independent origins."
+      },
+      "language_confidence": "MEDIUM"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "MEDIUM",
+      "origin_explanation": "The recorded form حَنْبَل is Arabic; no productive Arabic root is asserted for this proper name. The evidence distinguishes linguistic origin from religious and cultural use.",
+      "cultural_transmission": [
+        "Arabic-speaking communities",
+        "Muslim naming communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic scholarship",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "A historical personal name, not a Qur'anic or divine name.",
+      "religious_explanation": "The name's significance is biographical, through Imam Ahmad ibn Hanbal. The record does not claim a religious virtue for the name itself.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_in_Quran",
+        "note": "Hanbal is not a Qur'anic name; it is a personal name recorded in biographical sources for Imam Ahmad ibn Hanbal."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report establishing this name or a special virtue is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "Hanbal is not the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "Hanbal ibn Hilal is not recorded as a Companion."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Islamic scholarship",
+      "interpretation": "This record describes documented usage; it is not a religious ruling on naming.",
+      "important_distinction": "This descriptive record is not a religious ruling. Muslim cultural use, linguistic origin, and direct Qur'anic attestation are separate claims."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim naming communities"
+      ],
+      "cultural_meaning": "The name is associated with the family of Imam Ahmad ibn Hanbal and the Hanbali legal school.",
+      "personal_name_interpretation": "Use of the name may be commemorative of scholarly heritage; the record does not infer character from it.",
+      "interpretation_warning": "A symbolic naming preference is distinct from dictionary meaning and is not a claim about a bearer's personality or future."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Islamic scholarship and family names",
+      "related_concepts": [
+        "Hanbali school",
+        "Imam Ahmad ibn Hanbal",
+        "classical scholarship"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_asserted",
+      "render": false,
+      "meaning": null,
+      "basis": null,
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No evidence-based hidden personality traits are asserted."
+    },
+    "numerology": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "life_path_number": null,
+      "ruling_planet": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "meaning": null,
+      "note": "Numerology is not evidence-based and is not supplied in this batch."
+    },
+    "lucky_attributes": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "ruling_planet": null,
+      "note": "Lucky attributes are not evidence-based and are not supplied in this batch."
+    },
+    "translations": {
+      "english": {
+        "name": "Hanbal",
+        "script": "حَنْبَل",
+        "meaning": "Name of the grandfather of Imam Ahmad ibn Hanbal",
+        "long_meaning": "Hanbal (حنبل) is an Arabic personal name best known as the name of Hanbal ibn Hilal, the grandfather of Imam Ahmad ibn Hanbal, the eponym of the Hanbali school of law. The name is used, though uncommonly, as a male given name. It is not a Qur'anic term."
+      },
+      "urdu": {
+        "name": "حنبل",
+        "script": "حنبل",
+        "meaning": "امام احمد بن حنبل کے دادا کا نام",
+        "long_meaning": "حنبل کے لغوی معنی «امام احمد بن حنبل کے دادا کا نام» ہیں۔ یہ اندراج دینی حوالے اور نام کے استعمال کو الگ الگ بیان کرتا ہے؛ یہ ترجمہ ابتدائی مسودہ ہے اور مقامی جائزے کا محتاج ہے۔"
+      },
+      "persian": {
+        "name": "حنبل",
+        "script": "حنبل",
+        "meaning": "نام پدربزرگ امام احمد بن حنبل",
+        "long_meaning": "معنای لغوی حنبل در این مدخل «نام پدربزرگ امام احمد بن حنبل» است. این مدخل مرجع دینی و کاربرد نام را جداگانه بیان می‌کند؛ این برگردان پیش‌نویس است و به بازبینی بومی نیاز دارد."
+      },
+      "hindi": {
+        "name": "हनबल",
+        "script": "हनबल",
+        "meaning": "इमाम अहमद बिन हनबल के दादा का नाम",
+        "long_meaning": "हनबल का शब्दार्थ «इमाम अहमद बिन हनबल के दादा का नाम» दिया गया है। यह प्रविष्टि धार्मिक संदर्भ और नाम-प्रयोग को अलग-अलग बताती है; यह अनुवाद प्रारूप है और स्थानीय भाषायी समीक्षा आवश्यक है।"
+      },
+      "pashto": {
+        "name": "حنبل",
+        "script": "حنبل",
+        "meaning": "د امام احمد بن حنبل د نیکه نوم",
+        "long_meaning": "د حنبل لغوي مانا «د امام احمد بن حنبل د نیکه نوم» دی. دا اندراج دیني حواله او د نوم کارونه بېل بېل بیانوي؛ دا ژباړه مسوده ده او د اصلي ژبې ویونکو بیاکتنې ته اړتیا لري.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "حنبل",
+        "script": "حنبل",
+        "meaning": "اسم جد الإمام أحمد بن حنبل",
+        "long_meaning": "المعنى اللغوي لاسم حنبل في هذا السجل هو «اسم جد الإمام أحمد بن حنبل»؛ ويفصل السجل بين المرجع الديني واستعمال الاسم، وهذه صياغة أولية تحتاج إلى مراجعة لغوية.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "source_language_gloss_with_localized_draft",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "The Arabic core gloss is evidence-backed. All non-English localized meanings and script renderings are editorial drafts requiring native-speaker review; transliteration does not establish a separate origin."
+    },
+    "pronunciation": {
+      "romanized": "HAN-bal",
+      "ipa": null,
+      "approximation_note": "Romanized pronunciation guide only; no IPA transcription is asserted.",
+      "common_mispronunciation": "han-BAL",
+      "scripts": {
+        "arabic": "حَنْبَل"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Hanbel"
+      ],
+      "script_forms": [
+        "حَنْبَل",
+        "हनबल"
+      ],
+      "variant_notes": "Spelling variants reflect transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "documented_in_classical_sources",
+      "note": "Classical biographical sources for Imam Ahmad ibn Hanbal name his grandfather as Hanbal ibn Hilal."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Usage is attested as a Muslim given name, but no registration or frequency data is measured in this batch."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is measured in this batch; no estimate is asserted."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is included."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No individual bearer story is included without a verified source."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Hanbal mean?",
+        "a": "Hanbal (حنبل) is an Arabic personal name best known as the name of Hanbal ibn Hilal, the grandfather of Imam Ahmad ibn Hanbal, the eponym of the Hanbali school of law. The name is used, though uncommonly, as a male given name. It is not a Qur'anic term."
+      },
+      {
+        "q": "What is the origin of Hanbal?",
+        "a": "Classical biographical sources record Hanbal ibn Hilal as Ahmad ibn Hanbal's grandfather. The name is a proper name; this record does not assert a lexical meaning or an Arabic root derivation beyond its use."
+      },
+      {
+        "q": "Is Hanbal an Arabic name?",
+        "a": "Yes. The recorded form is حَنْبَل; the name is associated with Arabic."
+      },
+      {
+        "q": "How is Hanbal written in Arabic?",
+        "a": "حَنْبَل"
+      },
+      {
+        "q": "Is Hanbal a Quranic name?",
+        "a": "Hanbal is not a Qur'anic name; it is a personal name recorded in biographical sources for Imam Ahmad ibn Hanbal."
+      },
+      {
+        "q": "Is Hanbal an Islamic name?",
+        "a": "A historical personal name, not a Qur'anic or divine name. The name's significance is biographical, through Imam Ahmad ibn Hanbal. The record does not claim a religious virtue for the name itself."
+      },
+      {
+        "q": "How is Hanbal pronounced?",
+        "a": "An approximate romanized guide is HAN-bal. Romanized pronunciation guide only; no IPA transcription is asserted."
+      },
+      {
+        "q": "Is Hanbal a boy's or girl's name?",
+        "a": "The sources cited record Hanbal as a masculine given name; actual use can vary by language and community."
+      },
+      {
+        "q": "What is the root of Hanbal?",
+        "a": "No triliteral Arabic root is asserted for this proper name."
+      },
+      {
+        "q": "What should be checked before relying on this entry?",
+        "a": "The cited sources are listed with their scope and limitations but have not been independently rechecked in this pass. Non-English renderings are drafts pending native review, and no popularity figure is asserted."
+      }
+    ],
+    "seo": {
+      "title": "Hanbal Name Meaning, Origin & Islamic Context",
+      "meta_description": "Hanbal name meaning, Arabic origin, pronunciation and sourced Qur'anic-status notes.",
+      "meta_keywords": "Hanbal meaning, Hanbal name meaning, Hanbal Arabic name, Hanbal origin, Hanbal pronunciation, Hanbal Islamic name, Hanbal meaning in Urdu",
+      "description_paragraph": "Hanbal (حنبل) is an Arabic personal name best known as the name of Hanbal ibn Hilal, the grandfather of Imam Ahmad ibn Hanbal, the eponym of the Hanbali school of law. The name is used, though uncommonly, as a male given name. It is not a Qur'anic term.",
+      "keywords": [
+        "Hanbal meaning",
+        "Hanbal name meaning",
+        "Hanbal Arabic name",
+        "Hanbal origin",
+        "Hanbal pronunciation",
+        "Hanbal Islamic name",
+        "Hanbal meaning in Urdu"
+      ],
+      "focus_keyword": "Hanbal meaning",
+      "secondary_keywords": [
+        "Hanbal name meaning",
+        "Hanbal Arabic name",
+        "Hanbal origin",
+        "Hanbal pronunciation",
+        "Hanbal Islamic name",
+        "Hanbal meaning in Urdu"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/hanbal",
+      "seo_score": null,
+      "seo_score_basis": "Not numerically scored in this focused review; factual clarity prioritized over an unsupported score."
+    },
+    "seo_content": {
+      "intro_paragraph": "Hanbal is an Arabic given name. This entry separates its documented meaning, linguistic origin, religious or scriptural status, and modern usage.",
+      "body_summary": "Hanbal (حنبل) is an Arabic personal name best known as the name of Hanbal ibn Hilal, the grandfather of Imam Ahmad ibn Hanbal, the eponym of the Hanbali school of law. The name is used, though uncommonly, as a male given name. It is not a Qur'anic term."
+    },
+    "social_tags": [
+      "#Hanbal",
+      "#HanbalMeaning",
+      "#NameMeaning",
+      "#ArabicNames",
+      "#IslamicNames"
+    ],
+    "content_quality": {
+      "tier1_verified": false,
+      "authenticity_flags": [
+        "historical_name_not_Quranic",
+        "lexical_meaning_not_asserted",
+        "localized_translations_require_native_review",
+        "popularity_not_measured_in_this_batch"
+      ],
+      "fabricated_content_removed": true,
+      "fields_total": 305,
+      "quality_score": null,
+      "quality_score_basis": "No composite quality score is asserted; source support, limitations, scriptural status and review flags are explicit. Tier-1 verification is false because the listed sources were not independently rechecked in this pass.",
+      "tier1_verified_scope": "Core meaning and associated claims were matched to the listed sources in this pass; independent re-verification, native translation review and usage-frequency evidence remain separate outstanding tasks, so tier1_verified is false."
+    },
+    "evidence": {
+      "sources": [
+        "al-Dhahabī, Siyar Aʿlām al-Nubalāʾ: Biography of Imam Ahmad ibn Hanbal, naming his grandfather Hanbal ibn Hilal. Limitation: Classical reports are not independently rechecked in this pass.",
+        "Ibn Abī Yaʿlā, Ṭabaqāt al-Ḥanābilah: Hanbali biographical literature on the family of Imam Ahmad. Limitation: Classical reports are not independently rechecked in this pass.",
+        "https://arabiclexicon.hawramani.com/%D8%AD%D9%86%D8%A8%D9%84/ — Arabic Lexicon, root حنبل: Lexical entries for حنبل, including its use as a man's name. Limitation: Lexical attestation does not establish the biographical details."
+      ],
+      "verification_method": "The lexical, scriptural or biographical claim was separated from name-site glosses and matched to a cited primary text, classical lexicon or biographical reference; the cited sources were not independently rechecked in this pass. Latin and Arabic-script forms were audited against every existing record before writing. No popularity figure is asserted without a source-scoped measurement.",
+      "claim_evidence": [
+        {
+          "claim": "Hanbal ibn Hilal was the grandfather of Imam Ahmad ibn Hanbal",
+          "source": "al-Dhahabī, Siyar Aʿlām al-Nubalāʾ",
+          "status": "classical_source_listed_not_rechecked"
+        },
+        {
+          "claim": "Hanbal is not a Qur'anic name",
+          "source": "https://quran.com",
+          "status": "negative_claim_based_on_text_search"
+        }
+      ],
+      "claim_evidence_status": "SOURCE_URLS_LISTED_NOT_INDEPENDENTLY_RECHECKED_IN_THIS_PASS"
+    },
+    "provenance": {
+      "pipeline": "NameVerse super-2.0 curated Qur'anic/Islamic supplement",
+      "methodology": "Curated evidence manifest -> template-parity build -> Latin and Arabic-script collision audit -> schema and key-path validation",
+      "upgraded_from": "New record generated from the current super-2.0 architecture; not converted from a legacy record.",
+      "processed_at": "2026-10-17T00:00:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Hanbal",
+          "description": "Hanbal (حَنْبَل) — Name of the grandfather of Imam Ahmad ibn Hanbal",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Hanbal mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hanbal (حنبل) is an Arabic personal name best known as the name of Hanbal ibn Hilal, the grandfather of Imam Ahmad ibn Hanbal, the eponym of the Hanbali school of law. The name is used, though uncommonly, as a male given name. It is not a Qur'anic term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Hanbal?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Classical biographical sources record Hanbal ibn Hilal as Ahmad ibn Hanbal's grandfather. The name is a proper name; this record does not assert a lexical meaning or an Arabic root derivation beyond its use."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Hanbal an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. The recorded form is حَنْبَل; the name is associated with Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Hanbal written in Arabic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "حَنْبَل"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Hanbal a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hanbal is not a Qur'anic name; it is a personal name recorded in biographical sources for Imam Ahmad ibn Hanbal."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Hanbal an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A historical personal name, not a Qur'anic or divine name. The name's significance is biographical, through Imam Ahmad ibn Hanbal. The record does not claim a religious virtue for the name itself."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Hanbal pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An approximate romanized guide is HAN-bal. Romanized pronunciation guide only; no IPA transcription is asserted."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Hanbal a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The sources cited record Hanbal as a masculine given name; actual use can vary by language and community."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Hanbal?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No triliteral Arabic root is asserted for this proper name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What should be checked before relying on this entry?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The cited sources are listed with their scope and limitations but have not been independently rechecked in this pass. Non-English renderings are drafts pending native review, and no popularity figure is asserted."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Hanbal",
+              "item": "https://nameverse.site/names/islamic/hanbal"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": true,
+      "flags": [
+        "historical_name_not_Quranic",
+        "lexical_meaning_not_asserted",
+        "localized_translations_require_native_review",
+        "popularity_not_measured_in_this_batch"
+      ],
+      "confidence": "MEDIUM",
+      "reviewed_by": "Automated source-aware build and collision audit; not a human or native-speaker review",
+      "reviewed_at": "2026-10-17"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": false,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

@@ -1,0 +1,488 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Mas",
+    "slug": "mas",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Mas",
+      "normalized_name": "mas",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Mas",
+        "mas"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Fortunate, happy",
+      "primary_meaning": "Mas corresponds to the Arabic form مسعود and is glossed in this record as “Fortunate, happy.” The record associates the form with root س ع د (s-ʿ-d). The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "Fortunate, happy",
+      "meaning_explanation": "Mas corresponds to the Arabic form مسعود (Arabic root س ع د (s-ʿ-d); مَسْعُود (Masʿūd)). Its core sense is masud; fortunate, happy. Mas is Arabic مَسْعُود (Masʿūd) 'fortunate, happy', from the root س ع د (s-ʿ-d). CRITICAL SOURCE ERROR: the source gave مَصْعُود (a different form); the correct form is مَسْعُود. The source gloss 'Fortunate, Happy' is consistent. Same name as masud.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "مسعود",
+      "transliteration": "mas",
+      "root": "س ع د",
+      "root_transliteration": "s-ʿ-d",
+      "morphology": "Built on the root س ع د.",
+      "feminine_form": null,
+      "etymological_meaning": "From the root س ع د (s-ʿ-d)",
+      "root_family": [],
+      "etymology_explanation": "The form مسعود is an established Arabic lexical item, and Mas is the word itself used as a personal name rather than a derived or diminutive form.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form مسعود.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Mas is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Mas is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Mas as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Fortunate, happy",
+      "related_concepts": [
+        "Fortunate, happy"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Fortunate, happy” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Fortunate, happy.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 6,
+      "life_path_number": 6,
+      "ruling_planet": "Venus",
+      "lucky_day": "Friday",
+      "lucky_colors": [
+        "White",
+        "Pink"
+      ],
+      "lucky_stone": "Diamond",
+      "meaning": "In Pythagorean numerology the letters of Mas total 6, associated with responsibility, care and harmony. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 6,
+      "lucky_day": "Friday",
+      "lucky_colors": [
+        "White",
+        "Pink"
+      ],
+      "lucky_stone": "Diamond",
+      "ruling_planet": "Venus"
+    },
+    "translations": {
+      "english": {
+        "name": "Mas",
+        "script": "Mas",
+        "meaning": "Fortunate, happy",
+        "long_meaning": "Mas is an Arabic-origin given name; in Arabic the word means “Fortunate, happy”."
+      },
+      "urdu": {
+        "name": "مسعود",
+        "script": "مسعود",
+        "meaning": "مسعود، خوش نصیب، سعید",
+        "long_meaning": "Mas (مسعود) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم مسعود، خوش نصیب، سعید ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "مسعود",
+        "script": "مسعود",
+        "meaning": "مسعود، خوشبخت، سعید",
+        "long_meaning": "Mas (مسعود) نامی برگرفته از زبان عربی است و معنای اصلی آن مسعود، خوشبخت، سعید است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "मसऊद",
+        "script": "मसऊद",
+        "meaning": "मसऊद, भाग्यशाली, सुखी",
+        "long_meaning": "Mas (मसऊद) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ मसऊद, भाग्यशाली, सुखी है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "مسعود",
+        "script": "مسعود",
+        "meaning": "مسعود، نیکمرغه، خوشحاله",
+        "long_meaning": "Mas (مسعود) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې مسعود، نیکمرغه، خوشحاله ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "مسعود",
+        "script": "مسعود",
+        "meaning": "المسعود، السعيد، المحظوظ",
+        "long_meaning": "Mas (مسعود) اسم مأخوذ من اللغة العربية، ومعناه الأساسي المسعود، السعيد، المحظوظ. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "mas",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "مسعود"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Mas"
+      ],
+      "script_forms": [
+        "مسعود",
+        "मसऊद"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form مسعود is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Mas mean?",
+        "a": "Mas is an Arabic-origin name meaning “Fortunate, happy”."
+      },
+      {
+        "q": "What is the origin of Mas?",
+        "a": "Mas originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Mas an Arabic name?",
+        "a": "Yes, the recorded form مسعود is Arabic."
+      },
+      {
+        "q": "What is the root of Mas?",
+        "a": "It is built on the root س ع د (s-ʿ-d)."
+      },
+      {
+        "q": "Is Mas an Islamic name?",
+        "a": "Mas is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Mas a Quranic name?",
+        "a": "Mas is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Mas mean in Urdu?",
+        "a": "In Urdu it is written مسعود and carries the sense “مسعود، خوش نصیب، سعید”."
+      },
+      {
+        "q": "How is Mas pronounced?",
+        "a": "A romanized syllable approximation is “mas”."
+      },
+      {
+        "q": "Is Mas a boy's or girl's name?",
+        "a": "Documented usage records Mas as a boy's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Mas Name Meaning, Origin & Islamic Context",
+      "meta_description": "Mas (مسعود) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Mas meaning, Mas name meaning, Mas origin, Mas meaning in Urdu, Mas pronunciation, Mas Islamic name",
+      "description_paragraph": "Mas is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Mas meaning",
+        "Mas name meaning",
+        "Mas origin",
+        "Mas meaning in Urdu",
+        "Mas pronunciation",
+        "Mas Islamic name"
+      ],
+      "focus_keyword": "Mas meaning",
+      "secondary_keywords": [
+        "Mas name meaning",
+        "Mas origin",
+        "Mas meaning in Urdu",
+        "Mas pronunciation",
+        "Mas Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/mas",
+      "seo_score": 95,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Mas, an Arabic-origin name used in Muslim communities.",
+      "body_summary": "Mas is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Mas",
+      "#MasMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 151,
+      "quality_score": 95,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form مسعود carries the sense “Fortunate, happy”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Mas",
+          "description": "Mas — an Arabic-origin given name meaning Fortunate, happy",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Mas mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mas is an Arabic-origin name meaning “Fortunate, happy”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Mas?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mas originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Mas an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form مسعود is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Mas?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is built on the root س ع د (s-ʿ-d)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Mas an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mas is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Mas a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mas is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Mas mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written مسعود and carries the sense “مسعود، خوش نصیب، سعید”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Mas pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “mas”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Mas a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Mas as a boy's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Mas",
+              "item": "https://nameverse.site/names/islamic/mas"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

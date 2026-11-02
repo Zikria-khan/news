@@ -1,0 +1,490 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Harmalah",
+    "slug": "harmalah",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Harmalah",
+      "normalized_name": "harmalah",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender follows documented historical naming usage; usage may vary by community.",
+      "alternate_spellings": [
+        "Harmalah",
+        "Harmala",
+        "Haramalah"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "An attested Arabic masculine personal name; classical lexicography records حَرْمَلَة as a man's name, associated with the word harmal.",
+      "primary_meaning": "Harmalah (حَرْمَلَة) is an attested Arabic personal name. An attested Arabic masculine personal name; classical lexicography records حَرْمَلَة as a man's name, associated with the word harmal.",
+      "literal_meaning": "An attested Arabic masculine personal name; classical lexicography records حَرْمَلَة as a man's name, associated with the word harmal.",
+      "meaning_explanation": "Lisān al-ʿArab explicitly notes حَرْمَلَة as a man's name and discusses حَرْمَل as a plant term. The lexical relationship is reported cautiously; it does not support invented meanings such as 'immortal' or 'blessed'.",
+      "meaning_confidence": "MEDIUM"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "حَرْمَلَة",
+      "transliteration": "harmalah",
+      "root": null,
+      "root_transliteration": null,
+      "morphology": "A classical lexicon records حَرْمَلَة as a man's name and discusses حَرْمَل as a plant term; a root derivation is not asserted.",
+      "feminine_form": null,
+      "etymological_meaning": "An attested Arabic masculine personal name; classical lexicography records حَرْمَلَة as a man's name, associated with the word harmal.",
+      "root_family": [],
+      "etymology_explanation": "Lisān al-ʿArab explicitly notes حَرْمَلَة as a man's name and discusses حَرْمَل as a plant term. The lexical relationship is reported cautiously; it does not support invented meanings such as 'immortal' or 'blessed'.",
+      "etymology_confidence": "MEDIUM",
+      "false_etymology_warning": "Do not infer Quranic status, popularity, religious virtue, or a symbolic meaning from name-site repetition. Exact name meaning must be supported by a lexical entry for the correct form."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "The recorded form حَرْمَلَة is treated as an Arabic personal name.",
+        "usage": "Transliterations and localized script forms are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic and historical attestation",
+      "origin_confidence": "MEDIUM",
+      "origin_explanation": "Arabic personal-name attestation is distinguished from the level of certainty about the lexical gloss.",
+      "cultural_transmission": [
+        "Arabic-speaking communities",
+        "Muslim historical naming"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic historical usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Attested in Islamic-era personal-name history; not thereby established as a Quranic name.",
+      "religious_explanation": "Historical use by a Muslim or Companion does not itself make a name Quranic or establish a special religious virtue.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_claimed",
+        "note": "No claim that this personal name appears in the Quran is made."
+      },
+      "hadith_status": {
+        "status": "historical_attestation_only",
+        "note": "Hadith or biographical sources are used only for the specific historical bearer where cited."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No prophetic-name claim is made."
+      },
+      "companion_status": {
+        "status": "historical_attestation_cited",
+        "note": "Harmalah ibn Abdullah al-Tamimi al-Anbari is listed in biographical literature as a Companion. The Banuri Darul Ifta name entry cites al-Isabah for Harmalah as a Companion name."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Arabic and Muslim historical naming",
+      "interpretation": "Historical use is evidence of attestation, not a promise of virtue or a religious prescription.",
+      "important_distinction": "Muslim usage is not equivalent to Quranic status."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim historical naming"
+      ],
+      "cultural_meaning": "A documented personal name in Arabic and Islamic-era contexts.",
+      "personal_name_interpretation": "No additional symbolic interpretation is asserted beyond documented evidence.",
+      "interpretation_warning": "Dictionary senses and personal-name intent are distinct claims."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "An attested Arabic masculine personal name; classical lexicography records حَرْمَلَة as a man's name, associated with the word harmal.",
+      "related_concepts": [
+        "Arabic lexicon",
+        "historical personal name"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_verified",
+      "render": false,
+      "meaning": "",
+      "basis": "No special spiritual meaning is asserted.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links a name to personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No hidden personality traits are inferred from a name."
+    },
+    "numerology": {
+      "status": "not_evidence_based",
+      "render": false,
+      "lucky_number": null,
+      "life_path_number": null,
+      "ruling_planet": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "meaning": "",
+      "note": "Numerology is not factual evidence and is suppressed."
+    },
+    "lucky_attributes": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "ruling_planet": null
+    },
+    "translations": {
+      "english": {
+        "name": "Harmalah",
+        "script": "Harmalah",
+        "meaning": "An attested Arabic masculine personal name; classical lexicography records حَرْمَلَة as a man's name, associated with the word harmal.",
+        "long_meaning": "Harmalah (حَرْمَلَة) is an attested Arabic personal name. An attested Arabic masculine personal name; classical lexicography records حَرْمَلَة as a man's name, associated with the word harmal."
+      },
+      "urdu": {
+        "name": "حَرْمَلَة",
+        "script": "حَرْمَلَة",
+        "meaning": "لغوی معنی کی تصدیق باقی ہے",
+        "long_meaning": "Harmalah (حَرْمَلَة) — لغوی معنی کی تصدیق باقی ہے"
+      },
+      "persian": {
+        "name": "حَرْمَلَة",
+        "script": "حَرْمَلَة",
+        "meaning": "معنای لغوی هنوز تأیید نشده است",
+        "long_meaning": "Harmalah (حَرْمَلَة) — معنای لغوی هنوز تأیید نشده است"
+      },
+      "hindi": {
+        "name": "हरमला",
+        "script": "हरमला",
+        "meaning": "शब्दार्थ की पुष्टि बाकी है",
+        "long_meaning": "Harmalah — शब्दार्थ की पुष्टि बाकी है"
+      },
+      "pashto": {
+        "name": "حَرْمَلَة",
+        "script": "حَرْمَلَة",
+        "meaning": "د لغوي مانا تصدیق پاتې ده",
+        "long_meaning": "Harmalah (حَرْمَلَة) — د لغوي مانا تصدیق پاتې ده",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "حَرْمَلَة",
+        "script": "حَرْمَلَة",
+        "meaning": "لم يُتحقق من المعنى المعجمي بعد",
+        "long_meaning": "Harmalah (حَرْمَلَة) — لم يُتحقق من المعنى المعجمي بعد",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "conservative_semantic_note",
+      "confidence": "LOW",
+      "native_review_required": true,
+      "note": "Localized glosses deliberately state that a definitive meaning has not been verified; all language renderings remain drafts requiring native-speaker review."
+    },
+    "pronunciation": {
+      "romanized": "Harmalah",
+      "ipa": null,
+      "approximation_note": "Pronunciation should be checked against a reliable Arabic pronunciation reference.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "حَرْمَلَة"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Harmala",
+        "Haramalah"
+      ],
+      "script_forms": [
+        "حَرْمَلَة"
+      ],
+      "variant_notes": "Transliteration variants require alias-level review before treating spellings as separate records.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "candidate_attestation",
+      "note": "Harmalah ibn Abdullah al-Tamimi al-Anbari is listed in biographical literature as a Companion. The Banuri Darul Ifta name entry cites al-Isabah for Harmalah as a Companion name. Source references: Lisān al-ʿArab, entry حرمل: https://www.islamweb.net/ar/library/content/122/1714/حرمل | Jamia Uloom Islamia, Harmalah name entry citing al-Isabah: https://www.banuri.edu.pk/name-detail/?id=1543 | Tahdhib al-Kamal biographical entry for Harmalah ibn Abdullah: https://www.islamweb.net/ar/library/content/1001/1227/حرملة-بن-عبد-الله"
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "No reliable modern frequency data is supplied; historical attestation is not a popularity measure."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No source-scoped current popularity or registration data is supplied."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No modern personal story is published without a verified source."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Harmalah mean?",
+        "a": "An attested Arabic masculine personal name; classical lexicography records حَرْمَلَة as a man's name, associated with the word harmal."
+      },
+      {
+        "q": "What is the origin of Harmalah?",
+        "a": "Harmalah is treated here as an Arabic personal name. Lisān al-ʿArab explicitly notes حَرْمَلَة as a man's name and discusses حَرْمَل as a plant term. The lexical relationship is reported cautiously; it does not support invented meanings such as 'immortal' or 'blessed'."
+      },
+      {
+        "q": "How is Harmalah written in Arabic?",
+        "a": "حَرْمَلَة"
+      },
+      {
+        "q": "Is Harmalah a Quranic name?",
+        "a": "This record does not claim that the personal name is mentioned in the Quran."
+      },
+      {
+        "q": "Is Harmalah an Islamic name?",
+        "a": "It is associated with Islamic-era personal-name history; this does not by itself establish Quranic status."
+      },
+      {
+        "q": "Is the meaning verified?",
+        "a": "The listed common-word sense is supported by the cited lexicon, but intended meaning for a particular name-bearer is not guaranteed."
+      },
+      {
+        "q": "How is Harmalah pronounced?",
+        "a": "Use a reliable Arabic pronunciation source; this record does not invent an IPA transcription."
+      },
+      {
+        "q": "How popular is Harmalah?",
+        "a": "No reliable modern popularity measurement is supplied."
+      },
+      {
+        "q": "What are common spellings of Harmalah?",
+        "a": "Harmalah, Harmala, Haramalah"
+      }
+    ],
+    "seo": {
+      "title": "Harmalah Name Meaning, Arabic Spelling & History | NameVerse",
+      "meta_description": "Explore Harmalah (حَرْمَلَة), its Arabic spelling, historical usage, and what is or is not verified about its meaning.",
+      "meta_keywords": "Harmalah meaning, Harmalah Arabic name, Harmalah origin",
+      "description_paragraph": "Harmalah is recorded as an Arabic personal name. NameVerse separates historical evidence from lexical claims that still require verification.",
+      "keywords": [
+        "Harmalah meaning",
+        "Harmalah Arabic name",
+        "Harmalah origin"
+      ],
+      "focus_keyword": "Harmalah name meaning",
+      "secondary_keywords": [
+        "Harmalah in Arabic",
+        "Harmalah origin"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/harmalah",
+      "seo_score": null,
+      "seo_score_basis": "No artificial SEO score assigned; lexical review is pending."
+    },
+    "seo_content": {
+      "intro_paragraph": "Harmalah is an attested Arabic personal name. This page clearly distinguishes historical usage from any unverified lexical meaning.",
+      "body_summary": "Lisān al-ʿArab explicitly notes حَرْمَلَة as a man's name and discusses حَرْمَل as a plant term. The lexical relationship is reported cautiously; it does not support invented meanings such as 'immortal' or 'blessed'."
+    },
+    "social_tags": [
+      "#Harmalah",
+      "#HarmalahMeaning",
+      "#ArabicNames",
+      "#IslamicHistory",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": false,
+      "authenticity_flags": [
+        "lexical_relation_is_cautious",
+        "historical_attestation",
+        "no_root_derivation_asserted"
+      ],
+      "fabricated_content_removed": true,
+      "fields_total": 285,
+      "quality_score": null,
+      "quality_score_basis": "Not scored until the lexical and historical source review is complete."
+    },
+    "evidence": {
+      "sources": [
+        "Lisān al-ʿArab, entry حرمل: https://www.islamweb.net/ar/library/content/122/1714/حرمل — source supports the historical attestation or lexical statement described in the record; it does not support unrelated claims.",
+        "Jamia Uloom Islamia, Harmalah name entry citing al-Isabah: https://www.banuri.edu.pk/name-detail/?id=1543 — source supports the historical attestation or lexical statement described in the record; it does not support unrelated claims.",
+        "Tahdhib al-Kamal biographical entry for Harmalah ibn Abdullah: https://www.islamweb.net/ar/library/content/1001/1227/حرملة-بن-عبد-الله — source supports the historical attestation or lexical statement described in the record; it does not support unrelated claims."
+      ],
+      "verification_method": "Separate historical name attestation, lexical meaning, Quranic status, popularity, and cultural interpretation. Unverified claims are suppressed."
+    },
+    "provenance": {
+      "pipeline": "NameVerse evidence-first draft",
+      "methodology": "Template-preserving record; conservative claims; lexical/historical source review required.",
+      "upgraded_from": "new candidate record",
+      "processed_at": "2026-10-14T00:00:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Harmalah",
+          "description": "Harmalah (حَرْمَلَة) — attested Arabic personal name; lexical meaning status: MEDIUM.",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Harmalah mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An attested Arabic masculine personal name; classical lexicography records حَرْمَلَة as a man's name, associated with the word harmal."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Harmalah?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Harmalah is treated here as an Arabic personal name. Lisān al-ʿArab explicitly notes حَرْمَلَة as a man's name and discusses حَرْمَل as a plant term. The lexical relationship is reported cautiously; it does not support invented meanings such as 'immortal' or 'blessed'."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Harmalah written in Arabic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "حَرْمَلَة"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Harmalah a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "This record does not claim that the personal name is mentioned in the Quran."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Harmalah an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is associated with Islamic-era personal-name history; this does not by itself establish Quranic status."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the meaning verified?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The listed common-word sense is supported by the cited lexicon, but intended meaning for a particular name-bearer is not guaranteed."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Harmalah pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use a reliable Arabic pronunciation source; this record does not invent an IPA transcription."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How popular is Harmalah?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No reliable modern popularity measurement is supplied."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are common spellings of Harmalah?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Harmalah, Harmala, Haramalah"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Harmalah",
+              "item": "https://nameverse.site/names/islamic/harmalah"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": true,
+      "flags": [
+        "lexical_relation_is_cautious",
+        "historical_attestation",
+        "review_sources_before_publication",
+        "alias_collision_audit_required"
+      ],
+      "confidence": "MEDIUM",
+      "reviewed_by": "",
+      "reviewed_at": ""
+    },
+    "render_policy": {
+      "render_verified": false,
+      "render_interpretive": false,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "numerology",
+        "lucky_attributes",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

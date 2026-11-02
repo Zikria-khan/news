@@ -1,0 +1,535 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Warda",
+    "slug": "warda",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Warda",
+      "normalized_name": "warda",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender follows documented naming usage, not an inference from the word's meaning; usage can vary by community.",
+      "alternate_spellings": [
+        "Warda",
+        "warda",
+        "Wardah",
+        "Wardaa",
+        "Werdeh"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Rose; flower; rosy.",
+      "primary_meaning": "Warda (warda) is an Arabic feminine name meaning 'rose; flower; rosy'; the form warda(tan) occurs in Qur'an 55:37 describing the sky turning rose-red, which supports a scriptural word occurrence but not a personal-name claim.",
+      "literal_meaning": "The form وَرْدَةً occurs in Qur'an 55:37 ('fa-kānat wardatan ka-d-dihān') as a color description; the verse does not name a person Warda.",
+      "meaning_explanation": "Name references record the flower/rose gloss; the record notes that the w-r-d root family also has other classical senses (some references relate it to a lion epithet), and asserts only the flower sense that the name sources document.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "وَرْدَة",
+      "transliteration": "warda",
+      "root": "و ر د",
+      "root_transliteration": "w-r-d",
+      "morphology": "Feminine noun from the w-r-d lexical family ('flowers, rosy'); established lexical form used as a feminine given name. The same root family has other classical senses that this record does not assert as the name's meaning.",
+      "feminine_form": null,
+      "etymological_meaning": "Rose; flower; rosy.",
+      "root_family": [],
+      "etymology_explanation": "Name references record the flower/rose gloss; the record notes that the w-r-d root family also has other classical senses (some references relate it to a lion epithet), and asserts only the flower sense that the name sources document.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented lexical analysis is asserted; unsupported name-site etymologies are not adopted."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form وَرْدَة.",
+        "usage": "Other scripts are transliterations or localized glosses; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The recorded form and meaning are associated with Arabic. The evidence distinguishes linguistic origin from religious/cultural use.",
+      "cultural_transmission": [
+        "Arabic-speaking communities",
+        "Muslim naming communities in North Africa and the Middle East"
+      ]
+    },
+    "religion": {
+      "primary_association": "Arabic and Muslim-cultural naming usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "A lexical flower-name; not a prescribed religious formula.",
+      "religious_explanation": "The word's Qur'anic occurrence is a color description, not a named person or a religious ruling about naming.",
+      "quranic_status": {
+        "is_quranic": true,
+        "status": "lexical_form_directly_attested",
+        "note": "The form وَرْدَةً occurs in Qur'an 55:37 describing the sky's rose-red hue; the verse does not name a person Warda."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report establishing this name or a special virtue is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishing this as a prophet's personal name is cited."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion attribution is asserted without a verified source."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Arabic and Muslim-cultural naming usage",
+      "interpretation": "Families may value the floral sense, but that is a naming preference rather than a prediction about the bearer.",
+      "important_distinction": "This descriptive record is not a religious ruling. Muslim cultural use, linguistic origin, and direct Qur'anic attestation are separate claims."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim naming communities"
+      ],
+      "cultural_meaning": "Recorded as a feminine given name across Arabic-speaking countries; the Algerian singer Warda Al-Jazairia is a well-known modern bearer reported by general references.",
+      "personal_name_interpretation": "Families may value the floral sense, but that is a naming preference rather than a prediction about the bearer.",
+      "interpretation_warning": "A symbolic naming preference is distinct from dictionary meaning and is not a claim about a bearer's personality or future."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Flowers, rose, rosy color",
+      "related_concepts": [
+        "rose",
+        "flower",
+        "rosy"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_asserted",
+      "render": false,
+      "meaning": null,
+      "basis": null,
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No evidence-based hidden personality traits are asserted."
+    },
+    "numerology": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "life_path_number": null,
+      "ruling_planet": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "meaning": null,
+      "note": "Numerology is not evidence-based and is not supplied in this record."
+    },
+    "lucky_attributes": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "ruling_planet": null
+    },
+    "translations": {
+      "english": {
+        "name": "Warda",
+        "script": "Warda",
+        "meaning": "Rose; flower; rosy.",
+        "long_meaning": "Warda (warda) is an Arabic feminine name meaning 'rose; flower; rosy'; the form warda(tan) occurs in Qur'an 55:37 describing the sky turning rose-red, which supports a scriptural word occurrence but not a personal-name claim."
+      },
+      "urdu": {
+        "name": "وردہ",
+        "script": "وردہ",
+        "meaning": "وردہ؛ گلاب کا پھول",
+        "long_meaning": "وردہ کے لغوی معنی وردہ؛ گلاب کا پھول ہیں۔ یہ ترجمہ ابتدائی مسودہ ہے اور مقامی لسانی جائزے کا محتاج ہے۔"
+      },
+      "persian": {
+        "name": "ورده",
+        "script": "ورده",
+        "meaning": "ورده؛ گل رز",
+        "long_meaning": "معنای لغوی ورده در این مدخل «ورده؛ گل رز» است؛ این برگردان پیش‌نویس است و به بازبینی بومی نیاز دارد."
+      },
+      "hindi": {
+        "name": "वर्दा",
+        "script": "वर्दा",
+        "meaning": "वर्दा; गुलाब का फूल",
+        "long_meaning": "वर्दा का शब्दार्थ यहाँ वर्दा; गुलाब का फूल दिया गया है। यह अनुवाद प्रारूप है और स्थानीय भाषायी समीक्षा आवश्यक है।"
+      },
+      "pashto": {
+        "name": "ورده",
+        "script": "ورده",
+        "meaning": "ورده؛ د گلاب ګل",
+        "long_meaning": "د ورده لغوي مانا «ورده؛ د گلاب ګل» ده؛ دا د ژباړې مسوده ده او د اصلي ژبې ویونکي بیاکتنې ته اړتیا لري.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "وَرْدَة",
+        "script": "وَرْدَة",
+        "meaning": "وَرْدَة؛ الزهرة الوردية",
+        "long_meaning": "المعنى اللغوي لـوَرْدَة في هذا السجل هو «وَرْدَة؛ الزهرة الوردية»؛ وهذه صياغة أولية تحتاج إلى مراجعة لغوية.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "source_language_gloss_with_localized_draft",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "The source-language core gloss is evidence-backed. All non-English localized meanings and script renderings are editorial drafts and require native-speaker review; transliteration does not establish a separate origin."
+    },
+    "pronunciation": {
+      "romanized": "WAR-da (approximate)",
+      "ipa": null,
+      "approximation_note": "Romanized pronunciation guide only; no IPA is asserted.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "وَرْدَة"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Wardah",
+        "Wardaa",
+        "Werdeh"
+      ],
+      "script_forms": [
+        "وَرْدَة",
+        "वर्दा"
+      ],
+      "variant_notes": "Alternate spellings reflect orthographic or transliteration variants; they do not establish different etymologies or pronunciations.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "scriptural_lexical_context",
+      "note": "The form wardatan occurs in Qur'an 55:37 as a color description; no specific historical bearer is asserted by this record."
+    },
+    "modern_usage": {
+      "status": "source_scoped_usage_data_available",
+      "note": "The Bump reports a U.S. girls' rank for 2025; the name is otherwise used across Arabic-speaking countries."
+    },
+    "popularity": {
+      "status": "source_scoped_metrics_available",
+      "render": true,
+      "score": null,
+      "by_region": [
+        {
+          "region": "United States",
+          "measure": "The Bump US girls' birth rank",
+          "year": 2025,
+          "category": "girls",
+          "rank": 8827,
+          "births": null,
+          "relative_interest_percent": null,
+          "observation_period": "2025 US birth-year data as displayed by The Bump",
+          "source_title": "Warda - Baby Name Meaning, Origin and Popularity",
+          "source": "https://www.thebump.com/b/warda-baby-name",
+          "limitation": "U.S. births only; The Bump also lists an unrelated English 'guardian' etymology for this spelling, which this record does not adopt."
+        }
+      ],
+      "note": "The collected metric is a U.S. figure displayed by The Bump; it measures U.S. births in that year, not worldwide prevalence."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is included."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No individual bearer story is included without a verified source."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Warda mean?",
+        "a": "Warda (warda) is an Arabic feminine name meaning 'rose; flower; rosy'; the form warda(tan) occurs in Qur'an 55:37 describing the sky turning rose-red, which supports a scriptural word occurrence but not a personal-name claim."
+      },
+      {
+        "q": "What is the origin of Warda?",
+        "a": "Name references record the flower/rose gloss; the record notes that the w-r-d root family also has other classical senses (some references relate it to a lion epithet), and asserts only the flower sense that the name sources document."
+      },
+      {
+        "q": "Is Warda an Arabic name?",
+        "a": "Yes. The recorded language/origin is Arabic; the source form is وَرْدَة."
+      },
+      {
+        "q": "How is Warda written in Arabic?",
+        "a": "وَرْدَة"
+      },
+      {
+        "q": "Is Warda a Quranic name?",
+        "a": "The lexical/scriptural form is directly attested, but not as a named person: The form وَرْدَةً occurs in Qur'an 55:37 describing the sky's rose-red hue; the verse does not name a person Warda."
+      },
+      {
+        "q": "Is Warda an Islamic name?",
+        "a": "A lexical flower-name; not a prescribed religious formula. The word's Qur'anic occurrence is a color description, not a named person or a religious ruling about naming."
+      },
+      {
+        "q": "How is Warda pronounced?",
+        "a": "An approximate romanized guide is WAR-da. Romanized pronunciation guide only; no IPA is asserted."
+      },
+      {
+        "q": "Is Warda a boy's or girl's name?",
+        "a": "The documented naming sources record Warda as a female name; actual use can vary by language and community."
+      },
+      {
+        "q": "How popular is Warda?",
+        "a": "Available scoped measure(s): United States, 2025: #8827 among girls (Warda - Baby Name Meaning, Origin and Popularity). The collected metric is a U.S. figure displayed by The Bump; it measures U.S. births in that year, not worldwide prevalence."
+      },
+      {
+        "q": "What does Warda mean in Urdu?",
+        "a": "The draft Urdu rendering is وردہ; its gloss is وردہ؛ گلاب کا پھول. Localized translations have not had native-speaker review."
+      },
+      {
+        "q": "What is the root of Warda?",
+        "a": "The recorded Arabic root is و ر د (w-r-d)."
+      }
+    ],
+    "seo": {
+      "title": "Warda Name Meaning, Origin & Usage",
+      "meta_description": "Explore the sourced meaning, origin, pronunciation, script, and regional usage evidence for Warda.",
+      "meta_keywords": "Warda meaning, Warda name meaning, Warda origin, Warda pronunciation, Warda name in Urdu, Warda Arabic name",
+      "description_paragraph": "Warda is an Arabic-origin given name. This entry separates its lexical meaning, cultural and scriptural context, and source-scoped usage evidence.",
+      "keywords": [
+        "Warda meaning",
+        "Warda name meaning",
+        "Warda origin",
+        "Warda pronunciation",
+        "Warda name in Urdu",
+        "Warda Arabic name"
+      ],
+      "focus_keyword": "Warda meaning",
+      "secondary_keywords": [
+        "Warda name meaning",
+        "Warda origin",
+        "Warda pronunciation",
+        "Warda name in Urdu",
+        "Warda Arabic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/warda",
+      "seo_score": null,
+      "seo_score_basis": "No composite SEO score is assigned; editorial and evidence quality are recorded separately."
+    },
+    "seo_content": {
+      "intro_paragraph": "Warda is an Arabic-origin given name. The entry explains its documented meaning and distinguishes linguistic origin, religious/scriptural status, and regional usage.",
+      "body_summary": "Warda (warda) is an Arabic feminine name meaning 'rose; flower; rosy'; the form warda(tan) occurs in Qur'an 55:37 describing the sky turning rose-red, which supports a scriptural word occurrence but not a personal-name claim. The collected metric is a U.S. figure displayed by The Bump; it measures U.S. births in that year, not worldwide prevalence."
+    },
+    "social_tags": [
+      "#Warda",
+      "#WardaMeaning",
+      "#NameMeaning",
+      "#ArabicNames",
+      "#IslamicNames"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [
+        "localized_translations_require_native_review",
+        "popularity_metrics_are_source_and_region_scoped"
+      ],
+      "fabricated_content_removed": true,
+      "fields_total": 313,
+      "quality_score": null,
+      "quality_score_basis": "No composite quality score is asserted; source support, limitations, scriptural status, and review flags are explicit."
+    },
+    "evidence": {
+      "sources": [
+        "QuranicNames, Wardah — Arabic spelling وَرْدَة; glosses flower/rosy/fresh; W-R-D root; classifies the word as directly mentioned via Qur'an 55:37. Source: https://quranicnames.com/wardah/ Limitation: Baby-name reference; the same root has other classical senses (a comment thread on the related Ward entry claims a lion sense), so only the flower sense documented by name references is asserted.",
+        "The Bump, Warda — Arabic 'rose'; U.S. girls rank #8,827 in 2025 births. Source: https://www.thebump.com/b/warda-baby-name Limitation: Secondary display of U.S. birth data; the page's Old French 'guardian' etymology for this spelling is not adopted.",
+        "HamariWeb, Warda — 'Rose'; girl name; site-internal rank 1,754. Source: https://hamariweb.com/names/muslim/pashto/girl/warda-meaning_4000/ Limitation: Directory entry; the directory labels the origin 'Pashto' while lexical references place وَرْدَة in Arabic — this record follows the lexical sources and notes the disagreement."
+      ],
+      "verification_method": "The lexical/scriptural or language claim is separated from name-site glosses; name usage and popularity are checked separately. Every frequency figure retains its source, region, year, category, metric, and limitation. Candidate spellings, Romanized variants, source-script forms, and localized script renderings are checked against the existing dataset. Non-English glosses are drafts requiring native-speaker review."
+    },
+    "provenance": {
+      "pipeline": "NameVerse super-2.0 demand-informed batch builder",
+      "methodology": "Curated evidence manifest -> template-matched record build -> alias/script collision audit -> schema and integrity validation",
+      "upgraded_from": "New record generated from the current super-2.0 architecture; not converted from a legacy record.",
+      "processed_at": "2026-10-13T00:00:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Warda",
+          "description": "Warda — an Arabic-origin given name: Rose; flower; rosy.",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Warda mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Warda (warda) is an Arabic feminine name meaning 'rose; flower; rosy'; the form warda(tan) occurs in Qur'an 55:37 describing the sky turning rose-red, which supports a scriptural word occurrence but not a personal-name claim."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Warda?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Name references record the flower/rose gloss; the record notes that the w-r-d root family also has other classical senses (some references relate it to a lion epithet), and asserts only the flower sense that the name sources document."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Warda an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. The recorded language/origin is Arabic; the source form is وَرْدَة."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Warda written in Arabic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "وَرْدَة"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Warda a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The lexical/scriptural form is directly attested, but not as a named person: The form وَرْدَةً occurs in Qur'an 55:37 describing the sky's rose-red hue; the verse does not name a person Warda."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Warda an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A lexical flower-name; not a prescribed religious formula. The word's Qur'anic occurrence is a color description, not a named person or a religious ruling about naming."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Warda pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An approximate romanized guide is WAR-da. Romanized pronunciation guide only; no IPA is asserted."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Warda a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The documented naming sources record Warda as a female name; actual use can vary by language and community."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How popular is Warda?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Available scoped measure(s): United States, 2025: #8827 among girls (Warda - Baby Name Meaning, Origin and Popularity). The collected metric is a U.S. figure displayed by The Bump; it measures U.S. births in that year, not worldwide prevalence."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Warda mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The draft Urdu rendering is وردہ; its gloss is وردہ؛ گلاب کا پھول. Localized translations have not had native-speaker review."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Warda?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The recorded Arabic root is و ر د (w-r-d)."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Warda",
+              "item": "https://nameverse.site/names/islamic/warda"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": true,
+      "flags": [
+        "localized_translations_require_native_review",
+        "popularity_metrics_are_source_and_region_scoped"
+      ],
+      "confidence": "HIGH",
+      "reviewed_by": "Automated source-aware build and validation; not a human or native-speaker review",
+      "reviewed_at": "2026-10-13T00:00:00+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": false,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "numerology",
+        "lucky_attributes",
+        "spiritual_meaning",
+        "celebrity_usage",
+        "real_world_usage",
+        "name_story"
+      ]
+    }
+  }
+}

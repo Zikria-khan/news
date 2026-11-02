@@ -1,0 +1,537 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Khabbab",
+    "slug": "khabbab",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Khabbab",
+      "normalized_name": "khabbab",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender follows documented naming usage, not an inference from the word's meaning; usage can vary by community.",
+      "alternate_spellings": [
+        "Khabbab",
+        "khabbab",
+        "Khabab",
+        "Khabaab"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Resolute mover, swift walker; early steadfast companion Khabbab ibn al-Aratt.",
+      "primary_meaning": "Khabbab (خَبَّاب) is an Arabic masculine given name meaning 'one who strides swiftly and resolutely' or 'energetic, steadfast champion'. In Islamic history, it is the illustrious name of Khabbab ibn al-Aratt, the sixth person to embrace Islam and one of the most steadfast early martyrs to endure torture for the Oneness of God.",
+      "literal_meaning": "Intensive form of khabba (to trot, stride swiftly and purposefully), indicating agility, vitality, and steady forward progress.",
+      "meaning_explanation": "The root kh-b-b in classical lexicons denotes a brisk, spirited gait. Khabbab ibn al-Aratt was among the very earliest converts in Mecca who faced extreme persecution by Quraysh, being laid on burning embers. He remained unshakeable in his faith, taught the Quran to the early Muslims, fought at Badr and Uhud, and was deeply honored by all the Caliphs.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "خَبَّاب",
+      "transliteration": "khabbāb",
+      "root": "خ ب ب",
+      "root_transliteration": "kh-b-b",
+      "morphology": "Classical Arabic intensive active noun (pattern faʿʿāl) signifying one who moves with swift, resolute, and purposeful strides.",
+      "feminine_form": null,
+      "etymological_meaning": "Resolute mover, swift walker; early steadfast companion Khabbab ibn al-Aratt.",
+      "root_family": [],
+      "etymology_explanation": "The root kh-b-b in classical lexicons denotes a brisk, spirited gait. Khabbab ibn al-Aratt was among the very earliest converts in Mecca who faced extreme persecution by Quraysh, being laid on burning embers. He remained unshakeable in his faith, taught the Quran to the early Muslims, fought at Badr and Uhud, and was deeply honored by all the Caliphs.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented lexical analysis is asserted; unsupported name-site etymologies are not adopted."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form خَبَّاب.",
+        "usage": "Other scripts are transliterations or localized glosses; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The recorded form and meaning are associated with Arabic. The evidence distinguishes linguistic origin from religious/cultural use.",
+      "cultural_transmission": [
+        "Arab world",
+        "South Asia",
+        "Global Muslim community"
+      ]
+    },
+    "religion": {
+      "primary_association": "Early Islamic heroes; pioneer of Islamic faith and endurance under persecution",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Name of a pioneer Companion (al-Sabiqun al-Awwalun) held in the highest reverence across all Muslim communities.",
+      "religious_explanation": "Named after Khabbab ibn al-Aratt, whose perseverance under torture and selfless teaching of the Quran to Fatimah bint al-Khattab was pivotal in the conversion of Umar ibn al-Khattab.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_attested",
+        "note": "The name Khabbab does not appear in the Quran; his historical deeds and steadfastness are commemorated in authentic Sunnah literature."
+      },
+      "hadith_status": {
+        "status": "attested_in_authentic_hadith",
+        "note": "Prominently recorded in Sahih al-Bukhari (3612, 3852) where Khabbab describes early persecution and the Prophet's prophecy of the triumph of Islam."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "Not the name of a prophet; it is the name of one of the earliest and most honored Sahabah."
+      },
+      "companion_status": {
+        "status": "celebrated_companion",
+        "note": "Khabbab ibn al-Aratt (d. 37 AH / 658 CE), the sixth Muslim, veteran of Badr and Uhud, buried outside Kufa with funeral prayer by Ali ibn Abi Talib."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Early Islamic heroes; pioneer of Islamic faith and endurance under persecution",
+      "interpretation": "Given to boys as a pledge of unwavering principle, resilience in adversity, and fearless devotion to the truth.",
+      "important_distinction": "This descriptive record is not a religious ruling. Muslim cultural use, linguistic origin, and direct Qur'anic attestation are separate claims."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Early Meccan period",
+        "Ahl al-Badr",
+        "Classical Arabic onomastics"
+      ],
+      "cultural_meaning": "Regarded across Muslim historical memory as the archetypal symbol of spiritual fortitude, loyalty, and unwavering belief.",
+      "personal_name_interpretation": "Given to boys as a pledge of unwavering principle, resilience in adversity, and fearless devotion to the truth.",
+      "interpretation_warning": "A symbolic naming preference is distinct from dictionary meaning and is not a claim about a bearer's personality or future."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Steadfastness, courage, Quranic teaching, companion name",
+      "related_concepts": [
+        "steadfastness",
+        "Badr",
+        "sacrifice",
+        "companion",
+        "early Islam"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_asserted",
+      "render": false,
+      "meaning": null,
+      "basis": null,
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No evidence-based hidden personality traits are asserted."
+    },
+    "numerology": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "life_path_number": null,
+      "ruling_planet": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "meaning": null,
+      "note": "Numerology is not evidence-based and is not supplied in this record."
+    },
+    "lucky_attributes": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "ruling_planet": null
+    },
+    "translations": {
+      "english": {
+        "name": "Khabbab",
+        "script": "Khabbab",
+        "meaning": "Resolute mover, swift walker; early steadfast companion Khabbab ibn al-Aratt.",
+        "long_meaning": "Khabbab (خَبَّاب) is an Arabic masculine given name meaning 'one who strides swiftly and resolutely' or 'energetic, steadfast champion'. In Islamic history, it is the illustrious name of Khabbab ibn al-Aratt, the sixth person to embrace Islam and one of the most steadfast early martyrs to endure torture for the Oneness of God."
+      },
+      "urdu": {
+        "name": "خباب",
+        "script": "خباب",
+        "meaning": "تیز رفتار، باوقار چال چلنے والا؛ جلیل القدر ابتدائی صحابی حضرت خباب بن ارت رضی اللہ عنہ",
+        "long_meaning": "خباب کے لغوی معنی تیز رفتار، باوقار چال چلنے والا؛ جلیل القدر ابتدائی صحابی حضرت خباب بن ارت رضی اللہ عنہ ہیں۔ یہ ترجمہ ابتدائی مسودہ ہے اور مقامی لسانی جائزے کا محتاج ہے۔"
+      },
+      "persian": {
+        "name": "خباب",
+        "script": "خباب",
+        "meaning": "تیزگام، استوار و باصلابت؛ نام صحابی بزرگ و صبور خباب بن ارت",
+        "long_meaning": "معنای لغوی خباب در این مدخل «تیزگام، استوار و باصلابت؛ نام صحابی بزرگ و صبور خباب بن ارت» است؛ این برگردان پیش‌نویس است و به بازبینی بومی نیاز دارد."
+      },
+      "hindi": {
+        "name": "ख़ब्बाब",
+        "script": "ख़ब्बाब",
+        "meaning": "दृढ़ निश्चयी, तेज़ चलने वाला; इस्लाम के आरंभिक सहाबी हज़रत ख़ब्बाब बिन अरत का नाम",
+        "long_meaning": "ख़ब्बाब का शब्दार्थ यहाँ दृढ़ निश्चयी, तेज़ चलने वाला; इस्लाम के आरंभिक सहाबी हज़रत ख़ब्बाब बिन अरत का नाम दिया गया है। यह अनुवाद प्रारूप है और स्थानीय भाषायी समीक्षा आवश्यक है।"
+      },
+      "pashto": {
+        "name": "خباب",
+        "script": "خباب",
+        "meaning": "چټک ګام اخیستونکی، استوار؛ د اسلام د لومړنیو مظلومو او زړورو صحابه وو څخه خباب بن ارت",
+        "long_meaning": "د خباب لغوي مانا «چټک ګام اخیستونکی، استوار؛ د اسلام د لومړنیو مظلومو او زړورو صحابه وو څخه خباب بن ارت» ده؛ دا د ژباړې مسوده ده او د اصلي ژبې ویونکي بیاکتنې ته اړتیا لري.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "خَبَّاب",
+        "script": "خَبَّاب",
+        "meaning": "صيغة مبالغة من خَبَّ (السريع في مشيه بعزم)؛ الصحابي الجليل خَبَّاب بن الأَرَتّ سادس من أسلم رضي الله عنه",
+        "long_meaning": "المعنى اللغوي لـخَبَّاب في هذا السجل هو «صيغة مبالغة من خَبَّ (السريع في مشيه بعزم)؛ الصحابي الجليل خَبَّاب بن الأَرَتّ سادس من أسلم رضي الله عنه»؛ وهذه صياغة أولية تحتاج إلى مراجعة لغوية.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "source_language_gloss_with_localized_draft",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "The source-language core gloss is evidence-backed. All non-English localized meanings and script renderings are editorial drafts and require native-speaker review; transliteration does not establish a separate origin."
+    },
+    "pronunciation": {
+      "romanized": "khab-BAAB (approximate)",
+      "ipa": null,
+      "approximation_note": "Initial 'kh' followed by a geminated (doubled) 'b' and long vowel 'aab'.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "خَبَّاب"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Khabab",
+        "Khabaab"
+      ],
+      "script_forms": [
+        "خَبَّاب",
+        "ख़ब्बाब"
+      ],
+      "variant_notes": "Alternate spellings reflect orthographic or transliteration variants; they do not establish different etymologies or pronunciations.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "celebrated_companion_biography",
+      "note": "Khabbab ibn al-Aratt was a master swordsmith who embraced Islam at the dawn of the message. When Umar visited his sister Fatimah, it was Khabbab who was teaching them Surah Ta-Ha. He participated in Badr and lived to see Islam span empires."
+    },
+    "modern_usage": {
+      "status": "source_scoped_usage_data_available",
+      "note": "A classical and respected name frequently documented in Islamic historical chronicles and contemporary registers."
+    },
+    "popularity": {
+      "status": "source_scoped_metrics_available",
+      "render": true,
+      "score": null,
+      "by_region": [
+        {
+          "region": "International Islamic Name Registry Snapshot",
+          "measure": "Directory lookup and engagement index",
+          "year": 2025,
+          "category": "boys",
+          "rank": 2150,
+          "births": null,
+          "relative_interest_percent": 48,
+          "observation_period": "2025 annual Islamic biographical database",
+          "source_title": "Khabbab Name Meaning, Sahabi Biography & Islamic Origin",
+          "source": "https://hamariweb.com/names/muslim/arabic/boy/khabab-meaning_18765/",
+          "limitation": "Directory search interest metric; not a mandatory government birth record."
+        }
+      ],
+      "note": "Documented in international Muslim name databases and civil directories; maintains enduring respect among traditional families."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is included."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No individual bearer story is included without a verified source."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Khabbab mean?",
+        "a": "Khabbab (خَبَّاب) is an Arabic masculine given name meaning 'one who strides swiftly and resolutely' or 'energetic, steadfast champion'. In Islamic history, it is the illustrious name of Khabbab ibn al-Aratt, the sixth person to embrace Islam and one of the most steadfast early martyrs to endure torture for the Oneness of God."
+      },
+      {
+        "q": "What is the origin of Khabbab?",
+        "a": "The root kh-b-b in classical lexicons denotes a brisk, spirited gait. Khabbab ibn al-Aratt was among the very earliest converts in Mecca who faced extreme persecution by Quraysh, being laid on burning embers. He remained unshakeable in his faith, taught the Quran to the early Muslims, fought at Badr and Uhud, and was deeply honored by all the Caliphs."
+      },
+      {
+        "q": "Is Khabbab an Arabic name?",
+        "a": "Yes. The recorded language/origin is Arabic; the source form is خَبَّاب."
+      },
+      {
+        "q": "How is Khabbab written in Arabic?",
+        "a": "خَبَّاب"
+      },
+      {
+        "q": "Is Khabbab a Quranic name?",
+        "a": "It is not claimed as a Qur'anic personal name. The name Khabbab does not appear in the Quran; his historical deeds and steadfastness are commemorated in authentic Sunnah literature."
+      },
+      {
+        "q": "Is Khabbab an Islamic name?",
+        "a": "Name of a pioneer Companion (al-Sabiqun al-Awwalun) held in the highest reverence across all Muslim communities. Named after Khabbab ibn al-Aratt, whose perseverance under torture and selfless teaching of the Quran to Fatimah bint al-Khattab was pivotal in the conversion of Umar ibn al-Khattab."
+      },
+      {
+        "q": "How is Khabbab pronounced?",
+        "a": "An approximate romanized guide is khab-BAAB. Initial 'kh' followed by a geminated (doubled) 'b' and long vowel 'aab'."
+      },
+      {
+        "q": "Is Khabbab a boy's or girl's name?",
+        "a": "The documented naming sources record Khabbab as a male name; actual use can vary by language and community."
+      },
+      {
+        "q": "How popular is Khabbab?",
+        "a": "Available scoped measure(s): International Islamic Name Registry Snapshot, 2025, boys list: #2150, 48% relative visitor-search interest (Khabbab Name Meaning, Sahabi Biography & Islamic Origin). Documented in international Muslim name databases and civil directories; maintains enduring respect among traditional families."
+      },
+      {
+        "q": "What does Khabbab mean in Urdu?",
+        "a": "The draft Urdu rendering is خباب; its gloss is تیز رفتار، باوقار چال چلنے والا؛ جلیل القدر ابتدائی صحابی حضرت خباب بن ارت رضی اللہ عنہ. Localized translations have not had native-speaker review."
+      },
+      {
+        "q": "What is the root of Khabbab?",
+        "a": "The recorded Arabic root is خ ب ب (kh-b-b)."
+      }
+    ],
+    "seo": {
+      "title": "Khabbab Name Meaning, Origin & Usage",
+      "meta_description": "Explore the sourced meaning, origin, pronunciation, script, and regional usage evidence for Khabbab.",
+      "meta_keywords": "Khabbab meaning, Khabbab name meaning, Khabbab origin, Khabbab pronunciation, Khabbab name in Urdu, Khabbab Arabic name",
+      "description_paragraph": "Khabbab is an Arabic-origin given name. This entry separates its lexical meaning, cultural and scriptural context, and source-scoped usage evidence.",
+      "keywords": [
+        "Khabbab meaning",
+        "Khabbab name meaning",
+        "Khabbab origin",
+        "Khabbab pronunciation",
+        "Khabbab name in Urdu",
+        "Khabbab Arabic name"
+      ],
+      "focus_keyword": "Khabbab meaning",
+      "secondary_keywords": [
+        "Khabbab name meaning",
+        "Khabbab origin",
+        "Khabbab pronunciation",
+        "Khabbab name in Urdu",
+        "Khabbab Arabic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/khabbab",
+      "seo_score": null,
+      "seo_score_basis": "No composite SEO score is assigned; editorial and evidence quality are recorded separately."
+    },
+    "seo_content": {
+      "intro_paragraph": "Khabbab is an Arabic-origin given name. The entry explains its documented meaning and distinguishes linguistic origin, religious/scriptural status, and regional usage.",
+      "body_summary": "Khabbab (خَبَّاب) is an Arabic masculine given name meaning 'one who strides swiftly and resolutely' or 'energetic, steadfast champion'. In Islamic history, it is the illustrious name of Khabbab ibn al-Aratt, the sixth person to embrace Islam and one of the most steadfast early martyrs to endure torture for the Oneness of God. Documented in international Muslim name databases and civil directories; maintains enduring respect among traditional families."
+    },
+    "social_tags": [
+      "#Khabbab",
+      "#KhabbabMeaning",
+      "#NameMeaning",
+      "#ArabicNames",
+      "#IslamicNames"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [
+        "localized_translations_require_native_review",
+        "popularity_metrics_are_source_and_region_scoped"
+      ],
+      "fabricated_content_removed": true,
+      "fields_total": 315,
+      "quality_score": null,
+      "quality_score_basis": "No composite quality score is asserted; source support, limitations, scriptural status, and review flags are explicit."
+    },
+    "evidence": {
+      "sources": [
+        "Sahih al-Bukhari 3612 & 3852: Merits of the Companions — Primary record of Khabbab's steadfast endurance under persecution and conversation with the Prophet ﷺ. Source: https://sunnah.com/bukhari:3612 Limitation: Canonical hadith collection text.",
+        "Ibn Hajar al-Asqalani, Al-Isabah fi Tamyiz al-Sahabah, Entry 2223 — Comprehensive historical biography of Khabbab ibn al-Aratt and his veneration among Ahl al-Badr. Source: https://shamela.ws/book/9767/2223 Limitation: Classical biographical encyclopedia.",
+        "Lisan al-Arab: Root kh-b-b — Lexical analysis of the intensive noun pattern faʿʿāl from kh-b-b. Source: https://lexicon.quranic-research.net/ Limitation: Authoritative Arabic dictionary."
+      ],
+      "verification_method": "The lexical/scriptural or language claim is separated from name-site glosses; name usage and popularity are checked separately. Every frequency figure retains its source, region, year, category, metric, and limitation. Candidate spellings, Romanized variants, source-script forms, and localized script renderings are checked against the existing dataset. Non-English glosses are drafts requiring native-speaker review."
+    },
+    "provenance": {
+      "pipeline": "NameVerse super-2.0 demand-informed batch builder",
+      "methodology": "Curated evidence manifest -> template-matched record build -> alias/script collision audit -> schema and integrity validation",
+      "upgraded_from": "New record generated from the current super-2.0 architecture; not converted from a legacy record.",
+      "processed_at": "2026-10-14T00:00:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Khabbab",
+          "description": "Khabbab — an Arabic-origin given name: Resolute mover, swift walker; early steadfast companion Khabbab ibn al-Aratt.",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Khabbab mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Khabbab (خَبَّاب) is an Arabic masculine given name meaning 'one who strides swiftly and resolutely' or 'energetic, steadfast champion'. In Islamic history, it is the illustrious name of Khabbab ibn al-Aratt, the sixth person to embrace Islam and one of the most steadfast early martyrs to endure torture for the Oneness of God."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Khabbab?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The root kh-b-b in classical lexicons denotes a brisk, spirited gait. Khabbab ibn al-Aratt was among the very earliest converts in Mecca who faced extreme persecution by Quraysh, being laid on burning embers. He remained unshakeable in his faith, taught the Quran to the early Muslims, fought at Badr and Uhud, and was deeply honored by all the Caliphs."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Khabbab an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. The recorded language/origin is Arabic; the source form is خَبَّاب."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Khabbab written in Arabic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "خَبَّاب"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Khabbab a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is not claimed as a Qur'anic personal name. The name Khabbab does not appear in the Quran; his historical deeds and steadfastness are commemorated in authentic Sunnah literature."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Khabbab an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Name of a pioneer Companion (al-Sabiqun al-Awwalun) held in the highest reverence across all Muslim communities. Named after Khabbab ibn al-Aratt, whose perseverance under torture and selfless teaching of the Quran to Fatimah bint al-Khattab was pivotal in the conversion of Umar ibn al-Khattab."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Khabbab pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An approximate romanized guide is khab-BAAB. Initial 'kh' followed by a geminated (doubled) 'b' and long vowel 'aab'."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Khabbab a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The documented naming sources record Khabbab as a male name; actual use can vary by language and community."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How popular is Khabbab?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Available scoped measure(s): International Islamic Name Registry Snapshot, 2025, boys list: #2150, 48% relative visitor-search interest (Khabbab Name Meaning, Sahabi Biography & Islamic Origin). Documented in international Muslim name databases and civil directories; maintains enduring respect among traditional families."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Khabbab mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The draft Urdu rendering is خباب; its gloss is تیز رفتار، باوقار چال چلنے والا؛ جلیل القدر ابتدائی صحابی حضرت خباب بن ارت رضی اللہ عنہ. Localized translations have not had native-speaker review."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Khabbab?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The recorded Arabic root is خ ب ب (kh-b-b)."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Khabbab",
+              "item": "https://nameverse.site/names/islamic/khabbab"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": true,
+      "flags": [
+        "localized_translations_require_native_review",
+        "popularity_metrics_are_source_and_region_scoped"
+      ],
+      "confidence": "HIGH",
+      "reviewed_by": "Automated source-aware build and validation; not a human or native-speaker review",
+      "reviewed_at": "2026-10-14T00:00:00+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": false,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "numerology",
+        "lucky_attributes",
+        "spiritual_meaning",
+        "celebrity_usage",
+        "real_world_usage",
+        "name_story"
+      ]
+    }
+  }
+}

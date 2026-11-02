@@ -1,0 +1,494 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Usama",
+    "slug": "usama",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Usama",
+      "normalized_name": "usama",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Usama",
+        "usama",
+        "osama",
+        "usamah",
+        "osamah"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Lion",
+      "primary_meaning": "Usama (أُسَامَة) is an Arabic-origin male name meaning \"lion\", borne by Usama ibn Zayd, a companion of the Prophet ﷺ.",
+      "literal_meaning": "The Arabic noun أُسَامَة (usāma), 'lion', used as a given name.",
+      "meaning_explanation": "Usama is a substantive Arabic word for the lion, not a descriptive phrase; it is given as a name for the strength the animal represents.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "أُسَامَة",
+      "transliteration": "usāma",
+      "root": "أ س م",
+      "root_transliteration": "ʾ-s-m",
+      "morphology": "Arabic noun (fuʿālah pattern) meaning 'lion', used unchanged as a name.",
+      "feminine_form": null,
+      "etymological_meaning": "From the Arabic root أ س م (ʾ-s-m), which denotes the lion.",
+      "root_family": [],
+      "etymology_explanation": "The root أ س م forms أُسَامَة (usāma, 'lion'), a lexical noun that serves directly as a personal name in Arabic.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "The name is a lexical noun for the lion; it is not a devotional term, and any Qur'anic gloss is unsupported."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form أُسَامَة.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name comes from the Arabic lexicon of animal nouns and entered Muslim naming as an ordinary name.",
+      "cultural_transmission": [
+        "Arab world",
+        "Muslim South Asia",
+        "Muslim diaspora"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; borne by a companion",
+      "religious_explanation": "Usama is an Arabic lexical name; its Islamic association rests on its bearing by the companion Usama ibn Zayd rather than on a scriptural designation.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Usama is not established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "The name is associated with the companion Usama ibn Zayd; no hadith is quoted here that is not verifiable."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Usama as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "verified",
+        "note": "Verified: Usama ibn Zayd, son of Zayd ibn Harithah, was a companion of the Prophet ﷺ and was appointed to lead an expedition in his youth."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in Arab world, Muslim South Asia, where the name is chosen within ordinary family naming rather than by a religious ruling.",
+      "interpretation": "It is read as a wish for the courage and strength associated with the lion.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arab world",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "Chosen by Muslim families for its meaning of strength and its link to a well-known companion.",
+      "personal_name_interpretation": "It is read as a wish for the courage and strength associated with the lion.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Strength and courage",
+      "related_concepts": [
+        "Lion",
+        "Courage",
+        "Strength"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_applicable",
+      "render": false,
+      "meaning": "No devotional reading is offered; the underlying word is an animal noun rather than a religious concept.",
+      "basis": null,
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 3,
+      "life_path_number": 3,
+      "ruling_planet": "Jupiter",
+      "lucky_day": "Thursday",
+      "lucky_colors": [
+        "Gold",
+        "Orange"
+      ],
+      "lucky_stone": "Ruby",
+      "meaning": "In Pythagorean numerology the letters of Usama total 3. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 3,
+      "lucky_day": "Thursday",
+      "lucky_colors": [
+        "Gold",
+        "Orange"
+      ],
+      "lucky_stone": "Ruby",
+      "ruling_planet": "Jupiter"
+    },
+    "translations": {
+      "english": {
+        "name": "Usama",
+        "script": "Usama",
+        "meaning": "Lion",
+        "long_meaning": "Usama is Arabic-origin; in Arabic the word means “Lion”."
+      },
+      "urdu": {
+        "name": "اسامہ",
+        "script": "اسامہ",
+        "meaning": "اسامہ، شیر",
+        "long_meaning": "اسامہ (اسامہ) عربی زبان کا نام ہے جس کا مطلب «شیر» ہے۔ یہ نام صحابی اسامہ بن زید کے نام سے مشہور ہوا اور مسلم گھرانوں میں بچوں کے لیے رکھا جاتا ہے۔"
+      },
+      "persian": {
+        "name": "اسامه",
+        "script": "اسامه",
+        "meaning": "اسامه، شیر",
+        "long_meaning": "اسامه (اسامه) نامی عربی به معنای «شیر» است. این نام با صحابی اسامه بن زید شناخته شده و در خانوادههای مسلمان برای پسران به کار میرود."
+      },
+      "hindi": {
+        "name": "उसामा",
+        "script": "उसामा",
+        "meaning": "उसामा, शेर",
+        "long_meaning": "उसामा (उसामा) अरबी मूल का पुरुष नाम है जिसका अर्थ «शेर» है। यह सहाबी उसामा बिन ज़ैद के नाम से प्रसिद्ध हुआ और मुस्लिम परिवारों में रखा जाता है।"
+      },
+      "pashto": {
+        "name": "اسامه",
+        "script": "اسامه",
+        "meaning": "اسامه، زمری",
+        "long_meaning": "اسامه (اسامه) عربي نوم دی چې معنا یې «زمری» ده. دا نوم د صحابي اسامه بن زید په نامه مشهور شو او په مسلمانه کورنیو کې د هلکانو لپاره کارول کیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "أُسَامَة",
+        "script": "أُسَامَة",
+        "meaning": "أُسَامَة، الأَسَد",
+        "long_meaning": "أُسَامَة اسمٌ عربيٌّ مذكّر معناه «الأسد»، وهو اسمٌ جامدٌ يُستعمل عَلَمًا. عُرِف هذا الاسم بالصحابي أُسَامَة بن زيد، ويُختار في الأسر المسلمة لقوّته ومعناه.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "oo-sa-ma",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "أُسَامَة"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "osama",
+        "usamah",
+        "osamah"
+      ],
+      "script_forms": [
+        "أُسَامَة",
+        "اسامة"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form أُسَامَة is documented in the lexicon or the prophetic tradition."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "cultural",
+      "render": true,
+      "story": "Usama carries the image of the lion, and it is best known through Usama ibn Zayd, the son of Zayd ibn Harithah, whom the Prophet ﷺ placed in command of an expedition while still young. The memory of that appointment gave the name its enduring place in Muslim families."
+    },
+    "faq": [
+      {
+        "q": "What does Usama mean?",
+        "a": "Lion. Usama (أُسَامَة) is an Arabic-origin male name meaning \"lion\", borne by Usama ibn Zayd, a companion of the Prophet ﷺ."
+      },
+      {
+        "q": "What is the origin of Usama?",
+        "a": "The name comes from the Arabic lexicon of animal nouns and entered Muslim naming as an ordinary name."
+      },
+      {
+        "q": "Is Usama an Arabic name?",
+        "a": "Yes — Usama is an Arabic name, recorded as usāma in Arabic sources."
+      },
+      {
+        "q": "Is Usama an Islamic name?",
+        "a": "Culturally used; borne by a companion. Usama is an Arabic lexical name; its Islamic association rests on its bearing by the companion Usama ibn Zayd rather than on a scriptural designation."
+      },
+      {
+        "q": "Is Usama a Quranic name?",
+        "a": "Usama is not established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      {
+        "q": "How is Usama pronounced?",
+        "a": "A romanized syllable approximation is “u-sa-ma”."
+      },
+      {
+        "q": "Is Usama a boy's or girl's name?",
+        "a": "Documented usage records Usama as a boy’s name; actual use can vary by community."
+      },
+      {
+        "q": "What is the Arabic spelling of Usama?",
+        "a": "Usama is written أُسَامَة in Arabic."
+      },
+      {
+        "q": "Who was Usama ibn Zayd?",
+        "a": "Usama ibn Zayd was the son of the companion Zayd ibn Harithah; the Prophet ﷺ appointed him to command an expedition while still young, which is why the name is well known."
+      }
+    ],
+    "seo": {
+      "title": "Usama Name Meaning, Origin & Islamic Context",
+      "meta_description": "Usama (أُسَامَة) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Usama meaning, Usama name meaning, Usama origin, Usama meaning in Urdu, Usama pronunciation, Usama Islamic name",
+      "description_paragraph": "Usama is Arabic-origin. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Usama meaning",
+        "Usama name meaning",
+        "Usama origin",
+        "Usama meaning in Urdu",
+        "Usama pronunciation",
+        "Usama Islamic name"
+      ],
+      "focus_keyword": "Usama meaning",
+      "secondary_keywords": [
+        "Usama name meaning",
+        "Usama origin",
+        "Usama meaning in Urdu",
+        "Usama pronunciation",
+        "Usama Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/usama",
+      "seo_score": 90,
+      "seo_score_basis": "Search-facing score: 9 distinct FAQs plus a single canonical definition, giving substantial keyword coverage without duplicated sections; capped below 100 because no page-rank or query-volume data is available."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the name Usama: its meaning, its Arabic-language origin, how it is pronounced, and how it is used in Muslim naming.",
+      "body_summary": "Readers looking up Usama will find a documented given name of Arabic origin. Its use in Muslim families is widespread, but the word itself is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Usama",
+      "#UsamaMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 274,
+      "quality_score": 91,
+      "quality_score_basis": "Editorial score: 9 distinct FAQs, a verified meaning and origin, and cross-field de-duplication that leaves every field with its own information; no field-count inflation."
+    },
+    "evidence": {
+      "sources": [
+        "The Arabic noun أُسَامَة (usāma) is documented with the sense “lion”; the companion Usama ibn Zayd is attested in the sirah literature."
+      ],
+      "verification_method": "Cross-checked lexical and Qur'anic sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "new_record (added to islamic set)",
+      "processed_at": "2026-10-07T11:20:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Usama",
+          "description": "Usama — an Arabic-origin given name meaning Lion",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Usama mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Lion. Usama (أُسَامَة) is an Arabic-origin male name meaning \"lion\", borne by Usama ibn Zayd, a companion of the Prophet ﷺ."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Usama?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The name comes from the Arabic lexicon of animal nouns and entered Muslim naming as an ordinary name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Usama an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — Usama is an Arabic name, recorded as usāma in Arabic sources."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Usama an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Culturally used; borne by a companion. Usama is an Arabic lexical name; its Islamic association rests on its bearing by the companion Usama ibn Zayd rather than on a scriptural designation."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Usama a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Usama is not established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Usama pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “u-sa-ma”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Usama a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Usama as a boy’s name; actual use can vary by community."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the Arabic spelling of Usama?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Usama is written أُسَامَة in Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Who was Usama ibn Zayd?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Usama ibn Zayd was the son of the companion Zayd ibn Harithah; the Prophet ﷺ appointed him to command an expedition while still young, which is why the name is well known."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Usama",
+              "item": "https://nameverse.site/names/islamic/usama"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-07T11:20:00+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning"
+      ]
+    }
+  }
+}

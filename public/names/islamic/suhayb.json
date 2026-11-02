@@ -1,0 +1,546 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Suhayb",
+    "slug": "suhayb",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Suhayb",
+      "normalized_name": "suhayb",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender follows documented naming usage, not an inference from the word's meaning; usage can vary by community.",
+      "alternate_spellings": [
+        "Suhayb",
+        "suhayb",
+        "Suhaib",
+        "Sohaib"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "One who has reddish-brown hair; name of the early companion Suhayb ibn Sinan (ar-Rumi).",
+      "primary_meaning": "Suhayb (ṣuhayb) is an Arabic masculine name whose documented gloss is 'one who has reddish(-brown) hair'; it is also the name of the well-documented early Muslim Suhayb ibn Sinan, known as ar-Rumi.",
+      "literal_meaning": "The diminutive form صُهَيْب is glossed by name references as describing reddish-brown hair; the underlying lexical family ṣ-ḥ-b has broader senses not asserted here.",
+      "meaning_explanation": "Name references and baby-name directories agree on the 'reddish-brown hair' gloss; the record keeps the broader senses of the ṣ-ḥ-b root out of the name gloss and asserts no nickname-style etymology beyond the documented gloss.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "صُهَيْب",
+      "transliteration": "ṣuhayb",
+      "root": "ص ح ب",
+      "root_transliteration": "ṣ-ḥ-b",
+      "morphology": "Diminutive-pattern Arabic form (fuʿayl) related to the ṣ-ḥ-b lexical family; glossed in name references as 'one who has reddish-brown hair'.",
+      "feminine_form": null,
+      "etymological_meaning": "One who has reddish-brown hair; name of the early companion Suhayb ibn Sinan (ar-Rumi).",
+      "root_family": [],
+      "etymology_explanation": "Name references and baby-name directories agree on the 'reddish-brown hair' gloss; the record keeps the broader senses of the ṣ-ḥ-b root out of the name gloss and asserts no nickname-style etymology beyond the documented gloss.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented lexical analysis is asserted; unsupported name-site etymologies are not adopted."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form صُهَيْب.",
+        "usage": "Other scripts are transliterations or localized glosses; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The recorded form and meaning are associated with Arabic. The evidence distinguishes linguistic origin from religious/cultural use.",
+      "cultural_transmission": [
+        "Arabic-speaking communities",
+        "Muslim naming communities in South Asia"
+      ]
+    },
+    "religion": {
+      "primary_association": "Arabic and Muslim-cultural naming usage; companion-era name",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "A lexical name borne by an early companion; not a prescribed religious formula.",
+      "religious_explanation": "The companion association is a historical fact about a documented bearer; it is not a religious ruling about naming and no special virtue of the name is asserted.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_claimed",
+        "note": "The form صُهَيْب is not a Qur'anic word or personal name; no Qur'anic claim is made."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report establishing this name or a special virtue is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishing this as a prophet's personal name is cited."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion attribution is asserted without a verified source."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Arabic and Muslim-cultural naming usage; companion-era name",
+      "interpretation": "Families may value the companion association and the color sense, but that is a naming preference rather than a prediction about the bearer.",
+      "important_distinction": "This descriptive record is not a religious ruling. Muslim cultural use, linguistic origin, and direct Qur'anic attestation are separate claims."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim naming communities"
+      ],
+      "cultural_meaning": "Recorded as a masculine given name in Arabic and Muslim naming sources; this does not establish a single worldwide frequency.",
+      "personal_name_interpretation": "Families may value the companion association and the color sense, but that is a naming preference rather than a prediction about the bearer.",
+      "interpretation_warning": "A symbolic naming preference is distinct from dictionary meaning and is not a claim about a bearer's personality or future."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Appearance, reddish-brown hair",
+      "related_concepts": [
+        "reddish",
+        "brown",
+        "companion name"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_asserted",
+      "render": false,
+      "meaning": null,
+      "basis": null,
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No evidence-based hidden personality traits are asserted."
+    },
+    "numerology": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "life_path_number": null,
+      "ruling_planet": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "meaning": null,
+      "note": "Numerology is not evidence-based and is not supplied in this record."
+    },
+    "lucky_attributes": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "ruling_planet": null
+    },
+    "translations": {
+      "english": {
+        "name": "Suhayb",
+        "script": "Suhayb",
+        "meaning": "One who has reddish-brown hair; name of the early companion Suhayb ibn Sinan (ar-Rumi).",
+        "long_meaning": "Suhayb (ṣuhayb) is an Arabic masculine name whose documented gloss is 'one who has reddish(-brown) hair'; it is also the name of the well-documented early Muslim Suhayb ibn Sinan, known as ar-Rumi."
+      },
+      "urdu": {
+        "name": "صہیب",
+        "script": "صہیب",
+        "meaning": "صہیب؛ سرخی مائل بھورے بالوں والا؛ معروف صحابی کا نام",
+        "long_meaning": "صہیب کے لغوی معنی صہیب؛ سرخی مائل بھورے بالوں والا؛ معروف صحابی کا نام ہیں۔ یہ ترجمہ ابتدائی مسودہ ہے اور مقامی لسانی جائزے کا محتاج ہے۔"
+      },
+      "persian": {
+        "name": "صهیب",
+        "script": "صهیب",
+        "meaning": "صهیب؛ دارای موی مایل به قهوه‌ای سرخ",
+        "long_meaning": "معنای لغوی صهیب در این مدخل «صهیب؛ دارای موی مایل به قهوه‌ای سرخ» است؛ این برگردان پیش‌نویس است و به بازبینی بومی نیاز دارد."
+      },
+      "hindi": {
+        "name": "सुहैब",
+        "script": "सुहैब",
+        "meaning": "सुहैब; लाल-भूरे बालों वाला",
+        "long_meaning": "सुहैब का शब्दार्थ यहाँ सुहैब; लाल-भूरे बालों वाला दिया गया है। यह अनुवाद प्रारूप है और स्थानीय भाषायी समीक्षा आवश्यक है।"
+      },
+      "pashto": {
+        "name": "صهیب",
+        "script": "صهیب",
+        "meaning": "صهیب؛ د سور-تور وښو لرونکی",
+        "long_meaning": "د صهیب لغوي مانا «صهیب؛ د سور-تور وښو لرونکی» ده؛ دا د ژباړې مسوده ده او د اصلي ژبې ویونکي بیاکتنې ته اړتیا لري.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "صُهَيْب",
+        "script": "صُهَيْب",
+        "meaning": "صُهَيْب؛ صاحب الشعر المُصَهَّب بين الحُمرة والسُّمرة",
+        "long_meaning": "المعنى اللغوي لـصُهَيْب في هذا السجل هو «صُهَيْب؛ صاحب الشعر المُصَهَّب بين الحُمرة والسُّمرة»؛ وهذه صياغة أولية تحتاج إلى مراجعة لغوية.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "source_language_gloss_with_localized_draft",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "The source-language core gloss is evidence-backed. All non-English localized meanings and script renderings are editorial drafts and require native-speaker review; transliteration does not establish a separate origin."
+    },
+    "pronunciation": {
+      "romanized": "soo-HAYB (approximate)",
+      "ipa": null,
+      "approximation_note": "Romanized pronunciation guide only; no IPA is asserted.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "صُهَيْب"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Suhaib",
+        "Sohaib"
+      ],
+      "script_forms": [
+        "صُهَيْب",
+        "सुहैब"
+      ],
+      "variant_notes": "Alternate spellings reflect orthographic or transliteration variants; they do not establish different etymologies or pronunciations.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "documented_early_muslim_bearer",
+      "note": "Suhayb ibn Sinan, known as ar-Rumi, is a documented early companion of the Prophet; this record cites the biographical fact without narrating unverified stories."
+    },
+    "modern_usage": {
+      "status": "source_scoped_usage_data_available",
+      "note": "U.S. SSA-derived ranks exist for both the Suhayb and Suhaib spellings; the name is used in Muslim communities worldwide."
+    },
+    "popularity": {
+      "status": "source_scoped_metrics_available",
+      "render": true,
+      "score": null,
+      "by_region": [
+        {
+          "region": "United States",
+          "measure": "SSA newborn-name rank and births, as displayed by Nameberry",
+          "year": 2023,
+          "category": "boys",
+          "rank": 4200,
+          "births": 26,
+          "relative_interest_percent": null,
+          "observation_period": "2023 SSA birth-year data",
+          "source_title": "Suhayb - Baby Name Meaning, Origin, and Popularity for a Boy",
+          "source": "https://nameberry.com/b/boy-baby-name-suhayb",
+          "limitation": "U.S. births only; not population-wide or global demand."
+        },
+        {
+          "region": "United States",
+          "measure": "SSA newborn-name rank and births, as displayed by Nameberry (Suhaib spelling)",
+          "year": 2019,
+          "category": "boys",
+          "rank": 3248,
+          "births": 36,
+          "relative_interest_percent": null,
+          "observation_period": "2019 SSA birth-year data",
+          "source_title": "Suhaib - Baby Name Meaning, Origin, and Popularity for a Boy",
+          "source": "https://nameberry.com/b/boy-baby-name-suhaib",
+          "limitation": "U.S. births only; covers the Suhaib spelling, a documented variant of the same name."
+        }
+      ],
+      "note": "Both metrics are U.S. SSA-derived figures displayed by Nameberry; they measure U.S. births in specific years, not worldwide prevalence."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is included."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No individual bearer story is included without a verified source."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Suhayb mean?",
+        "a": "Suhayb (ṣuhayb) is an Arabic masculine name whose documented gloss is 'one who has reddish(-brown) hair'; it is also the name of the well-documented early Muslim Suhayb ibn Sinan, known as ar-Rumi."
+      },
+      {
+        "q": "What is the origin of Suhayb?",
+        "a": "Name references and baby-name directories agree on the 'reddish-brown hair' gloss; the record keeps the broader senses of the ṣ-ḥ-b root out of the name gloss and asserts no nickname-style etymology beyond the documented gloss."
+      },
+      {
+        "q": "Is Suhayb an Arabic name?",
+        "a": "Yes. The recorded language/origin is Arabic; the source form is صُهَيْب."
+      },
+      {
+        "q": "How is Suhayb written in Arabic?",
+        "a": "صُهَيْب"
+      },
+      {
+        "q": "Is Suhayb a Quranic name?",
+        "a": "It is not claimed as a Qur'anic personal name. The form صُهَيْب is not a Qur'anic word or personal name; no Qur'anic claim is made."
+      },
+      {
+        "q": "Is Suhayb an Islamic name?",
+        "a": "A lexical name borne by an early companion; not a prescribed religious formula. The companion association is a historical fact about a documented bearer; it is not a religious ruling about naming and no special virtue of the name is asserted."
+      },
+      {
+        "q": "How is Suhayb pronounced?",
+        "a": "An approximate romanized guide is soo-HAYB. Romanized pronunciation guide only; no IPA is asserted."
+      },
+      {
+        "q": "Is Suhayb a boy's or girl's name?",
+        "a": "The documented naming sources record Suhayb as a male name; actual use can vary by language and community."
+      },
+      {
+        "q": "How popular is Suhayb?",
+        "a": "Available scoped measure(s): United States, 2023: #4200 among boys, 26 births (Suhayb - Baby Name Meaning, Origin, and Popularity for a Boy); United States, 2019: #3248 among boys, 36 births (Suhaib - Baby Name Meaning, Origin, and Popularity for a Boy). Both metrics are U.S. SSA-derived figures displayed by Nameberry; they measure U.S. births in specific years, not worldwide prevalence."
+      },
+      {
+        "q": "What does Suhayb mean in Urdu?",
+        "a": "The draft Urdu rendering is صہیب; its gloss is صہیب؛ سرخی مائل بھورے بالوں والا؛ معروف صحابی کا نام. Localized translations have not had native-speaker review."
+      },
+      {
+        "q": "What is the root of Suhayb?",
+        "a": "The recorded Arabic root is ص ح ب (ṣ-ḥ-b)."
+      }
+    ],
+    "seo": {
+      "title": "Suhayb Name Meaning, Origin & Usage",
+      "meta_description": "Explore the sourced meaning, origin, pronunciation, script, and regional usage evidence for Suhayb.",
+      "meta_keywords": "Suhayb meaning, Suhayb name meaning, Suhayb origin, Suhayb pronunciation, Suhayb name in Urdu, Suhayb Arabic name",
+      "description_paragraph": "Suhayb is an Arabic-origin given name. This entry separates its lexical meaning, cultural and scriptural context, and source-scoped usage evidence.",
+      "keywords": [
+        "Suhayb meaning",
+        "Suhayb name meaning",
+        "Suhayb origin",
+        "Suhayb pronunciation",
+        "Suhayb name in Urdu",
+        "Suhayb Arabic name"
+      ],
+      "focus_keyword": "Suhayb meaning",
+      "secondary_keywords": [
+        "Suhayb name meaning",
+        "Suhayb origin",
+        "Suhayb pronunciation",
+        "Suhayb name in Urdu",
+        "Suhayb Arabic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/suhayb",
+      "seo_score": null,
+      "seo_score_basis": "No composite SEO score is assigned; editorial and evidence quality are recorded separately."
+    },
+    "seo_content": {
+      "intro_paragraph": "Suhayb is an Arabic-origin given name. The entry explains its documented meaning and distinguishes linguistic origin, religious/scriptural status, and regional usage.",
+      "body_summary": "Suhayb (ṣuhayb) is an Arabic masculine name whose documented gloss is 'one who has reddish(-brown) hair'; it is also the name of the well-documented early Muslim Suhayb ibn Sinan, known as ar-Rumi. Both metrics are U.S. SSA-derived figures displayed by Nameberry; they measure U.S. births in specific years, not worldwide prevalence."
+    },
+    "social_tags": [
+      "#Suhayb",
+      "#SuhaybMeaning",
+      "#NameMeaning",
+      "#ArabicNames",
+      "#IslamicNames"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [
+        "localized_translations_require_native_review",
+        "popularity_metrics_are_source_and_region_scoped"
+      ],
+      "fabricated_content_removed": true,
+      "fields_total": 322,
+      "quality_score": null,
+      "quality_score_basis": "No composite quality score is asserted; source support, limitations, scriptural status, and review flags are explicit."
+    },
+    "evidence": {
+      "sources": [
+        "QuranicNames, Suhaib — Original spelling صُهَيْب; gloss 'one who has reddish-brown hair'; non-Quranic classification; documented alternate spellings Suhayb and Sohaib. Source: https://quranicnames.com/suhaib/ Limitation: Baby-name reference; the gloss is the conventional name-directory gloss, cross-checked against the diminutive lexical pattern.",
+        "Nameberry, Suhayb — U.S. SSA-derived rank 4,200 with 26 births in 2023. Source: https://nameberry.com/b/boy-baby-name-suhayb Limitation: Secondary display of U.S. birth data; it is not a global popularity measure.",
+        "Wikipedia, Suhayb ibn Sinan — Documented biographical bearer: Suhayb ibn Sinan (ar-Rumi), an early companion of Muhammad. Source: https://en.wikipedia.org/wiki/Suhayb_ibn_Sinan Limitation: Encyclopedia summary; not a primary sirah source."
+      ],
+      "verification_method": "The lexical/scriptural or language claim is separated from name-site glosses; name usage and popularity are checked separately. Every frequency figure retains its source, region, year, category, metric, and limitation. Candidate spellings, Romanized variants, source-script forms, and localized script renderings are checked against the existing dataset. Non-English glosses are drafts requiring native-speaker review."
+    },
+    "provenance": {
+      "pipeline": "NameVerse super-2.0 demand-informed batch builder",
+      "methodology": "Curated evidence manifest -> template-matched record build -> alias/script collision audit -> schema and integrity validation",
+      "upgraded_from": "New record generated from the current super-2.0 architecture; not converted from a legacy record.",
+      "processed_at": "2026-10-13T00:00:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Suhayb",
+          "description": "Suhayb — an Arabic-origin given name: One who has reddish-brown hair; name of the early companion Suhayb ibn Sinan (ar-Rumi).",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Suhayb mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Suhayb (ṣuhayb) is an Arabic masculine name whose documented gloss is 'one who has reddish(-brown) hair'; it is also the name of the well-documented early Muslim Suhayb ibn Sinan, known as ar-Rumi."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Suhayb?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Name references and baby-name directories agree on the 'reddish-brown hair' gloss; the record keeps the broader senses of the ṣ-ḥ-b root out of the name gloss and asserts no nickname-style etymology beyond the documented gloss."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Suhayb an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. The recorded language/origin is Arabic; the source form is صُهَيْب."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Suhayb written in Arabic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "صُهَيْب"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Suhayb a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is not claimed as a Qur'anic personal name. The form صُهَيْب is not a Qur'anic word or personal name; no Qur'anic claim is made."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Suhayb an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A lexical name borne by an early companion; not a prescribed religious formula. The companion association is a historical fact about a documented bearer; it is not a religious ruling about naming and no special virtue of the name is asserted."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Suhayb pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An approximate romanized guide is soo-HAYB. Romanized pronunciation guide only; no IPA is asserted."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Suhayb a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The documented naming sources record Suhayb as a male name; actual use can vary by language and community."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How popular is Suhayb?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Available scoped measure(s): United States, 2023: #4200 among boys, 26 births (Suhayb - Baby Name Meaning, Origin, and Popularity for a Boy); United States, 2019: #3248 among boys, 36 births (Suhaib - Baby Name Meaning, Origin, and Popularity for a Boy). Both metrics are U.S. SSA-derived figures displayed by Nameberry; they measure U.S. births in specific years, not worldwide prevalence."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Suhayb mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The draft Urdu rendering is صہیب; its gloss is صہیب؛ سرخی مائل بھورے بالوں والا؛ معروف صحابی کا نام. Localized translations have not had native-speaker review."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Suhayb?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The recorded Arabic root is ص ح ب (ṣ-ḥ-b)."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Suhayb",
+              "item": "https://nameverse.site/names/islamic/suhayb"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": true,
+      "flags": [
+        "localized_translations_require_native_review",
+        "popularity_metrics_are_source_and_region_scoped"
+      ],
+      "confidence": "HIGH",
+      "reviewed_by": "Automated source-aware build and validation; not a human or native-speaker review",
+      "reviewed_at": "2026-10-13T00:00:00+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": false,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "numerology",
+        "lucky_attributes",
+        "spiritual_meaning",
+        "celebrity_usage",
+        "real_world_usage",
+        "name_story"
+      ]
+    }
+  }
+}

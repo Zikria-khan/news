@@ -1,0 +1,489 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Ghazni",
+    "slug": "ghazni",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Ghazni",
+      "normalized_name": "ghazni",
+      "name_type": "given_name",
+      "gender": "Unisex",
+      "gender_confidence": "MEDIUM",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Ghazni",
+        "ghazni"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Of Ghazni",
+      "primary_meaning": "Ghazni corresponds to the Arabic form غزنی and is glossed in this record as “Of Ghazni.” The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "Of Ghazni",
+      "meaning_explanation": "Ghazni corresponds to the Arabic form غزنی (Arabic nisba غزنوي (Ghaznawī) 'of Ghazni'). Its core sense is of ghazni (a city). Ghazni is properly a place-name (the Afghan city) and a nisba, 'of Ghazni' — the same element seen in the Ghaznavid dynasty. The source gloss 'warrior or victorious' mixes in the sense of ghāzī (a different word); the place/nisba sense is recorded here.",
+      "meaning_confidence": "MEDIUM"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "غزنی",
+      "transliteration": "ghazni",
+      "root": "",
+      "root_transliteration": "",
+      "morphology": "Simple lexical item used as a name.",
+      "feminine_form": null,
+      "etymological_meaning": "The Arabic word غزنی",
+      "root_family": [],
+      "etymology_explanation": "The form غزنی is an established Arabic lexical item used unchanged as a given name.",
+      "etymology_confidence": "MEDIUM",
+      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form غزنی.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "MEDIUM"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "MEDIUM",
+      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Ghazni is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Ghazni is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Ghazni as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Of Ghazni",
+      "related_concepts": [
+        "Of Ghazni"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Of Ghazni” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Of Ghazni.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 2,
+      "life_path_number": 2,
+      "ruling_planet": "Moon",
+      "lucky_day": "Monday",
+      "lucky_colors": [
+        "White",
+        "Silver"
+      ],
+      "lucky_stone": "Pearl",
+      "meaning": "In Pythagorean numerology the letters of Ghazni total 2, associated with cooperation, balance and sensitivity. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 2,
+      "lucky_day": "Monday",
+      "lucky_colors": [
+        "White",
+        "Silver"
+      ],
+      "lucky_stone": "Pearl",
+      "ruling_planet": "Moon"
+    },
+    "translations": {
+      "english": {
+        "name": "Ghazni",
+        "script": "Ghazni",
+        "meaning": "Of Ghazni",
+        "long_meaning": "Ghazni is an Arabic-origin given name; in Arabic the word means “Of Ghazni”."
+      },
+      "urdu": {
+        "name": "غزنی",
+        "script": "غزنی",
+        "meaning": "غزنی کا، غزنی سے",
+        "long_meaning": "Ghazni (غزنی) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم غزنی کا، غزنی سے ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "غزنی",
+        "script": "غزنی",
+        "meaning": "غزنی، از غزنی",
+        "long_meaning": "Ghazni (غزنی) نامی برگرفته از زبان عربی است و معنای اصلی آن غزنی، از غزنی است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "ग़ज़नी",
+        "script": "ग़ज़नी",
+        "meaning": "ग़ज़नी का",
+        "long_meaning": "Ghazni (ग़ज़नी) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ ग़ज़नी का है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "غزني",
+        "script": "غزني",
+        "meaning": "د غزني",
+        "long_meaning": "Ghazni (غزني) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې د غزني ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "Ghazni",
+        "script": "Ghazni",
+        "meaning": "Of Ghazni (a city)",
+        "long_meaning": "Of Ghazni (a city)",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "ghaz-ni",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "Ghazni"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Ghazni"
+      ],
+      "script_forms": [
+        "غزني",
+        "غزنی",
+        "ग़ज़नी"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form غزنی is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Ghazni mean?",
+        "a": "Ghazni is an Arabic-origin name meaning “Of Ghazni”."
+      },
+      {
+        "q": "What is the origin of Ghazni?",
+        "a": "Ghazni originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Ghazni an Arabic name?",
+        "a": "Yes, the recorded form غزنی is Arabic."
+      },
+      {
+        "q": "What is the root of Ghazni?",
+        "a": "No root analysis is asserted for this spelling."
+      },
+      {
+        "q": "Is Ghazni an Islamic name?",
+        "a": "Ghazni is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Ghazni a Quranic name?",
+        "a": "Ghazni is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Ghazni mean in Urdu?",
+        "a": "In Urdu it is written غزنی and carries the sense “غزنی کا، غزنی سے”."
+      },
+      {
+        "q": "How is Ghazni pronounced?",
+        "a": "A romanized syllable approximation is “ghaz-ni”."
+      },
+      {
+        "q": "Is Ghazni a boy's or girl's name?",
+        "a": "Documented usage records Ghazni as a unisex name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Ghazni Name Meaning, Origin & Islamic Context",
+      "meta_description": "Ghazni (غزنی) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Ghazni meaning, Ghazni name meaning, Ghazni origin, Ghazni meaning in Urdu, Ghazni pronunciation, Ghazni Islamic name",
+      "description_paragraph": "Ghazni is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Ghazni meaning",
+        "Ghazni name meaning",
+        "Ghazni origin",
+        "Ghazni meaning in Urdu",
+        "Ghazni pronunciation",
+        "Ghazni Islamic name"
+      ],
+      "focus_keyword": "Ghazni meaning",
+      "secondary_keywords": [
+        "Ghazni name meaning",
+        "Ghazni origin",
+        "Ghazni meaning in Urdu",
+        "Ghazni pronunciation",
+        "Ghazni Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/ghazni",
+      "seo_score": 90,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Ghazni, an Arabic-origin name used in Muslim communities.",
+      "body_summary": "Ghazni is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Ghazni",
+      "#GhazniMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 148,
+      "quality_score": 90,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form غزنی carries the sense “Of Ghazni”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Ghazni",
+          "description": "Ghazni — an Arabic-origin given name meaning Of Ghazni",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Ghazni mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ghazni is an Arabic-origin name meaning “Of Ghazni”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Ghazni?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ghazni originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Ghazni an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form غزنی is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Ghazni?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No root analysis is asserted for this spelling."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Ghazni an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ghazni is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Ghazni a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ghazni is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Ghazni mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written غزنی and carries the sense “غزنی کا، غزنی سے”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Ghazni pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “ghaz-ni”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Ghazni a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Ghazni as a unisex name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Ghazni",
+              "item": "https://nameverse.site/names/islamic/ghazni"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "MEDIUM",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

@@ -1,0 +1,490 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Shifa",
+    "slug": "shifa",
+    "content_revision": "v1",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Shifa",
+      "normalized_name": "shifa",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "HIGH",
+      "gender_note": "Feminine usage is supported by contemporary naming usage and the historical association with Al-Shifa bint Abdullah; country-level gender-frequency data has not been established here.",
+      "alternate_spellings": [
+        "Shifa",
+        "Shifaa",
+        "Shifāʾ"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Healing; recovery; remedy",
+      "primary_meaning": "Shifa represents Arabic شفاء (shifāʾ), meaning recovery from illness, healing, or a remedy. The lexical meaning is supported by Lane’s Arabic-English Lexicon.",
+      "literal_meaning": "Healing; recovery from illness; remedy.",
+      "meaning_explanation": "Lane’s Arabic-English Lexicon defines شفاء as becoming free from illness or recovering, and by extension medical or curative treatment and a remedy. The word’s lexical meaning does not imply that a person named Shifa can heal others. Al-Shifa bint Abdullah is a historically documented female Companion whose given name is reported as Layla and who became known as al-Shifa; the historical by-name and the lexical word are related context, not proof that every use of Shifa refers to her.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "شِفَاء",
+      "transliteration": "Shifāʾ",
+      "root": "شفو (as indexed by Lane’s Lexicon)",
+      "root_transliteration": "sh-f-w (dictionary indexing; see note)",
+      "morphology": "Arabic verbal noun (maṣdar) associated with healing/recovery; exact morphological analysis should follow the cited lexicon.",
+      "feminine_form": null,
+      "etymological_meaning": "Healing; recovery from illness; remedy",
+      "root_family": [
+        "شفو"
+      ],
+      "etymology_explanation": "Lane’s Arabic-English Lexicon lists شفاء under root شفو and defines it primarily as recovery from illness, then medical treatment or a remedy. This record follows that reference rather than guessing a different root from modern spellings.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "Do not infer a personal-name meaning beyond the lexical entry or claim that the name grants healing abilities."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Urdu-speaking communities (usage is not quantified here)"
+      ],
+      "language_notes": {
+        "primary": "The lexical form شفاء is Arabic.",
+        "usage": "Roman spellings vary by transliteration and do not establish separate origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "lexical_and_historical_attestation",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The Arabic word شفاء has a documented lexical meaning. A historically known bearer used the by-name al-Shifa, though the TDV biography reports her given name as Layla.",
+      "cultural_transmission": [
+        "Arabic-language usage",
+        "Muslim naming tradition"
+      ]
+    },
+    "religion": {
+      "primary_association": "Arabic lexical word and Islamic historical association",
+      "religion_confidence": "HIGH",
+      "religious_status": "Permissible-sounding lexical meaning; not claimed as a prescribed name",
+      "religious_explanation": "The word شفاء appears in Qur’anic language meaning healing, and Al-Shifa bint Abdullah is documented in Islamic biographical literature. A word occurring in the Qur’an is not automatically a Qur’anic personal name, and this record does not claim a religious prescription.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "word_occurs_but_personal_name_not_established",
+        "note": "The lexical word شفاء occurs in Qur’an 10:57; this does not establish Shifa as a personal name used in the verse."
+      },
+      "hadith_status": {
+        "status": "historical_biographical_association",
+        "note": "The cited TDV biographical entry documents Al-Shifa bint Abdullah; no specific hadith grading is claimed for the name itself."
+      },
+      "prophetic_status": {
+        "status": "not_applicable",
+        "note": "Shifa is not being presented as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "historically_attested",
+        "note": "TDV İslâm Ansiklopedisi identifies Al-Shifa bint Abdullah as a female Companion and states that her given name was Layla."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Arabic lexical meaning and Islamic historical usage",
+      "interpretation": "Families may value the positive lexical sense of healing, without treating it as a guarantee or religious prescription.",
+      "important_distinction": "The Qur’anic occurrence of a word is distinct from the Qur’an presenting it as a personal name."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic lexical word for healing",
+        "Historical association with Al-Shifa bint Abdullah"
+      ],
+      "cultural_meaning": "The lexical meaning is healing/recovery; the historical association concerns a female Companion known as al-Shifa.",
+      "personal_name_interpretation": "A family may associate the name with healing as a positive aspiration; that is interpretation, not a prediction about the bearer.",
+      "interpretation_warning": "Do not present symbolic interpretations as medical, spiritual, or personality facts."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Healing; recovery from illness; remedy",
+      "related_concepts": [
+        "Recovery",
+        "Curative treatment",
+        "Remedy"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_verified",
+      "render": false,
+      "meaning": "",
+      "basis": "No separate spiritual meaning is asserted; the documented lexical or historical facts should not be converted into a spiritual promise.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No evidence establishes personality traits from this name."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No evidence establishes hidden personality traits from this name."
+    },
+    "numerology": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "life_path_number": null,
+      "ruling_planet": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "meaning": "",
+      "note": "Numerology attributes are omitted because they are not verifiable name facts."
+    },
+    "lucky_attributes": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "ruling_planet": null
+    },
+    "translations": {
+      "english": {
+        "name": "Shifa",
+        "script": "Shifa",
+        "meaning": "Healing; recovery; remedy",
+        "long_meaning": "Arabic شفاء (shifāʾ) means recovery from illness, healing, or a remedy according to Lane’s Arabic-English Lexicon."
+      },
+      "urdu": {
+        "name": "شفا",
+        "script": "شفاء",
+        "meaning": "شفا، صحت یابی، علاج",
+        "long_meaning": "عربی لفظ شفاء کے معنی صحت یابی، بیماری سے افاقہ یا علاج ہیں۔ یہ لغوی معنی ہے، کسی شخص کی طبی صلاحیت یا مستقبل کے بارے میں دعویٰ نہیں۔"
+      },
+      "arabic": {
+        "name": "شفاء",
+        "script": "شفاء",
+        "meaning": "التعافي من المرض؛ العلاج؛ الدواء",
+        "long_meaning": "تدل كلمة شفاء على التعافي من المرض، ثم على العلاج أو الدواء. هذا معنى لغوي، وليس ادعاءً بأن حامل الاسم يملك قدرة على الشفاء.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "lexical_meaning_plus_historical_context",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "English gloss checked against Lane’s Lexicon; Urdu and Arabic explanatory wording should receive native editorial review before being represented as professionally reviewed."
+    },
+    "pronunciation": {
+      "romanized": "shi-FAA (approximate)",
+      "ipa": "/ʃiˈfaːʔ/",
+      "approximation_note": "Approximation only; the Arabic form ends in hamza. Native-speaker review recommended.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "شفاء"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Shifaa",
+        "Shifāʾ"
+      ],
+      "script_forms": [
+        "شفاء"
+      ],
+      "variant_notes": "Transliteration varies. Do not treat transliteration variants as separate origins without evidence.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "attested_in_biographical_source",
+      "note": "TDV İslâm Ansiklopedisi identifies al-Shifa bint Abdullah as a female Companion, reports that her given name was Layla, and connects the by-name al-Shifa with treating the sick. The lexical word شفاء is separately documented by Lane’s Lexicon."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "No current registration, census, or regional frequency dataset is supplied; modern popularity is not claimed."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified name-frequency dataset is supplied."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified modern public-figure examples are supplied."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No contemporary bearer story is published."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Shifa mean in Arabic?",
+        "a": "Shifāʾ (شفاء) means recovery from illness, healing, or a remedy in Lane’s Arabic-English Lexicon. This is the lexical meaning of the word, not a claim that every bearer has healing abilities."
+      },
+      {
+        "q": "How is Shifa written in Arabic?",
+        "a": "The Arabic word is شفاء (with hamza at the end in the fully written form). Transliteration conventions vary; Shifa and Shifāʾ are common renderings."
+      },
+      {
+        "q": "Is Shifa a Quranic name?",
+        "a": "The word شفاء (healing) occurs in the Qur’an, including 10:57, but that does not mean the Qur’an presents Shifa as a personal name. This entry makes that distinction."
+      },
+      {
+        "q": "Who was Al-Shifa bint Abdullah?",
+        "a": "The TDV İslâm Ansiklopedisi entry identifies Al-Shifa bint Abdullah as a female Companion and notes that her given name was Layla; she became known as al-Shifa in connection with treating the sick."
+      },
+      {
+        "q": "Is Shifa an Islamic name?",
+        "a": "Shifa is an Arabic word used as a personal name and is associated historically with Al-Shifa bint Abdullah. That historical association is not a ruling that the name is prescribed."
+      },
+      {
+        "q": "What is the Arabic root of Shifa?",
+        "a": "Lane’s Lexicon files شفاء under the root family شفو and explains the word as recovery from illness, medical treatment, or a remedy. Root conventions can differ between dictionaries; this record follows the cited lexical entry."
+      },
+      {
+        "q": "What does Shifa mean in Urdu?",
+        "a": "شفا کے معنی صحت یابی، شفا یا علاج ہیں۔ یہ لفظی معنی ہے، نام رکھنے والے شخص کی صحت یا صلاحیت کے بارے میں دعویٰ نہیں۔"
+      },
+      {
+        "q": "How is Shifa pronounced?",
+        "a": "A practical English approximation is shi-FAA; the Arabic form is shifāʾ, with a final hamza. Pronunciation may vary by language and family."
+      },
+      {
+        "q": "Is Shifa a girl’s name?",
+        "a": "Shifa is used as a feminine personal name in many contemporary naming references, and the historical bearer associated with the name was female. This entry does not claim a measured gender distribution for every country."
+      }
+    ],
+    "seo": {
+      "title": "Shifa Name Meaning: Healing, Arabic Origin & History",
+      "meta_description": "Shifa (شفاء) is an Arabic word meaning healing, recovery, or remedy. Explore its lexical evidence and historical association with Al-Shifa bint Abdullah.",
+      "meta_keywords": "Shifa meaning, Shifa Arabic meaning, Shifa name origin, شفاء, Al-Shifa bint Abdullah",
+      "description_paragraph": "Shifa (شفاء) is an Arabic word meaning healing, recovery from illness, or remedy. Its lexical meaning and the historical association with Al-Shifa bint Abdullah are explained separately.",
+      "keywords": [
+        "Shifa meaning",
+        "Shifa Arabic meaning",
+        "Shifa name origin",
+        "شفاء",
+        "Al-Shifa bint Abdullah"
+      ],
+      "focus_keyword": "Shifa meaning",
+      "secondary_keywords": [
+        "Shifa Arabic meaning",
+        "Shifa name origin",
+        "Shifa in Urdu",
+        "Al-Shifa bint Abdullah"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/shifa",
+      "seo_score": 84,
+      "seo_score_basis": "Provisional editorial estimate based on lexical evidence and careful separation of word meaning from personal-name/scriptural claims; not a ranking prediction."
+    },
+    "seo_content": {
+      "intro_paragraph": "Shifa (شفاء) is an Arabic word meaning healing, recovery, or remedy. This entry distinguishes the dictionary meaning from the historical figure known as Al-Shifa bint Abdullah.",
+      "body_summary": "Lane’s Lexicon supports the word’s healing-related meaning. The word appears in Qur’anic language, but that alone does not establish Shifa as a Qur’anic personal name."
+    },
+    "social_tags": [
+      "#Shifa",
+      "#ArabicNames",
+      "#IslamicNames",
+      "#NameMeaning"
+    ],
+    "content_quality": {
+      "tier1_verified": false,
+      "authenticity_flags": [
+        "Modern personal-name frequency not measured",
+        "Urdu and Arabic reader-facing translations require native review",
+        "Quranic word occurrence must not be misrepresented as personal-name attestation"
+      ],
+      "fabricated_content_removed": true,
+      "fields_total": 177,
+      "quality_score": 84,
+      "quality_score_basis": "Provisional editorial assessment. The Arabic lexical definition and historical-biographical association are supported by named sources; regional popularity, gender distribution, and native-language review remain incomplete. Not a certification of every field."
+    },
+    "evidence": {
+      "sources": [
+        {
+          "title": "Lane’s Arabic-English Lexicon — شفاء",
+          "url": "https://www.laneslexicon.com/word/%D8%B4%D9%81%D8%A7%D9%93%D8%A1",
+          "supports": "Defines شفاء as recovery from illness, medical/curative treatment, or a remedy."
+        },
+        {
+          "title": "TDV İslâm Ansiklopedisi — Şifâ bint Abdullah",
+          "url": "https://islamansiklopedisi.org.tr/sifa-bint-abdullah",
+          "supports": "Biographical source identifying al-Shifa bint Abdullah as a female Companion and reporting her given name as Layla."
+        },
+        {
+          "title": "Qur’an 10:57",
+          "url": "https://quran.com/10/57",
+          "supports": "Primary text reference for the lexical word شفاء in Qur’anic context; does not establish it as a personal name."
+        }
+      ],
+      "verification_method": "Lane’s Lexicon entry for شفاء and the TDV İslâm Ansiklopedisi biography were checked directly. Qur’an 10:57 is cited only for the word’s occurrence, not for personal-name status. Popularity and regional gender distribution are not measured.",
+      "claim_evidence_status": "LEXICAL_MEANING_AND_HISTORICAL_BIOGRAPHICAL_ASSOCIATION_SOURCE_CHECKED; POPULARITY_AND_NATIVE_REVIEW_PENDING"
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v1",
+      "methodology": "Historical attestation, lexical meaning, and religious/scriptural status are recorded as separate claims; unsupported etymology, popularity, and religious claims are withheld.",
+      "upgraded_from": null,
+      "processed_at": "2026-10-15"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Shifa",
+          "description": "Shifa (شفاء) — Arabic word meaning healing, recovery from illness, or remedy; personal-name and historical context are distinguished from Qur’anic word occurrence.",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Shifa mean in Arabic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Shifāʾ (شفاء) means recovery from illness, healing, or a remedy in Lane’s Arabic-English Lexicon. This is the lexical meaning of the word, not a claim that every bearer has healing abilities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Shifa written in Arabic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The Arabic word is شفاء (with hamza at the end in the fully written form). Transliteration conventions vary; Shifa and Shifāʾ are common renderings."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Shifa a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The word شفاء (healing) occurs in the Qur’an, including 10:57, but that does not mean the Qur’an presents Shifa as a personal name. This entry makes that distinction."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Who was Al-Shifa bint Abdullah?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The TDV İslâm Ansiklopedisi entry identifies Al-Shifa bint Abdullah as a female Companion and notes that her given name was Layla; she became known as al-Shifa in connection with treating the sick."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Shifa an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Shifa is an Arabic word used as a personal name and is associated historically with Al-Shifa bint Abdullah. That historical association is not a ruling that the name is prescribed."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the Arabic root of Shifa?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Lane’s Lexicon files شفاء under the root family شفو and explains the word as recovery from illness, medical treatment, or a remedy. Root conventions can differ between dictionaries; this record follows the cited lexical entry."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Shifa mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "شفا کے معنی صحت یابی، شفا یا علاج ہیں۔ یہ لفظی معنی ہے، نام رکھنے والے شخص کی صحت یا صلاحیت کے بارے میں دعویٰ نہیں۔"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Shifa pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A practical English approximation is shi-FAA; the Arabic form is shifāʾ, with a final hamza. Pronunciation may vary by language and family."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Shifa a girl’s name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Shifa is used as a feminine personal name in many contemporary naming references, and the historical bearer associated with the name was female. This entry does not claim a measured gender distribution for every country."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Shifa",
+              "item": "https://nameverse.site/names/islamic/shifa"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": true,
+      "flags": [
+        "Modern name-frequency data not independently verified",
+        "Urdu and Arabic wording needs native review",
+        "Do not describe Qur’anic word occurrence as proof of Qur’anic personal-name status"
+      ],
+      "confidence": "MEDIUM",
+      "reviewed_by": "NameVerse editorial revision (limited claim-level source check)",
+      "reviewed_at": "2026-10-15"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": false,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story",
+        "numerology",
+        "lucky_attributes"
+      ]
+    }
+  }
+}

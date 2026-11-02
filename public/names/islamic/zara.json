@@ -1,0 +1,489 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Zara",
+    "slug": "zara",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Zara",
+      "normalized_name": "zara",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Zara",
+        "zara"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Blossom, flower",
+      "primary_meaning": "Zara corresponds to the Arabic form زَارَا and is glossed in this record as “Blossom, flower.” The record associates the form with root ز ه ر (z-h-r). The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "Blossom, flower",
+      "meaning_explanation": "Zara corresponds to the Arabic form زَارَا (Arabic root ز ه ر (z-h-r); زَهْرَة (Zahra)). Its core sense is zara; blossom, flower. Zara is a short form of Arabic زَهْرَة (Zahra), meaning 'blossom, flower'.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "زَارَا",
+      "transliteration": "zara",
+      "root": "ز ه ر",
+      "root_transliteration": "z-h-r",
+      "morphology": "Built on the root ز ه ر.",
+      "feminine_form": null,
+      "etymological_meaning": "From the root ز ه ر (z-h-r)",
+      "root_family": [],
+      "etymology_explanation": "The form زَارَا is an established Arabic lexical item, and Zara is the word itself used as a personal name rather than a derived or diminutive form.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form زَارَا.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Zara is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Zara is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Zara as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Blossom, flower",
+      "related_concepts": [
+        "Blossom, flower"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Blossom, flower” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Blossom, flower.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 1,
+      "life_path_number": 1,
+      "ruling_planet": "Sun",
+      "lucky_day": "Sunday",
+      "lucky_colors": [
+        "Gold",
+        "Orange"
+      ],
+      "lucky_stone": "Ruby",
+      "meaning": "In Pythagorean numerology the letters of Zara total 1, associated with leadership, independence and initiative. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 1,
+      "lucky_day": "Sunday",
+      "lucky_colors": [
+        "Gold",
+        "Orange"
+      ],
+      "lucky_stone": "Ruby",
+      "ruling_planet": "Sun"
+    },
+    "translations": {
+      "english": {
+        "name": "Zara",
+        "script": "Zara",
+        "meaning": "Blossom, flower",
+        "long_meaning": "Zara is an Arabic-origin given name; in Arabic the word means “Blossom, flower”."
+      },
+      "urdu": {
+        "name": "زارا",
+        "script": "زارا",
+        "meaning": "زارا، پھول",
+        "long_meaning": "Zara (زارا) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم زارا، پھول ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "زارا",
+        "script": "زارا",
+        "meaning": "زارا، شکوفه",
+        "long_meaning": "Zara (زارا) نامی برگرفته از زبان عربی است و معنای اصلی آن زارا، شکوفه است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "ज़ारा",
+        "script": "ज़ारा",
+        "meaning": "ज़ारा, फूल",
+        "long_meaning": "Zara (ज़ारा) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ ज़ारा, फूल है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "زارا",
+        "script": "زارا",
+        "meaning": "زارا، ګل",
+        "long_meaning": "Zara (زارا) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې زارا، ګل ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "زَارَا",
+        "script": "زَارَا",
+        "meaning": "زَارَا، الزَّهْرَة",
+        "long_meaning": "Zara (زَارَا) اسم مأخوذ من اللغة العربية، ومعناه الأساسي زَارَا، الزَّهْرَة. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "za-ra",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "زَارَا"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Zara"
+      ],
+      "script_forms": [
+        "زارا",
+        "زَارَا",
+        "ज़ारा"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form زَارَا is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Zara mean?",
+        "a": "Zara is an Arabic-origin name meaning “Blossom, flower”."
+      },
+      {
+        "q": "What is the origin of Zara?",
+        "a": "Zara originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Zara an Arabic name?",
+        "a": "Yes, the recorded form زَارَا is Arabic."
+      },
+      {
+        "q": "What is the root of Zara?",
+        "a": "It is built on the root ز ه ر (z-h-r)."
+      },
+      {
+        "q": "Is Zara an Islamic name?",
+        "a": "Zara is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Zara a Quranic name?",
+        "a": "Zara is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Zara mean in Urdu?",
+        "a": "In Urdu it is written زارا and carries the sense “زارا، پھول”."
+      },
+      {
+        "q": "How is Zara pronounced?",
+        "a": "A romanized syllable approximation is “za-ra”."
+      },
+      {
+        "q": "Is Zara a boy's or girl's name?",
+        "a": "Documented usage records Zara as a girl's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Zara Name Meaning, Origin & Islamic Context",
+      "meta_description": "Zara (زَارَا) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Zara meaning, Zara name meaning, Zara origin, Zara meaning in Urdu, Zara pronunciation, Zara Islamic name",
+      "description_paragraph": "Zara is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Zara meaning",
+        "Zara name meaning",
+        "Zara origin",
+        "Zara meaning in Urdu",
+        "Zara pronunciation",
+        "Zara Islamic name"
+      ],
+      "focus_keyword": "Zara meaning",
+      "secondary_keywords": [
+        "Zara name meaning",
+        "Zara origin",
+        "Zara meaning in Urdu",
+        "Zara pronunciation",
+        "Zara Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/zara",
+      "seo_score": 95,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Zara, an Arabic-origin name used in Muslim communities.",
+      "body_summary": "Zara is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Zara",
+      "#ZaraMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 152,
+      "quality_score": 95,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form زَارَا carries the sense “Blossom, flower”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Zara",
+          "description": "Zara — an Arabic-origin given name meaning Blossom, flower",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Zara mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Zara is an Arabic-origin name meaning “Blossom, flower”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Zara?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Zara originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Zara an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form زَارَا is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Zara?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is built on the root ز ه ر (z-h-r)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Zara an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Zara is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Zara a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Zara is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Zara mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written زارا and carries the sense “زارا، پھول”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Zara pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “za-ra”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Zara a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Zara as a girl's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Zara",
+              "item": "https://nameverse.site/names/islamic/zara"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

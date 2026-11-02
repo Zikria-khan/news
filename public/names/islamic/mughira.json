@@ -1,0 +1,484 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Mughira",
+    "slug": "mughira",
+    "content_revision": "v9",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Mughira",
+      "normalized_name": "mughira",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "MEDIUM",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Mughira",
+        "mughira",
+        "Mughirah"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "One who makes a raid; attacker (lexical sense; context-sensitive)",
+      "primary_meaning": "Mughira (مغيرة) is an Arabic-origin personal name. One who makes a raid; attacker (lexical sense; context-sensitive).",
+      "literal_meaning": "مغيرة is an Arabic personal-name form associated with the Arabic root غ ي ر and the verb family connected with raiding/attacking; exact glosses vary by lexicographic treatment.",
+      "meaning_explanation": "مغيرة is an Arabic personal-name form associated with the Arabic root غ ي ر and the verb family connected with raiding/attacking; exact glosses vary by lexicographic treatment.",
+      "meaning_confidence": "MEDIUM"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "مغيرة",
+      "transliteration": "mughira",
+      "root": "غ ي ر",
+      "root_transliteration": "gh-y-r",
+      "morphology": "مغيرة is an Arabic personal-name form associated with the Arabic root غ ي ر and the verb family connected with raiding/attacking; exact glosses vary by lexicographic treatment.",
+      "feminine_form": null,
+      "etymological_meaning": "One who makes a raid; attacker (lexical sense; context-sensitive)",
+      "root_family": [],
+      "etymology_explanation": "مغيرة is an Arabic personal-name form associated with the Arabic root غ ي ر and the verb family connected with raiding/attacking; exact glosses vary by lexicographic treatment.",
+      "etymology_confidence": "MEDIUM",
+      "false_etymology_warning": "Do not present an uncertain root or folk etymology as established fact."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "The recorded personal-name form is مغيرة.",
+        "usage": "Other scripts are transliterations, not independent origins."
+      },
+      "language_confidence": "MEDIUM"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic and historical name usage",
+      "origin_confidence": "MEDIUM",
+      "origin_explanation": "مغيرة is an Arabic personal-name form associated with the Arabic root غ ي ر and the verb family connected with raiding/attacking; exact glosses vary by lexicographic treatment.",
+      "cultural_transmission": [
+        "Arabic-speaking communities",
+        "Muslim naming communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Used in Muslim naming; no exclusive religious status asserted",
+      "religious_explanation": "Historical use in Muslim communities does not by itself establish that a name is Qur'anic or religiously prescribed.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "No claim that this is a Qur'anic personal name is made."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific hadith prescribing this name is claimed."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No claim that this is a prophet's name is made."
+      },
+      "companion_status": {
+        "status": "verified_historical_bearer",
+        "note": "Al-Mughira ibn Shu'ba al-Thaqafi is documented as a Companion."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture",
+      "interpretation": "Historical or lexical name use may be relevant to families considering the name.",
+      "important_distinction": "Muslim use or historical bearer does not prove Qur'anic status or a religious recommendation."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim naming communities"
+      ],
+      "cultural_meaning": "One who makes a raid; attacker (lexical sense; context-sensitive)",
+      "personal_name_interpretation": "Interpretations beyond the documented lexical or historical evidence are not asserted.",
+      "interpretation_warning": "Distinguish a name's lexical history from modern symbolic interpretations."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "One who makes a raid; attacker (lexical sense; context-sensitive)",
+      "related_concepts": [
+        "One who makes a raid; attacker (lexical sense; context-sensitive)"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_verified",
+      "render": false,
+      "meaning": "",
+      "basis": "No distinct spiritual meaning is asserted beyond the documented lexical or historical information.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "life_path_number": null,
+      "ruling_planet": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "meaning": "No evidence-based personality or destiny claim is made.",
+      "note": "Numerology is omitted because it is not a factual property of a name."
+    },
+    "lucky_attributes": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "ruling_planet": null
+    },
+    "translations": {
+      "english": {
+        "name": "Mughira",
+        "script": "Mughira",
+        "meaning": "One who makes a raid; attacker (lexical sense; context-sensitive)",
+        "long_meaning": "Mughira is an Arabic-origin personal name. One who makes a raid; attacker (lexical sense; context-sensitive)."
+      },
+      "urdu": {
+        "name": "مغيرة",
+        "script": "مغيرة",
+        "meaning": "عربی نام؛ مفہوم کی وضاحت اوپر درج ہے",
+        "long_meaning": "Mughira (مغيرة) عربی نام ہے۔ اس کے مفہوم کے بارے میں غیر یقینی تفصیلات کو قطعی معنی کے طور پر پیش نہیں کیا گیا۔"
+      },
+      "persian": {
+        "name": "مغيرة",
+        "script": "مغيرة",
+        "meaning": "نام عربی اصل رکھتا ہے",
+        "long_meaning": "Mughira نامی با ریشه و کاربرد عربی ثبت شده است؛ معنی دقیق در صورت عدم اطمینان قطعی بیان نمی‌شود."
+      },
+      "hindi": {
+        "name": "Mughira",
+        "script": "Mughira",
+        "meaning": "अरबी मूल का नाम",
+        "long_meaning": "Mughira अरबी मूल का व्यक्तिगत नाम है। अनिश्चित व्युत्पत्ति को निश्चित अर्थ के रूप में प्रस्तुत नहीं किया गया है।"
+      },
+      "pashto": {
+        "name": "مغيرة",
+        "script": "مغيرة",
+        "meaning": "عربي اصل نوم",
+        "long_meaning": "Mughira د عربي اصل شخصي نوم دی؛ نامعلومې ريښې د قطعي مانا په توګه نه وړاندې کېږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "مغيرة",
+        "script": "مغيرة",
+        "meaning": "اسم شخصي عربي",
+        "long_meaning": "مغيرة اسم شخصي عربي موثق؛ لا يُجزم باشتقاق أو معنى دقيق ما لم يثبت بمصدر معجمي متخصص.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "conservative_semantic_translation",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "Translations are cautious placeholders and require native-language review before publication."
+    },
+    "pronunciation": {
+      "romanized": "mu-ghee-ra",
+      "ipa": null,
+      "approximation_note": "Romanized pronunciation is approximate; IPA has not been independently verified.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "مغيرة"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Mughirah"
+      ],
+      "script_forms": [
+        "مغيرة"
+      ],
+      "variant_notes": "Spellings are transliteration variants; do not merge with unrelated names without evidence.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "partially_verified",
+      "note": "Al-Mughira ibn Shu'ba al-Thaqafi is documented as a Companion."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Modern popularity is not measured; historical attestation is not evidence of current frequency."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified registration or popularity dataset is supplied."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No personal story is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Mughira mean?",
+        "a": "Mughira (مغيرة) is an Arabic-origin personal name. One who makes a raid; attacker (lexical sense; context-sensitive)."
+      },
+      {
+        "q": "What is the origin of Mughira?",
+        "a": "The recorded form مغيرة is treated here as Arabic in origin."
+      },
+      {
+        "q": "Is Mughira an Arabic name?",
+        "a": "Yes, the name is recorded in Arabic script as مغيرة."
+      },
+      {
+        "q": "Is Mughira an Islamic name?",
+        "a": "It is found in Muslim naming or historical contexts, but that does not by itself establish Qur'anic status."
+      },
+      {
+        "q": "Is Mughira mentioned in the Qur'an?",
+        "a": "This record does not claim that Mughira is a Qur'anic personal name."
+      },
+      {
+        "q": "How is Mughira written in Arabic?",
+        "a": "Mughira is written مغيرة."
+      },
+      {
+        "q": "How is Mughira pronounced?",
+        "a": "A rough romanized guide is “mu-ghee-ra”; pronunciation can vary by language and region."
+      },
+      {
+        "q": "Is Mughira a boy's or girl's name?",
+        "a": "The historical naming usage recorded here is masculine; contemporary use can vary by community."
+      },
+      {
+        "q": "Is Mughira a name of a Companion?",
+        "a": "Al-Mughira ibn Shu'ba al-Thaqafi is documented as a Companion."
+      }
+    ],
+    "seo": {
+      "title": "Mughira Name Meaning, Arabic Origin & Islamic Context",
+      "meta_description": "Mughira (مغيرة) — cautious meaning, Arabic origin, pronunciation and historical naming context.",
+      "meta_keywords": "Mughira meaning, Mughira name origin, Mughira in Arabic, Mughira pronunciation",
+      "description_paragraph": "Explore the recorded Arabic form, cautious meaning, pronunciation and historical context of Mughira.",
+      "keywords": [
+        "Mughira meaning",
+        "Mughira name origin",
+        "Mughira in Arabic",
+        "Mughira pronunciation"
+      ],
+      "focus_keyword": "Mughira meaning",
+      "secondary_keywords": [
+        "Mughira name origin",
+        "Mughira in Arabic",
+        "Mughira pronunciation"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/mughira",
+      "seo_score": 80,
+      "seo_score_basis": "Conservative content; claims marked uncertain are not promoted to verified facts."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page documents the Arabic personal name Mughira (مغيرة) with cautious etymology and historical context.",
+      "body_summary": "Popularity and religious status are not inferred from historical attestation."
+    },
+    "social_tags": [
+      "#Mughira",
+      "#MughiraMeaning",
+      "#ArabicNames",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": false,
+      "authenticity_flags": [
+        "manual_lexical_review_required",
+        "native_translation_review_required"
+      ],
+      "fabricated_content_removed": true,
+      "fields_total": 153,
+      "quality_score": 80,
+      "quality_score_basis": "Evidence-conscious draft; lexical detail and translations require specialist review."
+    },
+    "evidence": {
+      "sources": [
+        "Sunnah.com narrator profile for al-Mughira ibn Shu'ba al-Thaqafi identifies him as a verified Companion.",
+        "The gloss is given cautiously; do not present it as a virtue meaning or Qur'anic name claim."
+      ],
+      "verification_method": "Historical bearer/source checked; lexical claims intentionally conservative. Verify dictionary morphology and translations before enabling publication."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v9",
+      "methodology": "Conservative record draft from documented historical/lexical evidence",
+      "upgraded_from": "v8 template",
+      "processed_at": "2026-10-14T00:00:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Mughira",
+          "description": "Mughira (مغيرة) — Arabic-origin personal name; One who makes a raid; attacker (lexical sense; context-sensitive)",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Mughira mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mughira (مغيرة) is an Arabic-origin personal name. One who makes a raid; attacker (lexical sense; context-sensitive)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Mughira?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The recorded form مغيرة is treated here as Arabic in origin."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Mughira an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the name is recorded in Arabic script as مغيرة."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Mughira an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is found in Muslim naming or historical contexts, but that does not by itself establish Qur'anic status."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Mughira mentioned in the Qur'an?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "This record does not claim that Mughira is a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Mughira written in Arabic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mughira is written مغيرة."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Mughira pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A rough romanized guide is “mu-ghee-ra”; pronunciation can vary by language and region."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Mughira a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The historical naming usage recorded here is masculine; contemporary use can vary by community."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Mughira a name of a Companion?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Al-Mughira ibn Shu'ba al-Thaqafi is documented as a Companion."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Mughira",
+              "item": "https://nameverse.site/names/islamic/mughira"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": true,
+      "flags": [
+        "lexical_review",
+        "native_translation_review"
+      ],
+      "confidence": "MEDIUM",
+      "reviewed_by": "Automated draft; human review pending",
+      "reviewed_at": "2026-10-14T00:00:00+00:00"
+    },
+    "render_policy": {
+      "render_verified": false,
+      "render_interpretive": false,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

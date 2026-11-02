@@ -1,0 +1,533 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Wissam",
+    "slug": "wissam",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Wissam",
+      "normalized_name": "wissam",
+      "name_type": "given_name",
+      "gender": "Unisex",
+      "gender_confidence": "MEDIUM",
+      "gender_note": "The source records this name for boys and girls; no population-level gender split is asserted.",
+      "alternate_spellings": [
+        "Wissam",
+        "wissam",
+        "Wisam",
+        "Wesam"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Medal, badge, decoration; a mark of honor.",
+      "primary_meaning": "Wissam (wisām) is an Arabic name from the noun wisām, 'medal or badge of honor', itself from the w-s-m root of marking; U.S. data classifies the spelling Wissam for boys while the name is also documented for women, so no single-gender claim is made.",
+      "literal_meaning": "The noun وسام is standard Arabic for a medal or decoration; the record asserts no Qur'anic occurrence for the word.",
+      "meaning_explanation": "The gloss follows the standard Arabic lexical sense of the noun; the record notes the gender disagreement across sources instead of picking one silently.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "وِسام",
+      "transliteration": "wisām",
+      "root": "و س م",
+      "root_transliteration": "w-s-m",
+      "morphology": "Established Arabic noun (wisām, 'medal, badge, mark of honor') from the w-s-m root ('to mark, stamp'); used as a given name for both men and women in Arabic-speaking communities.",
+      "feminine_form": null,
+      "etymological_meaning": "Medal, badge, decoration; a mark of honor.",
+      "root_family": [],
+      "etymology_explanation": "The gloss follows the standard Arabic lexical sense of the noun; the record notes the gender disagreement across sources instead of picking one silently.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented lexical analysis is asserted; unsupported name-site etymologies are not adopted."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form وِسام.",
+        "usage": "Other scripts are transliterations or localized glosses; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The recorded form and meaning are associated with Arabic. The evidence distinguishes linguistic origin from religious/cultural use.",
+      "cultural_transmission": [
+        "Arabic-speaking communities",
+        "Muslim naming communities worldwide"
+      ]
+    },
+    "religion": {
+      "primary_association": "Arabic and Muslim-cultural naming usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "A lexical name; not a prescribed religious formula.",
+      "religious_explanation": "A positive Arabic lexical name is compatible with Muslim naming traditions, but linguistic origin and a positive meaning are not a religious recommendation or ruling.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_claimed",
+        "note": "No Qur'anic occurrence is asserted for the word وسام or its root's name form."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report establishing this name or a special virtue is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishing this as a prophet's personal name is cited."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion attribution is asserted without a verified source."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Arabic and Muslim-cultural naming usage",
+      "interpretation": "Families may value the honor sense, but that is a naming preference rather than a prediction about the bearer.",
+      "important_distinction": "This descriptive record is not a religious ruling. Muslim cultural use, linguistic origin, and direct Qur'anic attestation are separate claims."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim naming communities"
+      ],
+      "cultural_meaning": "Recorded as a given name for boys in U.S. data and for both men and women in Arabic-speaking communities; no population-level gender split is asserted.",
+      "personal_name_interpretation": "Families may value the honor sense, but that is a naming preference rather than a prediction about the bearer.",
+      "interpretation_warning": "A symbolic naming preference is distinct from dictionary meaning and is not a claim about a bearer's personality or future."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Honor, decoration, marking",
+      "related_concepts": [
+        "medal",
+        "badge",
+        "honor",
+        "mark"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_asserted",
+      "render": false,
+      "meaning": null,
+      "basis": null,
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No evidence-based hidden personality traits are asserted."
+    },
+    "numerology": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "life_path_number": null,
+      "ruling_planet": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "meaning": null,
+      "note": "Numerology is not evidence-based and is not supplied in this record."
+    },
+    "lucky_attributes": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "ruling_planet": null
+    },
+    "translations": {
+      "english": {
+        "name": "Wissam",
+        "script": "Wissam",
+        "meaning": "Medal, badge, decoration; a mark of honor.",
+        "long_meaning": "Wissam (wisām) is an Arabic name from the noun wisām, 'medal or badge of honor', itself from the w-s-m root of marking; U.S. data classifies the spelling Wissam for boys while the name is also documented for women, so no single-gender claim is made."
+      },
+      "urdu": {
+        "name": "وسام",
+        "script": "وسام",
+        "meaning": "وسام؛ تمغہ، اعزاز کا نشان",
+        "long_meaning": "وسام کے لغوی معنی وسام؛ تمغہ، اعزاز کا نشان ہیں۔ یہ ترجمہ ابتدائی مسودہ ہے اور مقامی لسانی جائزے کا محتاج ہے۔"
+      },
+      "persian": {
+        "name": "وسام",
+        "script": "وسام",
+        "meaning": "وسام؛ نشانِ افتخار",
+        "long_meaning": "معنای لغوی وسام در این مدخل «وسام؛ نشانِ افتخار» است؛ این برگردان پیش‌نویس است و به بازبینی بومی نیاز دارد."
+      },
+      "hindi": {
+        "name": "विसाम",
+        "script": "विसाम",
+        "meaning": "विसाम; पदक, सम्मान का चिह्न",
+        "long_meaning": "विसाम का शब्दार्थ यहाँ विसाम; पदक, सम्मान का चिह्न दिया गया है। यह अनुवाद प्रारूप है और स्थानीय भाषायी समीक्षा आवश्यक है।"
+      },
+      "pashto": {
+        "name": "وسام",
+        "script": "وسام",
+        "meaning": "وسام؛ نښان، ویاړ",
+        "long_meaning": "د وسام لغوي مانا «وسام؛ نښان، ویاړ» ده؛ دا د ژباړې مسوده ده او د اصلي ژبې ویونکي بیاکتنې ته اړتیا لري.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "وِسام",
+        "script": "وِسام",
+        "meaning": "وِسام؛ وسامُ الشرف والامتياز",
+        "long_meaning": "المعنى اللغوي لـوِسام في هذا السجل هو «وِسام؛ وسامُ الشرف والامتياز»؛ وهذه صياغة أولية تحتاج إلى مراجعة لغوية.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "source_language_gloss_with_localized_draft",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "The source-language core gloss is evidence-backed. All non-English localized meanings and script renderings are editorial drafts and require native-speaker review; transliteration does not establish a separate origin."
+    },
+    "pronunciation": {
+      "romanized": "WI-sam (approximate)",
+      "ipa": null,
+      "approximation_note": "Romanized pronunciation guide only; no IPA is asserted.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "وِسام"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Wisam",
+        "Wesam"
+      ],
+      "script_forms": [
+        "وِسام",
+        "विसाम"
+      ],
+      "variant_notes": "Alternate spellings reflect orthographic or transliteration variants; they do not establish different etymologies or pronunciations.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "lexical_context",
+      "note": "The name is a standard Arabic noun; no specific historical bearer is asserted by this record."
+    },
+    "modern_usage": {
+      "status": "source_scoped_usage_data_available",
+      "note": "U.S. SSA-derived data exists in scattered years (2017 and 2022); usage is otherwise broader in Arabic-speaking countries."
+    },
+    "popularity": {
+      "status": "source_scoped_metrics_available",
+      "render": true,
+      "score": null,
+      "by_region": [
+        {
+          "region": "United States",
+          "measure": "SSA newborn-name rank and births, as displayed by Nameberry",
+          "year": 2022,
+          "category": "boys",
+          "rank": 4693,
+          "births": 22,
+          "relative_interest_percent": null,
+          "observation_period": "2022 SSA birth-year data",
+          "source_title": "Wissam - Baby Name Meaning, Origin, and Popularity for a Boy",
+          "source": "https://nameberry.com/b/boy-baby-name-wissam",
+          "limitation": "U.S. births only; the source classifies the name for boys while other references record female use as well."
+        }
+      ],
+      "note": "The collected metric is a U.S. SSA-derived figure displayed by Nameberry; it measures U.S. births in that year, not worldwide prevalence."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is included."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No individual bearer story is included without a verified source."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Wissam mean?",
+        "a": "Wissam (wisām) is an Arabic name from the noun wisām, 'medal or badge of honor', itself from the w-s-m root of marking; U.S. data classifies the spelling Wissam for boys while the name is also documented for women, so no single-gender claim is made."
+      },
+      {
+        "q": "What is the origin of Wissam?",
+        "a": "The gloss follows the standard Arabic lexical sense of the noun; the record notes the gender disagreement across sources instead of picking one silently."
+      },
+      {
+        "q": "Is Wissam an Arabic name?",
+        "a": "Yes. The recorded language/origin is Arabic; the source form is وِسام."
+      },
+      {
+        "q": "How is Wissam written in Arabic?",
+        "a": "وِسام"
+      },
+      {
+        "q": "Is Wissam a Quranic name?",
+        "a": "It is not claimed as a Qur'anic personal name. No Qur'anic occurrence is asserted for the word وسام or its root's name form."
+      },
+      {
+        "q": "Is Wissam an Islamic name?",
+        "a": "A lexical name; not a prescribed religious formula. A positive Arabic lexical name is compatible with Muslim naming traditions, but linguistic origin and a positive meaning are not a religious recommendation or ruling."
+      },
+      {
+        "q": "How is Wissam pronounced?",
+        "a": "An approximate romanized guide is WI-sam. Romanized pronunciation guide only; no IPA is asserted."
+      },
+      {
+        "q": "Is Wissam a boy's or girl's name?",
+        "a": "The source records this name for boys and girls; a population-level gender split is not available."
+      },
+      {
+        "q": "How popular is Wissam?",
+        "a": "Available scoped measure(s): United States, 2022: #4693 among boys, 22 births (Wissam - Baby Name Meaning, Origin, and Popularity for a Boy). The collected metric is a U.S. SSA-derived figure displayed by Nameberry; it measures U.S. births in that year, not worldwide prevalence."
+      },
+      {
+        "q": "What does Wissam mean in Urdu?",
+        "a": "The draft Urdu rendering is وسام; its gloss is وسام؛ تمغہ، اعزاز کا نشان. Localized translations have not had native-speaker review."
+      },
+      {
+        "q": "What is the root of Wissam?",
+        "a": "The recorded Arabic root is و س م (w-s-m)."
+      }
+    ],
+    "seo": {
+      "title": "Wissam Name Meaning, Origin & Usage",
+      "meta_description": "Explore the sourced meaning, origin, pronunciation, script, and regional usage evidence for Wissam.",
+      "meta_keywords": "Wissam meaning, Wissam name meaning, Wissam origin, Wissam pronunciation, Wissam name in Urdu, Wissam Arabic name",
+      "description_paragraph": "Wissam is an Arabic-origin given name. This entry separates its lexical meaning, cultural and scriptural context, and source-scoped usage evidence.",
+      "keywords": [
+        "Wissam meaning",
+        "Wissam name meaning",
+        "Wissam origin",
+        "Wissam pronunciation",
+        "Wissam name in Urdu",
+        "Wissam Arabic name"
+      ],
+      "focus_keyword": "Wissam meaning",
+      "secondary_keywords": [
+        "Wissam name meaning",
+        "Wissam origin",
+        "Wissam pronunciation",
+        "Wissam name in Urdu",
+        "Wissam Arabic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/wissam",
+      "seo_score": null,
+      "seo_score_basis": "No composite SEO score is assigned; editorial and evidence quality are recorded separately."
+    },
+    "seo_content": {
+      "intro_paragraph": "Wissam is an Arabic-origin given name. The entry explains its documented meaning and distinguishes linguistic origin, religious/scriptural status, and regional usage.",
+      "body_summary": "Wissam (wisām) is an Arabic name from the noun wisām, 'medal or badge of honor', itself from the w-s-m root of marking; U.S. data classifies the spelling Wissam for boys while the name is also documented for women, so no single-gender claim is made. The collected metric is a U.S. SSA-derived figure displayed by Nameberry; it measures U.S. births in that year, not worldwide prevalence."
+    },
+    "social_tags": [
+      "#Wissam",
+      "#WissamMeaning",
+      "#NameMeaning",
+      "#ArabicNames",
+      "#IslamicNames"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [
+        "localized_translations_require_native_review",
+        "popularity_metrics_are_source_and_region_scoped"
+      ],
+      "fabricated_content_removed": true,
+      "fields_total": 311,
+      "quality_score": null,
+      "quality_score_basis": "No composite quality score is asserted; source support, limitations, scriptural status, and review flags are explicit."
+    },
+    "evidence": {
+      "sources": [
+        "Nameberry, Wissam — U.S. SSA-derived rank 4,693 with 22 births in 2022 (4,737 / 21 in 2017). Source: https://nameberry.com/b/boy-baby-name-wissam Limitation: Secondary display of U.S. birth data; it is not a global popularity measure.",
+        "Almaany English-Arabic Dictionary, وسام — The Arabic noun وسام as a medal, order, or decoration. Source: https://www.almaany.com/en/dict/ar-en/%D9%88%D8%B3%D8%A7%D9%85/ Limitation: Dictionary entry for the common noun; the personal-name use is documented separately by name directories."
+      ],
+      "verification_method": "The lexical/scriptural or language claim is separated from name-site glosses; name usage and popularity are checked separately. Every frequency figure retains its source, region, year, category, metric, and limitation. Candidate spellings, Romanized variants, source-script forms, and localized script renderings are checked against the existing dataset. Non-English glosses are drafts requiring native-speaker review."
+    },
+    "provenance": {
+      "pipeline": "NameVerse super-2.0 demand-informed batch builder",
+      "methodology": "Curated evidence manifest -> template-matched record build -> alias/script collision audit -> schema and integrity validation",
+      "upgraded_from": "New record generated from the current super-2.0 architecture; not converted from a legacy record.",
+      "processed_at": "2026-10-13T00:00:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Wissam",
+          "description": "Wissam — an Arabic-origin given name: Medal, badge, decoration; a mark of honor.",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Wissam mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Wissam (wisām) is an Arabic name from the noun wisām, 'medal or badge of honor', itself from the w-s-m root of marking; U.S. data classifies the spelling Wissam for boys while the name is also documented for women, so no single-gender claim is made."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Wissam?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The gloss follows the standard Arabic lexical sense of the noun; the record notes the gender disagreement across sources instead of picking one silently."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Wissam an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. The recorded language/origin is Arabic; the source form is وِسام."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Wissam written in Arabic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "وِسام"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Wissam a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is not claimed as a Qur'anic personal name. No Qur'anic occurrence is asserted for the word وسام or its root's name form."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Wissam an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A lexical name; not a prescribed religious formula. A positive Arabic lexical name is compatible with Muslim naming traditions, but linguistic origin and a positive meaning are not a religious recommendation or ruling."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Wissam pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An approximate romanized guide is WI-sam. Romanized pronunciation guide only; no IPA is asserted."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Wissam a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The source records this name for boys and girls; a population-level gender split is not available."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How popular is Wissam?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Available scoped measure(s): United States, 2022: #4693 among boys, 22 births (Wissam - Baby Name Meaning, Origin, and Popularity for a Boy). The collected metric is a U.S. SSA-derived figure displayed by Nameberry; it measures U.S. births in that year, not worldwide prevalence."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Wissam mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The draft Urdu rendering is وسام; its gloss is وسام؛ تمغہ، اعزاز کا نشان. Localized translations have not had native-speaker review."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Wissam?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The recorded Arabic root is و س م (w-s-m)."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Wissam",
+              "item": "https://nameverse.site/names/islamic/wissam"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": true,
+      "flags": [
+        "localized_translations_require_native_review",
+        "popularity_metrics_are_source_and_region_scoped"
+      ],
+      "confidence": "HIGH",
+      "reviewed_by": "Automated source-aware build and validation; not a human or native-speaker review",
+      "reviewed_at": "2026-10-13T00:00:00+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": false,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "numerology",
+        "lucky_attributes",
+        "spiritual_meaning",
+        "celebrity_usage",
+        "real_world_usage",
+        "name_story"
+      ]
+    }
+  }
+}

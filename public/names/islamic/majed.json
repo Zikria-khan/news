@@ -1,0 +1,488 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Majed",
+    "slug": "majed",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Majed",
+      "normalized_name": "majed",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Majed",
+        "majed"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Glorious, majestic, noble",
+      "primary_meaning": "Majed corresponds to the Arabic form ماجد and is glossed in this record as “Glorious, majestic, noble.” The record associates the form with root م ج د (m-j-d). The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "Glorious, majestic, noble",
+      "meaning_explanation": "Majed corresponds to the Arabic form ماجد (Arabic root م ج د (m-j-d); مَاجِد (Mājid)). Its core sense is glorious, majestic, noble. Majed is Arabic مَاجِد (Mājid) 'glorious, majestic, noble', from the root م ج د (m-j-d). The source gloss 'Praised, Glorious' is broadly consistent. Same name as majeed, majid and majiid.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "ماجد",
+      "transliteration": "majed",
+      "root": "م ج د",
+      "root_transliteration": "m-j-d",
+      "morphology": "Built on the root م ج د.",
+      "feminine_form": null,
+      "etymological_meaning": "From the root م ج د (m-j-d)",
+      "root_family": [],
+      "etymology_explanation": "The form ماجد is an established Arabic lexical item, and Majed is the word itself used as a personal name rather than a derived or diminutive form.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form ماجد.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Majed is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Majed is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Majed as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Glorious, majestic, noble",
+      "related_concepts": [
+        "Glorious, majestic, noble"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Glorious, majestic, noble” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Glorious, majestic, noble.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 6,
+      "life_path_number": 6,
+      "ruling_planet": "Venus",
+      "lucky_day": "Friday",
+      "lucky_colors": [
+        "White",
+        "Pink"
+      ],
+      "lucky_stone": "Diamond",
+      "meaning": "In Pythagorean numerology the letters of Majed total 6, associated with responsibility, care and harmony. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 6,
+      "lucky_day": "Friday",
+      "lucky_colors": [
+        "White",
+        "Pink"
+      ],
+      "lucky_stone": "Diamond",
+      "ruling_planet": "Venus"
+    },
+    "translations": {
+      "english": {
+        "name": "Majed",
+        "script": "Majed",
+        "meaning": "Glorious, majestic, noble",
+        "long_meaning": "Majed is an Arabic-origin given name; in Arabic the word means “Glorious, majestic, noble”."
+      },
+      "urdu": {
+        "name": "ماجد",
+        "script": "ماجد",
+        "meaning": "ماجد، مجید، شاندار",
+        "long_meaning": "Majed (ماجد) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم ماجد، مجید، شاندار ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "ماجد",
+        "script": "ماجد",
+        "meaning": "ماجد، مجید، باشکوه",
+        "long_meaning": "Majed (ماجد) نامی برگرفته از زبان عربی است و معنای اصلی آن ماجد، مجید، باشکوه است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "माजिद",
+        "script": "माजिद",
+        "meaning": "माजिद, महिमावान, उदार",
+        "long_meaning": "Majed (माजिद) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ माजिद, महिमावान, उदार है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "ماجد",
+        "script": "ماجد",
+        "meaning": "ماجد، مجید، باوقار",
+        "long_meaning": "Majed (ماجد) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې ماجد، مجید، باوقار ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "ماجد",
+        "script": "ماجد",
+        "meaning": "الماجد، المجيد، الشريف",
+        "long_meaning": "Majed (ماجد) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الماجد، المجيد، الشريف. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "ma-jed",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "ماجد"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Majed"
+      ],
+      "script_forms": [
+        "ماجد",
+        "माजिद"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form ماجد is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Majed mean?",
+        "a": "Majed is an Arabic-origin name meaning “Glorious, majestic, noble”."
+      },
+      {
+        "q": "What is the origin of Majed?",
+        "a": "Majed originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Majed an Arabic name?",
+        "a": "Yes, the recorded form ماجد is Arabic."
+      },
+      {
+        "q": "What is the root of Majed?",
+        "a": "It is built on the root م ج د (m-j-d)."
+      },
+      {
+        "q": "Is Majed an Islamic name?",
+        "a": "Majed is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Majed a Quranic name?",
+        "a": "Majed is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Majed mean in Urdu?",
+        "a": "In Urdu it is written ماجد and carries the sense “ماجد، مجید، شاندار”."
+      },
+      {
+        "q": "How is Majed pronounced?",
+        "a": "A romanized syllable approximation is “ma-jed”."
+      },
+      {
+        "q": "Is Majed a boy's or girl's name?",
+        "a": "Documented usage records Majed as a boy's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Majed Name Meaning, Origin & Islamic Context",
+      "meta_description": "Majed (ماجد) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Majed meaning, Majed name meaning, Majed origin, Majed meaning in Urdu, Majed pronunciation, Majed Islamic name",
+      "description_paragraph": "Majed is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Majed meaning",
+        "Majed name meaning",
+        "Majed origin",
+        "Majed meaning in Urdu",
+        "Majed pronunciation",
+        "Majed Islamic name"
+      ],
+      "focus_keyword": "Majed meaning",
+      "secondary_keywords": [
+        "Majed name meaning",
+        "Majed origin",
+        "Majed meaning in Urdu",
+        "Majed pronunciation",
+        "Majed Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/majed",
+      "seo_score": 95,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Majed, an Arabic-origin name used in Muslim communities.",
+      "body_summary": "Majed is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Majed",
+      "#MajedMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 152,
+      "quality_score": 95,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form ماجد carries the sense “Glorious, majestic, noble”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Majed",
+          "description": "Majed — an Arabic-origin given name meaning Glorious, majestic, noble",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Majed mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Majed is an Arabic-origin name meaning “Glorious, majestic, noble”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Majed?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Majed originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Majed an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form ماجد is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Majed?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is built on the root م ج د (m-j-d)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Majed an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Majed is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Majed a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Majed is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Majed mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written ماجد and carries the sense “ماجد، مجید، شاندار”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Majed pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “ma-jed”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Majed a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Majed as a boy's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Majed",
+              "item": "https://nameverse.site/names/islamic/majed"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

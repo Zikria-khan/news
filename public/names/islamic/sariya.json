@@ -1,0 +1,561 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Sariya",
+    "slug": "sariya",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Sariya",
+      "normalized_name": "sariya",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender follows documented naming usage, not an inference from the word's meaning; usage can vary by community.",
+      "alternate_spellings": [
+        "Sariya",
+        "sariya",
+        "Sariyah",
+        "Saria",
+        "Sariah",
+        "Saaria",
+        "Saariya",
+        "Sareya",
+        "Sariyyah"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "A night-travelling party; also a cloud or rain arriving at night, depending on the lexical sense.",
+      "primary_meaning": "Sariya (سارية) has Arabic dictionary senses including a party travelling by night and a cloud or rain arriving at night; the precise sense depends on the lexical entry.",
+      "literal_meaning": "The exact Arabic form is سَارِيَة. It is not claimed to be the name used in Qur'an 17:1; that verse contains a different verb for travelling by night.",
+      "meaning_explanation": "The night-travelling sense is associated with س ر ي. Arabic lexicons also record السارية من السحاب for a cloud arriving at night, and the same spelling has a separate pillar/mast sense in some dictionaries. QuranicNames' S-R-A root label is not used because the lexical sources support a different analysis.",
+      "meaning_confidence": "MEDIUM"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "سَارِيَة",
+      "transliteration": "sāriya",
+      "root": "س ر ي",
+      "root_transliteration": "s-r-y",
+      "morphology": "A feminine Arabic lexical form. One documented sense is a night-travelling party; dictionaries also record a cloud or rain arriving at night. The name-site root label S-R-A is not adopted.",
+      "feminine_form": null,
+      "etymological_meaning": "A night-travelling party; also a cloud or rain arriving at night, depending on the lexical sense.",
+      "root_family": [],
+      "etymology_explanation": "The night-travelling sense is associated with س ر ي. Arabic lexicons also record السارية من السحاب for a cloud arriving at night, and the same spelling has a separate pillar/mast sense in some dictionaries. QuranicNames' S-R-A root label is not used because the lexical sources support a different analysis.",
+      "etymology_confidence": "MEDIUM",
+      "false_etymology_warning": "Some baby-name pages assign S-R-A. Independent Arabic lexical entries place the night-travel/cloud form under س ر ي (s-r-y); the S-R-A label and a direct Qur'anic-name claim are not adopted."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form سَارِيَة.",
+        "usage": "Other scripts are transliterations or localized glosses; they are not independent origins."
+      },
+      "language_confidence": "MEDIUM"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "MEDIUM",
+      "origin_explanation": "The recorded form and meaning are associated with Arabic. The evidence distinguishes linguistic origin from religious/cultural use.",
+      "cultural_transmission": [
+        "Arabic-speaking communities",
+        "Muslim naming communities in South Asia"
+      ]
+    },
+    "religion": {
+      "primary_association": "Arabic and Muslim-cultural naming usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "A lexical Arabic name; not a Qur'anic personal name on the evidence recorded here.",
+      "religious_explanation": "A shared lexical theme with night-travel vocabulary does not make the name itself a Qur'anic occurrence.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "related_night_travel_vocabulary_only",
+        "note": "Qur'an 17:1 contains a related verb for travelling by night, not the personal name Sariya. No direct Qur'anic occurrence of سارية as a name is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report establishing this name or a special virtue is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishing this as a prophet's personal name is cited."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion attribution is asserted without a verified source."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Arabic and Muslim-cultural naming usage",
+      "interpretation": "The cloud/rain and night-travel senses are lexical associations, not predictions about a bearer.",
+      "important_distinction": "This descriptive record is not a religious ruling. Muslim cultural use, linguistic origin, and direct Qur'anic attestation are separate claims."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim naming communities"
+      ],
+      "cultural_meaning": "Recorded as a feminine given name by baby-name sources; usage and interpretation can vary by region.",
+      "personal_name_interpretation": "The cloud/rain and night-travel senses are lexical associations, not predictions about a bearer.",
+      "interpretation_warning": "A symbolic naming preference is distinct from dictionary meaning and is not a claim about a bearer's personality or future."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Night travel and night-arriving cloud or rain",
+      "related_concepts": [
+        "night journey",
+        "cloud",
+        "rain"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_asserted",
+      "render": false,
+      "meaning": null,
+      "basis": null,
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No evidence-based hidden personality traits are asserted."
+    },
+    "numerology": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "life_path_number": null,
+      "ruling_planet": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "meaning": null,
+      "note": "Numerology is not evidence-based and is not supplied in this record."
+    },
+    "lucky_attributes": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "ruling_planet": null
+    },
+    "translations": {
+      "english": {
+        "name": "Sariya",
+        "script": "Sariya",
+        "meaning": "A night-travelling party; also a cloud or rain arriving at night, depending on the lexical sense.",
+        "long_meaning": "Sariya (سارية) has Arabic dictionary senses including a party travelling by night and a cloud or rain arriving at night; the precise sense depends on the lexical entry."
+      },
+      "urdu": {
+        "name": "ساریہ",
+        "script": "ساریہ",
+        "meaning": "رات کو سفر کرنے والا قافلہ؛ رات میں آنے والا بادل یا بارش",
+        "long_meaning": "ساریہ کے لغوی معنی رات کو سفر کرنے والا قافلہ؛ رات میں آنے والا بادل یا بارش ہیں۔ یہ ترجمہ ابتدائی مسودہ ہے اور مقامی لسانی جائزے کا محتاج ہے۔"
+      },
+      "persian": {
+        "name": "ساریه",
+        "script": "ساریه",
+        "meaning": "کاروانِ شب‌رو؛ ابری یا بارانی که شب می‌آید",
+        "long_meaning": "معنای لغوی ساریه در این مدخل «کاروانِ شب‌رو؛ ابری یا بارانی که شب می‌آید» است؛ این برگردان پیش‌نویس است و به بازبینی بومی نیاز دارد."
+      },
+      "hindi": {
+        "name": "सारिया",
+        "script": "सारिया",
+        "meaning": "रात में चलने वाला दल; रात में आने वाला बादल या वर्षा",
+        "long_meaning": "सारिया का शब्दार्थ यहाँ रात में चलने वाला दल; रात में आने वाला बादल या वर्षा दिया गया है। यह अनुवाद प्रारूप है और स्थानीय भाषायी समीक्षा आवश्यक है।"
+      },
+      "pashto": {
+        "name": "ساریه",
+        "script": "ساریه",
+        "meaning": "د شپې خوځېدونکې ډله؛ د شپې راغلې ورېځ یا باران",
+        "long_meaning": "د ساریه لغوي مانا «د شپې خوځېدونکې ډله؛ د شپې راغلې ورېځ یا باران» ده؛ دا د ژباړې مسوده ده او د اصلي ژبې ویونکي بیاکتنې ته اړتیا لري.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "سَارِيَة",
+        "script": "سَارِيَة",
+        "meaning": "قافلة تسير ليلاً؛ وسحابة أو مطر يأتي ليلاً في بعض المعاجم",
+        "long_meaning": "المعنى اللغوي لـسَارِيَة في هذا السجل هو «قافلة تسير ليلاً؛ وسحابة أو مطر يأتي ليلاً في بعض المعاجم»؛ وهذه صياغة أولية تحتاج إلى مراجعة لغوية.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "source_language_gloss_with_localized_draft",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "The source-language core gloss is evidence-backed. All non-English localized meanings and script renderings are editorial drafts and require native-speaker review; transliteration does not establish a separate origin."
+    },
+    "pronunciation": {
+      "romanized": "saa-ri-ya (approximate)",
+      "ipa": null,
+      "approximation_note": "Approximate romanized guide; no IPA is asserted.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "سَارِيَة"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Sariyah",
+        "Saria",
+        "Sariah",
+        "Saaria",
+        "Saariya",
+        "Sareya",
+        "Sariyyah"
+      ],
+      "script_forms": [
+        "سَارِيَة",
+        "सारिया"
+      ],
+      "variant_notes": "Alternate spellings reflect orthographic or transliteration variants; they do not establish different etymologies or pronunciations.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "lexically_attested_name_usage",
+      "note": "The name form and its night-related lexical senses are documented; no direct Qur'anic personal-name occurrence is asserted."
+    },
+    "modern_usage": {
+      "status": "source_scoped_usage_data_available",
+      "note": "QuranicNames lists Sariya among its 2026 visitor searches. Its spelling and use as a name are distinct from the site's questionable S-R-A root label."
+    },
+    "popularity": {
+      "status": "source_scoped_metrics_available",
+      "render": true,
+      "score": null,
+      "by_region": [
+        {
+          "region": "Not geographically specified; QuranicNames.com visitor audience",
+          "measure": "relative visitor-search interest",
+          "year": 2026,
+          "category": "overall",
+          "rank": 27,
+          "births": null,
+          "relative_interest_percent": 50,
+          "observation_period": "preceding three months, per the source introduction",
+          "source_title": "Most Popular Muslim Baby Names in 2026",
+          "source": "https://quranicnames.com/most-popular-names/",
+          "limitation": "Site visitors only; percent is relative to the category leader, not a birth share."
+        },
+        {
+          "region": "Not geographically specified; QuranicNames.com visitor audience",
+          "measure": "relative visitor-search interest",
+          "year": 2026,
+          "category": "Quranic names",
+          "rank": 19,
+          "births": null,
+          "relative_interest_percent": 53,
+          "observation_period": "preceding three months, per the source introduction",
+          "source_title": "Most Popular Muslim Baby Names in 2026",
+          "source": "https://quranicnames.com/most-popular-names/",
+          "limitation": "Site visitors only; this is a site's name-search category, not a population-wide ranking."
+        }
+      ],
+      "note": "QuranicNames' 2026 percentages measure relative visitor-search interest against that page's category leader over the preceding three months; they are not birth counts or population-wide demand."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is included."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No individual bearer story is included without a verified source."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Sariya mean?",
+        "a": "Sariya (سارية) has Arabic dictionary senses including a party travelling by night and a cloud or rain arriving at night; the precise sense depends on the lexical entry."
+      },
+      {
+        "q": "What is the origin of Sariya?",
+        "a": "The night-travelling sense is associated with س ر ي. Arabic lexicons also record السارية من السحاب for a cloud arriving at night, and the same spelling has a separate pillar/mast sense in some dictionaries. QuranicNames' S-R-A root label is not used because the lexical sources support a different analysis."
+      },
+      {
+        "q": "Is Sariya an Arabic name?",
+        "a": "Yes. The recorded language/origin is Arabic; the source form is سَارِيَة."
+      },
+      {
+        "q": "How is Sariya written in Arabic?",
+        "a": "سَارِيَة"
+      },
+      {
+        "q": "Is Sariya a Quranic name?",
+        "a": "It is not claimed as a Qur'anic personal name. Qur'an 17:1 contains a related verb for travelling by night, not the personal name Sariya. No direct Qur'anic occurrence of سارية as a name is claimed."
+      },
+      {
+        "q": "Is Sariya an Islamic name?",
+        "a": "A lexical Arabic name; not a Qur'anic personal name on the evidence recorded here. A shared lexical theme with night-travel vocabulary does not make the name itself a Qur'anic occurrence."
+      },
+      {
+        "q": "How is Sariya pronounced?",
+        "a": "An approximate romanized guide is saa-ri-ya. Approximate romanized guide; no IPA is asserted."
+      },
+      {
+        "q": "Is Sariya a boy's or girl's name?",
+        "a": "The documented naming sources record Sariya as a female name; actual use can vary by language and community."
+      },
+      {
+        "q": "How popular is Sariya?",
+        "a": "Available scoped measure(s): Not geographically specified; QuranicNames.com visitor audience, 2026, overall list: #27, 50% relative visitor-search interest (Most Popular Muslim Baby Names in 2026); Not geographically specified; QuranicNames.com visitor audience, 2026, Quranic names list: #19, 53% relative visitor-search interest (Most Popular Muslim Baby Names in 2026). QuranicNames' 2026 percentages measure relative visitor-search interest against that page's category leader over the preceding three months; they are not birth counts or population-wide demand."
+      },
+      {
+        "q": "What does Sariya mean in Urdu?",
+        "a": "The draft Urdu rendering is ساریہ; its gloss is رات کو سفر کرنے والا قافلہ؛ رات میں آنے والا بادل یا بارش. Localized translations have not had native-speaker review."
+      },
+      {
+        "q": "What is the root of Sariya?",
+        "a": "The recorded Arabic root is س ر ي (s-r-y)."
+      }
+    ],
+    "seo": {
+      "title": "Sariya Name Meaning, Origin & Usage",
+      "meta_description": "Explore the sourced meaning, origin, pronunciation, script, and regional usage evidence for Sariya.",
+      "meta_keywords": "Sariya meaning, Sariya name meaning, Sariya origin, Sariya pronunciation, Sariya name in Urdu, Sariya Arabic name",
+      "description_paragraph": "Sariya is an Arabic-origin given name. This entry separates its lexical meaning, cultural and scriptural context, and source-scoped usage evidence.",
+      "keywords": [
+        "Sariya meaning",
+        "Sariya name meaning",
+        "Sariya origin",
+        "Sariya pronunciation",
+        "Sariya name in Urdu",
+        "Sariya Arabic name"
+      ],
+      "focus_keyword": "Sariya meaning",
+      "secondary_keywords": [
+        "Sariya name meaning",
+        "Sariya origin",
+        "Sariya pronunciation",
+        "Sariya name in Urdu",
+        "Sariya Arabic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/sariya",
+      "seo_score": null,
+      "seo_score_basis": "No composite SEO score is assigned; editorial and evidence quality are recorded separately."
+    },
+    "seo_content": {
+      "intro_paragraph": "Sariya is an Arabic-origin given name. The entry explains its documented meaning and distinguishes linguistic origin, religious/scriptural status, and regional usage.",
+      "body_summary": "Sariya (سارية) has Arabic dictionary senses including a party travelling by night and a cloud or rain arriving at night; the precise sense depends on the lexical entry. QuranicNames' 2026 percentages measure relative visitor-search interest against that page's category leader over the preceding three months; they are not birth counts or population-wide demand."
+    },
+    "social_tags": [
+      "#Sariya",
+      "#SariyaMeaning",
+      "#NameMeaning",
+      "#ArabicNames",
+      "#IslamicNames"
+    ],
+    "content_quality": {
+      "tier1_verified": false,
+      "authenticity_flags": [
+        "unsupported_S-R-A_root_label_rejected",
+        "same_spelling_has_separate_lexical_histories",
+        "localized_translations_require_native_review",
+        "popularity_metrics_are_source_and_region_scoped"
+      ],
+      "fabricated_content_removed": true,
+      "fields_total": 337,
+      "quality_score": null,
+      "quality_score_basis": "No composite quality score is asserted; source support, limitations, scriptural status, and review flags are explicit."
+    },
+    "evidence": {
+      "sources": [
+        "QuranicNames, Sariya — The form سارية, listed transliteration variants, personal-name usage, and proposed cloud/night-rain senses. Source: https://quranicnames.com/sariya/ Limitation: Its page labels the root S-R-A; that label is not accepted here.",
+        "Wiktionary, سارية — Under root س ر ي, lists a night-travelling party, a cloud arriving by night, and night rain; separately records a post/column/mast homograph borrowed from Aramaic. Source: https://en.wiktionary.org/wiki/%D8%B3%D8%A7%D8%B1%D9%8A%D8%A9 Limitation: The page distinguishes separate lexical histories; the meanings are not collapsed.",
+        "The Arabic Lexicon, root سري — Classical dictionary entries describe السارية as a cloud arriving at night and as night rain, under root س ر ي. Source: https://arabiclexicon.hawramani.com/%D8%B3%D8%B1%D9%8A/ Limitation: A lexical dictionary does not establish the name's prevalence.",
+        "QuranicNames 2026 visitor-search rankings — 2026 overall and Qur'anic-name visitor-search ranks and relative interest for Sariya. Source: https://quranicnames.com/most-popular-names/ Limitation: Visitor-search interest is not population-wide demand or official births."
+      ],
+      "verification_method": "The lexical/scriptural or language claim is separated from name-site glosses; name usage and popularity are checked separately. Every frequency figure retains its source, region, year, category, metric, and limitation. Candidate spellings, Romanized variants, source-script forms, and localized script renderings are checked against the existing dataset. Non-English glosses are drafts requiring native-speaker review."
+    },
+    "provenance": {
+      "pipeline": "NameVerse super-2.0 demand-informed batch builder",
+      "methodology": "Curated evidence manifest -> template-matched record build -> alias/script collision audit -> schema and integrity validation",
+      "upgraded_from": "New record generated from the current super-2.0 architecture; not converted from a legacy record.",
+      "processed_at": "2026-10-13T00:00:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Sariya",
+          "description": "Sariya — an Arabic-origin given name: A night-travelling party; also a cloud or rain arriving at night, depending on the lexical sense.",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Sariya mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sariya (سارية) has Arabic dictionary senses including a party travelling by night and a cloud or rain arriving at night; the precise sense depends on the lexical entry."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Sariya?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The night-travelling sense is associated with س ر ي. Arabic lexicons also record السارية من السحاب for a cloud arriving at night, and the same spelling has a separate pillar/mast sense in some dictionaries. QuranicNames' S-R-A root label is not used because the lexical sources support a different analysis."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Sariya an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. The recorded language/origin is Arabic; the source form is سَارِيَة."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Sariya written in Arabic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "سَارِيَة"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Sariya a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is not claimed as a Qur'anic personal name. Qur'an 17:1 contains a related verb for travelling by night, not the personal name Sariya. No direct Qur'anic occurrence of سارية as a name is claimed."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Sariya an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A lexical Arabic name; not a Qur'anic personal name on the evidence recorded here. A shared lexical theme with night-travel vocabulary does not make the name itself a Qur'anic occurrence."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Sariya pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An approximate romanized guide is saa-ri-ya. Approximate romanized guide; no IPA is asserted."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Sariya a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The documented naming sources record Sariya as a female name; actual use can vary by language and community."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How popular is Sariya?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Available scoped measure(s): Not geographically specified; QuranicNames.com visitor audience, 2026, overall list: #27, 50% relative visitor-search interest (Most Popular Muslim Baby Names in 2026); Not geographically specified; QuranicNames.com visitor audience, 2026, Quranic names list: #19, 53% relative visitor-search interest (Most Popular Muslim Baby Names in 2026). QuranicNames' 2026 percentages measure relative visitor-search interest against that page's category leader over the preceding three months; they are not birth counts or population-wide demand."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Sariya mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The draft Urdu rendering is ساریہ; its gloss is رات کو سفر کرنے والا قافلہ؛ رات میں آنے والا بادل یا بارش. Localized translations have not had native-speaker review."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Sariya?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The recorded Arabic root is س ر ي (s-r-y)."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Sariya",
+              "item": "https://nameverse.site/names/islamic/sariya"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": true,
+      "flags": [
+        "unsupported_S-R-A_root_label_rejected",
+        "same_spelling_has_separate_lexical_histories",
+        "localized_translations_require_native_review",
+        "popularity_metrics_are_source_and_region_scoped"
+      ],
+      "confidence": "MEDIUM",
+      "reviewed_by": "Automated source-aware build and validation; not a human or native-speaker review",
+      "reviewed_at": "2026-10-13T00:00:00+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": false,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "numerology",
+        "lucky_attributes",
+        "spiritual_meaning",
+        "celebrity_usage",
+        "real_world_usage",
+        "name_story"
+      ]
+    }
+  }
+}

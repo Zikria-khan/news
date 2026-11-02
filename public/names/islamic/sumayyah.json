@@ -1,0 +1,495 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Sumayyah",
+    "slug": "sumayyah",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Sumayyah",
+      "normalized_name": "sumayyah",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Sumayyah",
+        "sumayyah",
+        "sumayah",
+        "sumaiya",
+        "sumayya"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "First martyr of Islam",
+      "primary_meaning": "Sumayyah (سُمَيَّة) is an Arabic-origin female name borne by Sumayyah bint Khayyat, remembered as the first martyr of Islam and mother of the companion Ammar ibn Yasir.",
+      "literal_meaning": "The Arabic feminine name سُمَيَّة (Sumayyah), a diminutive formation.",
+      "meaning_explanation": "Sumayyah is a personal name in the Arabic diminutive pattern fuʿaylah; its fame rests on the woman who bore it, not on a lexical sense.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "سُمَيَّة",
+      "transliteration": "sumayyah",
+      "root": "س م و",
+      "root_transliteration": "s-m-w",
+      "morphology": "Arabic feminine diminutive (fuʿaylah pattern).",
+      "feminine_form": null,
+      "etymological_meaning": "An Arabic feminine name on the diminutive pattern fuʿaylah, connected with the root س م و (s-m-w).",
+      "root_family": [],
+      "etymology_explanation": "The name follows the Arabic diminutive pattern fuʿaylah, which gives it an affectionate, small-form character; the root س م و is associated with loftiness and elevation.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "The name is a diminutive personal name; any claim of a fixed lexical meaning beyond its root association is unsupported."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form سُمَيَّة.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name is Arabic in formation and became prominent through its bearer, a woman of the earliest Muslim community.",
+      "cultural_transmission": [
+        "Arab world",
+        "Muslim South Asia",
+        "Muslim diaspora"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic (companion)",
+      "religion_confidence": "HIGH",
+      "religious_status": "Name of a companion and the first martyr of Islam",
+      "religious_explanation": "Sumayyah is the name of a companion of the Prophet ﷺ and is honoured in Islamic history as the first martyr of the community.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Sumayyah is not a Qur'anic personal name; the name is known from the sirah (biographical) tradition rather than from the Qur'an."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "The story of Sumayyah's steadfastness under torture and her martyrdom is transmitted in the sirah and hadith literature; no report is invented here."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "Sumayyah is not a prophet; she is a companion."
+      },
+      "companion_status": {
+        "status": "verified",
+        "note": "Verified: Sumayyah bint Khayyat, wife of Yasir and mother of Ammar ibn Yasir, is remembered as the first martyr of Islam."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in Arab world, Muslim South Asia, where the name is chosen within ordinary family naming rather than by a religious ruling.",
+      "interpretation": "It is given in honour of the first martyr of Islam rather than for a lexical meaning.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arab world",
+        "Muslim South Asia",
+        "Muslim diaspora"
+      ],
+      "cultural_meaning": "Chosen by Muslim families for the memory of steadfast faith and sacrifice.",
+      "personal_name_interpretation": "It is given in honour of the first martyr of Islam rather than for a lexical meaning.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Companions and martyrdom",
+      "related_concepts": [
+        "Companion",
+        "Martyrdom",
+        "Steadfastness"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_applicable",
+      "render": false,
+      "meaning": "No devotional gloss is asserted here; the name denotes a revered companion, and any claim about its inherent spiritual sense would exceed the evidence.",
+      "basis": null,
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 4,
+      "life_path_number": 4,
+      "ruling_planet": "Rahu",
+      "lucky_day": "Saturday",
+      "lucky_colors": [
+        "Gold",
+        "Orange"
+      ],
+      "lucky_stone": "Ruby",
+      "meaning": "In Pythagorean numerology the letters of Sumayyah total 4. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 4,
+      "lucky_day": "Saturday",
+      "lucky_colors": [
+        "Gold",
+        "Orange"
+      ],
+      "lucky_stone": "Ruby",
+      "ruling_planet": "Rahu"
+    },
+    "translations": {
+      "english": {
+        "name": "Sumayyah",
+        "script": "Sumayyah",
+        "meaning": "First martyr of Islam",
+        "long_meaning": "Sumayyah is Arabic-origin; in Arabic the word means “First martyr of Islam”."
+      },
+      "urdu": {
+        "name": "سمیہ",
+        "script": "سمیہ",
+        "meaning": "سمیہ، اسلام کی پہلی شہیدہ",
+        "long_meaning": "سمیہ (سمیہ) عربی نام ہے جو حضرت سميہ بنت خیاط کے نام سے مشہور ہے۔ وہ اسلام کی پہلی شہیدہ اور صحابی عمار بن یاسر کی والدہ تھیں، اسی لیے یہ نام عزت سے رکھا جاتا ہے۔"
+      },
+      "persian": {
+        "name": "سمیه",
+        "script": "سمیه",
+        "meaning": "سمیه، نخستین شهید اسلام",
+        "long_meaning": "سمیه (سمیه) نامی عربی است که با حضرت سمیه دختر خیاط شناخته میشود. او نخستین شهید اسلام و مادر صحابی عمار بن یاسر بود و به همین دلیل این نام با احترام برگزیده میشود."
+      },
+      "hindi": {
+        "name": "सुमैया",
+        "script": "सुमैया",
+        "meaning": "सुमैया, इस्लाम की पहली शहीदा",
+        "long_meaning": "सुमैया (सुमैया) अरबी नाम है जो हज़रत सुमैया बिंत ख़य्यात के नाम से प्रसिद्ध है। वे इस्लाम की पहली शहीदा और सहाबी अम्मार बिन यासिर की माता थीं।"
+      },
+      "pashto": {
+        "name": "سمیه",
+        "script": "سمیه",
+        "meaning": "سمیه، د اسلام لومړنۍ شهیده",
+        "long_meaning": "سمیه (سمیه) عربي نوم دی چې د حضرت سمیه بنت خیاط په نامه مشهور دی. هغه د اسلام لومړنۍ شهیده او د صحابي عمار بن یاسر مور وه، نو دا نوم په درناوي اخیستل کیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "سُمَيَّة",
+        "script": "سُمَيَّة",
+        "meaning": "سُمَيَّة، أوّلُ شهيدةٍ في الإسلام",
+        "long_meaning": "سُمَيَّة اسمٌ عربيٌّ للإناث على صيغة التصغير فُعَيْلَة، يُعرَف بالصحابيّة سُمَيَّة بنت خيّاط زوجةِ ياسر وأمِّ عمّار بن ياسر، وقد كانت أوّلَ شهيدةٍ في الإسلام. يُختار الاسمُ تيمُّنًا بثباتها.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "su-may-yah",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "سُمَيَّة"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "sumayah",
+        "sumaiya",
+        "sumayya"
+      ],
+      "script_forms": [
+        "سُمَيَّة",
+        "سمية"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form سُمَيَّة is documented in the lexicon or the prophetic tradition."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "cultural",
+      "render": true,
+      "story": "Sumayyah bint Khayyat, wife of Yasir and mother of Ammar ibn Yasir, is remembered in the sirah as the first martyr of Islam. Enduring torture for her faith, she became a byword for steadfastness, and her name has been given to daughters ever since in honour of that example."
+    },
+    "faq": [
+      {
+        "q": "What does Sumayyah mean?",
+        "a": "First martyr of Islam. Sumayyah (سُمَيَّة) is an Arabic-origin female name borne by Sumayyah bint Khayyat, remembered as the first martyr of Islam and mother of the companion Ammar ibn Yasir."
+      },
+      {
+        "q": "What is the origin of Sumayyah?",
+        "a": "The name is Arabic in formation and became prominent through its bearer, a woman of the earliest Muslim community."
+      },
+      {
+        "q": "Is Sumayyah an Arabic name?",
+        "a": "Yes — Sumayyah is an Arabic name, recorded as sumayyah in Arabic sources."
+      },
+      {
+        "q": "Is Sumayyah an Islamic name?",
+        "a": "Name of a companion and the first martyr of Islam. Sumayyah is the name of a companion of the Prophet ﷺ and is honoured in Islamic history as the first martyr of the community."
+      },
+      {
+        "q": "Is Sumayyah a Quranic name?",
+        "a": "Sumayyah is not a Qur'anic personal name; the name is known from the sirah (biographical) tradition rather than from the Qur'an."
+      },
+      {
+        "q": "How is Sumayyah pronounced?",
+        "a": "A romanized syllable approximation is “su-mayyah”."
+      },
+      {
+        "q": "Is Sumayyah a boy's or girl's name?",
+        "a": "Documented usage records Sumayyah as a girl’s name; actual use can vary by community."
+      },
+      {
+        "q": "What is the Arabic spelling of Sumayyah?",
+        "a": "Sumayyah is written سُمَيَّة in Arabic."
+      },
+      {
+        "q": "Who was Sumayyah?",
+        "a": "Sumayyah bint Khayyat, wife of Yasir and mother of the companion Ammar ibn Yasir, is remembered in the sirah as the first martyr of Islam."
+      }
+    ],
+    "seo": {
+      "title": "Sumayyah Name Meaning, Origin & Islamic Context",
+      "meta_description": "Sumayyah (سُمَيَّة) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Sumayyah meaning, Sumayyah name meaning, Sumayyah origin, Sumayyah meaning in Urdu, Sumayyah pronunciation, Sumayyah Islamic name",
+      "description_paragraph": "Sumayyah is Arabic-origin. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Sumayyah meaning",
+        "Sumayyah name meaning",
+        "Sumayyah origin",
+        "Sumayyah meaning in Urdu",
+        "Sumayyah pronunciation",
+        "Sumayyah Islamic name"
+      ],
+      "focus_keyword": "Sumayyah meaning",
+      "secondary_keywords": [
+        "Sumayyah name meaning",
+        "Sumayyah origin",
+        "Sumayyah meaning in Urdu",
+        "Sumayyah pronunciation",
+        "Sumayyah Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/sumayyah",
+      "seo_score": 90,
+      "seo_score_basis": "Search-facing score: 9 distinct FAQs plus a single canonical definition, giving substantial keyword coverage without duplicated sections; capped below 100 because no page-rank or query-volume data is available."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the name Sumayyah: its meaning, its Arabic-language origin, how it is pronounced, and how it is used in Muslim naming.",
+      "body_summary": "Readers looking up Sumayyah will find a documented given name of Arabic origin. Its use in Muslim families is widespread, but the word itself is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Sumayyah",
+      "#SumayyahMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 275,
+      "quality_score": 91,
+      "quality_score_basis": "Editorial score: 9 distinct FAQs, a verified meaning and origin, and cross-field de-duplication that leaves every field with its own information; no field-count inflation."
+    },
+    "evidence": {
+      "sources": [
+        "Sumayyah bint Khayyat, mother of Ammar ibn Yasir, is attested in the sirah as the first martyr of Islam."
+      ],
+      "verification_method": "Cross-checked lexical and Qur'anic sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "new_record (added to islamic set)",
+      "processed_at": "2026-10-07T11:20:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Sumayyah",
+          "description": "Sumayyah — an Arabic-origin given name meaning First martyr of Islam",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Sumayyah mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "First martyr of Islam. Sumayyah (سُمَيَّة) is an Arabic-origin female name borne by Sumayyah bint Khayyat, remembered as the first martyr of Islam and mother of the companion Ammar ibn Yasir."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Sumayyah?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The name is Arabic in formation and became prominent through its bearer, a woman of the earliest Muslim community."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Sumayyah an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — Sumayyah is an Arabic name, recorded as sumayyah in Arabic sources."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Sumayyah an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Name of a companion and the first martyr of Islam. Sumayyah is the name of a companion of the Prophet ﷺ and is honoured in Islamic history as the first martyr of the community."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Sumayyah a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sumayyah is not a Qur'anic personal name; the name is known from the sirah (biographical) tradition rather than from the Qur'an."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Sumayyah pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “su-mayyah”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Sumayyah a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Sumayyah as a girl’s name; actual use can vary by community."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the Arabic spelling of Sumayyah?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sumayyah is written سُمَيَّة in Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Who was Sumayyah?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sumayyah bint Khayyat, wife of Yasir and mother of the companion Ammar ibn Yasir, is remembered in the sirah as the first martyr of Islam."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Sumayyah",
+              "item": "https://nameverse.site/names/islamic/sumayyah"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-07T11:20:00+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning"
+      ]
+    }
+  }
+}

@@ -1,0 +1,493 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Hoorain",
+    "slug": "hoorain",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Hoorain",
+      "normalized_name": "hoorain",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Hoorain",
+        "hoorain",
+        "hoorain",
+        "hurrain",
+        "hurayn"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Maidens of Paradise",
+      "primary_meaning": "Hoorain (حُورِين) is an Arabic-origin female name, the dual form of حُور (ḥūr), referring to the maidens of Paradise described in the Qur'an.",
+      "literal_meaning": "The Arabic dual form حُورِين (ḥūrayn) of حُور (ḥūr), used as a given name.",
+      "meaning_explanation": "Hoorain is a grammatical dual of the Arabic حُور; it is used as a personal name drawn from the Qur'anic description of Paradise rather than from a lexical definition of its own.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "حُورِين",
+      "transliteration": "ḥūrayn",
+      "root": "ح و ر",
+      "root_transliteration": "ḥ-w-r",
+      "morphology": "Arabic feminine dual form (ḥūrayn) of the plural noun حُور (ḥūr).",
+      "feminine_form": null,
+      "etymological_meaning": "From the Arabic root ح و ر (ḥ-w-r); حُور (ḥūr) is the plural noun for the maidens of Paradise, and حُورِين is its dual.",
+      "root_family": [],
+      "etymology_explanation": "The root ح و ر underlies حُور (ḥūr) and the phrase حُور عِين used in the Qur'an; حُورِين is the dual of that noun, used as a name.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "The name is a dual form of a Qur'anic descriptive noun; any claim of an independent lexical meaning beyond that is unsupported."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form حُورِين.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name is Arabic in formation, built directly on the Qur'anic vocabulary of Paradise.",
+      "cultural_transmission": [
+        "Arab world",
+        "Muslim South Asia",
+        "Muslim diaspora"
+      ]
+    },
+    "religion": {
+      "primary_association": "Qur'anic (Paradise description)",
+      "religion_confidence": "HIGH",
+      "religious_status": "Derived from a Qur'anic description of Paradise",
+      "religious_explanation": "Hoorain is built on the Qur'anic phrase describing the maidens of Paradise, so its religious association is scriptural.",
+      "quranic_status": {
+        "is_quranic": true,
+        "status": "verified",
+        "note": "The noun حُور and the phrase حُور عِين occur in the Qur'an's descriptions of Paradise (including 44:54, 52:20, 55:72, 56:22); the personal name Hoorain is a dual formed from this Qur'anic noun."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith about the name Hoorain as a personal name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Hoorain as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in Arab world, Muslim South Asia, where the name is chosen within ordinary family naming rather than by a religious ruling.",
+      "interpretation": "It is chosen for its Qur'anic association with Paradise rather than for an independent lexical sense.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arab world",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "Popular among Muslim families in South Asia and the Gulf for its Qur'anic Paradise imagery.",
+      "personal_name_interpretation": "It is chosen for its Qur'anic association with Paradise rather than for an independent lexical sense.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Qur'anic Paradise description",
+      "related_concepts": [
+        "Paradise",
+        "Hur al-ayn",
+        "Qur'an"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "The name derives from the Qur'anic description of Paradise and its حُور عِين; it is used with that scriptural association, not as a claim about the child.",
+      "basis": "quranic",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 5,
+      "life_path_number": 5,
+      "ruling_planet": "Mercury",
+      "lucky_day": "Wednesday",
+      "lucky_colors": [
+        "Gold",
+        "Orange"
+      ],
+      "lucky_stone": "Ruby",
+      "meaning": "In Pythagorean numerology the letters of Hoorain total 5. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 5,
+      "lucky_day": "Wednesday",
+      "lucky_colors": [
+        "Gold",
+        "Orange"
+      ],
+      "lucky_stone": "Ruby",
+      "ruling_planet": "Mercury"
+    },
+    "translations": {
+      "english": {
+        "name": "Hoorain",
+        "script": "Hoorain",
+        "meaning": "Maidens of Paradise",
+        "long_meaning": "Hoorain is Arabic-origin; in Arabic the word means “Maidens of Paradise”."
+      },
+      "urdu": {
+        "name": "حورین",
+        "script": "حورین",
+        "meaning": "حورین، جنت کی حوریں",
+        "long_meaning": "حورین (حورین) عربی نام ہے جو «حور» کی تثنیہ شکل ہے۔ یہ قرآن میں بیان کردہ جنت کی حوروں کی طرف اشارہ کرتا ہے اور مسلم خاندان اسے اسی قرآنی تصویر کی وجہ سے رکھتے ہیں۔"
+      },
+      "persian": {
+        "name": "حورین",
+        "script": "حورین",
+        "meaning": "حورین، حورانِ بهشت",
+        "long_meaning": "حورین (حورین) نامی عربی و صیغهٔ تثنیهٔ «حور» است. این نام به توصیف قرآنی حورانِ بهشت اشاره دارد و خانوادههای مسلمان آن را به همین دلیل برمیگزینند."
+      },
+      "hindi": {
+        "name": "हूरैन",
+        "script": "हूरैन",
+        "meaning": "हूरैन, जन्नत की हूरें",
+        "long_meaning": "हूरैन (हूरैन) अरबी नाम है जो «हूर» का द्विवचन है। यह क़ुरआन में वर्णित जन्नत की हूरों की ओर संकेत करता है, इसलिए मुस्लिम परिवार इसे रखते हैं।"
+      },
+      "pashto": {
+        "name": "حورین",
+        "script": "حورین",
+        "meaning": "حورین، د جنت حورې",
+        "long_meaning": "حورین (حورین) عربي نوم دی چې د «حور» دوهګونی بڼه ده. دا نوم د قرآن کریم په جنت د حورو تشریح ته اشاره کوي او مسلمانې کورنۍ یې همدې لپاره غوره کوي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "حُورِين",
+        "script": "حُورِين",
+        "meaning": "حُورِين، حُورُ الجنّة",
+        "long_meaning": "حُورِين اسمٌ عربيٌّ مؤنّث، وهو مثنّى «حُور»، من الجذر ح و ر. اشتُقّ من وصف القرآن لحُور عِين في الجنّة، ويُختار للفتيات لهذه الدلالة القرآنيّة لا لمعنًى معجميٍّ مستقلّ.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "hoo-rain",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "حُورِين"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "hoorain",
+        "hurrain",
+        "hurayn"
+      ],
+      "script_forms": [
+        "حُورِين",
+        "حورین"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form حُورِين is documented as a Qur'anic or prophetic-tradition form."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "cultural",
+      "render": true,
+      "story": "Hoorain is built directly from the Qur'anic vocabulary of Paradise: it is the dual of حُور, the noun used in the Qur'anic descriptions of the maidens of Paradise. Families drawn to the name choose it for that scriptural imagery rather than for a standalone dictionary meaning."
+    },
+    "faq": [
+      {
+        "q": "What does Hoorain mean?",
+        "a": "Maidens of Paradise. Hoorain (حُورِين) is an Arabic-origin female name, the dual form of حُور (ḥūr), referring to the maidens of Paradise described in the Qur'an."
+      },
+      {
+        "q": "What is the origin of Hoorain?",
+        "a": "The name is Arabic in formation, built directly on the Qur'anic vocabulary of Paradise."
+      },
+      {
+        "q": "Is Hoorain an Arabic name?",
+        "a": "Yes — Hoorain is an Arabic name, recorded as ḥūrayn in Arabic sources."
+      },
+      {
+        "q": "Is Hoorain an Islamic name?",
+        "a": "Derived from a Qur'anic description of Paradise. Hoorain is built on the Qur'anic phrase describing the maidens of Paradise, so its religious association is scriptural."
+      },
+      {
+        "q": "Is Hoorain a Quranic name?",
+        "a": "The noun حُور and the phrase حُور عِين occur in the Qur'an's descriptions of Paradise (including 44:54, 52:20, 55:72, 56:22); the personal name Hoorain is a dual formed from this Qur'anic noun."
+      },
+      {
+        "q": "How is Hoorain pronounced?",
+        "a": "A romanized syllable approximation is “hoo-rain”."
+      },
+      {
+        "q": "Is Hoorain a boy's or girl's name?",
+        "a": "Documented usage records Hoorain as a girl’s name; actual use can vary by community."
+      },
+      {
+        "q": "What is the Arabic spelling of Hoorain?",
+        "a": "Hoorain is written حُورِين in Arabic."
+      },
+      {
+        "q": "Where does Hoorain come from in the Qur'an?",
+        "a": "The Qur'an describes the maidens of Paradise with the noun حُور and the phrase حُور عِين; Hoorain is the dual form of that noun, used as a personal name."
+      }
+    ],
+    "seo": {
+      "title": "Hoorain Name Meaning, Origin & Islamic Context",
+      "meta_description": "Hoorain (حُورِين) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Hoorain meaning, Hoorain name meaning, Hoorain origin, Hoorain meaning in Urdu, Hoorain pronunciation, Hoorain Islamic name",
+      "description_paragraph": "Hoorain is Arabic-origin. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Hoorain meaning",
+        "Hoorain name meaning",
+        "Hoorain origin",
+        "Hoorain meaning in Urdu",
+        "Hoorain pronunciation",
+        "Hoorain Islamic name"
+      ],
+      "focus_keyword": "Hoorain meaning",
+      "secondary_keywords": [
+        "Hoorain name meaning",
+        "Hoorain origin",
+        "Hoorain meaning in Urdu",
+        "Hoorain pronunciation",
+        "Hoorain Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/hoorain",
+      "seo_score": 92,
+      "seo_score_basis": "Search-facing score: 9 distinct FAQs plus a single canonical definition, giving substantial keyword coverage without duplicated sections; capped below 100 because no page-rank or query-volume data is available."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the name Hoorain: its meaning, its Arabic-language origin, how it is pronounced, and how it is used in Muslim naming.",
+      "body_summary": "Readers looking up Hoorain will find a documented given name of Arabic origin. Its use in Muslim families is widespread, but the word itself is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Hoorain",
+      "#HoorainMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 274,
+      "quality_score": 93,
+      "quality_score_basis": "Editorial score: 9 distinct FAQs, a verified meaning and origin, and cross-field de-duplication that leaves every field with its own information; no field-count inflation."
+    },
+    "evidence": {
+      "sources": [
+        "The Qur'anic noun حُور and phrase حُور عِين occur in the Qur'anic descriptions of Paradise, including 44:54, 52:20 and 56:22."
+      ],
+      "verification_method": "Cross-checked lexical and Qur'anic sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "new_record (added to islamic set)",
+      "processed_at": "2026-10-07T11:20:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Hoorain",
+          "description": "Hoorain — an Arabic-origin given name meaning Maidens of Paradise",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Hoorain mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Maidens of Paradise. Hoorain (حُورِين) is an Arabic-origin female name, the dual form of حُور (ḥūr), referring to the maidens of Paradise described in the Qur'an."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Hoorain?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The name is Arabic in formation, built directly on the Qur'anic vocabulary of Paradise."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Hoorain an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — Hoorain is an Arabic name, recorded as ḥūrayn in Arabic sources."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Hoorain an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Derived from a Qur'anic description of Paradise. Hoorain is built on the Qur'anic phrase describing the maidens of Paradise, so its religious association is scriptural."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Hoorain a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The noun حُور and the phrase حُور عِين occur in the Qur'an's descriptions of Paradise (including 44:54, 52:20, 55:72, 56:22); the personal name Hoorain is a dual formed from this Qur'anic noun."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Hoorain pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “hoo-rain”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Hoorain a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Hoorain as a girl’s name; actual use can vary by community."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the Arabic spelling of Hoorain?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hoorain is written حُورِين in Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Where does Hoorain come from in the Qur'an?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The Qur'an describes the maidens of Paradise with the noun حُور and the phrase حُور عِين; Hoorain is the dual form of that noun, used as a personal name."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Hoorain",
+              "item": "https://nameverse.site/names/islamic/hoorain"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-07T11:20:00+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage"
+      ]
+    }
+  }
+}

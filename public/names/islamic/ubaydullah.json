@@ -1,0 +1,533 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Ubaydullah",
+    "slug": "ubaydullah",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Ubaydullah",
+      "normalized_name": "ubaydullah",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender follows documented naming usage, not an inference from the word's meaning; usage can vary by community.",
+      "alternate_spellings": [
+        "Ubaydullah",
+        "ubaydullah",
+        "Ubaidullah",
+        "Obaidullah"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Little servant of Allah.",
+      "primary_meaning": "Ubaydullah (ʿubayd Allāh) is an Arabic male name meaning 'little servant of Allah', the diminutive counterpart within the servant-of-God naming pattern that includes Abdullah; the directories disagree on whether the pattern's origin label is Arabic or Urdu, and the lexical analysis here follows Arabic morphology.",
+      "literal_meaning": "The compound joins the diminutive of ʿabd ('servant') with Allah; no Qur'anic verse uses the compound, and the record asserts none.",
+      "meaning_explanation": "The gloss follows the documented directory entries ('Slave of Allah', 'Little Servant'); the record notes that the pattern is a naming convention rather than a Qur'anic word and that no specific historical bearer is asserted.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "عُبَيْدُ الله",
+      "transliteration": "ʿubayd Allāh",
+      "root": "ع ب د",
+      "root_transliteration": "ʿ-b-d",
+      "morphology": "Diminutive ʿubayd ('little servant') plus Allah, built on the well-attested Arabic servant-of-God naming pattern that produced names such as Abdullah.",
+      "feminine_form": null,
+      "etymological_meaning": "Little servant of Allah.",
+      "root_family": [],
+      "etymology_explanation": "The gloss follows the documented directory entries ('Slave of Allah', 'Little Servant'); the record notes that the pattern is a naming convention rather than a Qur'anic word and that no specific historical bearer is asserted.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented lexical analysis is asserted; unsupported name-site etymologies are not adopted."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form عُبَيْدُ الله.",
+        "usage": "Other scripts are transliterations or localized glosses; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The recorded form and meaning are associated with Arabic. The evidence distinguishes linguistic origin from religious/cultural use.",
+      "cultural_transmission": [
+        "Arabic-speaking communities",
+        "Muslim naming communities in South Asia"
+      ]
+    },
+    "religion": {
+      "primary_association": "Arabic and Muslim-cultural naming usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "A devotional servant-of-God name; not a prescribed religious formula.",
+      "religious_explanation": "Servant-of-God names are well established in Muslim tradition; this record asserts no ruling about the name and no special virtue attached to it.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_claimed",
+        "note": "The ʿabd/ʿubayd-Allah compound is a naming pattern, not a Qur'anic word; no direct verse occurrence is asserted."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report establishing this name or a special virtue is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishing this as a prophet's personal name is cited."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion attribution is asserted without a verified source."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Arabic and Muslim-cultural naming usage",
+      "interpretation": "Families may value the devotional sense, but that is a naming preference rather than a prediction about the bearer.",
+      "important_distinction": "This descriptive record is not a religious ruling. Muslim cultural use, linguistic origin, and direct Qur'anic attestation are separate claims."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim naming communities",
+        "Urdu-speaking communities"
+      ],
+      "cultural_meaning": "Recorded as a masculine given name especially in South Asian and Arab Muslim communities; this does not establish a single worldwide frequency.",
+      "personal_name_interpretation": "Families may value the devotional sense, but that is a naming preference rather than a prediction about the bearer.",
+      "interpretation_warning": "A symbolic naming preference is distinct from dictionary meaning and is not a claim about a bearer's personality or future."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Servitude to God, devotion",
+      "related_concepts": [
+        "servant of God",
+        "Abdullah",
+        "devotion"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_asserted",
+      "render": false,
+      "meaning": null,
+      "basis": null,
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No evidence-based hidden personality traits are asserted."
+    },
+    "numerology": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "life_path_number": null,
+      "ruling_planet": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "meaning": null,
+      "note": "Numerology is not evidence-based and is not supplied in this record."
+    },
+    "lucky_attributes": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "ruling_planet": null
+    },
+    "translations": {
+      "english": {
+        "name": "Ubaydullah",
+        "script": "Ubaydullah",
+        "meaning": "Little servant of Allah.",
+        "long_meaning": "Ubaydullah (ʿubayd Allāh) is an Arabic male name meaning 'little servant of Allah', the diminutive counterpart within the servant-of-God naming pattern that includes Abdullah; the directories disagree on whether the pattern's origin label is Arabic or Urdu, and the lexical analysis here follows Arabic morphology."
+      },
+      "urdu": {
+        "name": "عبید اللہ",
+        "script": "عبید اللہ",
+        "meaning": "عبید اللہ؛ اللہ کا چھوٹا بندہ",
+        "long_meaning": "عبید اللہ کے لغوی معنی عبید اللہ؛ اللہ کا چھوٹا بندہ ہیں۔ یہ ترجمہ ابتدائی مسودہ ہے اور مقامی لسانی جائزے کا محتاج ہے۔"
+      },
+      "persian": {
+        "name": "عبیدالله",
+        "script": "عبیدالله",
+        "meaning": "عبیدالله؛ بنده کوچک خداوند",
+        "long_meaning": "معنای لغوی عبیدالله در این مدخل «عبیدالله؛ بنده کوچک خداوند» است؛ این برگردان پیش‌نویس است و به بازبینی بومی نیاز دارد."
+      },
+      "hindi": {
+        "name": "उबैदुल्लाह",
+        "script": "उबैदुल्लाह",
+        "meaning": "उबैदुल्लाह; अल्लाह का छोटा सेवक",
+        "long_meaning": "उबैदुल्लाह का शब्दार्थ यहाँ उबैदुल्लाह; अल्लाह का छोटा सेवक दिया गया है। यह अनुवाद प्रारूप है और स्थानीय भाषायी समीक्षा आवश्यक है।"
+      },
+      "pashto": {
+        "name": "عبیدالله",
+        "script": "عبیدالله",
+        "meaning": "عبیدالله؛ د الله کوچنی بنده",
+        "long_meaning": "د عبیدالله لغوي مانا «عبیدالله؛ د الله کوچنی بنده» ده؛ دا د ژباړې مسوده ده او د اصلي ژبې ویونکي بیاکتنې ته اړتیا لري.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "عُبَيْدُ الله",
+        "script": "عُبَيْدُ الله",
+        "meaning": "عُبَيْدُ الله؛ العَبْد الصَّغير لله تعالى",
+        "long_meaning": "المعنى اللغوي لـعُبَيْدُ الله في هذا السجل هو «عُبَيْدُ الله؛ العَبْد الصَّغير لله تعالى»؛ وهذه صياغة أولية تحتاج إلى مراجعة لغوية.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "source_language_gloss_with_localized_draft",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "The source-language core gloss is evidence-backed. All non-English localized meanings and script renderings are editorial drafts and require native-speaker review; transliteration does not establish a separate origin."
+    },
+    "pronunciation": {
+      "romanized": "oo-BAY-doo-lah (approximate)",
+      "ipa": null,
+      "approximation_note": "Romanized pronunciation guide only; no IPA is asserted.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "عُبَيْدُ الله"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Ubaidullah",
+        "Obaidullah"
+      ],
+      "script_forms": [
+        "عُبَيْدُ الله",
+        "उबैदुल्लाह"
+      ],
+      "variant_notes": "Alternate spellings reflect orthographic or transliteration variants; they do not establish different etymologies or pronunciations.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "lexical_context",
+      "note": "The compound follows the Abdullah naming pattern; no specific historical bearer is asserted by this record."
+    },
+    "modern_usage": {
+      "status": "source_scoped_usage_data_available",
+      "note": "A site-internal directory ranking is the only collected metric; the Obaidullah spelling has its own, lower directory rank."
+    },
+    "popularity": {
+      "status": "source_scoped_metrics_available",
+      "render": true,
+      "score": null,
+      "by_region": [
+        {
+          "region": "HamariWeb name directory (site-internal ranking)",
+          "measure": "HamariWeb popularity rank",
+          "year": 2025,
+          "category": "boys",
+          "rank": 3108,
+          "births": null,
+          "relative_interest_percent": null,
+          "observation_period": "undated directory snapshot as displayed on the source page",
+          "source_title": "Ubaidullah Name Meaning - Ubaidullah Origin, Popularity & History",
+          "source": "https://hamariweb.com/names/muslim/urdu/boy/ubaidullah-meaning_7445/",
+          "limitation": "Site-internal directory ranking over an unclear population; not birth-registration or survey data. The directory labels the origin 'Urdu' while the compound is Arabic morphology; this record follows the lexical analysis and notes the disagreement."
+        }
+      ],
+      "note": "The only collected metric is a name-directory ranking; it measures a website's internal ordering, not births."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is included."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No individual bearer story is included without a verified source."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Ubaydullah mean?",
+        "a": "Ubaydullah (ʿubayd Allāh) is an Arabic male name meaning 'little servant of Allah', the diminutive counterpart within the servant-of-God naming pattern that includes Abdullah; the directories disagree on whether the pattern's origin label is Arabic or Urdu, and the lexical analysis here follows Arabic morphology."
+      },
+      {
+        "q": "What is the origin of Ubaydullah?",
+        "a": "The gloss follows the documented directory entries ('Slave of Allah', 'Little Servant'); the record notes that the pattern is a naming convention rather than a Qur'anic word and that no specific historical bearer is asserted."
+      },
+      {
+        "q": "Is Ubaydullah an Arabic name?",
+        "a": "Yes. The recorded language/origin is Arabic; the source form is عُبَيْدُ الله."
+      },
+      {
+        "q": "How is Ubaydullah written in Arabic?",
+        "a": "عُبَيْدُ الله"
+      },
+      {
+        "q": "Is Ubaydullah a Quranic name?",
+        "a": "It is not claimed as a Qur'anic personal name. The ʿabd/ʿubayd-Allah compound is a naming pattern, not a Qur'anic word; no direct verse occurrence is asserted."
+      },
+      {
+        "q": "Is Ubaydullah an Islamic name?",
+        "a": "A devotional servant-of-God name; not a prescribed religious formula. Servant-of-God names are well established in Muslim tradition; this record asserts no ruling about the name and no special virtue attached to it."
+      },
+      {
+        "q": "How is Ubaydullah pronounced?",
+        "a": "An approximate romanized guide is oo-BAY-doo-lah. Romanized pronunciation guide only; no IPA is asserted."
+      },
+      {
+        "q": "Is Ubaydullah a boy's or girl's name?",
+        "a": "The documented naming sources record Ubaydullah as a male name; actual use can vary by language and community."
+      },
+      {
+        "q": "How popular is Ubaydullah?",
+        "a": "Available scoped measure(s): HamariWeb name directory (site-internal ranking), 2025: #3108 among boys (Ubaidullah Name Meaning - Ubaidullah Origin, Popularity & History). The only collected metric is a name-directory ranking; it measures a website's internal ordering, not births."
+      },
+      {
+        "q": "What does Ubaydullah mean in Urdu?",
+        "a": "The draft Urdu rendering is عبید اللہ; its gloss is عبید اللہ؛ اللہ کا چھوٹا بندہ. Localized translations have not had native-speaker review."
+      },
+      {
+        "q": "What is the root of Ubaydullah?",
+        "a": "The recorded Arabic root is ع ب د (ʿ-b-d)."
+      }
+    ],
+    "seo": {
+      "title": "Ubaydullah Name Meaning, Origin & Usage",
+      "meta_description": "Explore the sourced meaning, origin, pronunciation, script, and regional usage evidence for Ubaydullah.",
+      "meta_keywords": "Ubaydullah meaning, Ubaydullah name meaning, Ubaydullah origin, Ubaydullah pronunciation, Ubaydullah name in Urdu, Ubaydullah Arabic name",
+      "description_paragraph": "Ubaydullah is an Arabic-origin given name. This entry separates its lexical meaning, cultural and scriptural context, and source-scoped usage evidence.",
+      "keywords": [
+        "Ubaydullah meaning",
+        "Ubaydullah name meaning",
+        "Ubaydullah origin",
+        "Ubaydullah pronunciation",
+        "Ubaydullah name in Urdu",
+        "Ubaydullah Arabic name"
+      ],
+      "focus_keyword": "Ubaydullah meaning",
+      "secondary_keywords": [
+        "Ubaydullah name meaning",
+        "Ubaydullah origin",
+        "Ubaydullah pronunciation",
+        "Ubaydullah name in Urdu",
+        "Ubaydullah Arabic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/ubaydullah",
+      "seo_score": null,
+      "seo_score_basis": "No composite SEO score is assigned; editorial and evidence quality are recorded separately."
+    },
+    "seo_content": {
+      "intro_paragraph": "Ubaydullah is an Arabic-origin given name. The entry explains its documented meaning and distinguishes linguistic origin, religious/scriptural status, and regional usage.",
+      "body_summary": "Ubaydullah (ʿubayd Allāh) is an Arabic male name meaning 'little servant of Allah', the diminutive counterpart within the servant-of-God naming pattern that includes Abdullah; the directories disagree on whether the pattern's origin label is Arabic or Urdu, and the lexical analysis here follows Arabic morphology. The only collected metric is a name-directory ranking; it measures a website's internal ordering, not births."
+    },
+    "social_tags": [
+      "#Ubaydullah",
+      "#UbaydullahMeaning",
+      "#NameMeaning",
+      "#ArabicNames",
+      "#IslamicNames"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [
+        "localized_translations_require_native_review",
+        "popularity_metrics_are_source_and_region_scoped"
+      ],
+      "fabricated_content_removed": true,
+      "fields_total": 311,
+      "quality_score": null,
+      "quality_score_basis": "No composite quality score is asserted; source support, limitations, scriptural status, and review flags are explicit."
+    },
+    "evidence": {
+      "sources": [
+        "HamariWeb, Ubaidullah — Gloss 'Slave of Allah' with Urdu wording اللہ کا چھوٹا بندہ; boy name; site-internal rank 3,108. Source: https://hamariweb.com/names/muslim/urdu/boy/ubaidullah-meaning_7445/ Limitation: Directory entry with a site-internal, population-unclear ranking; origin label disagrees with the Arabic morphological analysis.",
+        "HamariWeb, Obaidullah — Gloss 'Little Servant; Lovely Servant of' for the Obaidullah spelling; boy name; site-internal rank 56,096. Source: https://hamariweb.com/names/muslim/arabic/boy/obaidullah-meaning_80039/ Limitation: Directory entry; documents the diminutive reading of the compound."
+      ],
+      "verification_method": "The lexical/scriptural or language claim is separated from name-site glosses; name usage and popularity are checked separately. Every frequency figure retains its source, region, year, category, metric, and limitation. Candidate spellings, Romanized variants, source-script forms, and localized script renderings are checked against the existing dataset. Non-English glosses are drafts requiring native-speaker review."
+    },
+    "provenance": {
+      "pipeline": "NameVerse super-2.0 demand-informed batch builder",
+      "methodology": "Curated evidence manifest -> template-matched record build -> alias/script collision audit -> schema and integrity validation",
+      "upgraded_from": "New record generated from the current super-2.0 architecture; not converted from a legacy record.",
+      "processed_at": "2026-10-13T00:00:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Ubaydullah",
+          "description": "Ubaydullah — an Arabic-origin given name: Little servant of Allah.",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Ubaydullah mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ubaydullah (ʿubayd Allāh) is an Arabic male name meaning 'little servant of Allah', the diminutive counterpart within the servant-of-God naming pattern that includes Abdullah; the directories disagree on whether the pattern's origin label is Arabic or Urdu, and the lexical analysis here follows Arabic morphology."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Ubaydullah?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The gloss follows the documented directory entries ('Slave of Allah', 'Little Servant'); the record notes that the pattern is a naming convention rather than a Qur'anic word and that no specific historical bearer is asserted."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Ubaydullah an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. The recorded language/origin is Arabic; the source form is عُبَيْدُ الله."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Ubaydullah written in Arabic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "عُبَيْدُ الله"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Ubaydullah a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is not claimed as a Qur'anic personal name. The ʿabd/ʿubayd-Allah compound is a naming pattern, not a Qur'anic word; no direct verse occurrence is asserted."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Ubaydullah an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A devotional servant-of-God name; not a prescribed religious formula. Servant-of-God names are well established in Muslim tradition; this record asserts no ruling about the name and no special virtue attached to it."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Ubaydullah pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An approximate romanized guide is oo-BAY-doo-lah. Romanized pronunciation guide only; no IPA is asserted."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Ubaydullah a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The documented naming sources record Ubaydullah as a male name; actual use can vary by language and community."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How popular is Ubaydullah?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Available scoped measure(s): HamariWeb name directory (site-internal ranking), 2025: #3108 among boys (Ubaidullah Name Meaning - Ubaidullah Origin, Popularity & History). The only collected metric is a name-directory ranking; it measures a website's internal ordering, not births."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Ubaydullah mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The draft Urdu rendering is عبید اللہ; its gloss is عبید اللہ؛ اللہ کا چھوٹا بندہ. Localized translations have not had native-speaker review."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Ubaydullah?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The recorded Arabic root is ع ب د (ʿ-b-d)."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Ubaydullah",
+              "item": "https://nameverse.site/names/islamic/ubaydullah"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": true,
+      "flags": [
+        "localized_translations_require_native_review",
+        "popularity_metrics_are_source_and_region_scoped"
+      ],
+      "confidence": "HIGH",
+      "reviewed_by": "Automated source-aware build and validation; not a human or native-speaker review",
+      "reviewed_at": "2026-10-13T00:00:00+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": false,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "numerology",
+        "lucky_attributes",
+        "spiritual_meaning",
+        "celebrity_usage",
+        "real_world_usage",
+        "name_story"
+      ]
+    }
+  }
+}

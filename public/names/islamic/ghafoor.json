@@ -1,0 +1,488 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Ghafoor",
+    "slug": "ghafoor",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Ghafoor",
+      "normalized_name": "ghafoor",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Ghafoor",
+        "ghafoor"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Very forgiving, most forgiving",
+      "primary_meaning": "Ghafoor corresponds to the Arabic form غفور and is glossed in this record as “Very forgiving, most forgiving.” The record associates the form with root غ ف ر (gh-f-r). The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "Very forgiving, most forgiving",
+      "meaning_explanation": "Ghafoor corresponds to the Arabic form غفور (Arabic root غ ف ر (gh-f-r); intensive غَفور (Ghafūr)). Its core sense is ever-forgiving, most forgiving. Ghafoor is Arabic غفور (Ghafūr), an intensive adjective from the root غ ف ر (gh-f-r) meaning 'very forgiving, most forgiving' — a divine name in Islamic tradition. It is the same word already recorded under the earlier slug gafoor, in a different transliteration.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "غفور",
+      "transliteration": "ghafoor",
+      "root": "غ ف ر",
+      "root_transliteration": "gh-f-r",
+      "morphology": "Built on the root غ ف ر.",
+      "feminine_form": null,
+      "etymological_meaning": "From the root غ ف ر (gh-f-r)",
+      "root_family": [],
+      "etymology_explanation": "The form غفور is an established Arabic lexical item, and Ghafoor is the word itself used as a personal name rather than a derived or diminutive form.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form غفور.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Ghafoor is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Ghafoor is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Ghafoor as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Very forgiving, most forgiving",
+      "related_concepts": [
+        "Very forgiving, most forgiving"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Very forgiving, most forgiving” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Very forgiving, most forgiving.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 7,
+      "life_path_number": 7,
+      "ruling_planet": "Neptune",
+      "lucky_day": "Monday",
+      "lucky_colors": [
+        "Sea Green",
+        "Grey"
+      ],
+      "lucky_stone": "Cat's Eye",
+      "meaning": "In Pythagorean numerology the letters of Ghafoor total 7, associated with analysis, reflection and inner wisdom. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 7,
+      "lucky_day": "Monday",
+      "lucky_colors": [
+        "Sea Green",
+        "Grey"
+      ],
+      "lucky_stone": "Cat's Eye",
+      "ruling_planet": "Neptune"
+    },
+    "translations": {
+      "english": {
+        "name": "Ghafoor",
+        "script": "Ghafoor",
+        "meaning": "Very forgiving, most forgiving",
+        "long_meaning": "Ghafoor is an Arabic-origin given name; in Arabic the word means “Very forgiving, most forgiving”."
+      },
+      "urdu": {
+        "name": "غفور",
+        "script": "غفور",
+        "meaning": "بہت بخشنے والا، غفار",
+        "long_meaning": "Ghafoor (غفور) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم بہت بخشنے والا، غفار ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "غفور",
+        "script": "غفور",
+        "meaning": "بسیار آمرزنده، غفار",
+        "long_meaning": "Ghafoor (غفور) نامی برگرفته از زبان عربی است و معنای اصلی آن بسیار آمرزنده، غفار است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "ग़फ़ूर",
+        "script": "ग़फ़ूर",
+        "meaning": "अत्यंत क्षमाशील",
+        "long_meaning": "Ghafoor (ग़फ़ूर) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ अत्यंत क्षमाशील है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "غفور",
+        "script": "غفور",
+        "meaning": "ډېر بخښونکی",
+        "long_meaning": "Ghafoor (غفور) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې ډېر بخښونکی ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "غفور",
+        "script": "غفور",
+        "meaning": "الغفار، كثير المغفرة",
+        "long_meaning": "Ghafoor (غفور) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الغفار، كثير المغفرة. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "gha-foor",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "غفور"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Ghafoor"
+      ],
+      "script_forms": [
+        "غفور",
+        "ग़फ़ूर"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form غفور is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Ghafoor mean?",
+        "a": "Ghafoor is an Arabic-origin name meaning “Very forgiving, most forgiving”."
+      },
+      {
+        "q": "What is the origin of Ghafoor?",
+        "a": "Ghafoor originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Ghafoor an Arabic name?",
+        "a": "Yes, the recorded form غفور is Arabic."
+      },
+      {
+        "q": "What is the root of Ghafoor?",
+        "a": "It is built on the root غ ف ر (gh-f-r)."
+      },
+      {
+        "q": "Is Ghafoor an Islamic name?",
+        "a": "Ghafoor is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Ghafoor a Quranic name?",
+        "a": "Ghafoor is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Ghafoor mean in Urdu?",
+        "a": "In Urdu it is written غفور and carries the sense “بہت بخشنے والا، غفار”."
+      },
+      {
+        "q": "How is Ghafoor pronounced?",
+        "a": "A romanized syllable approximation is “gha-foor”."
+      },
+      {
+        "q": "Is Ghafoor a boy's or girl's name?",
+        "a": "Documented usage records Ghafoor as a boy's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Ghafoor Name Meaning, Origin & Islamic Context",
+      "meta_description": "Ghafoor (غفور) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Ghafoor meaning, Ghafoor name meaning, Ghafoor origin, Ghafoor meaning in Urdu, Ghafoor pronunciation, Ghafoor Islamic name",
+      "description_paragraph": "Ghafoor is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Ghafoor meaning",
+        "Ghafoor name meaning",
+        "Ghafoor origin",
+        "Ghafoor meaning in Urdu",
+        "Ghafoor pronunciation",
+        "Ghafoor Islamic name"
+      ],
+      "focus_keyword": "Ghafoor meaning",
+      "secondary_keywords": [
+        "Ghafoor name meaning",
+        "Ghafoor origin",
+        "Ghafoor meaning in Urdu",
+        "Ghafoor pronunciation",
+        "Ghafoor Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/ghafoor",
+      "seo_score": 95,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Ghafoor, an Arabic-origin name used in Muslim communities.",
+      "body_summary": "Ghafoor is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Ghafoor",
+      "#GhafoorMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 152,
+      "quality_score": 95,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form غفور carries the sense “Very forgiving, most forgiving”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Ghafoor",
+          "description": "Ghafoor — an Arabic-origin given name meaning Very forgiving, most forgiving",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Ghafoor mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ghafoor is an Arabic-origin name meaning “Very forgiving, most forgiving”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Ghafoor?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ghafoor originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Ghafoor an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form غفور is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Ghafoor?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is built on the root غ ف ر (gh-f-r)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Ghafoor an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ghafoor is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Ghafoor a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ghafoor is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Ghafoor mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written غفور and carries the sense “بہت بخشنے والا، غفار”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Ghafoor pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “gha-foor”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Ghafoor a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Ghafoor as a boy's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Ghafoor",
+              "item": "https://nameverse.site/names/islamic/ghafoor"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

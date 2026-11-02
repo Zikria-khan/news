@@ -1,0 +1,535 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Salwa",
+    "slug": "salwa",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Salwa",
+      "normalized_name": "salwa",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender follows documented naming usage, not an inference from the word's meaning; usage can vary by community.",
+      "alternate_spellings": [
+        "Salwa",
+        "salwa",
+        "Salwah"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Consolation or comfort; also the quail in classical Arabic and Qur'anic usage.",
+      "primary_meaning": "Salwa has Arabic lexical senses including consolation or comfort; it also names the quail in Qur'anic vocabulary, and classical lexicons record other senses such as honey.",
+      "literal_meaning": "The Arabic form سلوى is directly attested as vocabulary in the Qur'an, including the word for quail; the name is not a person named in the text.",
+      "meaning_explanation": "Arabic lexicons record more than one sense for سلوى. The common name gloss 'consolation/comfort' should not erase the Qur'anic food-word sense 'quail' or other lexicographic senses. The exact sense depends on context.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "سَلْوَى",
+      "transliteration": "salwā",
+      "root": "س ل و",
+      "root_transliteration": "s-l-w",
+      "morphology": "Established Arabic feminine lexical form and given name; its dictionary senses include consolation/comfort and quail, with other senses recorded in some lexicons.",
+      "feminine_form": null,
+      "etymological_meaning": "Consolation or comfort; also the quail in classical Arabic and Qur'anic usage.",
+      "root_family": [],
+      "etymology_explanation": "Arabic lexicons record more than one sense for سلوى. The common name gloss 'consolation/comfort' should not erase the Qur'anic food-word sense 'quail' or other lexicographic senses. The exact sense depends on context.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "This record uses س ل و (s-l-w), supported by Arabic lexical entries, and does not copy the S-L-A label from some name sites."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form سَلْوَى.",
+        "usage": "Other scripts are transliterations or localized glosses; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The recorded form and meaning are associated with Arabic. The evidence distinguishes linguistic origin from religious/cultural use.",
+      "cultural_transmission": [
+        "Arabic-speaking communities",
+        "Muslim naming communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Arabic and Muslim-cultural naming usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "A lexical Arabic feminine name with a Qur'anic vocabulary occurrence; not a doctrinal title.",
+      "religious_explanation": "The Qur'anic word is used in a food context; the name's consolation sense is separately supported by lexicons.",
+      "quranic_status": {
+        "is_quranic": true,
+        "status": "lexical_form_directly_attested",
+        "note": "سلوى occurs as vocabulary in Qur'an 2:57 and 20:80, where it is traditionally rendered quail; this is not a named-person occurrence."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report establishing this name or a special virtue is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishing this as a prophet's personal name is cited."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion attribution is asserted without a verified source."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Arabic and Muslim-cultural naming usage",
+      "interpretation": "The comfort/consolation sense can be valued by families, but personality is not inferred from a name.",
+      "important_distinction": "This descriptive record is not a religious ruling. Muslim cultural use, linguistic origin, and direct Qur'anic attestation are separate claims."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim naming communities"
+      ],
+      "cultural_meaning": "Recorded as a feminine given name; name use and the several dictionary senses are kept distinct.",
+      "personal_name_interpretation": "The comfort/consolation sense can be valued by families, but personality is not inferred from a name.",
+      "interpretation_warning": "A symbolic naming preference is distinct from dictionary meaning and is not a claim about a bearer's personality or future."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Consolation, comfort; quail",
+      "related_concepts": [
+        "consolation",
+        "comfort",
+        "quail"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_asserted",
+      "render": false,
+      "meaning": null,
+      "basis": null,
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No evidence-based hidden personality traits are asserted."
+    },
+    "numerology": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "life_path_number": null,
+      "ruling_planet": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "meaning": null,
+      "note": "Numerology is not evidence-based and is not supplied in this record."
+    },
+    "lucky_attributes": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "ruling_planet": null
+    },
+    "translations": {
+      "english": {
+        "name": "Salwa",
+        "script": "Salwa",
+        "meaning": "Consolation or comfort; also the quail in classical Arabic and Qur'anic usage.",
+        "long_meaning": "Salwa has Arabic lexical senses including consolation or comfort; it also names the quail in Qur'anic vocabulary, and classical lexicons record other senses such as honey."
+      },
+      "urdu": {
+        "name": "سلوٰی",
+        "script": "سلوٰی",
+        "meaning": "تسلی، راحت؛ بٹیر",
+        "long_meaning": "سلوٰی کے لغوی معنی تسلی، راحت؛ بٹیر ہیں۔ یہ ترجمہ ابتدائی مسودہ ہے اور مقامی لسانی جائزے کا محتاج ہے۔"
+      },
+      "persian": {
+        "name": "سَلْوی",
+        "script": "سَلْوی",
+        "meaning": "تسلی، آرامش؛ بلدرچین",
+        "long_meaning": "معنای لغوی سَلْوی در این مدخل «تسلی، آرامش؛ بلدرچین» است؛ این برگردان پیش‌نویس است و به بازبینی بومی نیاز دارد."
+      },
+      "hindi": {
+        "name": "सलवा",
+        "script": "सलवा",
+        "meaning": "सांत्वना, दिलासा; बटेर",
+        "long_meaning": "सलवा का शब्दार्थ यहाँ सांत्वना, दिलासा; बटेर दिया गया है। यह अनुवाद प्रारूप है और स्थानीय भाषायी समीक्षा आवश्यक है।"
+      },
+      "pashto": {
+        "name": "سلوى",
+        "script": "سلوى",
+        "meaning": "تسلي، ډاډ؛ مړزه",
+        "long_meaning": "د سلوى لغوي مانا «تسلي، ډاډ؛ مړزه» ده؛ دا د ژباړې مسوده ده او د اصلي ژبې ویونکي بیاکتنې ته اړتیا لري.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "سَلْوَى",
+        "script": "سَلْوَى",
+        "meaning": "التسلية والراحة؛ ويأتي اللفظ أيضاً بمعنى السُّمّان، وتذكر بعض المعاجم العسل",
+        "long_meaning": "المعنى اللغوي لـسَلْوَى في هذا السجل هو «التسلية والراحة؛ ويأتي اللفظ أيضاً بمعنى السُّمّان، وتذكر بعض المعاجم العسل»؛ وهذه صياغة أولية تحتاج إلى مراجعة لغوية.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "source_language_gloss_with_localized_draft",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "The source-language core gloss is evidence-backed. All non-English localized meanings and script renderings are editorial drafts and require native-speaker review; transliteration does not establish a separate origin."
+    },
+    "pronunciation": {
+      "romanized": "SAL-wah (approximate)",
+      "ipa": null,
+      "approximation_note": "Romanized pronunciation guide only; no IPA is asserted.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "سَلْوَى"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Salwah"
+      ],
+      "script_forms": [
+        "سَلْوَى",
+        "सलवा"
+      ],
+      "variant_notes": "Alternate spellings reflect orthographic or transliteration variants; they do not establish different etymologies or pronunciations.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "lexically_scripturally_attested",
+      "note": "The word appears in Qur'anic food vocabulary; the name's consolation sense is separately attested in dictionaries."
+    },
+    "modern_usage": {
+      "status": "source_scoped_usage_data_available",
+      "note": "The Bump reports a 2025 U.S. girl-name birth rank for Salwa; this is a U.S. annual-birth measure and does not represent global prevalence."
+    },
+    "popularity": {
+      "status": "source_scoped_metrics_available",
+      "render": true,
+      "score": null,
+      "by_region": [
+        {
+          "region": "United States",
+          "measure": "girl-name rank in U.S. births, as reported by The Bump",
+          "year": 2025,
+          "category": "girls",
+          "rank": 4860,
+          "births": null,
+          "relative_interest_percent": null,
+          "observation_period": null,
+          "source_title": "Salwa - Baby Name Meaning, Origin and Popularity",
+          "source": "https://www.thebump.com/b/salwa-baby-name",
+          "limitation": "The source reports a rank but not a count in the cited page; U.S.-only, not global demand."
+        }
+      ],
+      "note": "The Bump reports Salwa at U.S. girls' birth rank 4,860 for 2025. The rank is geographically limited to U.S. births and should not be treated as worldwide prevalence."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is included."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No individual bearer story is included without a verified source."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Salwa mean?",
+        "a": "Salwa has Arabic lexical senses including consolation or comfort; it also names the quail in Qur'anic vocabulary, and classical lexicons record other senses such as honey."
+      },
+      {
+        "q": "What is the origin of Salwa?",
+        "a": "Arabic lexicons record more than one sense for سلوى. The common name gloss 'consolation/comfort' should not erase the Qur'anic food-word sense 'quail' or other lexicographic senses. The exact sense depends on context."
+      },
+      {
+        "q": "Is Salwa an Arabic name?",
+        "a": "Yes. The recorded language/origin is Arabic; the source form is سَلْوَى."
+      },
+      {
+        "q": "How is Salwa written in Arabic?",
+        "a": "سَلْوَى"
+      },
+      {
+        "q": "Is Salwa a Quranic name?",
+        "a": "The lexical/scriptural form is directly attested, but not as a named person: سلوى occurs as vocabulary in Qur'an 2:57 and 20:80, where it is traditionally rendered quail; this is not a named-person occurrence."
+      },
+      {
+        "q": "Is Salwa an Islamic name?",
+        "a": "A lexical Arabic feminine name with a Qur'anic vocabulary occurrence; not a doctrinal title. The Qur'anic word is used in a food context; the name's consolation sense is separately supported by lexicons."
+      },
+      {
+        "q": "How is Salwa pronounced?",
+        "a": "An approximate romanized guide is SAL-wah. Romanized pronunciation guide only; no IPA is asserted."
+      },
+      {
+        "q": "Is Salwa a boy's or girl's name?",
+        "a": "The documented naming sources record Salwa as a female name; actual use can vary by language and community."
+      },
+      {
+        "q": "How popular is Salwa?",
+        "a": "Available scoped measure(s): United States, 2025: #4860 among girls (Salwa - Baby Name Meaning, Origin and Popularity). The Bump reports Salwa at U.S. girls' birth rank 4,860 for 2025. The rank is geographically limited to U.S. births and should not be treated as worldwide prevalence."
+      },
+      {
+        "q": "What does Salwa mean in Urdu?",
+        "a": "The draft Urdu rendering is سلوٰی; its gloss is تسلی، راحت؛ بٹیر. Localized translations have not had native-speaker review."
+      },
+      {
+        "q": "What is the root of Salwa?",
+        "a": "The recorded Arabic root is س ل و (s-l-w)."
+      }
+    ],
+    "seo": {
+      "title": "Salwa Name Meaning, Origin & Usage",
+      "meta_description": "Explore the sourced meaning, origin, pronunciation, script, and regional usage evidence for Salwa.",
+      "meta_keywords": "Salwa meaning, Salwa name meaning, Salwa origin, Salwa pronunciation, Salwa name in Urdu, Salwa Arabic name",
+      "description_paragraph": "Salwa is an Arabic-origin given name. This entry separates its lexical meaning, cultural and scriptural context, and source-scoped usage evidence.",
+      "keywords": [
+        "Salwa meaning",
+        "Salwa name meaning",
+        "Salwa origin",
+        "Salwa pronunciation",
+        "Salwa name in Urdu",
+        "Salwa Arabic name"
+      ],
+      "focus_keyword": "Salwa meaning",
+      "secondary_keywords": [
+        "Salwa name meaning",
+        "Salwa origin",
+        "Salwa pronunciation",
+        "Salwa name in Urdu",
+        "Salwa Arabic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/salwa",
+      "seo_score": null,
+      "seo_score_basis": "No composite SEO score is assigned; editorial and evidence quality are recorded separately."
+    },
+    "seo_content": {
+      "intro_paragraph": "Salwa is an Arabic-origin given name. The entry explains its documented meaning and distinguishes linguistic origin, religious/scriptural status, and regional usage.",
+      "body_summary": "Salwa has Arabic lexical senses including consolation or comfort; it also names the quail in Qur'anic vocabulary, and classical lexicons record other senses such as honey. The Bump reports Salwa at U.S. girls' birth rank 4,860 for 2025. The rank is geographically limited to U.S. births and should not be treated as worldwide prevalence."
+    },
+    "social_tags": [
+      "#Salwa",
+      "#SalwaMeaning",
+      "#NameMeaning",
+      "#ArabicNames",
+      "#IslamicNames"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [
+        "multiple_contextual_lexical_senses",
+        "unsupported_S-L-A_root_label_rejected",
+        "localized_translations_require_native_review",
+        "popularity_metrics_are_source_and_region_scoped"
+      ],
+      "fabricated_content_removed": true,
+      "fields_total": 313,
+      "quality_score": null,
+      "quality_score_basis": "No composite quality score is asserted; source support, limitations, scriptural status, and review flags are explicit."
+    },
+    "evidence": {
+      "sources": [
+        "The Arabic Lexicon, root سلو — Dictionary senses of سلوى including consolation/comfort, quail, and honey. Source: https://arabiclexicon.hawramani.com/%D8%B3%D9%84%D9%88/ Limitation: These senses are context-dependent and should not be collapsed into one gloss.",
+        "QuranicNames, Salwa — Arabic spelling, feminine name usage, consolation sense, and the Qur'anic quail sense. Source: https://quranicnames.com/salwa/ Limitation: Its root label is not copied; the Arabic lexical root is recorded here as س ل و.",
+        "The Bump, Salwa (2025 U.S. births) — Reported U.S. girl-name rank 4,860 for 2025 and cited source list. Source: https://www.thebump.com/b/salwa-baby-name Limitation: The page excerpt provides a rank but no count; it is not a global popularity measure."
+      ],
+      "verification_method": "The lexical/scriptural or language claim is separated from name-site glosses; name usage and popularity are checked separately. Every frequency figure retains its source, region, year, category, metric, and limitation. Candidate spellings, Romanized variants, source-script forms, and localized script renderings are checked against the existing dataset. Non-English glosses are drafts requiring native-speaker review."
+    },
+    "provenance": {
+      "pipeline": "NameVerse super-2.0 demand-informed batch builder",
+      "methodology": "Curated evidence manifest -> template-matched record build -> alias/script collision audit -> schema and integrity validation",
+      "upgraded_from": "New record generated from the current super-2.0 architecture; not converted from a legacy record.",
+      "processed_at": "2026-10-13T00:00:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Salwa",
+          "description": "Salwa — an Arabic-origin given name: Consolation or comfort; also the quail in classical Arabic and Qur'anic usage.",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Salwa mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Salwa has Arabic lexical senses including consolation or comfort; it also names the quail in Qur'anic vocabulary, and classical lexicons record other senses such as honey."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Salwa?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Arabic lexicons record more than one sense for سلوى. The common name gloss 'consolation/comfort' should not erase the Qur'anic food-word sense 'quail' or other lexicographic senses. The exact sense depends on context."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Salwa an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. The recorded language/origin is Arabic; the source form is سَلْوَى."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Salwa written in Arabic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "سَلْوَى"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Salwa a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The lexical/scriptural form is directly attested, but not as a named person: سلوى occurs as vocabulary in Qur'an 2:57 and 20:80, where it is traditionally rendered quail; this is not a named-person occurrence."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Salwa an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A lexical Arabic feminine name with a Qur'anic vocabulary occurrence; not a doctrinal title. The Qur'anic word is used in a food context; the name's consolation sense is separately supported by lexicons."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Salwa pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An approximate romanized guide is SAL-wah. Romanized pronunciation guide only; no IPA is asserted."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Salwa a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The documented naming sources record Salwa as a female name; actual use can vary by language and community."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How popular is Salwa?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Available scoped measure(s): United States, 2025: #4860 among girls (Salwa - Baby Name Meaning, Origin and Popularity). The Bump reports Salwa at U.S. girls' birth rank 4,860 for 2025. The rank is geographically limited to U.S. births and should not be treated as worldwide prevalence."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Salwa mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The draft Urdu rendering is سلوٰی; its gloss is تسلی، راحت؛ بٹیر. Localized translations have not had native-speaker review."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Salwa?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The recorded Arabic root is س ل و (s-l-w)."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Salwa",
+              "item": "https://nameverse.site/names/islamic/salwa"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": true,
+      "flags": [
+        "multiple_contextual_lexical_senses",
+        "unsupported_S-L-A_root_label_rejected",
+        "localized_translations_require_native_review",
+        "popularity_metrics_are_source_and_region_scoped"
+      ],
+      "confidence": "HIGH",
+      "reviewed_by": "Automated source-aware build and validation; not a human or native-speaker review",
+      "reviewed_at": "2026-10-13T00:00:00+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": false,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "numerology",
+        "lucky_attributes",
+        "spiritual_meaning",
+        "celebrity_usage",
+        "real_world_usage",
+        "name_story"
+      ]
+    }
+  }
+}

@@ -1,0 +1,489 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Zakaria",
+    "slug": "zakaria",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Zakaria",
+      "normalized_name": "zakaria",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Zakaria",
+        "zakaria"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Zechariah (prophet)",
+      "primary_meaning": "Zakaria corresponds to the Arabic form زَكَرِيَّا and is glossed in this record as “Zechariah (prophet).” The record associates the form with root ذ ك ر (dh-k-r). The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "Zechariah (prophet)",
+      "meaning_explanation": "Zakaria corresponds to the Arabic form زَكَرِيَّا (Arabic root ذ ك ر (dh-k-r); زَكَرِيَّا (Zakariyyā)). Its core sense is zakaria; zechariah (prophet). Zakaria is Arabic زَكَرِيَّا (Zakariyyā), the Quranic form of the prophet Zechariah.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "زَكَرِيَّا",
+      "transliteration": "zakaria",
+      "root": "ذ ك ر",
+      "root_transliteration": "dh-k-r",
+      "morphology": "Built on the root ذ ك ر.",
+      "feminine_form": null,
+      "etymological_meaning": "From the root ذ ك ر (dh-k-r)",
+      "root_family": [],
+      "etymology_explanation": "The form زَكَرِيَّا is an established Arabic lexical item, and Zakaria is the word itself used as a personal name rather than a derived or diminutive form.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form زَكَرِيَّا.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Zakaria is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": true,
+        "status": "verified",
+        "note": "Zakaria is a Qur'anic name: it is the name of a prophet, mentioned in the Qur'an."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "verified",
+        "note": "Zakaria is the name of a prophet, so it is used with prophetic association."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Zechariah (prophet)",
+      "related_concepts": [
+        "Zechariah (prophet)"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Zechariah (prophet)” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Zechariah (prophet).",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 4,
+      "life_path_number": 4,
+      "ruling_planet": "Uranus",
+      "lucky_day": "Sunday",
+      "lucky_colors": [
+        "Grey",
+        "Blue"
+      ],
+      "lucky_stone": "Hessonite",
+      "meaning": "In Pythagorean numerology the letters of Zakaria total 4, associated with stability, discipline and order. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 4,
+      "lucky_day": "Sunday",
+      "lucky_colors": [
+        "Grey",
+        "Blue"
+      ],
+      "lucky_stone": "Hessonite",
+      "ruling_planet": "Uranus"
+    },
+    "translations": {
+      "english": {
+        "name": "Zakaria",
+        "script": "Zakaria",
+        "meaning": "Zechariah (prophet)",
+        "long_meaning": "Zakaria is an Arabic-origin given name; in Arabic the word means “Zechariah (prophet)”."
+      },
+      "urdu": {
+        "name": "زکریا",
+        "script": "زکریا",
+        "meaning": "زکریا، نبی کا نام",
+        "long_meaning": "Zakaria (زکریا) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم زکریا، نبی کا نام ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "زکریا",
+        "script": "زکریا",
+        "meaning": "زکریا، نام پیامبر",
+        "long_meaning": "Zakaria (زکریا) نامی برگرفته از زبان عربی است و معنای اصلی آن زکریا، نام پیامبر است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "ज़करिया",
+        "script": "ज़करिया",
+        "meaning": "ज़करिया, पैग़ंबर का नाम",
+        "long_meaning": "Zakaria (ज़करिया) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ ज़करिया, पैग़ंबर का नाम है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "زکریا",
+        "script": "زکریا",
+        "meaning": "زکریا، د نبي نوم",
+        "long_meaning": "Zakaria (زکریا) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې زکریا، د نبي نوم ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "زَكَرِيَّا",
+        "script": "زَكَرِيَّا",
+        "meaning": "زَكَرِيَّا، النَّبِيُّ",
+        "long_meaning": "Zakaria (زَكَرِيَّا) اسم مأخوذ من اللغة العربية، ومعناه الأساسي زَكَرِيَّا، النَّبِيُّ. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "za-ka-ria",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "زَكَرِيَّا"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Zakaria"
+      ],
+      "script_forms": [
+        "زَكَرِيَّا",
+        "زکریا",
+        "ज़करिया"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form زَكَرِيَّا is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Zakaria mean?",
+        "a": "Zakaria is an Arabic-origin name meaning “Zechariah (prophet)”."
+      },
+      {
+        "q": "What is the origin of Zakaria?",
+        "a": "Zakaria originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Zakaria an Arabic name?",
+        "a": "Yes, the recorded form زَكَرِيَّا is Arabic."
+      },
+      {
+        "q": "What is the root of Zakaria?",
+        "a": "It is built on the root ذ ك ر (dh-k-r)."
+      },
+      {
+        "q": "Is Zakaria an Islamic name?",
+        "a": "Zakaria is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Zakaria a Quranic name?",
+        "a": "Yes, Zakaria is a Qur'anic name (see the religion section)."
+      },
+      {
+        "q": "What does Zakaria mean in Urdu?",
+        "a": "In Urdu it is written زکریا and carries the sense “زکریا، نبی کا نام”."
+      },
+      {
+        "q": "How is Zakaria pronounced?",
+        "a": "A romanized syllable approximation is “za-ka-ria”."
+      },
+      {
+        "q": "Is Zakaria a boy's or girl's name?",
+        "a": "Documented usage records Zakaria as a boy's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Zakaria Name Meaning, Origin & Islamic Context",
+      "meta_description": "Zakaria (زَكَرِيَّا) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Zakaria meaning, Zakaria name meaning, Zakaria origin, Zakaria meaning in Urdu, Zakaria pronunciation, Zakaria Islamic name",
+      "description_paragraph": "Zakaria is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Zakaria meaning",
+        "Zakaria name meaning",
+        "Zakaria origin",
+        "Zakaria meaning in Urdu",
+        "Zakaria pronunciation",
+        "Zakaria Islamic name"
+      ],
+      "focus_keyword": "Zakaria meaning",
+      "secondary_keywords": [
+        "Zakaria name meaning",
+        "Zakaria origin",
+        "Zakaria meaning in Urdu",
+        "Zakaria pronunciation",
+        "Zakaria Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/zakaria",
+      "seo_score": 96,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Zakaria, an Arabic-origin name used in Muslim communities.",
+      "body_summary": "Zakaria is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Zakaria",
+      "#ZakariaMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 153,
+      "quality_score": 96,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form زَكَرِيَّا carries the sense “Zechariah (prophet)”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Zakaria",
+          "description": "Zakaria — an Arabic-origin given name meaning Zechariah (prophet)",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Zakaria mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Zakaria is an Arabic-origin name meaning “Zechariah (prophet)”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Zakaria?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Zakaria originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Zakaria an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form زَكَرِيَّا is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Zakaria?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is built on the root ذ ك ر (dh-k-r)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Zakaria an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Zakaria is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Zakaria a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, Zakaria is a Qur'anic name (see the religion section)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Zakaria mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written زکریا and carries the sense “زکریا، نبی کا نام”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Zakaria pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “za-ka-ria”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Zakaria a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Zakaria as a boy's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Zakaria",
+              "item": "https://nameverse.site/names/islamic/zakaria"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

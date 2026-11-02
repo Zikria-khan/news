@@ -1,0 +1,491 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Sidra",
+    "slug": "sidra",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Sidra",
+      "normalized_name": "sidra",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Sidra",
+        "sidra",
+        "sidrah",
+        "sidrat"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "The lote tree",
+      "primary_meaning": "Sidra (سِدْرَة) is an Arabic-origin female name meaning 'lote tree'; it is associated with Sidrat al-Muntaha, the lote tree mentioned in the Qur'an.",
+      "literal_meaning": "The Arabic noun سِدْرَة (sidrah), 'lote tree (a jujube tree)', used as a given name.",
+      "meaning_explanation": "Sidra is a botanical noun — the lote tree — and it is used as a name for the tree's association with the Qur'anic Sidrat al-Muntaha.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "سِدْرَة",
+      "transliteration": "sidrah",
+      "root": "س د ر",
+      "root_transliteration": "s-d-r",
+      "morphology": "Arabic feminine singular noun (sidrah) from the root س د ر.",
+      "feminine_form": null,
+      "etymological_meaning": "From the Arabic root س د ر (s-d-r), which denotes the lote/jujube tree.",
+      "root_family": [],
+      "etymology_explanation": "The root س د ر forms سِدْر (sidr, 'lote tree') and its singular سِدْرَة (sidrah); the personal name is this noun.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "The name denotes a tree; it is not a devotional term in itself, and any claim of a fixed religious meaning beyond its Qur'anic association would be unsupported."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form سِدْرَة.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name comes from the Arabic lexicon of plants and is used as a personal name because of the tree named in the Qur'an.",
+      "cultural_transmission": [
+        "Arab world",
+        "Muslim South Asia",
+        "Muslim diaspora"
+      ]
+    },
+    "religion": {
+      "primary_association": "Qur'anic association",
+      "religion_confidence": "HIGH",
+      "religious_status": "Associated with a Qur'anic tree",
+      "religious_explanation": "The word سِدْرَة occurs in the Qur'an in connection with Sidrat al-Muntaha; the personal name draws its religious association from that.",
+      "quranic_status": {
+        "is_quranic": true,
+        "status": "verified",
+        "note": "The word سِدْرَة / سِدْر appears in the Qur'an (including 53:14, Sidrat al-Muntaha, and 56:28); the name is this Qur'anic noun used as a personal name, not a Qur'anic personal name."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith about the name as a personal name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Sidra as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in Arab world, Muslim South Asia, where the name is chosen within ordinary family naming rather than by a religious ruling.",
+      "interpretation": "It is read through the image of the lote tree at the furthest boundary, as named in the Qur'an.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arab world",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "Chosen by Muslim families for its Qur'anic association with Sidrat al-Muntaha.",
+      "personal_name_interpretation": "It is read through the image of the lote tree at the furthest boundary, as named in the Qur'an.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Qur'anic nature imagery",
+      "related_concepts": [
+        "Lote tree",
+        "Sidrat al-Muntaha",
+        "Qur'an"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "The name is linked to Sidrat al-Muntaha, the lote tree named in the Qur'an (53:14); this association is scriptural in origin, though the name itself is a botanical noun.",
+      "basis": "quranic",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 1,
+      "life_path_number": 1,
+      "ruling_planet": "Sun",
+      "lucky_day": "Sunday",
+      "lucky_colors": [
+        "Gold",
+        "Orange"
+      ],
+      "lucky_stone": "Ruby",
+      "meaning": "In Pythagorean numerology the letters of Sidra total 1. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 1,
+      "lucky_day": "Sunday",
+      "lucky_colors": [
+        "Gold",
+        "Orange"
+      ],
+      "lucky_stone": "Ruby",
+      "ruling_planet": "Sun"
+    },
+    "translations": {
+      "english": {
+        "name": "Sidra",
+        "script": "Sidra",
+        "meaning": "The lote tree",
+        "long_meaning": "Sidra is Arabic-origin; in Arabic the word means “The lote tree”."
+      },
+      "urdu": {
+        "name": "سدرہ",
+        "script": "سدرہ",
+        "meaning": "سدرہ، بیری کا درخت",
+        "long_meaning": "سدرہ (سدرہ) عربی نام ہے جس کا مطلب «بیری کا درخت» ہے۔ یہ قرآن میں مذکور سدرۃ المنتہیٰ سے منسوب ہے، اسی لیے مسلم خاندان اسے دختروں کے لیے رکھتے ہیں۔"
+      },
+      "persian": {
+        "name": "سدره",
+        "script": "سدره",
+        "meaning": "سدره، درخت کنار",
+        "long_meaning": "سدره (سدره) نامی عربی به معنای «درخت کُنار» است. این نام با سدرةالمنتهیٰ که در قرآن آمده پیوند دارد و به همین سبب در خانوادههای مسلمان برگزیده میشود."
+      },
+      "hindi": {
+        "name": "सिदरा",
+        "script": "सिदरा",
+        "meaning": "सिदरा, बेर का वृक्ष",
+        "long_meaning": "सिदरा (सिदरा) अरबी नाम है जिसका अर्थ «बेर का वृक्ष» है। यह क़ुरआन में उल्लिखित सिदरतुल मुंतहा से जुड़ा है, इसलिए मुस्लिम परिवार इसे बेटियों के लिए रखते हैं।"
+      },
+      "pashto": {
+        "name": "سدره",
+        "script": "سدره",
+        "meaning": "سدره، د بېرو ونې",
+        "long_meaning": "سدره (سدره) عربي نوم دی چې معنا یې «د بېرو ونه» ده. دا نوم له هغې ونې سره تړاو لري چې قرآن کریم کې د سدرة المنتهی په نامه یاد شوې ده.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "سِدْرَة",
+        "script": "سِدْرَة",
+        "meaning": "سِدْرَة، شجرةُ السِّدْر",
+        "long_meaning": "سِدْرَة اسمٌ عربيٌّ مؤنّث معناه «شجرة السِّدْر (النَّبِق)»، وهو مفردُ سِدْر. يرتبط الاسمُ بسدرة المنتهى المذكورة في القرآن، ويُختار للفتيات لهذا الارتباط.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "sid-rah",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "سِدْرَة"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "sidrah",
+        "sidrat"
+      ],
+      "script_forms": [
+        "سِدْرَة",
+        "سدرة"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form سِدْرَة is documented as a Qur'anic or prophetic-tradition form."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "cultural",
+      "render": true,
+      "story": "Sidra is the Arabic word for the lote tree, and it entered naming because of the tree the Qur'an names as Sidrat al-Muntaha. Families who choose it are reaching for that image — the tree at the furthest boundary — rather than for a devotional formula."
+    },
+    "faq": [
+      {
+        "q": "What does Sidra mean?",
+        "a": "The lote tree. Sidra (سِدْرَة) is an Arabic-origin female name meaning 'lote tree'; it is associated with Sidrat al-Muntaha, the lote tree mentioned in the Qur'an."
+      },
+      {
+        "q": "What is the origin of Sidra?",
+        "a": "The name comes from the Arabic lexicon of plants and is used as a personal name because of the tree named in the Qur'an."
+      },
+      {
+        "q": "Is Sidra an Arabic name?",
+        "a": "Yes — Sidra is an Arabic name, recorded as sidrah in Arabic sources."
+      },
+      {
+        "q": "Is Sidra an Islamic name?",
+        "a": "Associated with a Qur'anic tree. The word سِدْرَة occurs in the Qur'an in connection with Sidrat al-Muntaha; the personal name draws its religious association from that."
+      },
+      {
+        "q": "Is Sidra a Quranic name?",
+        "a": "The word سِدْرَة / سِدْر appears in the Qur'an (including 53:14, Sidrat al-Muntaha, and 56:28); the name is this Qur'anic noun used as a personal name, not a Qur'anic personal name."
+      },
+      {
+        "q": "How is Sidra pronounced?",
+        "a": "A romanized syllable approximation is “sid-rah”."
+      },
+      {
+        "q": "Is Sidra a boy's or girl's name?",
+        "a": "Documented usage records Sidra as a girl’s name; actual use can vary by community."
+      },
+      {
+        "q": "What is the Arabic spelling of Sidra?",
+        "a": "Sidra is written سِدْرَة in Arabic."
+      },
+      {
+        "q": "What is Sidrat al-Muntaha?",
+        "a": "Sidrat al-Muntaha is the lote tree named in the Qur'an (53:14); Sidra is the word for that tree and is used as a personal name."
+      }
+    ],
+    "seo": {
+      "title": "Sidra Name Meaning, Origin & Islamic Context",
+      "meta_description": "Sidra (سِدْرَة) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Sidra meaning, Sidra name meaning, Sidra origin, Sidra meaning in Urdu, Sidra pronunciation, Sidra Islamic name",
+      "description_paragraph": "Sidra is Arabic-origin. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Sidra meaning",
+        "Sidra name meaning",
+        "Sidra origin",
+        "Sidra meaning in Urdu",
+        "Sidra pronunciation",
+        "Sidra Islamic name"
+      ],
+      "focus_keyword": "Sidra meaning",
+      "secondary_keywords": [
+        "Sidra name meaning",
+        "Sidra origin",
+        "Sidra meaning in Urdu",
+        "Sidra pronunciation",
+        "Sidra Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/sidra",
+      "seo_score": 92,
+      "seo_score_basis": "Search-facing score: 9 distinct FAQs plus a single canonical definition, giving substantial keyword coverage without duplicated sections; capped below 100 because no page-rank or query-volume data is available."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the name Sidra: its meaning, its Arabic-language origin, how it is pronounced, and how it is used in Muslim naming.",
+      "body_summary": "Readers looking up Sidra will find a documented given name of Arabic origin. Its use in Muslim families is widespread, but the word itself is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Sidra",
+      "#SidraMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 272,
+      "quality_score": 93,
+      "quality_score_basis": "Editorial score: 9 distinct FAQs, a verified meaning and origin, and cross-field de-duplication that leaves every field with its own information; no field-count inflation."
+    },
+    "evidence": {
+      "sources": [
+        "The Qur'anic noun سِدْرَة / سِدْر (the lote tree) occurs in the Qur'an, including 53:14 and 56:28."
+      ],
+      "verification_method": "Cross-checked lexical and Qur'anic sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "new_record (added to islamic set)",
+      "processed_at": "2026-10-07T11:20:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Sidra",
+          "description": "Sidra — an Arabic-origin given name meaning The lote tree",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Sidra mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The lote tree. Sidra (سِدْرَة) is an Arabic-origin female name meaning 'lote tree'; it is associated with Sidrat al-Muntaha, the lote tree mentioned in the Qur'an."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Sidra?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The name comes from the Arabic lexicon of plants and is used as a personal name because of the tree named in the Qur'an."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Sidra an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — Sidra is an Arabic name, recorded as sidrah in Arabic sources."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Sidra an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Associated with a Qur'anic tree. The word سِدْرَة occurs in the Qur'an in connection with Sidrat al-Muntaha; the personal name draws its religious association from that."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Sidra a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The word سِدْرَة / سِدْر appears in the Qur'an (including 53:14, Sidrat al-Muntaha, and 56:28); the name is this Qur'anic noun used as a personal name, not a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Sidra pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “sid-rah”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Sidra a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Sidra as a girl’s name; actual use can vary by community."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the Arabic spelling of Sidra?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sidra is written سِدْرَة in Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is Sidrat al-Muntaha?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sidrat al-Muntaha is the lote tree named in the Qur'an (53:14); Sidra is the word for that tree and is used as a personal name."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Sidra",
+              "item": "https://nameverse.site/names/islamic/sidra"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-07T11:20:00+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage"
+      ]
+    }
+  }
+}

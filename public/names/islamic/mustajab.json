@@ -1,0 +1,489 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Mustajab",
+    "slug": "mustajab",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Mustajab",
+      "normalized_name": "mustajab",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Mustajab",
+        "mustajab"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Answered, granted (of prayer)",
+      "primary_meaning": "Mustajab corresponds to the Arabic form مُسْتَجَاب and is glossed in this record as “Answered, granted (of prayer).” The record associates the form with root ج و ب (j-w-b). The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "Answered, granted (of prayer)",
+      "meaning_explanation": "Mustajab corresponds to the Arabic form مُسْتَجَاب (Arabic root ج و ب (j-w-b); مُسْتَجَاب (Mustajāb)). Its core sense is mustajab; answered, granted (of prayer). Mustajab is Arabic مُسْتَجَاب (Mustajāb) 'answered, granted (of prayer)', from the root ج و ب (j-w-b). The source gloss 'Responsive, Answering' is broadly consistent.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "مُسْتَجَاب",
+      "transliteration": "mustajab",
+      "root": "ج و ب",
+      "root_transliteration": "j-w-b",
+      "morphology": "Built on the root ج و ب.",
+      "feminine_form": null,
+      "etymological_meaning": "From the root ج و ب (j-w-b)",
+      "root_family": [],
+      "etymology_explanation": "The form مُسْتَجَاب is an established Arabic lexical item, and Mustajab is the word itself used as a personal name rather than a derived or diminutive form.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form مُسْتَجَاب.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Mustajab is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Mustajab is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Mustajab as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Answered, granted (of prayer)",
+      "related_concepts": [
+        "Answered, granted (of prayer)"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Answered, granted (of prayer)” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Answered, granted (of prayer).",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 6,
+      "life_path_number": 6,
+      "ruling_planet": "Venus",
+      "lucky_day": "Friday",
+      "lucky_colors": [
+        "White",
+        "Pink"
+      ],
+      "lucky_stone": "Diamond",
+      "meaning": "In Pythagorean numerology the letters of Mustajab total 6, associated with responsibility, care and harmony. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 6,
+      "lucky_day": "Friday",
+      "lucky_colors": [
+        "White",
+        "Pink"
+      ],
+      "lucky_stone": "Diamond",
+      "ruling_planet": "Venus"
+    },
+    "translations": {
+      "english": {
+        "name": "Mustajab",
+        "script": "Mustajab",
+        "meaning": "Answered, granted (of prayer)",
+        "long_meaning": "Mustajab is an Arabic-origin given name; in Arabic the word means “Answered, granted (of prayer)”."
+      },
+      "urdu": {
+        "name": "مستجاب",
+        "script": "مستجاب",
+        "meaning": "مستجاب، قبول شدہ (دعا)",
+        "long_meaning": "Mustajab (مستجاب) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم مستجاب، قبول شدہ (دعا) ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "مستجاب",
+        "script": "مستجاب",
+        "meaning": "مستجاب، اجابت‌شده",
+        "long_meaning": "Mustajab (مستجاب) نامی برگرفته از زبان عربی است و معنای اصلی آن مستجاب، اجابت‌شده است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "मुस्तजाब",
+        "script": "मुस्तजाब",
+        "meaning": "मुस्तजाब, स्वीकृत",
+        "long_meaning": "Mustajab (मुस्तजाब) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ मुस्तजाब, स्वीकृत है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "مستجاب",
+        "script": "مستجاب",
+        "meaning": "مستجاب، قبول شوی",
+        "long_meaning": "Mustajab (مستجاب) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې مستجاب، قبول شوی ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "مُسْتَجَاب",
+        "script": "مُسْتَجَاب",
+        "meaning": "الْمُسْتَجَاب، الْمَقْبُول",
+        "long_meaning": "Mustajab (مُسْتَجَاب) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الْمُسْتَجَاب، الْمَقْبُول. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "mus-ta-jab",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "مُسْتَجَاب"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Mustajab"
+      ],
+      "script_forms": [
+        "مستجاب",
+        "مُسْتَجَاب",
+        "मुस्तजाब"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form مُسْتَجَاب is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Mustajab mean?",
+        "a": "Mustajab is an Arabic-origin name meaning “Answered, granted (of prayer)”."
+      },
+      {
+        "q": "What is the origin of Mustajab?",
+        "a": "Mustajab originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Mustajab an Arabic name?",
+        "a": "Yes, the recorded form مُسْتَجَاب is Arabic."
+      },
+      {
+        "q": "What is the root of Mustajab?",
+        "a": "It is built on the root ج و ب (j-w-b)."
+      },
+      {
+        "q": "Is Mustajab an Islamic name?",
+        "a": "Mustajab is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Mustajab a Quranic name?",
+        "a": "Mustajab is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Mustajab mean in Urdu?",
+        "a": "In Urdu it is written مستجاب and carries the sense “مستجاب، قبول شدہ (دعا)”."
+      },
+      {
+        "q": "How is Mustajab pronounced?",
+        "a": "A romanized syllable approximation is “mus-ta-jab”."
+      },
+      {
+        "q": "Is Mustajab a boy's or girl's name?",
+        "a": "Documented usage records Mustajab as a boy's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Mustajab Name Meaning, Origin & Islamic Context",
+      "meta_description": "Mustajab (مُسْتَجَاب) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Mustajab meaning, Mustajab name meaning, Mustajab origin, Mustajab meaning in Urdu, Mustajab pronunciation, Mustajab Islamic name",
+      "description_paragraph": "Mustajab is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Mustajab meaning",
+        "Mustajab name meaning",
+        "Mustajab origin",
+        "Mustajab meaning in Urdu",
+        "Mustajab pronunciation",
+        "Mustajab Islamic name"
+      ],
+      "focus_keyword": "Mustajab meaning",
+      "secondary_keywords": [
+        "Mustajab name meaning",
+        "Mustajab origin",
+        "Mustajab meaning in Urdu",
+        "Mustajab pronunciation",
+        "Mustajab Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/mustajab",
+      "seo_score": 95,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Mustajab, an Arabic-origin name used in Muslim communities.",
+      "body_summary": "Mustajab is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Mustajab",
+      "#MustajabMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 153,
+      "quality_score": 95,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form مُسْتَجَاب carries the sense “Answered, granted (of prayer)”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Mustajab",
+          "description": "Mustajab — an Arabic-origin given name meaning Answered, granted (of prayer)",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Mustajab mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mustajab is an Arabic-origin name meaning “Answered, granted (of prayer)”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Mustajab?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mustajab originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Mustajab an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form مُسْتَجَاب is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Mustajab?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is built on the root ج و ب (j-w-b)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Mustajab an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mustajab is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Mustajab a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mustajab is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Mustajab mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written مستجاب and carries the sense “مستجاب، قبول شدہ (دعا)”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Mustajab pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “mus-ta-jab”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Mustajab a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Mustajab as a boy's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Mustajab",
+              "item": "https://nameverse.site/names/islamic/mustajab"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

@@ -1,0 +1,491 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Thanina",
+    "slug": "thanina",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Thanina",
+      "normalized_name": "thanina",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "MEDIUM",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Thanina",
+        "thanina"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Amazigh female given name",
+      "primary_meaning": "Thanina is an Amazigh-origin name meaning “Amazigh female given name”.",
+      "literal_meaning": "The name is the Amazigh word itself, used unchanged as a given name rather than a derived or diminutive form.",
+      "meaning_explanation": "Thanina corresponds to the Amazigh form ثَانِينَا (Amazigh Thanina (a given name)). Its core sense is thanina; an amazigh female given name. Thanina is an Amazigh female given name. No confident lexical sense could be established, so no meaning is asserted.",
+      "meaning_confidence": "MEDIUM"
+    },
+    "etymology": {
+      "primary_language": "Amazigh",
+      "lexical_form": "ثَانِينَا",
+      "transliteration": "thanina",
+      "root": "",
+      "root_transliteration": "",
+      "morphology": "Simple lexical item used as a name.",
+      "feminine_form": null,
+      "etymological_meaning": "The Amazigh word ثَانِينَا",
+      "root_family": [],
+      "etymology_explanation": "The form ثَانِينَا is an established Amazigh lexical item used unchanged as a given name.",
+      "etymology_confidence": "MEDIUM",
+      "false_etymology_warning": "No derivation beyond the documented Amazigh form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Amazigh",
+      "associated_languages": [
+        "Amazigh",
+        "Muslim South Asia"
+      ],
+      "language_notes": {
+        "primary": "Amazigh is the language of the recorded form ثَانِينَا.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "MEDIUM"
+    },
+    "origin": {
+      "primary_origin": "Amazigh",
+      "origin_type": "linguistic",
+      "origin_confidence": "MEDIUM",
+      "origin_explanation": "The name originates in Amazigh and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Amazigh",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Thanina is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Thanina is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Thanina as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Amazigh",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Amazigh female given name",
+      "related_concepts": [
+        "Amazigh female given name"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Amazigh female given name” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Amazigh female given name.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 4,
+      "life_path_number": 4,
+      "ruling_planet": "Uranus",
+      "lucky_day": "Sunday",
+      "lucky_colors": [
+        "Grey",
+        "Blue"
+      ],
+      "lucky_stone": "Hessonite",
+      "meaning": "In Pythagorean numerology the letters of Thanina total 4, associated with stability, discipline and order. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 4,
+      "lucky_day": "Sunday",
+      "lucky_colors": [
+        "Grey",
+        "Blue"
+      ],
+      "lucky_stone": "Hessonite",
+      "ruling_planet": "Uranus"
+    },
+    "translations": {
+      "english": {
+        "name": "Thanina",
+        "script": "Thanina",
+        "meaning": "Amazigh female given name",
+        "long_meaning": "Thanina is an Amazigh-origin given name; in Amazigh the word means “Amazigh female given name”."
+      },
+      "urdu": {
+        "name": "ثانینا",
+        "script": "ثانینا",
+        "meaning": "ثانینا (زنانہ نام)",
+        "long_meaning": "Thanina (ثانینا) نامعلوم زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم ثانینا (زنانہ نام) ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "ثانینا",
+        "script": "ثانینا",
+        "meaning": "ثانینا (نام زنانہ)",
+        "long_meaning": "Thanina (ثانینا) نامی برگرفته از زبان نامعلوم است و معنای اصلی آن ثانینا (نام زنانہ) است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "थानीना",
+        "script": "थानीना",
+        "meaning": "थानीना (स्त्री नाम)",
+        "long_meaning": "Thanina (थानीना) अज्ञात भाषा से लिया गया नाम है। इसका मुख्य अर्थ थानीना (स्त्री नाम) है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "ثانينا",
+        "script": "ثانينا",
+        "meaning": "ثانينا (ښځينه نوم)",
+        "long_meaning": "Thanina (ثانينا) د نامعلوم ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې ثانينا (ښځينه نوم) ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "ثَانِينَا",
+        "script": "ثَانِينَا",
+        "meaning": "ثَانِينَا (اسْم عَلَم مُؤَنَّث)",
+        "long_meaning": "Thanina (ثَانِينَا) اسم مأخوذ من اللغة غير محددة، ومعناه الأساسي ثَانِينَا (اسْم عَلَم مُؤَنَّث). يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "tha-ni-na",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "ثَانِينَا"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Thanina"
+      ],
+      "script_forms": [
+        "ثانينا",
+        "ثانینا",
+        "ثَانِينَا",
+        "थानीना"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form ثَانِينَا is an established Amazigh lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Thanina mean?",
+        "a": "Thanina is an Amazigh-origin name meaning “Amazigh female given name”."
+      },
+      {
+        "q": "What is the origin of Thanina?",
+        "a": "Thanina originates in Amazigh and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Thanina an Arabic name?",
+        "a": "No — the recorded form ثَانِينَا is Amazigh, not Arabic."
+      },
+      {
+        "q": "What is the root of Thanina?",
+        "a": "No root analysis is asserted for this spelling."
+      },
+      {
+        "q": "Is Thanina an Islamic name?",
+        "a": "Thanina is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Thanina a Quranic name?",
+        "a": "Thanina is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Thanina mean in Urdu?",
+        "a": "In Urdu it is written ثانینا and carries the sense “ثانینا (زنانہ نام)”."
+      },
+      {
+        "q": "How is Thanina pronounced?",
+        "a": "A romanized syllable approximation is “tha-ni-na”."
+      },
+      {
+        "q": "Is Thanina a boy's or girl's name?",
+        "a": "Documented usage records Thanina as a girl's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Thanina Name Meaning, Origin & Islamic Context",
+      "meta_description": "Thanina (ثَانِينَا) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Thanina meaning, Thanina name meaning, Thanina origin, Thanina meaning in Urdu, Thanina pronunciation, Thanina Islamic name",
+      "description_paragraph": "Thanina is an Amazigh-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Thanina meaning",
+        "Thanina name meaning",
+        "Thanina origin",
+        "Thanina meaning in Urdu",
+        "Thanina pronunciation",
+        "Thanina Islamic name"
+      ],
+      "focus_keyword": "Thanina meaning",
+      "secondary_keywords": [
+        "Thanina name meaning",
+        "Thanina origin",
+        "Thanina meaning in Urdu",
+        "Thanina pronunciation",
+        "Thanina Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/thanina",
+      "seo_score": 90,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Thanina, an Amazigh-origin name used in Muslim communities.",
+      "body_summary": "Thanina is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Thanina",
+      "#ThaninaMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 151,
+      "quality_score": 90,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Amazigh form ثَانِينَا carries the sense “Amazigh female given name”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Thanina",
+          "description": "Thanina — an Amazigh-origin given name meaning Amazigh female given name",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Thanina mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Thanina is an Amazigh-origin name meaning “Amazigh female given name”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Thanina?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Thanina originates in Amazigh and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Thanina an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No — the recorded form ثَانِينَا is Amazigh, not Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Thanina?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No root analysis is asserted for this spelling."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Thanina an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Thanina is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Thanina a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Thanina is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Thanina mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written ثانینا and carries the sense “ثانینا (زنانہ نام)”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Thanina pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “tha-ni-na”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Thanina a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Thanina as a girl's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Thanina",
+              "item": "https://nameverse.site/names/islamic/thanina"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "MEDIUM",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

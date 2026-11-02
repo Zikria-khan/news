@@ -1,0 +1,491 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Erlan",
+    "slug": "erlan",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Erlan",
+      "normalized_name": "erlan",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "MEDIUM",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Erlan",
+        "erlan"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Kazakh male given name",
+      "primary_meaning": "Erlan is a Kazakh-origin name meaning “Kazakh male given name”.",
+      "literal_meaning": "The name is the Kazakh word itself, used unchanged as a given name rather than a derived or diminutive form.",
+      "meaning_explanation": "Erlan corresponds to the Kazakh form إِرْلَان (Kazakh Ерлан (Erlan)). Its core sense is erlan; a kazakh male given name. Erlan is a Kazakh male given name. No confident lexical sense could be established, so no meaning is asserted.",
+      "meaning_confidence": "MEDIUM"
+    },
+    "etymology": {
+      "primary_language": "Kazakh",
+      "lexical_form": "إِرْلَان",
+      "transliteration": "erlan",
+      "root": "",
+      "root_transliteration": "",
+      "morphology": "Simple lexical item used as a name.",
+      "feminine_form": null,
+      "etymological_meaning": "The Kazakh word إِرْلَان",
+      "root_family": [],
+      "etymology_explanation": "The form إِرْلَان is an established Kazakh lexical item used unchanged as a given name.",
+      "etymology_confidence": "MEDIUM",
+      "false_etymology_warning": "No derivation beyond the documented Kazakh form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Kazakh",
+      "associated_languages": [
+        "Kazakh",
+        "Muslim South Asia"
+      ],
+      "language_notes": {
+        "primary": "Kazakh is the language of the recorded form إِرْلَان.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "MEDIUM"
+    },
+    "origin": {
+      "primary_origin": "Kazakh",
+      "origin_type": "linguistic",
+      "origin_confidence": "MEDIUM",
+      "origin_explanation": "The name originates in Kazakh and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Kazakh",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Erlan is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Erlan is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Erlan as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Kazakh",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Kazakh male given name",
+      "related_concepts": [
+        "Kazakh male given name"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Kazakh male given name” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Kazakh male given name.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 5,
+      "life_path_number": 5,
+      "ruling_planet": "Mercury",
+      "lucky_day": "Wednesday",
+      "lucky_colors": [
+        "Green",
+        "Turquoise"
+      ],
+      "lucky_stone": "Emerald",
+      "meaning": "In Pythagorean numerology the letters of Erlan total 5, associated with change, freedom and adaptability. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 5,
+      "lucky_day": "Wednesday",
+      "lucky_colors": [
+        "Green",
+        "Turquoise"
+      ],
+      "lucky_stone": "Emerald",
+      "ruling_planet": "Mercury"
+    },
+    "translations": {
+      "english": {
+        "name": "Erlan",
+        "script": "Erlan",
+        "meaning": "Kazakh male given name",
+        "long_meaning": "Erlan is a Kazakh-origin given name; in Kazakh the word means “Kazakh male given name”."
+      },
+      "urdu": {
+        "name": "ایرلان",
+        "script": "ایرلان",
+        "meaning": "ایرلان (مردانہ نام)",
+        "long_meaning": "Erlan (ایرلان) نامعلوم زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم ایرلان (مردانہ نام) ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "ارلان",
+        "script": "ارلان",
+        "meaning": "ارلان (نام مردانہ)",
+        "long_meaning": "Erlan (ارلان) نامی برگرفته از زبان نامعلوم است و معنای اصلی آن ارلان (نام مردانہ) است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "एरलान",
+        "script": "एरलान",
+        "meaning": "एरलान (पुरुष नाम)",
+        "long_meaning": "Erlan (एरलान) अज्ञात भाषा से लिया गया नाम है। इसका मुख्य अर्थ एरलान (पुरुष नाम) है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "ارلان",
+        "script": "ارلان",
+        "meaning": "ارلان (نر نوم)",
+        "long_meaning": "Erlan (ارلان) د نامعلوم ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې ارلان (نر نوم) ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "إِرْلَان",
+        "script": "إِرْلَان",
+        "meaning": "إِرْلَان (اسْم عَلَم مُذَكَّر)",
+        "long_meaning": "Erlan (إِرْلَان) اسم مأخوذ من اللغة غير محددة، ومعناه الأساسي إِرْلَان (اسْم عَلَم مُذَكَّر). يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "er-lan",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "إِرْلَان"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Erlan"
+      ],
+      "script_forms": [
+        "إِرْلَان",
+        "ارلان",
+        "ایرلان",
+        "एरलान"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form إِرْلَان is an established Kazakh lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Erlan mean?",
+        "a": "Erlan is a Kazakh-origin name meaning “Kazakh male given name”."
+      },
+      {
+        "q": "What is the origin of Erlan?",
+        "a": "Erlan originates in Kazakh and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Erlan an Arabic name?",
+        "a": "No — the recorded form إِرْلَان is Kazakh, not Arabic."
+      },
+      {
+        "q": "What is the root of Erlan?",
+        "a": "No root analysis is asserted for this spelling."
+      },
+      {
+        "q": "Is Erlan an Islamic name?",
+        "a": "Erlan is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Erlan a Quranic name?",
+        "a": "Erlan is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Erlan mean in Urdu?",
+        "a": "In Urdu it is written ایرلان and carries the sense “ایرلان (مردانہ نام)”."
+      },
+      {
+        "q": "How is Erlan pronounced?",
+        "a": "A romanized syllable approximation is “er-lan”."
+      },
+      {
+        "q": "Is Erlan a boy's or girl's name?",
+        "a": "Documented usage records Erlan as a boy's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Erlan Name Meaning, Origin & Islamic Context",
+      "meta_description": "Erlan (إِرْلَان) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Erlan meaning, Erlan name meaning, Erlan origin, Erlan meaning in Urdu, Erlan pronunciation, Erlan Islamic name",
+      "description_paragraph": "Erlan is a Kazakh-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Erlan meaning",
+        "Erlan name meaning",
+        "Erlan origin",
+        "Erlan meaning in Urdu",
+        "Erlan pronunciation",
+        "Erlan Islamic name"
+      ],
+      "focus_keyword": "Erlan meaning",
+      "secondary_keywords": [
+        "Erlan name meaning",
+        "Erlan origin",
+        "Erlan meaning in Urdu",
+        "Erlan pronunciation",
+        "Erlan Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/erlan",
+      "seo_score": 90,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Erlan, a Kazakh-origin name used in Muslim communities.",
+      "body_summary": "Erlan is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Erlan",
+      "#ErlanMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 151,
+      "quality_score": 90,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Kazakh form إِرْلَان carries the sense “Kazakh male given name”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Erlan",
+          "description": "Erlan — a Kazakh-origin given name meaning Kazakh male given name",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Erlan mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Erlan is a Kazakh-origin name meaning “Kazakh male given name”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Erlan?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Erlan originates in Kazakh and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Erlan an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No — the recorded form إِرْلَان is Kazakh, not Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Erlan?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No root analysis is asserted for this spelling."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Erlan an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Erlan is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Erlan a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Erlan is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Erlan mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written ایرلان and carries the sense “ایرلان (مردانہ نام)”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Erlan pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “er-lan”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Erlan a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Erlan as a boy's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Erlan",
+              "item": "https://nameverse.site/names/islamic/erlan"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "MEDIUM",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

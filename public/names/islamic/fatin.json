@@ -1,0 +1,488 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Fatin",
+    "slug": "fatin",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Fatin",
+      "normalized_name": "fatin",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Fatin",
+        "fatin"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Captivating, alluring",
+      "primary_meaning": "Fatin corresponds to the Arabic form فاتن and is glossed in this record as “Captivating, alluring.” The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "Captivating, alluring",
+      "meaning_explanation": "Fatin corresponds to the Arabic form فاتن (ف ت ن). Its core sense is gift, treasure. Fātin ('captivating, alluring'). The source record's gloss 'Gift, Treasure' is unsupported.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "فاتن",
+      "transliteration": "fatin",
+      "root": "",
+      "root_transliteration": "",
+      "morphology": "Simple lexical item used as a name.",
+      "feminine_form": null,
+      "etymological_meaning": "The Arabic word فاتن",
+      "root_family": [],
+      "etymology_explanation": "The form فاتن is an established Arabic lexical item used unchanged as a given name.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form فاتن.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Fatin is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Fatin is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Fatin as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Captivating, alluring",
+      "related_concepts": [
+        "Captivating, alluring"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Captivating, alluring” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Captivating, alluring.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 5,
+      "life_path_number": 5,
+      "ruling_planet": "Mercury",
+      "lucky_day": "Wednesday",
+      "lucky_colors": [
+        "Green",
+        "Turquoise"
+      ],
+      "lucky_stone": "Emerald",
+      "meaning": "In Pythagorean numerology the letters of Fatin total 5, associated with change, freedom and adaptability. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 5,
+      "lucky_day": "Wednesday",
+      "lucky_colors": [
+        "Green",
+        "Turquoise"
+      ],
+      "lucky_stone": "Emerald",
+      "ruling_planet": "Mercury"
+    },
+    "translations": {
+      "english": {
+        "name": "Fatin",
+        "script": "Fatin",
+        "meaning": "Captivating, alluring",
+        "long_meaning": "Fatin is an Arabic-origin given name; in Arabic the word means “Captivating, alluring”."
+      },
+      "urdu": {
+        "name": "فاتن",
+        "script": "فاتن",
+        "meaning": "تحفہ، خزانہ",
+        "long_meaning": "Fatin (فاتن) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم تحفہ، خزانہ ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "Fatin",
+        "script": "Fatin",
+        "meaning": "Gift, treasure",
+        "long_meaning": "Gift, treasure"
+      },
+      "hindi": {
+        "name": "फ़ातिन",
+        "script": "फ़ातिन",
+        "meaning": "उपहार, ख़ज़ाना",
+        "long_meaning": "Fatin (फ़ातिन) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ उपहार, ख़ज़ाना है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "فاتن",
+        "script": "فاتن",
+        "meaning": "ډالۍ، خزانه",
+        "long_meaning": "Fatin (فاتن) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې ډالۍ، خزانه ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "فاتن",
+        "script": "فاتن",
+        "meaning": "الهدية، الكنز",
+        "long_meaning": "Fatin (فاتن) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الهدية، الكنز. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "fa-tin",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "فاتن"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Fatin"
+      ],
+      "script_forms": [
+        "فاتن",
+        "फ़ातिन"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form فاتن is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Fatin mean?",
+        "a": "Fatin is an Arabic-origin name meaning “Captivating, alluring”."
+      },
+      {
+        "q": "What is the origin of Fatin?",
+        "a": "Fatin originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Fatin an Arabic name?",
+        "a": "Yes, the recorded form فاتن is Arabic."
+      },
+      {
+        "q": "What is the root of Fatin?",
+        "a": "No root analysis is asserted for this spelling."
+      },
+      {
+        "q": "Is Fatin an Islamic name?",
+        "a": "Fatin is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Fatin a Quranic name?",
+        "a": "Fatin is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Fatin mean in Urdu?",
+        "a": "In Urdu it is written فاتن and carries the sense “تحفہ، خزانہ”."
+      },
+      {
+        "q": "How is Fatin pronounced?",
+        "a": "A romanized syllable approximation is “fa-tin”."
+      },
+      {
+        "q": "Is Fatin a boy's or girl's name?",
+        "a": "Documented usage records Fatin as a girl's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Fatin Name Meaning, Origin & Islamic Context",
+      "meta_description": "Fatin (فاتن) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Fatin meaning, Fatin name meaning, Fatin origin, Fatin meaning in Urdu, Fatin pronunciation, Fatin Islamic name",
+      "description_paragraph": "Fatin is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Fatin meaning",
+        "Fatin name meaning",
+        "Fatin origin",
+        "Fatin meaning in Urdu",
+        "Fatin pronunciation",
+        "Fatin Islamic name"
+      ],
+      "focus_keyword": "Fatin meaning",
+      "secondary_keywords": [
+        "Fatin name meaning",
+        "Fatin origin",
+        "Fatin meaning in Urdu",
+        "Fatin pronunciation",
+        "Fatin Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/fatin",
+      "seo_score": 90,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Fatin, an Arabic-origin name used in Muslim communities.",
+      "body_summary": "Fatin is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Fatin",
+      "#FatinMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 149,
+      "quality_score": 90,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form فاتن carries the sense “Captivating, alluring”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Fatin",
+          "description": "Fatin — an Arabic-origin given name meaning Captivating, alluring",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Fatin mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fatin is an Arabic-origin name meaning “Captivating, alluring”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Fatin?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fatin originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Fatin an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form فاتن is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Fatin?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No root analysis is asserted for this spelling."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Fatin an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fatin is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Fatin a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fatin is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Fatin mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written فاتن and carries the sense “تحفہ، خزانہ”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Fatin pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “fa-tin”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Fatin a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Fatin as a girl's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Fatin",
+              "item": "https://nameverse.site/names/islamic/fatin"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

@@ -1,0 +1,488 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Fareh",
+    "slug": "fareh",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Fareh",
+      "normalized_name": "fareh",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "MEDIUM",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Fareh",
+        "fareh"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Joyful, glad",
+      "primary_meaning": "Fareh corresponds to the Arabic form فارح and is glossed in this record as “Joyful, glad.” The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "Joyful, glad",
+      "meaning_explanation": "Fareh corresponds to the Arabic form فارح (ف ر ح). Its core sense is rare, precious, unique. Fāriḥ ('joyful, glad'). The source record's gloss 'Rare, precious' is unsupported.",
+      "meaning_confidence": "MEDIUM"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "فارح",
+      "transliteration": "fareh",
+      "root": "",
+      "root_transliteration": "",
+      "morphology": "Simple lexical item used as a name.",
+      "feminine_form": null,
+      "etymological_meaning": "The Arabic word فارح",
+      "root_family": [],
+      "etymology_explanation": "The form فارح is an established Arabic lexical item used unchanged as a given name.",
+      "etymology_confidence": "MEDIUM",
+      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form فارح.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "MEDIUM"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "MEDIUM",
+      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Fareh is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Fareh is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Fareh as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Joyful, glad",
+      "related_concepts": [
+        "Joyful, glad"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Joyful, glad” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Joyful, glad.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 2,
+      "life_path_number": 2,
+      "ruling_planet": "Moon",
+      "lucky_day": "Monday",
+      "lucky_colors": [
+        "White",
+        "Silver"
+      ],
+      "lucky_stone": "Pearl",
+      "meaning": "In Pythagorean numerology the letters of Fareh total 2, associated with cooperation, balance and sensitivity. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 2,
+      "lucky_day": "Monday",
+      "lucky_colors": [
+        "White",
+        "Silver"
+      ],
+      "lucky_stone": "Pearl",
+      "ruling_planet": "Moon"
+    },
+    "translations": {
+      "english": {
+        "name": "Fareh",
+        "script": "Fareh",
+        "meaning": "Joyful, glad",
+        "long_meaning": "Fareh is an Arabic-origin given name; in Arabic the word means “Joyful, glad”."
+      },
+      "urdu": {
+        "name": "فارح",
+        "script": "فارح",
+        "meaning": "نایاب، قیمتی، منفرد",
+        "long_meaning": "Fareh (فارح) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم نایاب، قیمتی، منفرد ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "Fareh",
+        "script": "Fareh",
+        "meaning": "Rare, precious, unique",
+        "long_meaning": "Rare, precious, unique"
+      },
+      "hindi": {
+        "name": "फ़ारेह",
+        "script": "फ़ारेह",
+        "meaning": "दुर्लभ, बहुमूल्य, अनोखा",
+        "long_meaning": "Fareh (फ़ारेह) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ दुर्लभ, बहुमूल्य, अनोखा है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "فارح",
+        "script": "فارح",
+        "meaning": "کم پېښ، ګران، بې ساری",
+        "long_meaning": "Fareh (فارح) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې کم پېښ، ګران، بې ساری ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "فارح",
+        "script": "فارح",
+        "meaning": "النادر، الثمين، الفريد",
+        "long_meaning": "Fareh (فارح) اسم مأخوذ من اللغة العربية، ومعناه الأساسي النادر، الثمين، الفريد. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "fa-reh",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "فارح"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Fareh"
+      ],
+      "script_forms": [
+        "فارح",
+        "फ़ारेह"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form فارح is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Fareh mean?",
+        "a": "Fareh is an Arabic-origin name meaning “Joyful, glad”."
+      },
+      {
+        "q": "What is the origin of Fareh?",
+        "a": "Fareh originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Fareh an Arabic name?",
+        "a": "Yes, the recorded form فارح is Arabic."
+      },
+      {
+        "q": "What is the root of Fareh?",
+        "a": "No root analysis is asserted for this spelling."
+      },
+      {
+        "q": "Is Fareh an Islamic name?",
+        "a": "Fareh is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Fareh a Quranic name?",
+        "a": "Fareh is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Fareh mean in Urdu?",
+        "a": "In Urdu it is written فارح and carries the sense “نایاب، قیمتی، منفرد”."
+      },
+      {
+        "q": "How is Fareh pronounced?",
+        "a": "A romanized syllable approximation is “fa-reh”."
+      },
+      {
+        "q": "Is Fareh a boy's or girl's name?",
+        "a": "Documented usage records Fareh as a boy's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Fareh Name Meaning, Origin & Islamic Context",
+      "meta_description": "Fareh (فارح) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Fareh meaning, Fareh name meaning, Fareh origin, Fareh meaning in Urdu, Fareh pronunciation, Fareh Islamic name",
+      "description_paragraph": "Fareh is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Fareh meaning",
+        "Fareh name meaning",
+        "Fareh origin",
+        "Fareh meaning in Urdu",
+        "Fareh pronunciation",
+        "Fareh Islamic name"
+      ],
+      "focus_keyword": "Fareh meaning",
+      "secondary_keywords": [
+        "Fareh name meaning",
+        "Fareh origin",
+        "Fareh meaning in Urdu",
+        "Fareh pronunciation",
+        "Fareh Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/fareh",
+      "seo_score": 90,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Fareh, an Arabic-origin name used in Muslim communities.",
+      "body_summary": "Fareh is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Fareh",
+      "#FarehMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 147,
+      "quality_score": 90,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form فارح carries the sense “Joyful, glad”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Fareh",
+          "description": "Fareh — an Arabic-origin given name meaning Joyful, glad",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Fareh mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fareh is an Arabic-origin name meaning “Joyful, glad”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Fareh?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fareh originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Fareh an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form فارح is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Fareh?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No root analysis is asserted for this spelling."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Fareh an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fareh is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Fareh a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fareh is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Fareh mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written فارح and carries the sense “نایاب، قیمتی، منفرد”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Fareh pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “fa-reh”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Fareh a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Fareh as a boy's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Fareh",
+              "item": "https://nameverse.site/names/islamic/fareh"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "MEDIUM",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

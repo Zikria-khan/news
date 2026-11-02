@@ -1,0 +1,545 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Yusra",
+    "slug": "yusra",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Yusra",
+      "normalized_name": "yusra",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender follows documented naming usage, not an inference from the word's meaning; usage can vary by community.",
+      "alternate_spellings": [
+        "Yusra",
+        "yusra",
+        "Yusraa",
+        "Yosra",
+        "Yousra",
+        "Yosraa",
+        "Yousraa",
+        "Yusrah"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Ease or facility; the wider root also has senses connected with prosperity and the left side.",
+      "primary_meaning": "Yusra is an Arabic name whose primary documented sense is ease or facility; related senses of the root include prosperity and left/left-hand, so the short gloss is not exhaustive.",
+      "literal_meaning": "The lexical form يُسْرَى occurs in Qur'anic language, but the verses use a word rather than naming a person.",
+      "meaning_explanation": "Arabic lexicons record a range of senses under ي س ر. This entry uses ease/facility as the name's primary gloss and preserves the broader lexical range instead of claiming that every root sense is the name's meaning.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "يُسْرَى",
+      "transliteration": "yusrā",
+      "root": "ي س ر",
+      "root_transliteration": "y-s-r",
+      "morphology": "Established Arabic lexical form used as a feminine given name; no personal-name status is implied by its Qur'anic occurrence.",
+      "feminine_form": null,
+      "etymological_meaning": "Ease or facility; the wider root also has senses connected with prosperity and the left side.",
+      "root_family": [],
+      "etymology_explanation": "Arabic lexicons record a range of senses under ي س ر. This entry uses ease/facility as the name's primary gloss and preserves the broader lexical range instead of claiming that every root sense is the name's meaning.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented lexical analysis is asserted; unsupported name-site etymologies are not adopted."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form يُسْرَى.",
+        "usage": "Other scripts are transliterations or localized glosses; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The recorded form and meaning are associated with Arabic. The evidence distinguishes linguistic origin from religious/cultural use.",
+      "cultural_transmission": [
+        "Arabic-speaking communities",
+        "Muslim naming communities in South Asia"
+      ]
+    },
+    "religion": {
+      "primary_association": "Arabic and Muslim-cultural naming usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "A lexical name; not a prescribed religious formula.",
+      "religious_explanation": "The word's Qur'anic occurrence is a lexical usage, not a named person or a religious ruling about naming.",
+      "quranic_status": {
+        "is_quranic": true,
+        "status": "lexical_form_directly_attested",
+        "note": "The word يسرى occurs in Qur'an 87:8 and 92:7 in the sense of ease; those verses do not use it as a person's name."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report establishing this name or a special virtue is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishing this as a prophet's personal name is cited."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion attribution is asserted without a verified source."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Arabic and Muslim-cultural naming usage",
+      "interpretation": "Families may value the positive sense of ease, but that is a naming preference rather than a prediction about the bearer.",
+      "important_distinction": "This descriptive record is not a religious ruling. Muslim cultural use, linguistic origin, and direct Qur'anic attestation are separate claims."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim naming communities"
+      ],
+      "cultural_meaning": "Recorded as a feminine given name in Arabic and Muslim naming sources; this does not establish a single worldwide frequency.",
+      "personal_name_interpretation": "Families may value the positive sense of ease, but that is a naming preference rather than a prediction about the bearer.",
+      "interpretation_warning": "A symbolic naming preference is distinct from dictionary meaning and is not a claim about a bearer's personality or future."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Ease, facility, comfort",
+      "related_concepts": [
+        "ease",
+        "facility",
+        "comfort",
+        "prosperity"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_asserted",
+      "render": false,
+      "meaning": null,
+      "basis": null,
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No evidence-based hidden personality traits are asserted."
+    },
+    "numerology": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "life_path_number": null,
+      "ruling_planet": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "meaning": null,
+      "note": "Numerology is not evidence-based and is not supplied in this record."
+    },
+    "lucky_attributes": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "ruling_planet": null
+    },
+    "translations": {
+      "english": {
+        "name": "Yusra",
+        "script": "Yusra",
+        "meaning": "Ease or facility; the wider root also has senses connected with prosperity and the left side.",
+        "long_meaning": "Yusra is an Arabic name whose primary documented sense is ease or facility; related senses of the root include prosperity and left/left-hand, so the short gloss is not exhaustive."
+      },
+      "urdu": {
+        "name": "یُسرٰی",
+        "script": "یُسرٰی",
+        "meaning": "آسانی، سہولت، آسودگی",
+        "long_meaning": "یُسرٰی کے لغوی معنی آسانی، سہولت، آسودگی ہیں۔ یہ ترجمہ ابتدائی مسودہ ہے اور مقامی لسانی جائزے کا محتاج ہے۔"
+      },
+      "persian": {
+        "name": "یُسری",
+        "script": "یُسری",
+        "meaning": "آسانی، آسایش، گشایش",
+        "long_meaning": "معنای لغوی یُسری در این مدخل «آسانی، آسایش، گشایش» است؛ این برگردان پیش‌نویس است و به بازبینی بومی نیاز دارد."
+      },
+      "hindi": {
+        "name": "युसरा",
+        "script": "युसरा",
+        "meaning": "आसानी, सहजता, सुविधा",
+        "long_meaning": "युसरा का शब्दार्थ यहाँ आसानी, सहजता, सुविधा दिया गया है। यह अनुवाद प्रारूप है और स्थानीय भाषायी समीक्षा आवश्यक है।"
+      },
+      "pashto": {
+        "name": "یُسرى",
+        "script": "یُسرى",
+        "meaning": "اساني، هوساینه، اسانتیا",
+        "long_meaning": "د یُسرى لغوي مانا «اساني، هوساینه، اسانتیا» ده؛ دا د ژباړې مسوده ده او د اصلي ژبې ویونکي بیاکتنې ته اړتیا لري.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "يُسْرَى",
+        "script": "يُسْرَى",
+        "meaning": "اليُسر، السهولة والتيسير",
+        "long_meaning": "المعنى اللغوي لـيُسْرَى في هذا السجل هو «اليُسر، السهولة والتيسير»؛ وهذه صياغة أولية تحتاج إلى مراجعة لغوية.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "source_language_gloss_with_localized_draft",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "The source-language core gloss is evidence-backed. All non-English localized meanings and script renderings are editorial drafts and require native-speaker review; transliteration does not establish a separate origin."
+    },
+    "pronunciation": {
+      "romanized": "YOO-srah (approximate)",
+      "ipa": null,
+      "approximation_note": "Romanized pronunciation guide only; no IPA is asserted.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "يُسْرَى"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Yusraa",
+        "Yosra",
+        "Yousra",
+        "Yosraa",
+        "Yousraa",
+        "Yusrah"
+      ],
+      "script_forms": [
+        "يُسْرَى",
+        "युसरा"
+      ],
+      "variant_notes": "Alternate spellings reflect orthographic or transliteration variants; they do not establish different etymologies or pronunciations.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "lexical_scriptural_context",
+      "note": "The form appears as vocabulary in Qur'an 87:8 and 92:7; no named historical bearer is asserted."
+    },
+    "modern_usage": {
+      "status": "source_scoped_usage_data_available",
+      "note": "Nameberry displays U.S. SSA-derived 2025 births; this is U.S.-specific usage, not global popularity."
+    },
+    "popularity": {
+      "status": "source_scoped_metrics_available",
+      "render": true,
+      "score": null,
+      "by_region": [
+        {
+          "region": "United States",
+          "measure": "SSA newborn-name rank and births, as displayed by Nameberry",
+          "year": 2025,
+          "category": "girls",
+          "rank": 1021,
+          "births": 246,
+          "relative_interest_percent": null,
+          "observation_period": null,
+          "source_title": "Yusra Name Meaning, Origin & Popularity",
+          "source": "https://nameberry.com/name/yusra#for-girls",
+          "limitation": "U.S. births only; not population-wide or global demand."
+        }
+      ],
+      "note": "The 2025 U.S. rank and count are drawn from SSA newborn-name data as displayed by Nameberry. They measure U.S. births in that year, not the name's prevalence worldwide."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is included."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No individual bearer story is included without a verified source."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Yusra mean?",
+        "a": "Yusra is an Arabic name whose primary documented sense is ease or facility; related senses of the root include prosperity and left/left-hand, so the short gloss is not exhaustive."
+      },
+      {
+        "q": "What is the origin of Yusra?",
+        "a": "Arabic lexicons record a range of senses under ي س ر. This entry uses ease/facility as the name's primary gloss and preserves the broader lexical range instead of claiming that every root sense is the name's meaning."
+      },
+      {
+        "q": "Is Yusra an Arabic name?",
+        "a": "Yes. The recorded language/origin is Arabic; the source form is يُسْرَى."
+      },
+      {
+        "q": "How is Yusra written in Arabic?",
+        "a": "يُسْرَى"
+      },
+      {
+        "q": "Is Yusra a Quranic name?",
+        "a": "The lexical/scriptural form is directly attested, but not as a named person: The word يسرى occurs in Qur'an 87:8 and 92:7 in the sense of ease; those verses do not use it as a person's name."
+      },
+      {
+        "q": "Is Yusra an Islamic name?",
+        "a": "A lexical name; not a prescribed religious formula. The word's Qur'anic occurrence is a lexical usage, not a named person or a religious ruling about naming."
+      },
+      {
+        "q": "How is Yusra pronounced?",
+        "a": "An approximate romanized guide is YOO-srah. Romanized pronunciation guide only; no IPA is asserted."
+      },
+      {
+        "q": "Is Yusra a boy's or girl's name?",
+        "a": "The documented naming sources record Yusra as a female name; actual use can vary by language and community."
+      },
+      {
+        "q": "How popular is Yusra?",
+        "a": "Available scoped measure(s): United States, 2025: #1021 among girls, 246 births (Yusra Name Meaning, Origin & Popularity). The 2025 U.S. rank and count are drawn from SSA newborn-name data as displayed by Nameberry. They measure U.S. births in that year, not the name's prevalence worldwide."
+      },
+      {
+        "q": "What does Yusra mean in Urdu?",
+        "a": "The draft Urdu rendering is یُسرٰی; its gloss is آسانی، سہولت، آسودگی. Localized translations have not had native-speaker review."
+      },
+      {
+        "q": "What is the root of Yusra?",
+        "a": "The recorded Arabic root is ي س ر (y-s-r)."
+      }
+    ],
+    "seo": {
+      "title": "Yusra Name Meaning, Origin & Usage",
+      "meta_description": "Explore the sourced meaning, origin, pronunciation, script, and regional usage evidence for Yusra.",
+      "meta_keywords": "Yusra meaning, Yusra name meaning, Yusra origin, Yusra pronunciation, Yusra name in Urdu, Yusra Arabic name",
+      "description_paragraph": "Yusra is an Arabic-origin given name. This entry separates its lexical meaning, cultural and scriptural context, and source-scoped usage evidence.",
+      "keywords": [
+        "Yusra meaning",
+        "Yusra name meaning",
+        "Yusra origin",
+        "Yusra pronunciation",
+        "Yusra name in Urdu",
+        "Yusra Arabic name"
+      ],
+      "focus_keyword": "Yusra meaning",
+      "secondary_keywords": [
+        "Yusra name meaning",
+        "Yusra origin",
+        "Yusra pronunciation",
+        "Yusra name in Urdu",
+        "Yusra Arabic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/yusra",
+      "seo_score": null,
+      "seo_score_basis": "No composite SEO score is assigned; editorial and evidence quality are recorded separately."
+    },
+    "seo_content": {
+      "intro_paragraph": "Yusra is an Arabic-origin given name. The entry explains its documented meaning and distinguishes linguistic origin, religious/scriptural status, and regional usage.",
+      "body_summary": "Yusra is an Arabic name whose primary documented sense is ease or facility; related senses of the root include prosperity and left/left-hand, so the short gloss is not exhaustive. The 2025 U.S. rank and count are drawn from SSA newborn-name data as displayed by Nameberry. They measure U.S. births in that year, not the name's prevalence worldwide."
+    },
+    "social_tags": [
+      "#Yusra",
+      "#YusraMeaning",
+      "#NameMeaning",
+      "#ArabicNames",
+      "#IslamicNames"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [
+        "root_has_multiple_contextual_senses",
+        "localized_translations_require_native_review",
+        "popularity_metrics_are_source_and_region_scoped"
+      ],
+      "fabricated_content_removed": true,
+      "fields_total": 323,
+      "quality_score": null,
+      "quality_score_basis": "No composite quality score is asserted; source support, limitations, scriptural status, and review flags are explicit."
+    },
+    "evidence": {
+      "sources": [
+        "The Arabic Lexicon, root يسر — Lexical range including ease/facility, prosperity, and left/left-hand senses. Source: https://arabiclexicon.hawramani.com/%D9%8A%D8%B3%D8%B1/ Limitation: Root senses are broader than the conventional name gloss.",
+        "Wiktionary, يُسْرَى — Confirms the fully vocalized form yusrā and its adjectival analysis as the feminine singular of أيسر. Source: https://en.wiktionary.org/wiki/%D9%8A%D8%B3%D8%B1%D9%89 Limitation: The page is a non-lemma form; the name gloss 'ease' is separately checked against lexical/root evidence and Qur'anic usage.",
+        "QuranicNames, Yusra — Arabic spelling, feminine name usage, reported name meaning, and verses 87:8 and 92:7. Source: https://quranicnames.com/yusra/ Limitation: A baby-name reference; lexical claims are cross-checked against the Arabic lexicon.",
+        "Nameberry, Yusra (2025 SSA data) — U.S. 2025 SSA-derived rank 1,021 and 246 births. Source: https://nameberry.com/name/yusra#for-girls Limitation: Nameberry is a secondary display of U.S. birth data; it is not a global popularity measure."
+      ],
+      "verification_method": "The lexical/scriptural or language claim is separated from name-site glosses; name usage and popularity are checked separately. Every frequency figure retains its source, region, year, category, metric, and limitation. Candidate spellings, Romanized variants, source-script forms, and localized script renderings are checked against the existing dataset. Non-English glosses are drafts requiring native-speaker review."
+    },
+    "provenance": {
+      "pipeline": "NameVerse super-2.0 demand-informed batch builder",
+      "methodology": "Curated evidence manifest -> template-matched record build -> alias/script collision audit -> schema and integrity validation",
+      "upgraded_from": "New record generated from the current super-2.0 architecture; not converted from a legacy record.",
+      "processed_at": "2026-10-13T00:00:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Yusra",
+          "description": "Yusra — an Arabic-origin given name: Ease or facility; the wider root also has senses connected with prosperity and the left side.",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Yusra mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yusra is an Arabic name whose primary documented sense is ease or facility; related senses of the root include prosperity and left/left-hand, so the short gloss is not exhaustive."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Yusra?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Arabic lexicons record a range of senses under ي س ر. This entry uses ease/facility as the name's primary gloss and preserves the broader lexical range instead of claiming that every root sense is the name's meaning."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Yusra an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. The recorded language/origin is Arabic; the source form is يُسْرَى."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Yusra written in Arabic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "يُسْرَى"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Yusra a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The lexical/scriptural form is directly attested, but not as a named person: The word يسرى occurs in Qur'an 87:8 and 92:7 in the sense of ease; those verses do not use it as a person's name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Yusra an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A lexical name; not a prescribed religious formula. The word's Qur'anic occurrence is a lexical usage, not a named person or a religious ruling about naming."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Yusra pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An approximate romanized guide is YOO-srah. Romanized pronunciation guide only; no IPA is asserted."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Yusra a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The documented naming sources record Yusra as a female name; actual use can vary by language and community."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How popular is Yusra?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Available scoped measure(s): United States, 2025: #1021 among girls, 246 births (Yusra Name Meaning, Origin & Popularity). The 2025 U.S. rank and count are drawn from SSA newborn-name data as displayed by Nameberry. They measure U.S. births in that year, not the name's prevalence worldwide."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Yusra mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The draft Urdu rendering is یُسرٰی; its gloss is آسانی، سہولت، آسودگی. Localized translations have not had native-speaker review."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Yusra?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The recorded Arabic root is ي س ر (y-s-r)."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Yusra",
+              "item": "https://nameverse.site/names/islamic/yusra"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": true,
+      "flags": [
+        "root_has_multiple_contextual_senses",
+        "localized_translations_require_native_review",
+        "popularity_metrics_are_source_and_region_scoped"
+      ],
+      "confidence": "HIGH",
+      "reviewed_by": "Automated source-aware build and validation; not a human or native-speaker review",
+      "reviewed_at": "2026-10-13T00:00:00+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": false,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "numerology",
+        "lucky_attributes",
+        "spiritual_meaning",
+        "celebrity_usage",
+        "real_world_usage",
+        "name_story"
+      ]
+    }
+  }
+}

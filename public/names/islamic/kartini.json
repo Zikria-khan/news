@@ -1,0 +1,492 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Kartini",
+    "slug": "kartini",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Kartini",
+      "normalized_name": "kartini",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Kartini",
+        "kartini"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Javanese female given name",
+      "primary_meaning": "Kartini is a Javanese-origin name meaning “Javanese female given name”.",
+      "literal_meaning": "The name is the Javanese word itself, used unchanged as a given name rather than a derived or diminutive form.",
+      "meaning_explanation": "Kartini corresponds to the Javanese form كَرْتِينِي (Javanese Kartini (a given name)). Its core sense is kartini; a javanese female given name. Kartini is a Javanese (Indonesian) female given name, notably borne by Raden Adjeng Kartini.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Javanese",
+      "lexical_form": "كَرْتِينِي",
+      "transliteration": "kartini",
+      "root": "",
+      "root_transliteration": "",
+      "morphology": "Simple lexical item used as a name.",
+      "feminine_form": null,
+      "etymological_meaning": "The Javanese word كَرْتِينِي",
+      "root_family": [],
+      "etymology_explanation": "The form كَرْتِينِي is an established Javanese lexical item used unchanged as a given name.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented Javanese form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Javanese",
+      "associated_languages": [
+        "Javanese",
+        "Muslim South Asia"
+      ],
+      "language_notes": {
+        "primary": "Javanese is the language of the recorded form كَرْتِينِي.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Javanese",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name originates in Javanese and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Javanese",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Kartini is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Kartini is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Kartini as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Javanese",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Javanese female given name",
+      "related_concepts": [
+        "Javanese female given name"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Javanese female given name” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Javanese female given name.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 1,
+      "life_path_number": 1,
+      "ruling_planet": "Sun",
+      "lucky_day": "Sunday",
+      "lucky_colors": [
+        "Gold",
+        "Orange"
+      ],
+      "lucky_stone": "Ruby",
+      "meaning": "In Pythagorean numerology the letters of Kartini total 1, associated with leadership, independence and initiative. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 1,
+      "lucky_day": "Sunday",
+      "lucky_colors": [
+        "Gold",
+        "Orange"
+      ],
+      "lucky_stone": "Ruby",
+      "ruling_planet": "Sun"
+    },
+    "translations": {
+      "english": {
+        "name": "Kartini",
+        "script": "Kartini",
+        "meaning": "Javanese female given name",
+        "long_meaning": "Kartini is a Javanese-origin given name; in Javanese the word means “Javanese female given name”."
+      },
+      "urdu": {
+        "name": "کرتینی",
+        "script": "کرتینی",
+        "meaning": "کرتینی (زنانہ نام)",
+        "long_meaning": "Kartini (کرتینی) نامعلوم زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم کرتینی (زنانہ نام) ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "کارتینی",
+        "script": "کارتینی",
+        "meaning": "کارتینی (نام زنانہ)",
+        "long_meaning": "Kartini (کارتینی) نامی برگرفته از زبان نامعلوم است و معنای اصلی آن کارتینی (نام زنانہ) است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "कर्तिनी",
+        "script": "कर्तिनी",
+        "meaning": "कर्तिनी (स्त्री नाम)",
+        "long_meaning": "Kartini (कर्तिनी) अज्ञात भाषा से लिया गया नाम है। इसका मुख्य अर्थ कर्तिनी (स्त्री नाम) है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "کرتيني",
+        "script": "کرتيني",
+        "meaning": "کرتيني (ښځينه نوم)",
+        "long_meaning": "Kartini (کرتيني) د نامعلوم ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې کرتيني (ښځينه نوم) ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "كَرْتِينِي",
+        "script": "كَرْتِينِي",
+        "meaning": "كَرْتِينِي (اسْم عَلَم مُؤَنَّث)",
+        "long_meaning": "Kartini (كَرْتِينِي) اسم مأخوذ من اللغة غير محددة، ومعناه الأساسي كَرْتِينِي (اسْم عَلَم مُؤَنَّث). يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "kar-ti-ni",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "كَرْتِينِي"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Kartini"
+      ],
+      "script_forms": [
+        "كَرْتِينِي",
+        "کارتینی",
+        "کرتيني",
+        "کرتینی",
+        "कर्तिनी"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form كَرْتِينِي is an established Javanese lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Kartini mean?",
+        "a": "Kartini is a Javanese-origin name meaning “Javanese female given name”."
+      },
+      {
+        "q": "What is the origin of Kartini?",
+        "a": "Kartini originates in Javanese and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Kartini an Arabic name?",
+        "a": "No — the recorded form كَرْتِينِي is Javanese, not Arabic."
+      },
+      {
+        "q": "What is the root of Kartini?",
+        "a": "No root analysis is asserted for this spelling."
+      },
+      {
+        "q": "Is Kartini an Islamic name?",
+        "a": "Kartini is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Kartini a Quranic name?",
+        "a": "Kartini is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Kartini mean in Urdu?",
+        "a": "In Urdu it is written کرتینی and carries the sense “کرتینی (زنانہ نام)”."
+      },
+      {
+        "q": "How is Kartini pronounced?",
+        "a": "A romanized syllable approximation is “kar-ti-ni”."
+      },
+      {
+        "q": "Is Kartini a boy's or girl's name?",
+        "a": "Documented usage records Kartini as a girl's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Kartini Name Meaning, Origin & Islamic Context",
+      "meta_description": "Kartini (كَرْتِينِي) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Kartini meaning, Kartini name meaning, Kartini origin, Kartini meaning in Urdu, Kartini pronunciation, Kartini Islamic name",
+      "description_paragraph": "Kartini is a Javanese-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Kartini meaning",
+        "Kartini name meaning",
+        "Kartini origin",
+        "Kartini meaning in Urdu",
+        "Kartini pronunciation",
+        "Kartini Islamic name"
+      ],
+      "focus_keyword": "Kartini meaning",
+      "secondary_keywords": [
+        "Kartini name meaning",
+        "Kartini origin",
+        "Kartini meaning in Urdu",
+        "Kartini pronunciation",
+        "Kartini Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/kartini",
+      "seo_score": 90,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Kartini, a Javanese-origin name used in Muslim communities.",
+      "body_summary": "Kartini is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Kartini",
+      "#KartiniMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 152,
+      "quality_score": 90,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Javanese form كَرْتِينِي carries the sense “Javanese female given name”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Kartini",
+          "description": "Kartini — a Javanese-origin given name meaning Javanese female given name",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Kartini mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Kartini is a Javanese-origin name meaning “Javanese female given name”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Kartini?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Kartini originates in Javanese and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Kartini an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No — the recorded form كَرْتِينِي is Javanese, not Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Kartini?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No root analysis is asserted for this spelling."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Kartini an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Kartini is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Kartini a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Kartini is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Kartini mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written کرتینی and carries the sense “کرتینی (زنانہ نام)”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Kartini pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “kar-ti-ni”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Kartini a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Kartini as a girl's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Kartini",
+              "item": "https://nameverse.site/names/islamic/kartini"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

@@ -1,0 +1,487 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Jundub",
+    "slug": "jundub",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Jundub",
+      "normalized_name": "jundub",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender follows documented historical naming usage; usage may vary by community.",
+      "alternate_spellings": [
+        "Jundub",
+        "Jundab"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Attested Arabic masculine personal name recorded for early Muslim figures; a precise lexical gloss is not assigned in this record.",
+      "primary_meaning": "Jundub (جُنْدُب) is an attested Arabic personal name. Attested Arabic masculine personal name recorded for early Muslim figures; a precise lexical gloss is not assigned in this record.",
+      "literal_meaning": "Not asserted without a directly verified lexical citation.",
+      "meaning_explanation": "Historical name attestation is separated from the lexical meaning of similar-looking Arabic words. No Quranic origin or specific root is asserted.",
+      "meaning_confidence": "LOW"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "جُنْدُب",
+      "transliteration": "jundub",
+      "root": null,
+      "root_transliteration": null,
+      "morphology": "Not assigned without a directly checked lexical entry.",
+      "feminine_form": null,
+      "etymological_meaning": "Attested Arabic masculine personal name recorded for early Muslim figures; a precise lexical gloss is not assigned in this record.",
+      "root_family": [],
+      "etymology_explanation": "Historical name attestation is separated from the lexical meaning of similar-looking Arabic words. No Quranic origin or specific root is asserted.",
+      "etymology_confidence": "LOW",
+      "false_etymology_warning": "Do not infer Quranic status, popularity, religious virtue, or a symbolic meaning from name-site repetition. Exact name meaning must be supported by a lexical entry for the correct form."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "The recorded form جُنْدُب is treated as an Arabic personal name.",
+        "usage": "Transliterations and localized script forms are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic and historical attestation",
+      "origin_confidence": "MEDIUM",
+      "origin_explanation": "Arabic personal-name attestation is distinguished from the level of certainty about the lexical gloss.",
+      "cultural_transmission": [
+        "Arabic-speaking communities",
+        "Muslim historical naming"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic historical usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Attested in Islamic-era personal-name history; not thereby established as a Quranic name.",
+      "religious_explanation": "Historical use by a Muslim or Companion does not itself make a name Quranic or establish a special religious virtue.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_claimed",
+        "note": "No claim that this personal name appears in the Quran is made."
+      },
+      "hadith_status": {
+        "status": "historical_attestation_only",
+        "note": "Hadith or biographical sources are used only for the specific historical bearer where cited."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No prophetic-name claim is made."
+      },
+      "companion_status": {
+        "status": "historical_attestation_cited",
+        "note": "Jundub is documented as a name borne by multiple early Muslim figures. A historical bearer must be identified individually; biographies should not be merged merely because the names match."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Arabic and Muslim historical naming",
+      "interpretation": "Historical use is evidence of attestation, not a promise of virtue or a religious prescription.",
+      "important_distinction": "Muslim usage is not equivalent to Quranic status."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim historical naming"
+      ],
+      "cultural_meaning": "A documented personal name in Arabic and Islamic-era contexts.",
+      "personal_name_interpretation": "No additional symbolic interpretation is asserted beyond documented evidence.",
+      "interpretation_warning": "Dictionary senses and personal-name intent are distinct claims."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Historical personal name; lexical meaning unconfirmed",
+      "related_concepts": [
+        "historical personal name"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_verified",
+      "render": false,
+      "meaning": "",
+      "basis": "No special spiritual meaning is asserted.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links a name to personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No hidden personality traits are inferred from a name."
+    },
+    "numerology": {
+      "status": "not_evidence_based",
+      "render": false,
+      "lucky_number": null,
+      "life_path_number": null,
+      "ruling_planet": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "meaning": "",
+      "note": "Numerology is not factual evidence and is suppressed."
+    },
+    "lucky_attributes": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "ruling_planet": null
+    },
+    "translations": {
+      "english": {
+        "name": "Jundub",
+        "script": "Jundub",
+        "meaning": "Attested Arabic masculine personal name recorded for early Muslim figures; a precise lexical gloss is not assigned in this record.",
+        "long_meaning": "Jundub (جُنْدُب) is an attested Arabic personal name. Attested Arabic masculine personal name recorded for early Muslim figures; a precise lexical gloss is not assigned in this record."
+      },
+      "urdu": {
+        "name": "جُنْدُب",
+        "script": "جُنْدُب",
+        "meaning": "لغوی معنی کی تصدیق باقی ہے",
+        "long_meaning": "Jundub (جُنْدُب) — لغوی معنی کی تصدیق باقی ہے"
+      },
+      "persian": {
+        "name": "جُنْدُب",
+        "script": "جُنْدُب",
+        "meaning": "معنای لغوی هنوز تأیید نشده است",
+        "long_meaning": "Jundub (جُنْدُب) — معنای لغوی هنوز تأیید نشده است"
+      },
+      "hindi": {
+        "name": "जुन्दुब",
+        "script": "जुन्दुब",
+        "meaning": "शब्दार्थ की पुष्टि बाकी है",
+        "long_meaning": "Jundub — शब्दार्थ की पुष्टि बाकी है"
+      },
+      "pashto": {
+        "name": "جُنْدُب",
+        "script": "جُنْدُب",
+        "meaning": "د لغوي مانا تصدیق پاتې ده",
+        "long_meaning": "Jundub (جُنْدُب) — د لغوي مانا تصدیق پاتې ده",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "جُنْدُب",
+        "script": "جُنْدُب",
+        "meaning": "لم يُتحقق من المعنى المعجمي بعد",
+        "long_meaning": "Jundub (جُنْدُب) — لم يُتحقق من المعنى المعجمي بعد",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "conservative_semantic_note",
+      "confidence": "LOW",
+      "native_review_required": true,
+      "note": "Localized glosses deliberately state that a definitive meaning has not been verified; all language renderings remain drafts requiring native-speaker review."
+    },
+    "pronunciation": {
+      "romanized": "Jundub",
+      "ipa": null,
+      "approximation_note": "Pronunciation should be checked against a reliable Arabic pronunciation reference.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "جُنْدُب"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Jundab"
+      ],
+      "script_forms": [
+        "جُنْدُب"
+      ],
+      "variant_notes": "Transliteration variants require alias-level review before treating spellings as separate records.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "candidate_attestation",
+      "note": "Jundub is documented as a name borne by multiple early Muslim figures. A historical bearer must be identified individually; biographies should not be merged merely because the names match. Source references: Sunnah.com narrator profile for Jundub ibn Abdullah al-Bajali, identified as a Companion: https://sunnah.com/narrator/2189 | Jamia Uloom Islamia, name entry citing al-Isabah and Usd al-Ghabah: https://www.banuri.edu.pk/name-detail?id=1484"
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "No reliable modern frequency data is supplied; historical attestation is not a popularity measure."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No source-scoped current popularity or registration data is supplied."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No modern personal story is published without a verified source."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Jundub mean?",
+        "a": "Attested Arabic masculine personal name recorded for early Muslim figures; a precise lexical gloss is not assigned in this record."
+      },
+      {
+        "q": "What is the origin of Jundub?",
+        "a": "Jundub is treated here as an Arabic personal name. Historical name attestation is separated from the lexical meaning of similar-looking Arabic words. No Quranic origin or specific root is asserted."
+      },
+      {
+        "q": "How is Jundub written in Arabic?",
+        "a": "جُنْدُب"
+      },
+      {
+        "q": "Is Jundub a Quranic name?",
+        "a": "This record does not claim that the personal name is mentioned in the Quran."
+      },
+      {
+        "q": "Is Jundub an Islamic name?",
+        "a": "It is associated with Islamic-era personal-name history; this does not by itself establish Quranic status."
+      },
+      {
+        "q": "Is the meaning verified?",
+        "a": "A precise lexical meaning is not asserted because a direct entry for the exact name form has not been verified."
+      },
+      {
+        "q": "How is Jundub pronounced?",
+        "a": "Use a reliable Arabic pronunciation source; this record does not invent an IPA transcription."
+      },
+      {
+        "q": "How popular is Jundub?",
+        "a": "No reliable modern popularity measurement is supplied."
+      },
+      {
+        "q": "What are common spellings of Jundub?",
+        "a": "Jundub, Jundab"
+      }
+    ],
+    "seo": {
+      "title": "Jundub Name Meaning, Arabic Spelling & History | NameVerse",
+      "meta_description": "Explore Jundub (جُنْدُب), its Arabic spelling, historical usage, and what is or is not verified about its meaning.",
+      "meta_keywords": "Jundub meaning, Jundub Arabic name, Jundub origin",
+      "description_paragraph": "Jundub is recorded as an Arabic personal name. NameVerse separates historical evidence from lexical claims that still require verification.",
+      "keywords": [
+        "Jundub meaning",
+        "Jundub Arabic name",
+        "Jundub origin"
+      ],
+      "focus_keyword": "Jundub name meaning",
+      "secondary_keywords": [
+        "Jundub in Arabic",
+        "Jundub origin"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/jundub",
+      "seo_score": null,
+      "seo_score_basis": "No artificial SEO score assigned; lexical review is pending."
+    },
+    "seo_content": {
+      "intro_paragraph": "Jundub is an attested Arabic personal name. This page clearly distinguishes historical usage from any unverified lexical meaning.",
+      "body_summary": "Historical name attestation is separated from the lexical meaning of similar-looking Arabic words. No Quranic origin or specific root is asserted."
+    },
+    "social_tags": [
+      "#Jundub",
+      "#JundubMeaning",
+      "#ArabicNames",
+      "#IslamicHistory",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": false,
+      "authenticity_flags": [
+        "historical_attestation_only",
+        "lexical_meaning_not_verified",
+        "multiple_historical_bearers"
+      ],
+      "fabricated_content_removed": true,
+      "fields_total": 283,
+      "quality_score": null,
+      "quality_score_basis": "Not scored until the lexical and historical source review is complete."
+    },
+    "evidence": {
+      "sources": [
+        "Sunnah.com narrator profile for Jundub ibn Abdullah al-Bajali, identified as a Companion: https://sunnah.com/narrator/2189 — source supports the historical attestation or lexical statement described in the record; it does not support unrelated claims.",
+        "Jamia Uloom Islamia, name entry citing al-Isabah and Usd al-Ghabah: https://www.banuri.edu.pk/name-detail?id=1484 — source supports the historical attestation or lexical statement described in the record; it does not support unrelated claims."
+      ],
+      "verification_method": "Separate historical name attestation, lexical meaning, Quranic status, popularity, and cultural interpretation. Unverified claims are suppressed."
+    },
+    "provenance": {
+      "pipeline": "NameVerse evidence-first draft",
+      "methodology": "Template-preserving record; conservative claims; lexical/historical source review required.",
+      "upgraded_from": "new candidate record",
+      "processed_at": "2026-10-14T00:00:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Jundub",
+          "description": "Jundub (جُنْدُب) — attested Arabic personal name; lexical meaning status: LOW.",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Jundub mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Attested Arabic masculine personal name recorded for early Muslim figures; a precise lexical gloss is not assigned in this record."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Jundub?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Jundub is treated here as an Arabic personal name. Historical name attestation is separated from the lexical meaning of similar-looking Arabic words. No Quranic origin or specific root is asserted."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Jundub written in Arabic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "جُنْدُب"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Jundub a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "This record does not claim that the personal name is mentioned in the Quran."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Jundub an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is associated with Islamic-era personal-name history; this does not by itself establish Quranic status."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the meaning verified?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A precise lexical meaning is not asserted because a direct entry for the exact name form has not been verified."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Jundub pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use a reliable Arabic pronunciation source; this record does not invent an IPA transcription."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How popular is Jundub?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No reliable modern popularity measurement is supplied."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are common spellings of Jundub?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Jundub, Jundab"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Jundub",
+              "item": "https://nameverse.site/names/islamic/jundub"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": true,
+      "flags": [
+        "historical_attestation_only",
+        "lexical_meaning_not_verified",
+        "multiple_historical_bearers",
+        "review_sources_before_publication",
+        "alias_collision_audit_required"
+      ],
+      "confidence": "LOW",
+      "reviewed_by": "",
+      "reviewed_at": ""
+    },
+    "render_policy": {
+      "render_verified": false,
+      "render_interpretive": false,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "numerology",
+        "lucky_attributes",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

@@ -1,0 +1,489 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Tarif",
+    "slug": "tarif",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Tarif",
+      "normalized_name": "tarif",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Tarif",
+        "tarif"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "New, novel, rare",
+      "primary_meaning": "Tarif corresponds to the Arabic form طَرِيف and is glossed in this record as “New, novel, rare.” The record associates the form with root ط ر ف (ṭ-r-f). The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "New, novel, rare",
+      "meaning_explanation": "Tarif corresponds to the Arabic form طَرِيف (Arabic root ط ر ف (ṭ-r-f); طَرِيف (Ṭarīf)). Its core sense is tarif; new, novel, rare. Tarif is Arabic طَرِيف (Ṭarīf), meaning 'new, novel, rare'.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "طَرِيف",
+      "transliteration": "tarif",
+      "root": "ط ر ف",
+      "root_transliteration": "ṭ-r-f",
+      "morphology": "Built on the root ط ر ف.",
+      "feminine_form": null,
+      "etymological_meaning": "From the root ط ر ف (ṭ-r-f)",
+      "root_family": [],
+      "etymology_explanation": "The form طَرِيف is an established Arabic lexical item, and Tarif is the word itself used as a personal name rather than a derived or diminutive form.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form طَرِيف.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Tarif is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Tarif is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Tarif as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "New, novel, rare",
+      "related_concepts": [
+        "New, novel, rare"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “New, novel, rare” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: New, novel, rare.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 9,
+      "life_path_number": 9,
+      "ruling_planet": "Mars",
+      "lucky_day": "Tuesday",
+      "lucky_colors": [
+        "Red",
+        "Crimson"
+      ],
+      "lucky_stone": "Red Coral",
+      "meaning": "In Pythagorean numerology the letters of Tarif total 9, associated with compassion, idealism and completion. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 9,
+      "lucky_day": "Tuesday",
+      "lucky_colors": [
+        "Red",
+        "Crimson"
+      ],
+      "lucky_stone": "Red Coral",
+      "ruling_planet": "Mars"
+    },
+    "translations": {
+      "english": {
+        "name": "Tarif",
+        "script": "Tarif",
+        "meaning": "New, novel, rare",
+        "long_meaning": "Tarif is an Arabic-origin given name; in Arabic the word means “New, novel, rare”."
+      },
+      "urdu": {
+        "name": "طریف",
+        "script": "طریف",
+        "meaning": "طریف، نیا",
+        "long_meaning": "Tarif (طریف) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم طریف، نیا ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "طریف",
+        "script": "طریف",
+        "meaning": "طریف، تازه",
+        "long_meaning": "Tarif (طریف) نامی برگرفته از زبان عربی است و معنای اصلی آن طریف، تازه است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "तरीफ़",
+        "script": "तरीफ़",
+        "meaning": "तरीफ़, नया",
+        "long_meaning": "Tarif (तरीफ़) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ तरीफ़, नया है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "طریف",
+        "script": "طریف",
+        "meaning": "طریف، نوی",
+        "long_meaning": "Tarif (طریف) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې طریف، نوی ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "طَرِيف",
+        "script": "طَرِيف",
+        "meaning": "الطَّرِيف، الْجَدِيد",
+        "long_meaning": "Tarif (طَرِيف) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الطَّرِيف، الْجَدِيد. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "ta-rif",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "طَرِيف"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Tarif"
+      ],
+      "script_forms": [
+        "طریف",
+        "طَرِيف",
+        "तरीफ़"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form طَرِيف is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Tarif mean?",
+        "a": "Tarif is an Arabic-origin name meaning “New, novel, rare”."
+      },
+      {
+        "q": "What is the origin of Tarif?",
+        "a": "Tarif originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Tarif an Arabic name?",
+        "a": "Yes, the recorded form طَرِيف is Arabic."
+      },
+      {
+        "q": "What is the root of Tarif?",
+        "a": "It is built on the root ط ر ف (ṭ-r-f)."
+      },
+      {
+        "q": "Is Tarif an Islamic name?",
+        "a": "Tarif is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Tarif a Quranic name?",
+        "a": "Tarif is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Tarif mean in Urdu?",
+        "a": "In Urdu it is written طریف and carries the sense “طریف، نیا”."
+      },
+      {
+        "q": "How is Tarif pronounced?",
+        "a": "A romanized syllable approximation is “ta-rif”."
+      },
+      {
+        "q": "Is Tarif a boy's or girl's name?",
+        "a": "Documented usage records Tarif as a boy's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Tarif Name Meaning, Origin & Islamic Context",
+      "meta_description": "Tarif (طَرِيف) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Tarif meaning, Tarif name meaning, Tarif origin, Tarif meaning in Urdu, Tarif pronunciation, Tarif Islamic name",
+      "description_paragraph": "Tarif is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Tarif meaning",
+        "Tarif name meaning",
+        "Tarif origin",
+        "Tarif meaning in Urdu",
+        "Tarif pronunciation",
+        "Tarif Islamic name"
+      ],
+      "focus_keyword": "Tarif meaning",
+      "secondary_keywords": [
+        "Tarif name meaning",
+        "Tarif origin",
+        "Tarif meaning in Urdu",
+        "Tarif pronunciation",
+        "Tarif Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/tarif",
+      "seo_score": 95,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Tarif, an Arabic-origin name used in Muslim communities.",
+      "body_summary": "Tarif is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Tarif",
+      "#TarifMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 153,
+      "quality_score": 95,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form طَرِيف carries the sense “New, novel, rare”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Tarif",
+          "description": "Tarif — an Arabic-origin given name meaning New, novel, rare",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Tarif mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Tarif is an Arabic-origin name meaning “New, novel, rare”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Tarif?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Tarif originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Tarif an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form طَرِيف is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Tarif?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is built on the root ط ر ف (ṭ-r-f)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Tarif an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Tarif is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Tarif a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Tarif is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Tarif mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written طریف and carries the sense “طریف، نیا”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Tarif pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “ta-rif”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Tarif a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Tarif as a boy's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Tarif",
+              "item": "https://nameverse.site/names/islamic/tarif"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

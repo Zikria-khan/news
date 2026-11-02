@@ -1,0 +1,489 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Nazakat",
+    "slug": "nazakat",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Nazakat",
+      "normalized_name": "nazakat",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Nazakat",
+        "nazakat"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Delicacy, refinement, subtlety",
+      "primary_meaning": "Nazakat corresponds to the Urdu form نَزَاكَت and is glossed in this record as “Delicacy, refinement, subtlety.” The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "The name is the Urdu word itself, used unchanged as a given name rather than a derived or diminutive form.",
+      "meaning_explanation": "Nazakat corresponds to the Urdu form نَزَاكَت (Urdu نزاکت (nazākat), from Arabic نَزَاهَة). Its core sense is delicacy, refinement, subtlety. Nazakat is Urdu نزاکت (nazākat) 'delicacy, refinement, subtlety'. CRITICAL SOURCE ERROR: the source labelled the origin Arabic; the word is Urdu. The source gloss 'Purity and delicacy' is broadly consistent.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Urdu",
+      "lexical_form": "نَزَاكَت",
+      "transliteration": "nazakat",
+      "root": "",
+      "root_transliteration": "",
+      "morphology": "Simple lexical item used as a name.",
+      "feminine_form": null,
+      "etymological_meaning": "The Urdu word نَزَاكَت",
+      "root_family": [],
+      "etymology_explanation": "The form نَزَاكَت is an established Urdu lexical item used unchanged as a given name.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented Urdu form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Urdu",
+      "associated_languages": [
+        "Urdu"
+      ],
+      "language_notes": {
+        "primary": "Urdu is the language of the recorded form نَزَاكَت.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Urdu",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name originates in Urdu and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Urdu",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Nazakat is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Nazakat is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Nazakat as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Urdu",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Delicacy, refinement, subtlety",
+      "related_concepts": [
+        "Delicacy, refinement, subtlety"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Delicacy, refinement, subtlety” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Delicacy, refinement, subtlety.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 2,
+      "life_path_number": 2,
+      "ruling_planet": "Moon",
+      "lucky_day": "Monday",
+      "lucky_colors": [
+        "White",
+        "Silver"
+      ],
+      "lucky_stone": "Pearl",
+      "meaning": "In Pythagorean numerology the letters of Nazakat total 2, associated with cooperation, balance and sensitivity. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 2,
+      "lucky_day": "Monday",
+      "lucky_colors": [
+        "White",
+        "Silver"
+      ],
+      "lucky_stone": "Pearl",
+      "ruling_planet": "Moon"
+    },
+    "translations": {
+      "english": {
+        "name": "Nazakat",
+        "script": "Nazakat",
+        "meaning": "Delicacy, refinement, subtlety",
+        "long_meaning": "Nazakat is an Urdu-origin given name; in Urdu the word means “Delicacy, refinement, subtlety”."
+      },
+      "urdu": {
+        "name": "نزاکت",
+        "script": "نزاکت",
+        "meaning": "نزاکت، لطافت، نفاست",
+        "long_meaning": "Nazakat (نزاکت) نامعلوم زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم نزاکت، لطافت، نفاست ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "نزاکت",
+        "script": "نزاکت",
+        "meaning": "نزاکت، لطافت",
+        "long_meaning": "Nazakat (نزاکت) نامی برگرفته از زبان نامعلوم است و معنای اصلی آن نزاکت، لطافت است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "नज़ाकत",
+        "script": "नज़ाकत",
+        "meaning": "नज़ाकत, सूक्ष्मता",
+        "long_meaning": "Nazakat (नज़ाकत) अज्ञात भाषा से लिया गया नाम है। इसका मुख्य अर्थ नज़ाकत, सूक्ष्मता है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "نزاکت",
+        "script": "نزاکت",
+        "meaning": "نزاکت، نرمي",
+        "long_meaning": "Nazakat (نزاکت) د نامعلوم ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې نزاکت، نرمي ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "نَزَاكَت",
+        "script": "نَزَاكَت",
+        "meaning": "النَّزَاكَة، اللَّطَافَة",
+        "long_meaning": "Nazakat (نَزَاكَت) اسم مأخوذ من اللغة غير محددة، ومعناه الأساسي النَّزَاكَة، اللَّطَافَة. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "na-za-kat",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "نَزَاكَت"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Nazakat"
+      ],
+      "script_forms": [
+        "نزاکت",
+        "نَزَاكَت",
+        "नज़ाकत"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form نَزَاكَت is an established Urdu lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Nazakat mean?",
+        "a": "Nazakat is an Urdu-origin name meaning “Delicacy, refinement, subtlety”."
+      },
+      {
+        "q": "What is the origin of Nazakat?",
+        "a": "Nazakat originates in Urdu and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Nazakat an Arabic name?",
+        "a": "No — the recorded form نَزَاكَت is Urdu, not Arabic."
+      },
+      {
+        "q": "What is the root of Nazakat?",
+        "a": "No root analysis is asserted for this spelling."
+      },
+      {
+        "q": "Is Nazakat an Islamic name?",
+        "a": "Nazakat is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Nazakat a Quranic name?",
+        "a": "Nazakat is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Nazakat mean in Urdu?",
+        "a": "In Urdu it is written نزاکت and carries the sense “نزاکت، لطافت، نفاست”."
+      },
+      {
+        "q": "How is Nazakat pronounced?",
+        "a": "A romanized syllable approximation is “na-za-kat”."
+      },
+      {
+        "q": "Is Nazakat a boy's or girl's name?",
+        "a": "Documented usage records Nazakat as a girl's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Nazakat Name Meaning, Origin & Islamic Context",
+      "meta_description": "Nazakat (نَزَاكَت) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Nazakat meaning, Nazakat name meaning, Nazakat origin, Nazakat meaning in Urdu, Nazakat pronunciation, Nazakat Islamic name",
+      "description_paragraph": "Nazakat is an Urdu-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Nazakat meaning",
+        "Nazakat name meaning",
+        "Nazakat origin",
+        "Nazakat meaning in Urdu",
+        "Nazakat pronunciation",
+        "Nazakat Islamic name"
+      ],
+      "focus_keyword": "Nazakat meaning",
+      "secondary_keywords": [
+        "Nazakat name meaning",
+        "Nazakat origin",
+        "Nazakat meaning in Urdu",
+        "Nazakat pronunciation",
+        "Nazakat Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/nazakat",
+      "seo_score": 90,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Nazakat, an Urdu-origin name used in Muslim communities.",
+      "body_summary": "Nazakat is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Nazakat",
+      "#NazakatMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 150,
+      "quality_score": 90,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Urdu form نَزَاكَت carries the sense “Delicacy, refinement, subtlety”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Nazakat",
+          "description": "Nazakat — an Urdu-origin given name meaning Delicacy, refinement, subtlety",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Nazakat mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Nazakat is an Urdu-origin name meaning “Delicacy, refinement, subtlety”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Nazakat?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Nazakat originates in Urdu and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Nazakat an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No — the recorded form نَزَاكَت is Urdu, not Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Nazakat?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No root analysis is asserted for this spelling."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Nazakat an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Nazakat is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Nazakat a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Nazakat is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Nazakat mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written نزاکت and carries the sense “نزاکت، لطافت، نفاست”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Nazakat pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “na-za-kat”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Nazakat a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Nazakat as a girl's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Nazakat",
+              "item": "https://nameverse.site/names/islamic/nazakat"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

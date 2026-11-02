@@ -1,0 +1,535 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Salsabil",
+    "slug": "salsabil",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Salsabil",
+      "normalized_name": "salsabil",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender follows documented naming usage, not an inference from the word's meaning; usage can vary by community.",
+      "alternate_spellings": [
+        "Salsabil",
+        "salsabil",
+        "Salsabeel"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "A spring named Salsabil in Qur'an 76:18.",
+      "primary_meaning": "Salsabil is the name given to a spring in Qur'an 76:18; 'spring named Salsabil' is the secure contextual gloss, while a deeper etymological derivation is left unresolved.",
+      "literal_meaning": "The verse says a spring there is called Salsabil; this entry does not claim that 'fountain of paradise' is a literal Arabic compound meaning.",
+      "meaning_explanation": "The Qur'anic context identifies Salsabil as a spring. Secondary name sources often paraphrase this as a spring or fountain in Paradise. The word's etymological origin is not confidently established here, so no Arabic root derivation is invented.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "سَلْسَبِيل",
+      "transliteration": "salsabīl",
+      "root": "",
+      "root_transliteration": "",
+      "morphology": "Qur'anic name of a spring; no Arabic root or transparent derivation is asserted because the deeper etymology is uncertain.",
+      "feminine_form": null,
+      "etymological_meaning": "A spring named Salsabil in Qur'an 76:18.",
+      "root_family": [],
+      "etymology_explanation": "The Qur'anic context identifies Salsabil as a spring. Secondary name sources often paraphrase this as a spring or fountain in Paradise. The word's etymological origin is not confidently established here, so no Arabic root derivation is invented.",
+      "etymology_confidence": "MEDIUM",
+      "false_etymology_warning": "The Qur'anic referent is clear, but the deeper etymology is uncertain/probabilistic. No triliteral root or literal Arabic compound derivation is asserted."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "The form is attested in Qur'anic Arabic; a dictionary source proposes a probable Aramaic/ultimately Akkadian etymology, so its deeper origin remains uncertain.",
+        "usage": "Other scripts are transliterations or localized glosses; they are not independent origins."
+      },
+      "language_confidence": "MEDIUM"
+    },
+    "origin": {
+      "primary_origin": "Qur'anic Arabic usage; deeper origin uncertain",
+      "origin_type": "linguistic",
+      "origin_confidence": "MEDIUM",
+      "origin_explanation": "The form is attested as the spring's name in Qur'anic Arabic. A reference proposes a probable Aramaic, ultimately Akkadian, etymology; that proposal is not treated as settled.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim naming communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Qur'anic vocabulary and Muslim-cultural naming usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "A Qur'anic place/water-source name; not a named person in the verse.",
+      "religious_explanation": "The scriptural referent is a spring. No ruling about permissibility or religious reward is asserted by this record.",
+      "quranic_status": {
+        "is_quranic": true,
+        "status": "named_spring_directly_attested",
+        "note": "Salsabil is directly named as a spring in Qur'an 76:18; the verse does not use it as a person's name."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report establishing this name or a special virtue is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishing this as a prophet's personal name is cited."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion attribution is asserted without a verified source."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Qur'anic vocabulary and Muslim-cultural naming usage",
+      "interpretation": "The spring imagery may be meaningful to families; no personality trait or promised outcome is inferred.",
+      "important_distinction": "This descriptive record is not a religious ruling. Muslim cultural use, linguistic origin, and direct Qur'anic attestation are separate claims."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Qur'anic Arabic",
+        "Muslim naming communities"
+      ],
+      "cultural_meaning": "Recorded as a feminine given name in contemporary naming sources; frequency varies by country.",
+      "personal_name_interpretation": "The spring imagery may be meaningful to families; no personality trait or promised outcome is inferred.",
+      "interpretation_warning": "A symbolic naming preference is distinct from dictionary meaning and is not a claim about a bearer's personality or future."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Qur'anic spring/water source",
+      "related_concepts": [
+        "spring",
+        "water",
+        "Qur'an 76:18"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_asserted",
+      "render": false,
+      "meaning": null,
+      "basis": null,
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No evidence-based hidden personality traits are asserted."
+    },
+    "numerology": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "life_path_number": null,
+      "ruling_planet": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "meaning": null,
+      "note": "Numerology is not evidence-based and is not supplied in this record."
+    },
+    "lucky_attributes": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "ruling_planet": null
+    },
+    "translations": {
+      "english": {
+        "name": "Salsabil",
+        "script": "Salsabil",
+        "meaning": "A spring named Salsabil in Qur'an 76:18.",
+        "long_meaning": "Salsabil is the name given to a spring in Qur'an 76:18; 'spring named Salsabil' is the secure contextual gloss, while a deeper etymological derivation is left unresolved."
+      },
+      "urdu": {
+        "name": "سلسبیل",
+        "script": "سلسبیل",
+        "meaning": "قرآن میں مذکور وہ چشمہ جسے سلسبیل کہا گیا ہے",
+        "long_meaning": "سلسبیل کے لغوی معنی قرآن میں مذکور وہ چشمہ جسے سلسبیل کہا گیا ہے ہیں۔ یہ ترجمہ ابتدائی مسودہ ہے اور مقامی لسانی جائزے کا محتاج ہے۔"
+      },
+      "persian": {
+        "name": "سلسبیل",
+        "script": "سلسبیل",
+        "meaning": "چشمه‌ای که در قرآن، سورهٔ انسان ۷۶:۱۸، سلسبیل نامیده شده است",
+        "long_meaning": "معنای لغوی سلسبیل در این مدخل «چشمه‌ای که در قرآن، سورهٔ انسان ۷۶:۱۸، سلسبیل نامیده شده است» است؛ این برگردان پیش‌نویس است و به بازبینی بومی نیاز دارد."
+      },
+      "hindi": {
+        "name": "सलसबील",
+        "script": "सलसबील",
+        "meaning": "क़ुरआन में वर्णित वह सोता जिसे सलसबील कहा गया है",
+        "long_meaning": "सलसबील का शब्दार्थ यहाँ क़ुरआन में वर्णित वह सोता जिसे सलसबील कहा गया है दिया गया है। यह अनुवाद प्रारूप है और स्थानीय भाषायी समीक्षा आवश्यक है।"
+      },
+      "pashto": {
+        "name": "سلسبیل",
+        "script": "سلسبیل",
+        "meaning": "په قرآن کې هغه چینه چې سلسبیل بلل شوې ده",
+        "long_meaning": "د سلسبیل لغوي مانا «په قرآن کې هغه چینه چې سلسبیل بلل شوې ده» ده؛ دا د ژباړې مسوده ده او د اصلي ژبې ویونکي بیاکتنې ته اړتیا لري.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "سَلْسَبِيل",
+        "script": "سَلْسَبِيل",
+        "meaning": "عينٌ ذُكرت باسم سلسبيل في سورة الإنسان ٧٦:١٨؛ وأصل الاشتقاق غير محسوم هنا",
+        "long_meaning": "المعنى اللغوي لـسَلْسَبِيل في هذا السجل هو «عينٌ ذُكرت باسم سلسبيل في سورة الإنسان ٧٦:١٨؛ وأصل الاشتقاق غير محسوم هنا»؛ وهذه صياغة أولية تحتاج إلى مراجعة لغوية.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "source_language_gloss_with_localized_draft",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "The source-language core gloss is evidence-backed. All non-English localized meanings and script renderings are editorial drafts and require native-speaker review; transliteration does not establish a separate origin."
+    },
+    "pronunciation": {
+      "romanized": "sal-sa-beel (approximate)",
+      "ipa": null,
+      "approximation_note": "Nameberry gives a similar English guide; pronunciation varies by language. No IPA is asserted.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "سَلْسَبِيل"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Salsabeel"
+      ],
+      "script_forms": [
+        "سَلْسَبِيل",
+        "सलसबील"
+      ],
+      "variant_notes": "Alternate spellings reflect orthographic or transliteration variants; they do not establish different etymologies or pronunciations.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "quranic_place_name",
+      "note": "The name of a spring is explicit in Qur'an 76:18; deeper etymology remains unresolved."
+    },
+    "modern_usage": {
+      "status": "source_scoped_usage_data_available",
+      "note": "Nameberry displays a 2025 U.S. SSA-derived rank; the name remains uncommon in U.S. births, and the rank is not a measure of global demand."
+    },
+    "popularity": {
+      "status": "source_scoped_metrics_available",
+      "render": true,
+      "score": null,
+      "by_region": [
+        {
+          "region": "United States",
+          "measure": "SSA newborn-name rank, as displayed by Nameberry",
+          "year": 2025,
+          "category": "girls",
+          "rank": 10764,
+          "births": null,
+          "relative_interest_percent": null,
+          "observation_period": null,
+          "source_title": "Salsabil Name Meaning, Origin & Popularity",
+          "source": "https://nameberry.com/name/salsabil",
+          "limitation": "U.S. births only; rank is outside the top 1,000 and does not establish global demand."
+        }
+      ],
+      "note": "Nameberry reports U.S. 2025 SSA-derived girl rank 10,764. This indicates actual but uncommon U.S. registrations; it is not global prevalence."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is included."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No individual bearer story is included without a verified source."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Salsabil mean?",
+        "a": "Salsabil is the name given to a spring in Qur'an 76:18; 'spring named Salsabil' is the secure contextual gloss, while a deeper etymological derivation is left unresolved."
+      },
+      {
+        "q": "What is the origin of Salsabil?",
+        "a": "The Qur'anic context identifies Salsabil as a spring. Secondary name sources often paraphrase this as a spring or fountain in Paradise. The word's etymological origin is not confidently established here, so no Arabic root derivation is invented."
+      },
+      {
+        "q": "Is Salsabil an Arabic name?",
+        "a": "Yes. The recorded language/origin is Arabic; the source form is سَلْسَبِيل."
+      },
+      {
+        "q": "How is Salsabil written in Arabic?",
+        "a": "سَلْسَبِيل"
+      },
+      {
+        "q": "Is Salsabil a Quranic name?",
+        "a": "The lexical/scriptural form is directly attested, but not as a named person: Salsabil is directly named as a spring in Qur'an 76:18; the verse does not use it as a person's name."
+      },
+      {
+        "q": "Is Salsabil an Islamic name?",
+        "a": "A Qur'anic place/water-source name; not a named person in the verse. The scriptural referent is a spring. No ruling about permissibility or religious reward is asserted by this record."
+      },
+      {
+        "q": "How is Salsabil pronounced?",
+        "a": "An approximate romanized guide is sal-sa-beel. Nameberry gives a similar English guide; pronunciation varies by language. No IPA is asserted."
+      },
+      {
+        "q": "Is Salsabil a boy's or girl's name?",
+        "a": "The documented naming sources record Salsabil as a female name; actual use can vary by language and community."
+      },
+      {
+        "q": "How popular is Salsabil?",
+        "a": "Available scoped measure(s): United States, 2025: #10764 among girls (Salsabil Name Meaning, Origin & Popularity). Nameberry reports U.S. 2025 SSA-derived girl rank 10,764. This indicates actual but uncommon U.S. registrations; it is not global prevalence."
+      },
+      {
+        "q": "What does Salsabil mean in Urdu?",
+        "a": "The draft Urdu rendering is سلسبیل; its gloss is قرآن میں مذکور وہ چشمہ جسے سلسبیل کہا گیا ہے. Localized translations have not had native-speaker review."
+      },
+      {
+        "q": "What is the root of Salsabil?",
+        "a": "No triliteral Arabic root is asserted for this name."
+      }
+    ],
+    "seo": {
+      "title": "Salsabil Name Meaning, Origin & Usage",
+      "meta_description": "Explore the sourced meaning, origin, pronunciation, script, and regional usage evidence for Salsabil.",
+      "meta_keywords": "Salsabil meaning, Salsabil name meaning, Salsabil origin, Salsabil pronunciation, Salsabil name in Urdu, Salsabil Arabic name",
+      "description_paragraph": "Salsabil is an Arabic-origin given name. This entry separates its lexical meaning, cultural and scriptural context, and source-scoped usage evidence.",
+      "keywords": [
+        "Salsabil meaning",
+        "Salsabil name meaning",
+        "Salsabil origin",
+        "Salsabil pronunciation",
+        "Salsabil name in Urdu",
+        "Salsabil Arabic name"
+      ],
+      "focus_keyword": "Salsabil meaning",
+      "secondary_keywords": [
+        "Salsabil name meaning",
+        "Salsabil origin",
+        "Salsabil pronunciation",
+        "Salsabil name in Urdu",
+        "Salsabil Arabic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/salsabil",
+      "seo_score": null,
+      "seo_score_basis": "No composite SEO score is assigned; editorial and evidence quality are recorded separately."
+    },
+    "seo_content": {
+      "intro_paragraph": "Salsabil is an Arabic-origin given name. The entry explains its documented meaning and distinguishes linguistic origin, religious/scriptural status, and regional usage.",
+      "body_summary": "Salsabil is the name given to a spring in Qur'an 76:18; 'spring named Salsabil' is the secure contextual gloss, while a deeper etymological derivation is left unresolved. Nameberry reports U.S. 2025 SSA-derived girl rank 10,764. This indicates actual but uncommon U.S. registrations; it is not global prevalence."
+    },
+    "social_tags": [
+      "#Salsabil",
+      "#SalsabilMeaning",
+      "#NameMeaning",
+      "#ArabicNames",
+      "#IslamicNames"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [
+        "deeper_etymology_uncertain",
+        "Quranic_referent_is_a_spring_not_a_person",
+        "localized_translations_require_native_review",
+        "popularity_metrics_are_source_and_region_scoped"
+      ],
+      "fabricated_content_removed": true,
+      "fields_total": 313,
+      "quality_score": null,
+      "quality_score_basis": "No composite quality score is asserted; source support, limitations, scriptural status, and review flags are explicit."
+    },
+    "evidence": {
+      "sources": [
+        "Qur'an 76:18 — The spring is explicitly called Salsabil in the verse. Source: https://quran.com/76/18 Limitation: The verse establishes the referent, not a complete etymology.",
+        "Wiktionary, سلسبيل — The Qur'anic spring referent and the proposal that the name is probably of Aramaic, ultimately Akkadian, origin. Source: https://en.wiktionary.org/wiki/%D8%B3%D9%84%D8%B3%D8%A8%D9%8A%D9%84 Limitation: The proposed etymology is explicitly probabilistic and is not asserted as settled fact.",
+        "Nameberry, Salsabil (2025 SSA data) — Feminine name use and U.S. 2025 SSA-derived rank 10,764. Source: https://nameberry.com/name/salsabil Limitation: Secondary presentation of U.S. births; this is uncommon in the U.S. and not globally representative."
+      ],
+      "verification_method": "The lexical/scriptural or language claim is separated from name-site glosses; name usage and popularity are checked separately. Every frequency figure retains its source, region, year, category, metric, and limitation. Candidate spellings, Romanized variants, source-script forms, and localized script renderings are checked against the existing dataset. Non-English glosses are drafts requiring native-speaker review."
+    },
+    "provenance": {
+      "pipeline": "NameVerse super-2.0 demand-informed batch builder",
+      "methodology": "Curated evidence manifest -> template-matched record build -> alias/script collision audit -> schema and integrity validation",
+      "upgraded_from": "New record generated from the current super-2.0 architecture; not converted from a legacy record.",
+      "processed_at": "2026-10-13T00:00:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Salsabil",
+          "description": "Salsabil — an Arabic-origin given name: A spring named Salsabil in Qur'an 76:18.",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Salsabil mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Salsabil is the name given to a spring in Qur'an 76:18; 'spring named Salsabil' is the secure contextual gloss, while a deeper etymological derivation is left unresolved."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Salsabil?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The Qur'anic context identifies Salsabil as a spring. Secondary name sources often paraphrase this as a spring or fountain in Paradise. The word's etymological origin is not confidently established here, so no Arabic root derivation is invented."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Salsabil an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. The recorded language/origin is Arabic; the source form is سَلْسَبِيل."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Salsabil written in Arabic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "سَلْسَبِيل"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Salsabil a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The lexical/scriptural form is directly attested, but not as a named person: Salsabil is directly named as a spring in Qur'an 76:18; the verse does not use it as a person's name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Salsabil an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A Qur'anic place/water-source name; not a named person in the verse. The scriptural referent is a spring. No ruling about permissibility or religious reward is asserted by this record."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Salsabil pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An approximate romanized guide is sal-sa-beel. Nameberry gives a similar English guide; pronunciation varies by language. No IPA is asserted."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Salsabil a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The documented naming sources record Salsabil as a female name; actual use can vary by language and community."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How popular is Salsabil?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Available scoped measure(s): United States, 2025: #10764 among girls (Salsabil Name Meaning, Origin & Popularity). Nameberry reports U.S. 2025 SSA-derived girl rank 10,764. This indicates actual but uncommon U.S. registrations; it is not global prevalence."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Salsabil mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The draft Urdu rendering is سلسبیل; its gloss is قرآن میں مذکور وہ چشمہ جسے سلسبیل کہا گیا ہے. Localized translations have not had native-speaker review."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Salsabil?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No triliteral Arabic root is asserted for this name."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Salsabil",
+              "item": "https://nameverse.site/names/islamic/salsabil"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": true,
+      "flags": [
+        "deeper_etymology_uncertain",
+        "Quranic_referent_is_a_spring_not_a_person",
+        "localized_translations_require_native_review",
+        "popularity_metrics_are_source_and_region_scoped"
+      ],
+      "confidence": "HIGH",
+      "reviewed_by": "Automated source-aware build and validation; not a human or native-speaker review",
+      "reviewed_at": "2026-10-13T00:00:00+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": false,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "numerology",
+        "lucky_attributes",
+        "spiritual_meaning",
+        "celebrity_usage",
+        "real_world_usage",
+        "name_story"
+      ]
+    }
+  }
+}

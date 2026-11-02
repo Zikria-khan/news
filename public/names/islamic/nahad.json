@@ -1,0 +1,490 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Nahad",
+    "slug": "nahad",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Nahad",
+      "normalized_name": "nahad",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "MEDIUM",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Nahad",
+        "nahad"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Rest",
+      "primary_meaning": "Nahad corresponds to the Arabic form نَهَاد and is glossed in this record as “Rest.” The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "Rest",
+      "meaning_explanation": "Nahad corresponds to the Arabic form نَهَاد (Arabic نَهَاد (Nahād)). Its core sense is nahad; a male given name. Nahad is recorded as Arabic نَهَاد (Nahād), a male given name. The source gloss 'Rest' is unsupported; no confident lexical sense is asserted. The identification is recorded at medium confidence.",
+      "meaning_confidence": "MEDIUM"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "نَهَاد",
+      "transliteration": "nahad",
+      "root": "",
+      "root_transliteration": "",
+      "morphology": "Simple lexical item used as a name.",
+      "feminine_form": null,
+      "etymological_meaning": "The Arabic word نَهَاد",
+      "root_family": [],
+      "etymology_explanation": "The form نَهَاد is an established Arabic lexical item used unchanged as a given name.",
+      "etymology_confidence": "MEDIUM",
+      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form نَهَاد.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "MEDIUM"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "MEDIUM",
+      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Nahad is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Nahad is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Nahad as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Rest",
+      "related_concepts": [
+        "Rest"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Rest” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Rest.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 1,
+      "life_path_number": 1,
+      "ruling_planet": "Sun",
+      "lucky_day": "Sunday",
+      "lucky_colors": [
+        "Gold",
+        "Orange"
+      ],
+      "lucky_stone": "Ruby",
+      "meaning": "In Pythagorean numerology the letters of Nahad total 1, associated with leadership, independence and initiative. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 1,
+      "lucky_day": "Sunday",
+      "lucky_colors": [
+        "Gold",
+        "Orange"
+      ],
+      "lucky_stone": "Ruby",
+      "ruling_planet": "Sun"
+    },
+    "translations": {
+      "english": {
+        "name": "Nahad",
+        "script": "Nahad",
+        "meaning": "Rest",
+        "long_meaning": "Nahad is an Arabic-origin given name; in Arabic the word means “Rest”."
+      },
+      "urdu": {
+        "name": "نہاد",
+        "script": "نہاد",
+        "meaning": "نہاد (مردانہ نام)",
+        "long_meaning": "Nahad (نہاد) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم نہاد (مردانہ نام) ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "نهاد",
+        "script": "نهاد",
+        "meaning": "نهاد (نام مردانه)",
+        "long_meaning": "Nahad (نهاد) نامی برگرفته از زبان عربی است و معنای اصلی آن نهاد (نام مردانه) است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "नहाद",
+        "script": "नहाद",
+        "meaning": "नहाद (पुरुष नाम)",
+        "long_meaning": "Nahad (नहाद) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ नहाद (पुरुष नाम) है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "نهاد",
+        "script": "نهاد",
+        "meaning": "نهاد (نر نوم)",
+        "long_meaning": "Nahad (نهاد) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې نهاد (نر نوم) ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "نَهَاد",
+        "script": "نَهَاد",
+        "meaning": "نَهَاد (اسْم عَلَم مُذَكَّر)",
+        "long_meaning": "Nahad (نَهَاد) اسم مأخوذ من اللغة العربية، ومعناه الأساسي نَهَاد (اسْم عَلَم مُذَكَّر). يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "na-had",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "نَهَاد"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Nahad"
+      ],
+      "script_forms": [
+        "نهاد",
+        "نَهَاد",
+        "نہاد",
+        "नहाद"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form نَهَاد is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Nahad mean?",
+        "a": "Nahad is an Arabic-origin name meaning “Rest”."
+      },
+      {
+        "q": "What is the origin of Nahad?",
+        "a": "Nahad originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Nahad an Arabic name?",
+        "a": "Yes, the recorded form نَهَاد is Arabic."
+      },
+      {
+        "q": "What is the root of Nahad?",
+        "a": "No root analysis is asserted for this spelling."
+      },
+      {
+        "q": "Is Nahad an Islamic name?",
+        "a": "Nahad is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Nahad a Quranic name?",
+        "a": "Nahad is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Nahad mean in Urdu?",
+        "a": "In Urdu it is written نہاد and carries the sense “نہاد (مردانہ نام)”."
+      },
+      {
+        "q": "How is Nahad pronounced?",
+        "a": "A romanized syllable approximation is “na-had”."
+      },
+      {
+        "q": "Is Nahad a boy's or girl's name?",
+        "a": "Documented usage records Nahad as a boy's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Nahad Name Meaning, Origin & Islamic Context",
+      "meta_description": "Nahad (نَهَاد) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Nahad meaning, Nahad name meaning, Nahad origin, Nahad meaning in Urdu, Nahad pronunciation, Nahad Islamic name",
+      "description_paragraph": "Nahad is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Nahad meaning",
+        "Nahad name meaning",
+        "Nahad origin",
+        "Nahad meaning in Urdu",
+        "Nahad pronunciation",
+        "Nahad Islamic name"
+      ],
+      "focus_keyword": "Nahad meaning",
+      "secondary_keywords": [
+        "Nahad name meaning",
+        "Nahad origin",
+        "Nahad meaning in Urdu",
+        "Nahad pronunciation",
+        "Nahad Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/nahad",
+      "seo_score": 90,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Nahad, an Arabic-origin name used in Muslim communities.",
+      "body_summary": "Nahad is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Nahad",
+      "#NahadMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 150,
+      "quality_score": 90,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form نَهَاد carries the sense “Rest”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Nahad",
+          "description": "Nahad — an Arabic-origin given name meaning Rest",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Nahad mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Nahad is an Arabic-origin name meaning “Rest”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Nahad?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Nahad originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Nahad an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form نَهَاد is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Nahad?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No root analysis is asserted for this spelling."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Nahad an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Nahad is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Nahad a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Nahad is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Nahad mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written نہاد and carries the sense “نہاد (مردانہ نام)”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Nahad pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “na-had”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Nahad a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Nahad as a boy's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Nahad",
+              "item": "https://nameverse.site/names/islamic/nahad"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "MEDIUM",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

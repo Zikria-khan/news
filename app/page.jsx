@@ -14,7 +14,7 @@ export const metadata = pageMetadata({
   title: 'NameVerse \u2014 Baby Names with Meanings, Origins & Cultural Context',
   absoluteTitle: true,
   description:
-    'Search 11,412 baby names with meanings, origins, pronunciation guides, script forms and cultural context across Islamic, Christian and Hindu traditions.',
+    'Search 11,730 baby names with meanings, origins, pronunciation guides, script forms and cultural context across Islamic, Christian and Hindu traditions.',
   path: '/',
 });
 

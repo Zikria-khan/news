@@ -1,0 +1,479 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Sharik",
+    "slug": "sharik",
+    "content_revision": "v9",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Sharik",
+      "normalized_name": "sharik",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "MEDIUM",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Sharik",
+        "sharik"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Arabic personal name corresponding to شريك, 'partner' or 'associate'.",
+      "primary_meaning": "Sharik (شريك) is recorded as an Arabic historical personal-name form. Arabic personal name corresponding to شريك, 'partner' or 'associate'.",
+      "literal_meaning": "Arabic personal name corresponding to شريك, 'partner' or 'associate'.",
+      "meaning_explanation": "Arabic personal name corresponding to شريك, 'partner' or 'associate'. Exact lexical and historical claims require specialist-source confirmation.",
+      "meaning_confidence": "LOW"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "شريك",
+      "transliteration": "sharik",
+      "root": null,
+      "root_transliteration": null,
+      "morphology": "Not assigned without specialist lexical evidence.",
+      "feminine_form": null,
+      "etymological_meaning": "Arabic personal name corresponding to شريك, 'partner' or 'associate'.",
+      "root_family": [],
+      "etymology_explanation": "Exact etymology remains unverified; no folk derivation is asserted.",
+      "etymology_confidence": "LOW",
+      "false_etymology_warning": "Do not infer a definitive meaning from spelling alone."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "The draft records شريك as the Arabic-script form.",
+        "usage": "Transliterations and alternate spellings require review."
+      },
+      "language_confidence": "MEDIUM"
+    },
+    "origin": {
+      "primary_origin": "Arabic historical usage",
+      "origin_type": "historical personal-name form",
+      "origin_confidence": "LOW",
+      "origin_explanation": "Sharik ibn Abdullah is documented in Islamic scholarly history.",
+      "cultural_transmission": [
+        "Arabic",
+        "Historical Muslim naming contexts"
+      ]
+    },
+    "religion": {
+      "primary_association": "Historical Muslim naming context",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Historical usage; no exclusive religious status asserted",
+      "religious_explanation": "Historical Muslim use does not establish Qur'anic status or religious prescription.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "No claim of Qur'anic personal-name status is made."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No hadith prescribing this name is claimed."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No prophet-name claim is made."
+      },
+      "companion_status": {
+        "status": "requires_manual_verification",
+        "note": "Sharik ibn Abdullah is documented in Islamic scholarly history."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Historical Muslim naming context",
+      "interpretation": "Historical attestation may help document use, but does not establish religious merit.",
+      "important_distinction": "Do not equate historical usage with Qur'anic status or current popularity."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Historical Muslim communities"
+      ],
+      "cultural_meaning": "Arabic personal name corresponding to شريك, 'partner' or 'associate'.",
+      "personal_name_interpretation": "No personality or spiritual interpretation is inferred.",
+      "interpretation_warning": "Distinguish lexical meaning from historical use."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Arabic personal name corresponding to شريك, 'partner' or 'associate'.",
+      "related_concepts": []
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Arabic personal name corresponding to شريك, 'partner' or 'associate'.” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Arabic personal name corresponding to شريك, 'partner' or 'associate'..",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No evidence links the name to personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No evidence supports hidden traits."
+    },
+    "numerology": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "life_path_number": null,
+      "ruling_planet": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "meaning": "No factual destiny or personality claim is made.",
+      "note": "Non-empirical numerology is not presented as fact."
+    },
+    "lucky_attributes": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "ruling_planet": null
+    },
+    "translations": {
+      "english": {
+        "name": "Sharik",
+        "script": "Sharik",
+        "meaning": "Arabic personal name corresponding to شريك, 'partner' or 'associate'.",
+        "long_meaning": "Sharik (شريك) is recorded as an Arabic historical personal-name form. Arabic personal name corresponding to شريك, 'partner' or 'associate'."
+      },
+      "urdu": {
+        "name": "شريك",
+        "script": "شريك",
+        "meaning": "عربی تاریخی نام؛ قطعی لغوی معنی کی تصدیق درکار ہے",
+        "long_meaning": "Sharik (شريك) عربی تاریخی نام کے طور پر درج ہے۔ اس کے لغوی معنی اور اصل کی حتمی تصدیق کے لیے معتبر لغت اور تاریخی ماخذ کا جائزہ ضروری ہے۔"
+      },
+      "persian": {
+        "name": "شريك",
+        "script": "شريك",
+        "meaning": "نام تاریخی کاربرد عربی دارد؛ ریشهٔ دقیق نیازمند بررسی است",
+        "long_meaning": "Sharik (شريك) به‌عنوان نامی در کاربرد تاریخی عربی ثبت شده است. برای تعیین دقیق ریشه و معنی باید منابع لغوی و تاریخی معتبر بررسی شوند."
+      },
+      "hindi": {
+        "name": "Sharik",
+        "script": "Sharik",
+        "meaning": "अरबी ऐतिहासिक नाम; सटीक व्युत्पत्ति की पुष्टि आवश्यक",
+        "long_meaning": "Sharik (شريك) अरबी ऐतिहासिक व्यक्तिगत नाम के रूप में दर्ज है। इसके सटीक अर्थ और व्युत्पत्ति की पुष्टि के लिए विश्वसनीय शब्दकोश और ऐतिहासिक स्रोतों की समीक्षा आवश्यक है।"
+      },
+      "pashto": {
+        "name": "شريك",
+        "script": "شريك",
+        "meaning": "عربي تاریخي نوم؛ د کره مانا تایید ته اړتیا لري",
+        "long_meaning": "Sharik (شريك) د عربي تاریخي شخصي نوم په توګه ثبت شوی. د کره مانا او ریښې د تایید لپاره د باوري لغت او تاریخي سرچینو بیاکتنه اړینه ده.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "شريك",
+        "script": "شريك",
+        "meaning": "اسم تاريخي؛ يحتاج الاشتقاق الدقيق إلى تحقق معجمي",
+        "long_meaning": "يُسجَّل شريك بوصفه صيغة اسم شخصي في الاستعمال التاريخي العربي. ولا يُجزم بمعناه الاشتقاقي الدقيق قبل مراجعة معجم عربي متخصص ومصدر تاريخي موثوق.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "conservative descriptive translation",
+      "confidence": "LOW",
+      "native_review_required": true,
+      "note": "Translations describe uncertainty and require native review."
+    },
+    "pronunciation": {
+      "romanized": "aa-bid",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "شريك"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [],
+      "script_forms": [
+        "شريك"
+      ],
+      "variant_notes": "Alternate spellings and alias collisions still require a full-dataset scan.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "requires_source_review",
+      "note": "Sharik ibn Abdullah is documented in Islamic scholarly history."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Modern popularity has not been measured."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No registration dataset checked."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No celebrity claims are made."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No personal story is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Sharik mean?",
+        "a": "Sharik (شريك) is recorded as an Arabic historical personal-name form. Arabic personal name corresponding to شريك, 'partner' or 'associate'."
+      },
+      {
+        "q": "What is the origin of Sharik?",
+        "a": "The Arabic historical origin is a working classification requiring direct source review."
+      },
+      {
+        "q": "How is Sharik written in Arabic?",
+        "a": "Sharik is written شريك in this draft."
+      },
+      {
+        "q": "Is Sharik an Islamic name?",
+        "a": "It is treated as a historical Muslim-context name; that does not establish religious prescription."
+      },
+      {
+        "q": "Is Sharik mentioned in the Qur'an?",
+        "a": "This record does not claim Qur'anic personal-name status."
+      },
+      {
+        "q": "What is the historical context of Sharik?",
+        "a": "Sharik ibn Abdullah is documented in Islamic scholarly history."
+      },
+      {
+        "q": "How is Sharik pronounced?",
+        "a": "The romanized form is approximate and needs regional pronunciation review."
+      },
+      {
+        "q": "Is Sharik popular today?",
+        "a": "Modern popularity has not been measured with verified registration data."
+      },
+      {
+        "q": "Are the meaning and translations fully verified?",
+        "a": "No. Dictionary evidence, source-level historical verification and native-language review remain necessary."
+      }
+    ],
+    "seo": {
+      "title": "Sharik Name Meaning, Arabic Form & Historical Context",
+      "meta_description": "Research entry for Sharik (شريك), with cautious meaning notes and historical context.",
+      "meta_keywords": "Sharik meaning, Sharik Arabic, Sharik origin",
+      "description_paragraph": "A cautious research entry for Sharik, with Arabic script and clearly marked verification needs.",
+      "keywords": [
+        "Sharik meaning",
+        "Sharik Arabic",
+        "Sharik origin"
+      ],
+      "focus_keyword": "Sharik meaning",
+      "secondary_keywords": [
+        "Sharik Arabic",
+        "Sharik origin"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/sharik",
+      "seo_score": 70,
+      "seo_score_basis": "Draft score only; direct evidence and editorial verification are incomplete."
+    },
+    "seo_content": {
+      "intro_paragraph": "This research draft documents Sharik (شريك) as an Arabic historical personal-name form.",
+      "body_summary": "Historical attestation is distinguished from definitive etymology and modern popularity."
+    },
+    "social_tags": [
+      "#Sharik",
+      "#ArabicNames",
+      "#NameHistory"
+    ],
+    "content_quality": {
+      "tier1_verified": false,
+      "authenticity_flags": [
+        "source_verification_required",
+        "lexical_review_required",
+        "native_translation_review_required",
+        "alias_scan_required"
+      ],
+      "fabricated_content_removed": true,
+      "fields_total": 153,
+      "quality_score": 70,
+      "quality_score_basis": "Research draft; source and translation checks remain incomplete."
+    },
+    "evidence": {
+      "sources": [
+        "https://sunnah.com/search?q=Sharik",
+        "Research note: Sharik ibn Abdullah is documented in Islamic scholarly history."
+      ],
+      "verification_method": "The search link is a lead, not proof; verify exact identity, dictionary meaning and citation before publication."
+    },
+    "provenance": {
+      "pipeline": "NameVerse v9 research draft",
+      "methodology": "Conservative historical-name draft; direct source verification pending",
+      "upgraded_from": "super-2.0 template",
+      "processed_at": "2026-10-14T00:00:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Sharik",
+          "description": "Sharik (شريك) — historical Arabic personal-name form",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Sharik mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sharik (شريك) is recorded as an Arabic historical personal-name form. Arabic personal name corresponding to شريك, 'partner' or 'associate'."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Sharik?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The Arabic historical origin is a working classification requiring direct source review."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Sharik written in Arabic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sharik is written شريك in this draft."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Sharik an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is treated as a historical Muslim-context name; that does not establish religious prescription."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Sharik mentioned in the Qur'an?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "This record does not claim Qur'anic personal-name status."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the historical context of Sharik?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sharik ibn Abdullah is documented in Islamic scholarly history."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Sharik pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The romanized form is approximate and needs regional pronunciation review."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Sharik popular today?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Modern popularity has not been measured with verified registration data."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Are the meaning and translations fully verified?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No. Dictionary evidence, source-level historical verification and native-language review remain necessary."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Sharik",
+              "item": "https://nameverse.site/names/islamic/sharik"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": true,
+      "flags": [
+        "source_verification",
+        "dictionary_etymology",
+        "native_translation",
+        "alias_scan"
+      ],
+      "confidence": "LOW",
+      "reviewed_by": "Automated draft; editorial review pending",
+      "reviewed_at": "2026-10-14T00:00:00+00:00"
+    },
+    "render_policy": {
+      "render_verified": false,
+      "render_interpretive": false,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

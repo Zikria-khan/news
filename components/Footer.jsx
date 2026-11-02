@@ -61,7 +61,7 @@ export default function Footer() {
               A Cultural Name Anthology, Not a Name Generator
             </h2>
             <p className="mt-1 text-xs text-nv-text-secondary">
-              11,412 baby names with recorded meanings and origins &mdash; plus script forms, pronunciation and
+              11,730 baby names with recorded meanings and origins &mdash; plus script forms, pronunciation and
               cultural context where the record holds them &mdash; across three traditions.
             </p>
           </div>
@@ -88,7 +88,7 @@ export default function Footer() {
             </p>
             <div className="flex items-center gap-2 text-xs font-semibold text-nv-success">
               <span className="flex h-2 w-2 rounded-full bg-nv-success" />
-              <span>11,412 published name profiles</span>
+              <span>11,730 published name profiles</span>
             </div>
           </div>
 

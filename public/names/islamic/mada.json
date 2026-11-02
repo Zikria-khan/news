@@ -1,0 +1,490 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Mada",
+    "slug": "mada",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Mada",
+      "normalized_name": "mada",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "MEDIUM",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Mada",
+        "mada"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Extent, range, scope",
+      "primary_meaning": "Mada corresponds to the Arabic form مدى and is glossed in this record as “Extent, range, scope.” The record associates the form with root م د ي (m-d-y). The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "Extent, range, scope",
+      "meaning_explanation": "Mada corresponds to the Arabic form مدى (Arabic root م د ي (m-d-y); مَدَى (Madā)). Its core sense is extent, range, scope. Mada is Arabic مَدَى (Madā) 'extent, range, scope', from the root م د ي (m-d-y). CRITICAL SOURCE ERROR: the source gave مَدَة (a different form) and glossed the name 'Wise guide'; the correct form is مَدَى. Recorded at medium confidence because the word is primarily a common noun.",
+      "meaning_confidence": "MEDIUM"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "مدى",
+      "transliteration": "mada",
+      "root": "م د ي",
+      "root_transliteration": "m-d-y",
+      "morphology": "Built on the root م د ي.",
+      "feminine_form": null,
+      "etymological_meaning": "From the root م د ي (m-d-y)",
+      "root_family": [],
+      "etymology_explanation": "The form مدى is an established Arabic lexical item, and Mada is the word itself used as a personal name rather than a derived or diminutive form.",
+      "etymology_confidence": "MEDIUM",
+      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form مدى.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "MEDIUM"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "MEDIUM",
+      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Mada is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Mada is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Mada as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Extent, range, scope",
+      "related_concepts": [
+        "Extent, range, scope"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Extent, range, scope” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Extent, range, scope.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 1,
+      "life_path_number": 1,
+      "ruling_planet": "Sun",
+      "lucky_day": "Sunday",
+      "lucky_colors": [
+        "Gold",
+        "Orange"
+      ],
+      "lucky_stone": "Ruby",
+      "meaning": "In Pythagorean numerology the letters of Mada total 1, associated with leadership, independence and initiative. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 1,
+      "lucky_day": "Sunday",
+      "lucky_colors": [
+        "Gold",
+        "Orange"
+      ],
+      "lucky_stone": "Ruby",
+      "ruling_planet": "Sun"
+    },
+    "translations": {
+      "english": {
+        "name": "Mada",
+        "script": "Mada",
+        "meaning": "Extent, range, scope",
+        "long_meaning": "Mada is an Arabic-origin given name; in Arabic the word means “Extent, range, scope”."
+      },
+      "urdu": {
+        "name": "مدیٰ",
+        "script": "مدیٰ",
+        "meaning": "مدیٰ، حد، وسعت",
+        "long_meaning": "Mada (مدیٰ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم مدیٰ، حد، وسعت ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "مدی",
+        "script": "مدی",
+        "meaning": "مدی، حد، گستره",
+        "long_meaning": "Mada (مدی) نامی برگرفته از زبان عربی است و معنای اصلی آن مدی، حد، گستره است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "मदा",
+        "script": "मदा",
+        "meaning": "सीमा, मदा, विस्तार",
+        "long_meaning": "Mada (मदा) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ सीमा, मदा, विस्तार है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "مدی",
+        "script": "مدی",
+        "meaning": "مدی، حد، پراخوالی",
+        "long_meaning": "Mada (مدی) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې مدی، حد، پراخوالی ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "مدى",
+        "script": "مدى",
+        "meaning": "المدى، الحد، النطاق",
+        "long_meaning": "Mada (مدى) اسم مأخوذ من اللغة العربية، ومعناه الأساسي المدى، الحد، النطاق. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "ma-da",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "مدى"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Mada"
+      ],
+      "script_forms": [
+        "مدى",
+        "مدی",
+        "مدیٰ",
+        "मदा"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form مدى is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Mada mean?",
+        "a": "Mada is an Arabic-origin name meaning “Extent, range, scope”."
+      },
+      {
+        "q": "What is the origin of Mada?",
+        "a": "Mada originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Mada an Arabic name?",
+        "a": "Yes, the recorded form مدى is Arabic."
+      },
+      {
+        "q": "What is the root of Mada?",
+        "a": "It is built on the root م د ي (m-d-y)."
+      },
+      {
+        "q": "Is Mada an Islamic name?",
+        "a": "Mada is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Mada a Quranic name?",
+        "a": "Mada is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Mada mean in Urdu?",
+        "a": "In Urdu it is written مدیٰ and carries the sense “مدیٰ، حد، وسعت”."
+      },
+      {
+        "q": "How is Mada pronounced?",
+        "a": "A romanized syllable approximation is “ma-da”."
+      },
+      {
+        "q": "Is Mada a boy's or girl's name?",
+        "a": "Documented usage records Mada as a girl's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Mada Name Meaning, Origin & Islamic Context",
+      "meta_description": "Mada (مدى) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Mada meaning, Mada name meaning, Mada origin, Mada meaning in Urdu, Mada pronunciation, Mada Islamic name",
+      "description_paragraph": "Mada is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Mada meaning",
+        "Mada name meaning",
+        "Mada origin",
+        "Mada meaning in Urdu",
+        "Mada pronunciation",
+        "Mada Islamic name"
+      ],
+      "focus_keyword": "Mada meaning",
+      "secondary_keywords": [
+        "Mada name meaning",
+        "Mada origin",
+        "Mada meaning in Urdu",
+        "Mada pronunciation",
+        "Mada Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/mada",
+      "seo_score": 95,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Mada, an Arabic-origin name used in Muslim communities.",
+      "body_summary": "Mada is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Mada",
+      "#MadaMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 152,
+      "quality_score": 95,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form مدى carries the sense “Extent, range, scope”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Mada",
+          "description": "Mada — an Arabic-origin given name meaning Extent, range, scope",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Mada mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mada is an Arabic-origin name meaning “Extent, range, scope”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Mada?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mada originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Mada an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form مدى is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Mada?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is built on the root م د ي (m-d-y)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Mada an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mada is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Mada a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mada is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Mada mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written مدیٰ and carries the sense “مدیٰ، حد، وسعت”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Mada pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “ma-da”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Mada a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Mada as a girl's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Mada",
+              "item": "https://nameverse.site/names/islamic/mada"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "MEDIUM",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

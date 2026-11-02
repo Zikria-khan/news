@@ -1,0 +1,539 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Samiha",
+    "slug": "samiha",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Samiha",
+      "normalized_name": "samiha",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender follows documented naming usage, not an inference from the word's meaning; usage can vary by community.",
+      "alternate_spellings": [
+        "Samiha",
+        "samiha",
+        "Sameeha",
+        "Samihah",
+        "Sameehah"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Generous, magnanimous, gracious; also forgiving or forbearing.",
+      "primary_meaning": "Samiha is the feminine form of an Arabic adjective meaning generous or magnanimous, with related senses of graciousness, forgiveness, and forbearance.",
+      "literal_meaning": "سَمِيحَة is an attested feminine Arabic adjective and is also used as a female given name.",
+      "meaning_explanation": "Arabic lexical sources describe سميح as generous, kind, gentle, or forgiving, and record سميحة as its feminine form. The name does not mean a 'gift from God'; that unsourced embellishment is excluded.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "سَمِيحَة",
+      "transliteration": "samīḥa",
+      "root": "س م ح",
+      "root_transliteration": "s-m-ḥ",
+      "morphology": "Feminine singular of the Arabic adjective سَمِيح (samīḥ).",
+      "feminine_form": null,
+      "etymological_meaning": "Generous, magnanimous, gracious; also forgiving or forbearing.",
+      "root_family": [],
+      "etymology_explanation": "Arabic lexical sources describe سميح as generous, kind, gentle, or forgiving, and record سميحة as its feminine form. The name does not mean a 'gift from God'; that unsourced embellishment is excluded.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented lexical analysis is asserted; unsupported name-site etymologies are not adopted."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form سَمِيحَة.",
+        "usage": "Other scripts are transliterations or localized glosses; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The recorded form and meaning are associated with Arabic. The evidence distinguishes linguistic origin from religious/cultural use.",
+      "cultural_transmission": [
+        "Arabic-speaking communities",
+        "Muslim naming communities in South Asia"
+      ]
+    },
+    "religion": {
+      "primary_association": "Arabic and Muslim-cultural naming usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "A positive lexical name; not a Qur'anic or doctrinal term.",
+      "religious_explanation": "Muslim use is cultural; no scriptural prescription or special religious status is asserted.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_directly_attested",
+        "note": "The exact name-form is not claimed as a Qur'anic word or personal name."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report establishing this name or a special virtue is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishing this as a prophet's personal name is cited."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion attribution is asserted without a verified source."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Arabic and Muslim-cultural naming usage",
+      "interpretation": "The name can be read as a wish for graciousness, but personality is not inferred from a name.",
+      "important_distinction": "This descriptive record is not a religious ruling. Muslim cultural use, linguistic origin, and direct Qur'anic attestation are separate claims."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim naming communities"
+      ],
+      "cultural_meaning": "Used as a feminine given name in Arabic and Muslim naming sources.",
+      "personal_name_interpretation": "The name can be read as a wish for graciousness, but personality is not inferred from a name.",
+      "interpretation_warning": "A symbolic naming preference is distinct from dictionary meaning and is not a claim about a bearer's personality or future."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Generosity, graciousness, forbearance",
+      "related_concepts": [
+        "generosity",
+        "magnanimity",
+        "kindness",
+        "forgiveness"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_asserted",
+      "render": false,
+      "meaning": null,
+      "basis": null,
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No evidence-based hidden personality traits are asserted."
+    },
+    "numerology": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "life_path_number": null,
+      "ruling_planet": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "meaning": null,
+      "note": "Numerology is not evidence-based and is not supplied in this record."
+    },
+    "lucky_attributes": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "ruling_planet": null
+    },
+    "translations": {
+      "english": {
+        "name": "Samiha",
+        "script": "Samiha",
+        "meaning": "Generous, magnanimous, gracious; also forgiving or forbearing.",
+        "long_meaning": "Samiha is the feminine form of an Arabic adjective meaning generous or magnanimous, with related senses of graciousness, forgiveness, and forbearance."
+      },
+      "urdu": {
+        "name": "سمیحہ",
+        "script": "سمیحہ",
+        "meaning": "سخی، فیاض، مہربان، درگزر کرنے والی",
+        "long_meaning": "سمیحہ کے لغوی معنی سخی، فیاض، مہربان، درگزر کرنے والی ہیں۔ یہ ترجمہ ابتدائی مسودہ ہے اور مقامی لسانی جائزے کا محتاج ہے۔"
+      },
+      "persian": {
+        "name": "سَمیحه",
+        "script": "سَمیحه",
+        "meaning": "بخشنده، بزرگوار، مهربان، بردبار",
+        "long_meaning": "معنای لغوی سَمیحه در این مدخل «بخشنده، بزرگوار، مهربان، بردبار» است؛ این برگردان پیش‌نویس است و به بازبینی بومی نیاز دارد."
+      },
+      "hindi": {
+        "name": "समीहा",
+        "script": "समीहा",
+        "meaning": "उदार, दयालु, क्षमाशील",
+        "long_meaning": "समीहा का शब्दार्थ यहाँ उदार, दयालु, क्षमाशील दिया गया है। यह अनुवाद प्रारूप है और स्थानीय भाषायी समीक्षा आवश्यक है।"
+      },
+      "pashto": {
+        "name": "سمیحه",
+        "script": "سمیحه",
+        "meaning": "سخاوتمنده، مهربانه، بښونکې",
+        "long_meaning": "د سمیحه لغوي مانا «سخاوتمنده، مهربانه، بښونکې» ده؛ دا د ژباړې مسوده ده او د اصلي ژبې ویونکي بیاکتنې ته اړتیا لري.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "سَمِيحَة",
+        "script": "سَمِيحَة",
+        "meaning": "كريمة، جوادة، سمحة، متسامحة",
+        "long_meaning": "المعنى اللغوي لـسَمِيحَة في هذا السجل هو «كريمة، جوادة، سمحة، متسامحة»؛ وهذه صياغة أولية تحتاج إلى مراجعة لغوية.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "source_language_gloss_with_localized_draft",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "The source-language core gloss is evidence-backed. All non-English localized meanings and script renderings are editorial drafts and require native-speaker review; transliteration does not establish a separate origin."
+    },
+    "pronunciation": {
+      "romanized": "sa-MEE-ha (approximate)",
+      "ipa": null,
+      "approximation_note": "A romanized pronunciation guide; no IPA is asserted.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "سَمِيحَة"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Sameeha",
+        "Samihah",
+        "Sameehah"
+      ],
+      "script_forms": [
+        "سَمِيحَة",
+        "समीहा"
+      ],
+      "variant_notes": "Alternate spellings reflect orthographic or transliteration variants; they do not establish different etymologies or pronunciations.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "lexically_attested",
+      "note": "The feminine form سميحة is recorded in Arabic dictionaries; no specific historical bearer is asserted."
+    },
+    "modern_usage": {
+      "status": "source_scoped_usage_data_available",
+      "note": "QuranicNames lists Samiha among the most searched names by its visitors in 2026; this is site-specific search interest, not birth-registration data."
+    },
+    "popularity": {
+      "status": "source_scoped_metrics_available",
+      "render": true,
+      "score": null,
+      "by_region": [
+        {
+          "region": "Not geographically specified; QuranicNames.com visitor audience",
+          "measure": "relative visitor-search interest",
+          "year": 2026,
+          "category": "overall",
+          "rank": 20,
+          "births": null,
+          "relative_interest_percent": 62,
+          "observation_period": "preceding three months, per the source introduction",
+          "source_title": "Most Popular Muslim Baby Names in 2026",
+          "source": "https://quranicnames.com/most-popular-names/",
+          "limitation": "Site visitors only; percent is relative to the category leader, not the share of parents or births."
+        }
+      ],
+      "note": "QuranicNames' 2026 percentage is relative visitor-search interest compared with the top name in that page's category, using the preceding three months. It is not a birth count or population-wide demand measure."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is included."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No individual bearer story is included without a verified source."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Samiha mean?",
+        "a": "Samiha is the feminine form of an Arabic adjective meaning generous or magnanimous, with related senses of graciousness, forgiveness, and forbearance."
+      },
+      {
+        "q": "What is the origin of Samiha?",
+        "a": "Arabic lexical sources describe سميح as generous, kind, gentle, or forgiving, and record سميحة as its feminine form. The name does not mean a 'gift from God'; that unsourced embellishment is excluded."
+      },
+      {
+        "q": "Is Samiha an Arabic name?",
+        "a": "Yes. The recorded language/origin is Arabic; the source form is سَمِيحَة."
+      },
+      {
+        "q": "How is Samiha written in Arabic?",
+        "a": "سَمِيحَة"
+      },
+      {
+        "q": "Is Samiha a Quranic name?",
+        "a": "It is not claimed as a Qur'anic personal name. The exact name-form is not claimed as a Qur'anic word or personal name."
+      },
+      {
+        "q": "Is Samiha an Islamic name?",
+        "a": "A positive lexical name; not a Qur'anic or doctrinal term. Muslim use is cultural; no scriptural prescription or special religious status is asserted."
+      },
+      {
+        "q": "How is Samiha pronounced?",
+        "a": "An approximate romanized guide is sa-MEE-ha. A romanized pronunciation guide; no IPA is asserted."
+      },
+      {
+        "q": "Is Samiha a boy's or girl's name?",
+        "a": "The documented naming sources record Samiha as a female name; actual use can vary by language and community."
+      },
+      {
+        "q": "How popular is Samiha?",
+        "a": "Available scoped measure(s): Not geographically specified; QuranicNames.com visitor audience, 2026, overall list: #20, 62% relative visitor-search interest (Most Popular Muslim Baby Names in 2026). QuranicNames' 2026 percentage is relative visitor-search interest compared with the top name in that page's category, using the preceding three months. It is not a birth count or population-wide demand measure."
+      },
+      {
+        "q": "What does Samiha mean in Urdu?",
+        "a": "The draft Urdu rendering is سمیحہ; its gloss is سخی، فیاض، مہربان، درگزر کرنے والی. Localized translations have not had native-speaker review."
+      },
+      {
+        "q": "What is the root of Samiha?",
+        "a": "The recorded Arabic root is س م ح (s-m-ḥ)."
+      }
+    ],
+    "seo": {
+      "title": "Samiha Name Meaning, Origin & Usage",
+      "meta_description": "Explore the sourced meaning, origin, pronunciation, script, and regional usage evidence for Samiha.",
+      "meta_keywords": "Samiha meaning, Samiha name meaning, Samiha origin, Samiha pronunciation, Samiha name in Urdu, Samiha Arabic name",
+      "description_paragraph": "Samiha is an Arabic-origin given name. This entry separates its lexical meaning, cultural and scriptural context, and source-scoped usage evidence.",
+      "keywords": [
+        "Samiha meaning",
+        "Samiha name meaning",
+        "Samiha origin",
+        "Samiha pronunciation",
+        "Samiha name in Urdu",
+        "Samiha Arabic name"
+      ],
+      "focus_keyword": "Samiha meaning",
+      "secondary_keywords": [
+        "Samiha name meaning",
+        "Samiha origin",
+        "Samiha pronunciation",
+        "Samiha name in Urdu",
+        "Samiha Arabic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/samiha",
+      "seo_score": null,
+      "seo_score_basis": "No composite SEO score is assigned; editorial and evidence quality are recorded separately."
+    },
+    "seo_content": {
+      "intro_paragraph": "Samiha is an Arabic-origin given name. The entry explains its documented meaning and distinguishes linguistic origin, religious/scriptural status, and regional usage.",
+      "body_summary": "Samiha is the feminine form of an Arabic adjective meaning generous or magnanimous, with related senses of graciousness, forgiveness, and forbearance. QuranicNames' 2026 percentage is relative visitor-search interest compared with the top name in that page's category, using the preceding three months. It is not a birth count or population-wide demand measure."
+    },
+    "social_tags": [
+      "#Samiha",
+      "#SamihaMeaning",
+      "#NameMeaning",
+      "#ArabicNames",
+      "#IslamicNames"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [
+        "personality_traits_not_inferred_from_name",
+        "localized_translations_require_native_review",
+        "popularity_metrics_are_source_and_region_scoped"
+      ],
+      "fabricated_content_removed": true,
+      "fields_total": 317,
+      "quality_score": null,
+      "quality_score_basis": "No composite quality score is asserted; source support, limitations, scriptural status, and review flags are explicit."
+    },
+    "evidence": {
+      "sources": [
+        "Britannica English-Arabic Dictionary, سميحة — Identifies سميحة as a feminine personal name and gives the adjective's senses generous, kind, forgiving, and liberal. Source: https://arabic.britannicaenglish.com/en/%D8%B3%D9%85%D9%8A%D8%AD%D8%A9 Limitation: A dictionary entry, not a measure of prevalence.",
+        "The Arabic Lexicon, root سمح — Lexical senses for samīḥ and the feminine form, including generosity, kindness, gentleness, and forgiveness. Source: https://arabiclexicon.hawramani.com/%D8%B3%D9%8E%D9%85%D9%8F%D8%AD%D9%8E/ Limitation: The entry covers a family of related forms; the record uses the feminine form specifically.",
+        "QuranicNames, Samiha — Arabic spelling, feminine given-name use, common romanized variants, and name-specific gloss. Source: https://quranicnames.com/samiha/ Limitation: Name-site source; lexicon and Britannica are used for the lexical meaning.",
+        "QuranicNames 2026 visitor-search rankings — 2026 site-search ranks and relative interest percentages. Source: https://quranicnames.com/most-popular-names/ Limitation: Visitor-search interest is not population-wide demand or official births."
+      ],
+      "verification_method": "The lexical/scriptural or language claim is separated from name-site glosses; name usage and popularity are checked separately. Every frequency figure retains its source, region, year, category, metric, and limitation. Candidate spellings, Romanized variants, source-script forms, and localized script renderings are checked against the existing dataset. Non-English glosses are drafts requiring native-speaker review."
+    },
+    "provenance": {
+      "pipeline": "NameVerse super-2.0 demand-informed batch builder",
+      "methodology": "Curated evidence manifest -> template-matched record build -> alias/script collision audit -> schema and integrity validation",
+      "upgraded_from": "New record generated from the current super-2.0 architecture; not converted from a legacy record.",
+      "processed_at": "2026-10-13T00:00:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Samiha",
+          "description": "Samiha — an Arabic-origin given name: Generous, magnanimous, gracious; also forgiving or forbearing.",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Samiha mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Samiha is the feminine form of an Arabic adjective meaning generous or magnanimous, with related senses of graciousness, forgiveness, and forbearance."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Samiha?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Arabic lexical sources describe سميح as generous, kind, gentle, or forgiving, and record سميحة as its feminine form. The name does not mean a 'gift from God'; that unsourced embellishment is excluded."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Samiha an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. The recorded language/origin is Arabic; the source form is سَمِيحَة."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Samiha written in Arabic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "سَمِيحَة"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Samiha a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is not claimed as a Qur'anic personal name. The exact name-form is not claimed as a Qur'anic word or personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Samiha an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A positive lexical name; not a Qur'anic or doctrinal term. Muslim use is cultural; no scriptural prescription or special religious status is asserted."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Samiha pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An approximate romanized guide is sa-MEE-ha. A romanized pronunciation guide; no IPA is asserted."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Samiha a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The documented naming sources record Samiha as a female name; actual use can vary by language and community."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How popular is Samiha?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Available scoped measure(s): Not geographically specified; QuranicNames.com visitor audience, 2026, overall list: #20, 62% relative visitor-search interest (Most Popular Muslim Baby Names in 2026). QuranicNames' 2026 percentage is relative visitor-search interest compared with the top name in that page's category, using the preceding three months. It is not a birth count or population-wide demand measure."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Samiha mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The draft Urdu rendering is سمیحہ; its gloss is سخی، فیاض، مہربان، درگزر کرنے والی. Localized translations have not had native-speaker review."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Samiha?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The recorded Arabic root is س م ح (s-m-ḥ)."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Samiha",
+              "item": "https://nameverse.site/names/islamic/samiha"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": true,
+      "flags": [
+        "personality_traits_not_inferred_from_name",
+        "localized_translations_require_native_review",
+        "popularity_metrics_are_source_and_region_scoped"
+      ],
+      "confidence": "HIGH",
+      "reviewed_by": "Automated source-aware build and validation; not a human or native-speaker review",
+      "reviewed_at": "2026-10-13T00:00:00+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": false,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "numerology",
+        "lucky_attributes",
+        "spiritual_meaning",
+        "celebrity_usage",
+        "real_world_usage",
+        "name_story"
+      ]
+    }
+  }
+}

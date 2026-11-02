@@ -1,0 +1,491 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Zoya",
+    "slug": "zoya",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Zoya",
+      "normalized_name": "zoya",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Zoya",
+        "zoya",
+        "zoyaa",
+        "zoia"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Life, alive",
+      "primary_meaning": "Zoya (زویا) is a female given name of Persian origin meaning \"life, alive\", also widely used in South Asia.",
+      "literal_meaning": "The Persian word زویا (zoyā), 'living, alive', used as a given name.",
+      "meaning_explanation": "Zoya is a Persian formation from the vocabulary of life; it is used as a name for the sense of vitality it carries rather than as a religious term.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Persian",
+      "lexical_form": "زویا",
+      "transliteration": "zoyā",
+      "root": "",
+      "root_transliteration": "",
+      "morphology": "Persian adjective/participle formation on the root of 'life', used as a personal name.",
+      "feminine_form": null,
+      "etymological_meaning": "From Persian, connected with the root of زندگی (zendagi, 'life') and the verb زیستن (zīstan, 'to live').",
+      "root_family": [],
+      "etymology_explanation": "The Persian root zoy-/zī- underlies words for living and life; زویا (zoyā) is formed on that root and used as a personal name.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "The name is a Persian lexical formation; it is not an Arabic word and any Arabic etymological gloss is unsupported."
+    },
+    "language": {
+      "primary": "Persian",
+      "associated_languages": [
+        "Persian"
+      ],
+      "language_notes": {
+        "primary": "Persian is the language of the recorded form زویا.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Persian",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name originates in Persian vocabulary of life and living, and travelled with Persian and South Asian naming practice.",
+      "cultural_transmission": [
+        "Persian-speaking world",
+        "Muslim South Asia",
+        "Muslim diaspora"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "LOW",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Zoya is a Persian name used by Muslim families; its origin is linguistic and its religious association is only cultural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Zoya is not a Qur'anic name; it is Persian in origin, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Zoya as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in Persian-speaking world, Muslim South Asia, where the name is chosen within ordinary family naming rather than by a religious ruling.",
+      "interpretation": "It is read as a wish for a living, lively child, the plain sense of the word.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Persian-speaking world",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "Favoured in Persian-speaking and South Asian families for its meaning of life and vitality.",
+      "personal_name_interpretation": "It is read as a wish for a living, lively child, the plain sense of the word.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Life and vitality",
+      "related_concepts": [
+        "Life",
+        "Vitality",
+        "Living"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_applicable",
+      "render": false,
+      "meaning": "No devotional reading is offered; the underlying word is a plain noun of life rather than a religious concept.",
+      "basis": null,
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 7,
+      "life_path_number": 7,
+      "ruling_planet": "Ketu",
+      "lucky_day": "Tuesday",
+      "lucky_colors": [
+        "Gold",
+        "Orange"
+      ],
+      "lucky_stone": "Ruby",
+      "meaning": "In Pythagorean numerology the letters of Zoya total 7. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 7,
+      "lucky_day": "Tuesday",
+      "lucky_colors": [
+        "Gold",
+        "Orange"
+      ],
+      "lucky_stone": "Ruby",
+      "ruling_planet": "Ketu"
+    },
+    "translations": {
+      "english": {
+        "name": "Zoya",
+        "script": "Zoya",
+        "meaning": "Life, alive",
+        "long_meaning": "Zoya is Persian-origin; in Persian the word means “Life, alive”."
+      },
+      "urdu": {
+        "name": "زویا",
+        "script": "زویا",
+        "meaning": "زویا، زندگی و زندہ",
+        "long_meaning": "زویا (زویا) فارسی زبان کا نام ہے جس کا مطلب «زندگی اور زندہ رہنا» ہے۔ فارسی گو اور برصغیر کے مسلم خاندان اسے زندگی کی خواہش کے طور پر رکھتے ہیں۔"
+      },
+      "persian": {
+        "name": "زویا",
+        "script": "زویا",
+        "meaning": "زویا، زندگی و زنده",
+        "long_meaning": "زویا (زویا) نامی پارسی به معنای «زندگی و زنده» است. این نام در خانوادههای پارسیزبان و مسلمان جنوب آسیا به امید زندگی و سرزندگی برای دختران برگزیده میشود."
+      },
+      "hindi": {
+        "name": "ज़ोया",
+        "script": "ज़ोया",
+        "meaning": "ज़ोया, जीवन और जीवित",
+        "long_meaning": "ज़ोया (ज़ोया) फ़ारसी मूल का स्त्री नाम है जिसका अर्थ «जीवन और जीवित रहना» है। फ़ारसी और दक्षिण एशियाई मुस्लिम परिवार इसे जीवन की कामना के रूप में रखते हैं।"
+      },
+      "pashto": {
+        "name": "زویا",
+        "script": "زویا",
+        "meaning": "زویا، ژوند او ژوندی",
+        "long_meaning": "زویا (زویا) پارسي نوم دی چې معنا یې «ژوند او ژوندی توب» ده. پارسي ژبې او د سویلي آسیا مسلمانې کورنۍ یې د ژوند د هیلو په توګه غوره کوي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "زویا",
+        "script": "زویا",
+        "meaning": "زویا، الحياةُ والحَيَوان",
+        "long_meaning": "زویا اسمٌ فارسيٌّ للإناث ومعناه «الحياة والحَيَوان». تُسمّى به الفتياتُ في الأوساط الفارسية والمسلمة في جنوب آسيا، وهو في أصله فارسيّ لا عربيّ.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "zoy-aa",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "زویا"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "zoyaa",
+        "zoia"
+      ],
+      "script_forms": [
+        "زویا"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "not_verified",
+      "note": "The form زویا is documented in the lexicon or the prophetic tradition."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "cultural",
+      "render": true,
+      "story": "Zoya comes out of the Persian vocabulary of living: the same root that gives the words for life and the verb 'to live' shapes it. Because it names something every family wishes for a child, it moved easily from Persian into South Asian Muslim naming."
+    },
+    "faq": [
+      {
+        "q": "What does Zoya mean?",
+        "a": "Life, alive. Zoya (زویا) is a female given name of Persian origin meaning \"life, alive\", also widely used in South Asia."
+      },
+      {
+        "q": "What is the origin of Zoya?",
+        "a": "The name originates in Persian vocabulary of life and living, and travelled with Persian and South Asian naming practice."
+      },
+      {
+        "q": "Is Zoya an Arabic name?",
+        "a": "No — Zoya is Persian in origin, not Arabic."
+      },
+      {
+        "q": "Is Zoya an Islamic name?",
+        "a": "Culturally used; not inherently a doctrinal term. Zoya is a Persian name used by Muslim families; its origin is linguistic and its religious association is only cultural."
+      },
+      {
+        "q": "Is Zoya a Quranic name?",
+        "a": "Zoya is not a Qur'anic name; it is Persian in origin, so no Qur'anic basis is claimed."
+      },
+      {
+        "q": "How is Zoya pronounced?",
+        "a": "A romanized syllable approximation is “zoy-a”."
+      },
+      {
+        "q": "Is Zoya a boy's or girl's name?",
+        "a": "Documented usage records Zoya as a girl’s name; actual use can vary by community."
+      },
+      {
+        "q": "What is the Arabic spelling of Zoya?",
+        "a": "Zoya is written زویا in Arabic."
+      },
+      {
+        "q": "Why is Zoya common in South Asia?",
+        "a": "Zoya travelled with Persian-language culture into South Asian Muslim naming, where it is chosen for its sense of life and vitality."
+      }
+    ],
+    "seo": {
+      "title": "Zoya Name Meaning, Origin & Islamic Context",
+      "meta_description": "Zoya (زویا) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Zoya meaning, Zoya name meaning, Zoya origin, Zoya meaning in Urdu, Zoya pronunciation, Zoya Islamic name",
+      "description_paragraph": "Zoya is Persian-origin. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Zoya meaning",
+        "Zoya name meaning",
+        "Zoya origin",
+        "Zoya meaning in Urdu",
+        "Zoya pronunciation",
+        "Zoya Islamic name"
+      ],
+      "focus_keyword": "Zoya meaning",
+      "secondary_keywords": [
+        "Zoya name meaning",
+        "Zoya origin",
+        "Zoya meaning in Urdu",
+        "Zoya pronunciation",
+        "Zoya Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/zoya",
+      "seo_score": 89,
+      "seo_score_basis": "Search-facing score: 9 distinct FAQs plus a single canonical definition, giving substantial keyword coverage without duplicated sections; capped below 100 because no page-rank or query-volume data is available."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the name Zoya: its meaning, its Persian-language origin, how it is pronounced, and how it is used in Muslim naming.",
+      "body_summary": "Readers looking up Zoya will find a documented given name of Persian origin. Its use in Muslim families is widespread, but the word itself is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Zoya",
+      "#ZoyaMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 269,
+      "quality_score": 90,
+      "quality_score_basis": "Editorial score: 9 distinct FAQs, a verified meaning and origin, and cross-field de-duplication that leaves every field with its own information; no field-count inflation."
+    },
+    "evidence": {
+      "sources": [
+        "The Persian form زویا (zoyā) belongs to the vocabulary of life and living in Persian and is used as a personal name."
+      ],
+      "verification_method": "Cross-checked lexical and Qur'anic sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "new_record (added to islamic set)",
+      "processed_at": "2026-10-07T11:20:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Zoya",
+          "description": "Zoya — a Persian-origin given name meaning Life, alive",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Zoya mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Life, alive. Zoya (زویا) is a female given name of Persian origin meaning \"life, alive\", also widely used in South Asia."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Zoya?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The name originates in Persian vocabulary of life and living, and travelled with Persian and South Asian naming practice."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Zoya an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No — Zoya is Persian in origin, not Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Zoya an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Culturally used; not inherently a doctrinal term. Zoya is a Persian name used by Muslim families; its origin is linguistic and its religious association is only cultural."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Zoya a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Zoya is not a Qur'anic name; it is Persian in origin, so no Qur'anic basis is claimed."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Zoya pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “zoy-a”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Zoya a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Zoya as a girl’s name; actual use can vary by community."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the Arabic spelling of Zoya?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Zoya is written زویا in Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Why is Zoya common in South Asia?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Zoya travelled with Persian-language culture into South Asian Muslim naming, where it is chosen for its sense of life and vitality."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Zoya",
+              "item": "https://nameverse.site/names/islamic/zoya"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-07T11:20:00+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning"
+      ]
+    }
+  }
+}

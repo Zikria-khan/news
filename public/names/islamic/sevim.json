@@ -1,0 +1,490 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Sevim",
+    "slug": "sevim",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Sevim",
+      "normalized_name": "sevim",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Sevim",
+        "sevim"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Love, affection",
+      "primary_meaning": "Sevim is a Turkish-origin name meaning “Love, affection”.",
+      "literal_meaning": "The name is the Turkish word itself, used unchanged as a given name rather than a derived or diminutive form.",
+      "meaning_explanation": "Sevim corresponds to the Turkish form سَفِيم (Turkish sevim (love, affection)). Its core sense is sevim; love, affection (turkish). Sevim is Turkish, meaning 'love, affection'; it is used as a female given name.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Turkish",
+      "lexical_form": "سَفِيم",
+      "transliteration": "sevim",
+      "root": "",
+      "root_transliteration": "",
+      "morphology": "Simple lexical item used as a name.",
+      "feminine_form": null,
+      "etymological_meaning": "The Turkish word سَفِيم",
+      "root_family": [],
+      "etymology_explanation": "The form سَفِيم is an established Turkish lexical item used unchanged as a given name.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented Turkish form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Turkish",
+      "associated_languages": [
+        "Turkish"
+      ],
+      "language_notes": {
+        "primary": "Turkish is the language of the recorded form سَفِيم.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Turkish",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name originates in Turkish and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Turkish",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Sevim is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Sevim is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Sevim as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Turkish",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Love, affection",
+      "related_concepts": [
+        "Love, affection"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Love, affection” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Love, affection.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 5,
+      "life_path_number": 5,
+      "ruling_planet": "Mercury",
+      "lucky_day": "Wednesday",
+      "lucky_colors": [
+        "Green",
+        "Turquoise"
+      ],
+      "lucky_stone": "Emerald",
+      "meaning": "In Pythagorean numerology the letters of Sevim total 5, associated with change, freedom and adaptability. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 5,
+      "lucky_day": "Wednesday",
+      "lucky_colors": [
+        "Green",
+        "Turquoise"
+      ],
+      "lucky_stone": "Emerald",
+      "ruling_planet": "Mercury"
+    },
+    "translations": {
+      "english": {
+        "name": "Sevim",
+        "script": "Sevim",
+        "meaning": "Love, affection",
+        "long_meaning": "Sevim is a Turkish-origin given name; in Turkish the word means “Love, affection”."
+      },
+      "urdu": {
+        "name": "سویم",
+        "script": "سویم",
+        "meaning": "سویم، محبت",
+        "long_meaning": "Sevim (سویم) ترکی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم سویم، محبت ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "سویم",
+        "script": "سویم",
+        "meaning": "سویم، محبت",
+        "long_meaning": "Sevim (سویم) نامی برگرفته از زبان ترکی است و معنای اصلی آن سویم، محبت است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "सेविम",
+        "script": "सेविम",
+        "meaning": "सेविम, प्रेम",
+        "long_meaning": "Sevim (सेविम) तुर्की भाषा से लिया गया नाम है। इसका मुख्य अर्थ सेविम, प्रेम है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "سويم",
+        "script": "سويم",
+        "meaning": "سويم، مینه",
+        "long_meaning": "Sevim (سويم) د ترکي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې سويم، مینه ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "سَفِيم",
+        "script": "سَفِيم",
+        "meaning": "سَفِيم، الْمَحَبَّة",
+        "long_meaning": "Sevim (سَفِيم) اسم مأخوذ من اللغة التركية، ومعناه الأساسي سَفِيم، الْمَحَبَّة. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "se-vim",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "سَفِيم"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Sevim"
+      ],
+      "script_forms": [
+        "سويم",
+        "سویم",
+        "سَفِيم",
+        "सेविम"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form سَفِيم is an established Turkish lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Sevim mean?",
+        "a": "Sevim is a Turkish-origin name meaning “Love, affection”."
+      },
+      {
+        "q": "What is the origin of Sevim?",
+        "a": "Sevim originates in Turkish and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Sevim an Arabic name?",
+        "a": "No — the recorded form سَفِيم is Turkish, not Arabic."
+      },
+      {
+        "q": "What is the root of Sevim?",
+        "a": "No root analysis is asserted for this spelling."
+      },
+      {
+        "q": "Is Sevim an Islamic name?",
+        "a": "Sevim is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Sevim a Quranic name?",
+        "a": "Sevim is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Sevim mean in Urdu?",
+        "a": "In Urdu it is written سویم and carries the sense “سویم، محبت”."
+      },
+      {
+        "q": "How is Sevim pronounced?",
+        "a": "A romanized syllable approximation is “se-vim”."
+      },
+      {
+        "q": "Is Sevim a boy's or girl's name?",
+        "a": "Documented usage records Sevim as a girl's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Sevim Name Meaning, Origin & Islamic Context",
+      "meta_description": "Sevim (سَفِيم) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Sevim meaning, Sevim name meaning, Sevim origin, Sevim meaning in Urdu, Sevim pronunciation, Sevim Islamic name",
+      "description_paragraph": "Sevim is a Turkish-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Sevim meaning",
+        "Sevim name meaning",
+        "Sevim origin",
+        "Sevim meaning in Urdu",
+        "Sevim pronunciation",
+        "Sevim Islamic name"
+      ],
+      "focus_keyword": "Sevim meaning",
+      "secondary_keywords": [
+        "Sevim name meaning",
+        "Sevim origin",
+        "Sevim meaning in Urdu",
+        "Sevim pronunciation",
+        "Sevim Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/sevim",
+      "seo_score": 90,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Sevim, a Turkish-origin name used in Muslim communities.",
+      "body_summary": "Sevim is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Sevim",
+      "#SevimMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 151,
+      "quality_score": 90,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Turkish form سَفِيم carries the sense “Love, affection”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Sevim",
+          "description": "Sevim — a Turkish-origin given name meaning Love, affection",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Sevim mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sevim is a Turkish-origin name meaning “Love, affection”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Sevim?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sevim originates in Turkish and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Sevim an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No — the recorded form سَفِيم is Turkish, not Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Sevim?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No root analysis is asserted for this spelling."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Sevim an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sevim is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Sevim a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sevim is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Sevim mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written سویم and carries the sense “سویم، محبت”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Sevim pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “se-vim”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Sevim a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Sevim as a girl's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Sevim",
+              "item": "https://nameverse.site/names/islamic/sevim"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

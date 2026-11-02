@@ -1,0 +1,488 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Fawz",
+    "slug": "fawz",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Fawz",
+      "normalized_name": "fawz",
+      "name_type": "given_name",
+      "gender": "Unisex",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Fawz",
+        "fawz"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Victory, success, triumph",
+      "primary_meaning": "Fawz corresponds to the Arabic form فوز and is glossed in this record as “Victory, success, triumph.” The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "Victory, success, triumph",
+      "meaning_explanation": "Fawz corresponds to the Arabic form فوز (ف و ز). Its core sense is success, victory. Fawz ('victory, success, triumph'). The source record's gloss 'Success, Victory' is a reasonable rendering.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "فوز",
+      "transliteration": "fawz",
+      "root": "",
+      "root_transliteration": "",
+      "morphology": "Simple lexical item used as a name.",
+      "feminine_form": null,
+      "etymological_meaning": "The Arabic word فوز",
+      "root_family": [],
+      "etymology_explanation": "The form فوز is an established Arabic lexical item used unchanged as a given name.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form فوز.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Fawz is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Fawz is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Fawz as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Victory, success, triumph",
+      "related_concepts": [
+        "Victory, success, triumph"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Victory, success, triumph” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Victory, success, triumph.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 2,
+      "life_path_number": 2,
+      "ruling_planet": "Moon",
+      "lucky_day": "Monday",
+      "lucky_colors": [
+        "White",
+        "Silver"
+      ],
+      "lucky_stone": "Pearl",
+      "meaning": "In Pythagorean numerology the letters of Fawz total 2, associated with cooperation, balance and sensitivity. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 2,
+      "lucky_day": "Monday",
+      "lucky_colors": [
+        "White",
+        "Silver"
+      ],
+      "lucky_stone": "Pearl",
+      "ruling_planet": "Moon"
+    },
+    "translations": {
+      "english": {
+        "name": "Fawz",
+        "script": "Fawz",
+        "meaning": "Victory, success, triumph",
+        "long_meaning": "Fawz is an Arabic-origin given name; in Arabic the word means “Victory, success, triumph”."
+      },
+      "urdu": {
+        "name": "فوز",
+        "script": "فوز",
+        "meaning": "کامیابی، فتح",
+        "long_meaning": "Fawz (فوز) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم کامیابی، فتح ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "Fawz",
+        "script": "Fawz",
+        "meaning": "Success, victory",
+        "long_meaning": "Success, victory"
+      },
+      "hindi": {
+        "name": "फ़ौज़",
+        "script": "फ़ौज़",
+        "meaning": "सफलता, विजय",
+        "long_meaning": "Fawz (फ़ौज़) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ सफलता, विजय है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "فوز",
+        "script": "فوز",
+        "meaning": "کامیابي، بریا",
+        "long_meaning": "Fawz (فوز) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې کامیابي، بریا ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "فوز",
+        "script": "فوز",
+        "meaning": "الفوز، النصر",
+        "long_meaning": "Fawz (فوز) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الفوز، النصر. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "fawz",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "فوز"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Fawz"
+      ],
+      "script_forms": [
+        "فوز",
+        "फ़ौज़"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form فوز is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Fawz mean?",
+        "a": "Fawz is an Arabic-origin name meaning “Victory, success, triumph”."
+      },
+      {
+        "q": "What is the origin of Fawz?",
+        "a": "Fawz originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Fawz an Arabic name?",
+        "a": "Yes, the recorded form فوز is Arabic."
+      },
+      {
+        "q": "What is the root of Fawz?",
+        "a": "No root analysis is asserted for this spelling."
+      },
+      {
+        "q": "Is Fawz an Islamic name?",
+        "a": "Fawz is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Fawz a Quranic name?",
+        "a": "Fawz is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Fawz mean in Urdu?",
+        "a": "In Urdu it is written فوز and carries the sense “کامیابی، فتح”."
+      },
+      {
+        "q": "How is Fawz pronounced?",
+        "a": "A romanized syllable approximation is “fawz”."
+      },
+      {
+        "q": "Is Fawz a boy's or girl's name?",
+        "a": "Documented usage records Fawz as a unisex name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Fawz Name Meaning, Origin & Islamic Context",
+      "meta_description": "Fawz (فوز) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Fawz meaning, Fawz name meaning, Fawz origin, Fawz meaning in Urdu, Fawz pronunciation, Fawz Islamic name",
+      "description_paragraph": "Fawz is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Fawz meaning",
+        "Fawz name meaning",
+        "Fawz origin",
+        "Fawz meaning in Urdu",
+        "Fawz pronunciation",
+        "Fawz Islamic name"
+      ],
+      "focus_keyword": "Fawz meaning",
+      "secondary_keywords": [
+        "Fawz name meaning",
+        "Fawz origin",
+        "Fawz meaning in Urdu",
+        "Fawz pronunciation",
+        "Fawz Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/fawz",
+      "seo_score": 90,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Fawz, an Arabic-origin name used in Muslim communities.",
+      "body_summary": "Fawz is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Fawz",
+      "#FawzMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 147,
+      "quality_score": 90,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form فوز carries the sense “Victory, success, triumph”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Fawz",
+          "description": "Fawz — an Arabic-origin given name meaning Victory, success, triumph",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Fawz mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fawz is an Arabic-origin name meaning “Victory, success, triumph”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Fawz?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fawz originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Fawz an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form فوز is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Fawz?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No root analysis is asserted for this spelling."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Fawz an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fawz is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Fawz a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fawz is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Fawz mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written فوز and carries the sense “کامیابی، فتح”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Fawz pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “fawz”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Fawz a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Fawz as a unisex name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Fawz",
+              "item": "https://nameverse.site/names/islamic/fawz"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

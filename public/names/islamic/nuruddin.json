@@ -1,0 +1,526 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Nuruddin",
+    "slug": "nuruddin",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Nuruddin",
+      "normalized_name": "nuruddin",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "Nuruddin is recorded as a masculine given name in the sources cited in this record; actual use can vary by community.",
+      "alternate_spellings": [
+        "Nuruddin",
+        "Nuredeen",
+        "Nooruddin",
+        "Nur-Ud-Din"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Light of the religion",
+      "primary_meaning": "Nuruddin (نور الدين) is a compound honorific name meaning “light of the religion”. It was borne by Nur al-Din Zengi (d. 569/1174), the Zengid ruler and contemporary of the Crusades. The name is not Qur'anic; it is a historical Muslim honorific.",
+      "literal_meaning": "Light of the religion",
+      "meaning_explanation": "The compound joins nūr (“light”) with al-din (“the religion”). It follows the medieval X al-Din honorific pattern. The record describes the construction and its historical bearer without claiming a scriptural origin.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "نُورُ الدِّين",
+      "transliteration": "nūr al-dīn",
+      "root": "ن و ر / د ي ن",
+      "root_transliteration": "n-w-r / d-y-n",
+      "morphology": "Compound genitive: نور (“light”) + الدين (“the religion”).",
+      "feminine_form": null,
+      "etymological_meaning": "Light of the religion",
+      "root_family": [],
+      "etymology_explanation": "The compound joins nūr (“light”) with al-din (“the religion”). It follows the medieval X al-Din honorific pattern. The record describes the construction and its historical bearer without claiming a scriptural origin.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented lexical, scriptural or biographical evidence is asserted; unsupported name-site etymologies are not adopted."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form نُورُ الدِّين.",
+        "usage": "Other scripts in this record are transliterations or localized glosses; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The recorded form نُورُ الدِّين is Arabic, and its root is ن و ر / د ي ن (n-w-r / d-y-n). The evidence distinguishes linguistic origin from religious and cultural use.",
+      "cultural_transmission": [
+        "Arabic-speaking communities",
+        "Muslim naming communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic historical and honorific naming",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "A historical honorific name, not a Qur'anic or divine name.",
+      "religious_explanation": "The name combines two ordinary Arabic words and was used as an honorific. Its association with Nur al-Din Zengi is historical, not scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_in_Quran",
+        "note": "Nuruddin is a historical compound honorific, not a Qur'anic name."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report establishing this name or a special virtue is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "Nuruddin is not the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion attribution is asserted."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Islamic historical and honorific naming",
+      "interpretation": "This record describes documented usage; it is not a religious ruling on naming.",
+      "important_distinction": "This descriptive record is not a religious ruling. Muslim cultural use, linguistic origin, and direct Qur'anic attestation are separate claims."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim naming communities"
+      ],
+      "cultural_meaning": "The name is associated with Nur al-Din Zengi and the medieval politics of the Near East.",
+      "personal_name_interpretation": "Families may value the imagery of light and guidance; this is a naming preference.",
+      "interpretation_warning": "A symbolic naming preference is distinct from dictionary meaning and is not a claim about a bearer's personality or future."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Islamic honorific names and rule",
+      "related_concepts": [
+        "honorific names",
+        "Zengid dynasty",
+        "medieval Islamic history"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_asserted",
+      "render": false,
+      "meaning": null,
+      "basis": null,
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No evidence-based hidden personality traits are asserted."
+    },
+    "numerology": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "life_path_number": null,
+      "ruling_planet": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "meaning": null,
+      "note": "Numerology is not evidence-based and is not supplied in this batch."
+    },
+    "lucky_attributes": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "ruling_planet": null,
+      "note": "Lucky attributes are not evidence-based and are not supplied in this batch."
+    },
+    "translations": {
+      "english": {
+        "name": "Nuruddin",
+        "script": "نُورُ الدِّين",
+        "meaning": "Light of the religion",
+        "long_meaning": "Nuruddin (نور الدين) is a compound honorific name meaning “light of the religion”. It was borne by Nur al-Din Zengi (d. 569/1174), the Zengid ruler and contemporary of the Crusades. The name is not Qur'anic; it is a historical Muslim honorific."
+      },
+      "urdu": {
+        "name": "نور الدین",
+        "script": "نور الدین",
+        "meaning": "دین کا نور",
+        "long_meaning": "نور الدین کے لغوی معنی «دین کا نور» ہیں۔ یہ اندراج دینی حوالے اور نام کے استعمال کو الگ الگ بیان کرتا ہے؛ یہ ترجمہ ابتدائی مسودہ ہے اور مقامی جائزے کا محتاج ہے۔"
+      },
+      "persian": {
+        "name": "نورالدین",
+        "script": "نورالدین",
+        "meaning": "نور دین",
+        "long_meaning": "معنای لغوی نورالدین در این مدخل «نور دین» است. این مدخل مرجع دینی و کاربرد نام را جداگانه بیان می‌کند؛ این برگردان پیش‌نویس است و به بازبینی بومی نیاز دارد."
+      },
+      "hindi": {
+        "name": "नूरुद्दीन",
+        "script": "नूरुद्दीन",
+        "meaning": "धर्म का प्रकाश",
+        "long_meaning": "नूरुद्दीन का शब्दार्थ «धर्म का प्रकाश» दिया गया है। यह प्रविष्टि धार्मिक संदर्भ और नाम-प्रयोग को अलग-अलग बताती है; यह अनुवाद प्रारूप है और स्थानीय भाषायी समीक्षा आवश्यक है।"
+      },
+      "pashto": {
+        "name": "نور الدین",
+        "script": "نور الدین",
+        "meaning": "د دین رڼا",
+        "long_meaning": "د نور الدین لغوي مانا «د دین رڼا» دی. دا اندراج دیني حواله او د نوم کارونه بېل بېل بیانوي؛ دا ژباړه مسوده ده او د اصلي ژبې ویونکو بیاکتنې ته اړتیا لري.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "نور الدين",
+        "script": "نور الدين",
+        "meaning": "نور الدين، اسم مركب بمعنى نور الدين",
+        "long_meaning": "المعنى اللغوي لاسم نور الدين في هذا السجل هو «نور الدين، اسم مركب بمعنى نور الدين»؛ ويفصل السجل بين المرجع الديني واستعمال الاسم، وهذه صياغة أولية تحتاج إلى مراجعة لغوية.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "source_language_gloss_with_localized_draft",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "The Arabic core gloss is evidence-backed. All non-English localized meanings and script renderings are editorial drafts requiring native-speaker review; transliteration does not establish a separate origin."
+    },
+    "pronunciation": {
+      "romanized": "noor-ud-DEEN",
+      "ipa": null,
+      "approximation_note": "Romanized pronunciation guide only; no IPA transcription is asserted.",
+      "common_mispronunciation": "NUR-ud-DEEN",
+      "scripts": {
+        "arabic": "نُورُ الدِّين"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Nuredeen",
+        "Nooruddin",
+        "Nur-Ud-Din"
+      ],
+      "script_forms": [
+        "نُورُ الدِّين",
+        "नूरुद्दीन"
+      ],
+      "variant_notes": "Spelling variants reflect transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "documented_in_classical_sources",
+      "note": "Nur al-Din Mahmud Zengi (d. 569/1174) is a well-known bearer; the name is recorded in medieval historical works."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Usage is attested as a Muslim given name, but no registration or frequency data is measured in this batch."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is measured in this batch; no estimate is asserted."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is included."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No individual bearer story is included without a verified source."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Nuruddin mean?",
+        "a": "Nuruddin (نور الدين) is a compound honorific name meaning “light of the religion”. It was borne by Nur al-Din Zengi (d. 569/1174), the Zengid ruler and contemporary of the Crusades. The name is not Qur'anic; it is a historical Muslim honorific."
+      },
+      {
+        "q": "What is the origin of Nuruddin?",
+        "a": "The compound joins nūr (“light”) with al-din (“the religion”). It follows the medieval X al-Din honorific pattern. The record describes the construction and its historical bearer without claiming a scriptural origin."
+      },
+      {
+        "q": "Is Nuruddin an Arabic name?",
+        "a": "Yes. The recorded form is نُورُ الدِّين; the name is associated with Arabic."
+      },
+      {
+        "q": "How is Nuruddin written in Arabic?",
+        "a": "نُورُ الدِّين"
+      },
+      {
+        "q": "Is Nuruddin a Quranic name?",
+        "a": "Nuruddin is a historical compound honorific, not a Qur'anic name."
+      },
+      {
+        "q": "Is Nuruddin an Islamic name?",
+        "a": "A historical honorific name, not a Qur'anic or divine name. The name combines two ordinary Arabic words and was used as an honorific. Its association with Nur al-Din Zengi is historical, not scriptural."
+      },
+      {
+        "q": "How is Nuruddin pronounced?",
+        "a": "An approximate romanized guide is noor-ud-DEEN. Romanized pronunciation guide only; no IPA transcription is asserted."
+      },
+      {
+        "q": "Is Nuruddin a boy's or girl's name?",
+        "a": "The sources cited record Nuruddin as a masculine given name; actual use can vary by language and community."
+      },
+      {
+        "q": "What is the root of Nuruddin?",
+        "a": "The recorded Arabic root is ن و ر / د ي ن (n-w-r / d-y-n)."
+      },
+      {
+        "q": "What should be checked before relying on this entry?",
+        "a": "The cited sources are listed with their scope and limitations but have not been independently rechecked in this pass. Non-English renderings are drafts pending native review, and no popularity figure is asserted."
+      }
+    ],
+    "seo": {
+      "title": "Nuruddin Name Meaning, Origin & Islamic Context",
+      "meta_description": "Nuruddin name meaning, Arabic origin, pronunciation and sourced Qur'anic-status notes.",
+      "meta_keywords": "Nuruddin meaning, Nuruddin name meaning, Nuruddin Arabic name, Nuruddin origin, Nuruddin pronunciation, Nuruddin Islamic name, Nuruddin meaning in Urdu",
+      "description_paragraph": "Nuruddin (نور الدين) is a compound honorific name meaning “light of the religion”. It was borne by Nur al-Din Zengi (d. 569/1174), the Zengid ruler and contemporary of the Crusades. The name is not Qur'anic; it is a historical Muslim honorific.",
+      "keywords": [
+        "Nuruddin meaning",
+        "Nuruddin name meaning",
+        "Nuruddin Arabic name",
+        "Nuruddin origin",
+        "Nuruddin pronunciation",
+        "Nuruddin Islamic name",
+        "Nuruddin meaning in Urdu"
+      ],
+      "focus_keyword": "Nuruddin meaning",
+      "secondary_keywords": [
+        "Nuruddin name meaning",
+        "Nuruddin Arabic name",
+        "Nuruddin origin",
+        "Nuruddin pronunciation",
+        "Nuruddin Islamic name",
+        "Nuruddin meaning in Urdu"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/nuruddin",
+      "seo_score": null,
+      "seo_score_basis": "Not numerically scored in this focused review; factual clarity prioritized over an unsupported score."
+    },
+    "seo_content": {
+      "intro_paragraph": "Nuruddin is an Arabic given name. This entry separates its documented meaning, linguistic origin, religious or scriptural status, and modern usage.",
+      "body_summary": "Nuruddin (نور الدين) is a compound honorific name meaning “light of the religion”. It was borne by Nur al-Din Zengi (d. 569/1174), the Zengid ruler and contemporary of the Crusades. The name is not Qur'anic; it is a historical Muslim honorific."
+    },
+    "social_tags": [
+      "#Nuruddin",
+      "#NuruddinMeaning",
+      "#NameMeaning",
+      "#ArabicNames",
+      "#IslamicNames"
+    ],
+    "content_quality": {
+      "tier1_verified": false,
+      "authenticity_flags": [
+        "compound_honorific_not_Quranic",
+        "localized_translations_require_native_review",
+        "popularity_not_measured_in_this_batch"
+      ],
+      "fabricated_content_removed": true,
+      "fields_total": 307,
+      "quality_score": null,
+      "quality_score_basis": "No composite quality score is asserted; source support, limitations, scriptural status and review flags are explicit. Tier-1 verification is false because the listed sources were not independently rechecked in this pass.",
+      "tier1_verified_scope": "Core meaning and associated claims were matched to the listed sources in this pass; independent re-verification, native translation review and usage-frequency evidence remain separate outstanding tasks, so tier1_verified is false."
+    },
+    "evidence": {
+      "sources": [
+        "Ibn al-Athīr, al-Kāmil fī al-Tārīkh: Historical account of Nur al-Din Zengi. Limitation: Classical reports are not independently rechecked in this pass.",
+        "Ibn Khallikān, Wafayāt al-Aʿyān: Biographical notices for bearers of the name. Limitation: Classical reports are not independently rechecked in this pass.",
+        "https://quran.com/24/35 — Qur'an 24:35: Qur'anic occurrence of نور (light). Limitation: The verse uses the word, not the compound name."
+      ],
+      "verification_method": "The lexical, scriptural or biographical claim was separated from name-site glosses and matched to a cited primary text, classical lexicon or biographical reference; the cited sources were not independently rechecked in this pass. Latin and Arabic-script forms were audited against every existing record before writing. No popularity figure is asserted without a source-scoped measurement.",
+      "claim_evidence": [
+        {
+          "claim": "Nur al-Din Zengi bore the name",
+          "source": "Ibn al-Athīr, al-Kāmil fī al-Tārīkh",
+          "status": "classical_source_listed_not_rechecked"
+        },
+        {
+          "claim": "Nuruddin is a compound honorific meaning light of the religion",
+          "source": "Lane, An Arabic-English Lexicon",
+          "status": "lexical_source_listed_not_rechecked"
+        }
+      ],
+      "claim_evidence_status": "SOURCE_URLS_LISTED_NOT_INDEPENDENTLY_RECHECKED_IN_THIS_PASS"
+    },
+    "provenance": {
+      "pipeline": "NameVerse super-2.0 curated Qur'anic/Islamic supplement",
+      "methodology": "Curated evidence manifest -> template-parity build -> Latin and Arabic-script collision audit -> schema and key-path validation",
+      "upgraded_from": "New record generated from the current super-2.0 architecture; not converted from a legacy record.",
+      "processed_at": "2026-10-17T00:00:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Nuruddin",
+          "description": "Nuruddin (نُورُ الدِّين) — Light of the religion",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Nuruddin mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Nuruddin (نور الدين) is a compound honorific name meaning “light of the religion”. It was borne by Nur al-Din Zengi (d. 569/1174), the Zengid ruler and contemporary of the Crusades. The name is not Qur'anic; it is a historical Muslim honorific."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Nuruddin?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The compound joins nūr (“light”) with al-din (“the religion”). It follows the medieval X al-Din honorific pattern. The record describes the construction and its historical bearer without claiming a scriptural origin."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Nuruddin an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. The recorded form is نُورُ الدِّين; the name is associated with Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Nuruddin written in Arabic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "نُورُ الدِّين"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Nuruddin a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Nuruddin is a historical compound honorific, not a Qur'anic name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Nuruddin an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A historical honorific name, not a Qur'anic or divine name. The name combines two ordinary Arabic words and was used as an honorific. Its association with Nur al-Din Zengi is historical, not scriptural."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Nuruddin pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An approximate romanized guide is noor-ud-DEEN. Romanized pronunciation guide only; no IPA transcription is asserted."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Nuruddin a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The sources cited record Nuruddin as a masculine given name; actual use can vary by language and community."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Nuruddin?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The recorded Arabic root is ن و ر / د ي ن (n-w-r / d-y-n)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What should be checked before relying on this entry?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The cited sources are listed with their scope and limitations but have not been independently rechecked in this pass. Non-English renderings are drafts pending native review, and no popularity figure is asserted."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Nuruddin",
+              "item": "https://nameverse.site/names/islamic/nuruddin"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": true,
+      "flags": [
+        "compound_honorific_not_Quranic",
+        "localized_translations_require_native_review",
+        "popularity_not_measured_in_this_batch"
+      ],
+      "confidence": "HIGH",
+      "reviewed_by": "Automated source-aware build and collision audit; not a human or native-speaker review",
+      "reviewed_at": "2026-10-17"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": false,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

@@ -1,0 +1,489 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Khairunisa",
+    "slug": "khairunisa",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Khairunisa",
+      "normalized_name": "khairunisa",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Khairunisa",
+        "khairunisa"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Best of women",
+      "primary_meaning": "Khairunisa corresponds to the Arabic form خير النساء and is glossed in this record as “Best of women.” The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "Best of women",
+      "meaning_explanation": "Khairunisa corresponds to the Arabic form خير النساء (Compound name; خَيْرُ النِّسَاء (Khayr al-Nisāʾ)). Its core sense is best of women. Khairunisa is Arabic خَيْرُ النِّسَاء (Khayr al-Nisāʾ) 'best of women', a compound name. The source gloss 'Prosperous Woman' is unsupported and has been replaced with the lexical sense.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "خير النساء",
+      "transliteration": "khairunisa",
+      "root": "",
+      "root_transliteration": "",
+      "morphology": "Simple lexical item used as a name.",
+      "feminine_form": null,
+      "etymological_meaning": "The Arabic word خير النساء",
+      "root_family": [],
+      "etymology_explanation": "The form خير النساء is an established Arabic lexical item used unchanged as a given name.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form خير النساء.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Khairunisa is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Khairunisa is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Khairunisa as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Best of women",
+      "related_concepts": [
+        "Best of women"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Best of women” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Best of women.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 3,
+      "life_path_number": 3,
+      "ruling_planet": "Jupiter",
+      "lucky_day": "Thursday",
+      "lucky_colors": [
+        "Yellow",
+        "Gold"
+      ],
+      "lucky_stone": "Yellow Sapphire",
+      "meaning": "In Pythagorean numerology the letters of Khairunisa total 3, associated with creativity, expression and optimism. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 3,
+      "lucky_day": "Thursday",
+      "lucky_colors": [
+        "Yellow",
+        "Gold"
+      ],
+      "lucky_stone": "Yellow Sapphire",
+      "ruling_planet": "Jupiter"
+    },
+    "translations": {
+      "english": {
+        "name": "Khairunisa",
+        "script": "Khairunisa",
+        "meaning": "Best of women",
+        "long_meaning": "Khairunisa is an Arabic-origin given name; in Arabic the word means “Best of women”."
+      },
+      "urdu": {
+        "name": "خیرونسا",
+        "script": "خیرونسا",
+        "meaning": "خیرونسا، عورتوں میں بہترین",
+        "long_meaning": "Khairunisa (خیرونسا) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم خیرونسا، عورتوں میں بہترین ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "خیرونسا",
+        "script": "خیرونسا",
+        "meaning": "خیرونسا، بهترین زنان",
+        "long_meaning": "Khairunisa (خیرونسا) نامی برگرفته از زبان عربی است و معنای اصلی آن خیرونسا، بهترین زنان است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "ख़ैरुन्निसा",
+        "script": "ख़ैरुन्निसा",
+        "meaning": "ख़ैरुन्निसा, स्त्रियों में श्रेष्ठ",
+        "long_meaning": "Khairunisa (ख़ैरुन्निसा) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ ख़ैरुन्निसा, स्त्रियों में श्रेष्ठ है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "خیرونسا",
+        "script": "خیرونسا",
+        "meaning": "خیرونسا، د ښځو غوره",
+        "long_meaning": "Khairunisa (خیرونسا) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې خیرونسا، د ښځو غوره ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "خير النساء",
+        "script": "خير النساء",
+        "meaning": "خير النساء، خير النساء",
+        "long_meaning": "Khairunisa (خير النساء) اسم مأخوذ من اللغة العربية، ومعناه الأساسي خير النساء، خير النساء. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "khai-ru-ni-sa",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "خير النساء"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Khairunisa"
+      ],
+      "script_forms": [
+        "خير النساء",
+        "خیرونسا",
+        "ख़ैरुन्निसा"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form خير النساء is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Khairunisa mean?",
+        "a": "Khairunisa is an Arabic-origin name meaning “Best of women”."
+      },
+      {
+        "q": "What is the origin of Khairunisa?",
+        "a": "Khairunisa originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Khairunisa an Arabic name?",
+        "a": "Yes, the recorded form خير النساء is Arabic."
+      },
+      {
+        "q": "What is the root of Khairunisa?",
+        "a": "No root analysis is asserted for this spelling."
+      },
+      {
+        "q": "Is Khairunisa an Islamic name?",
+        "a": "Khairunisa is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Khairunisa a Quranic name?",
+        "a": "Khairunisa is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Khairunisa mean in Urdu?",
+        "a": "In Urdu it is written خیرونسا and carries the sense “خیرونسا، عورتوں میں بہترین”."
+      },
+      {
+        "q": "How is Khairunisa pronounced?",
+        "a": "A romanized syllable approximation is “khai-ru-ni-sa”."
+      },
+      {
+        "q": "Is Khairunisa a boy's or girl's name?",
+        "a": "Documented usage records Khairunisa as a girl's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Khairunisa Name Meaning, Origin & Islamic Context",
+      "meta_description": "Khairunisa (خير النساء) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Khairunisa meaning, Khairunisa name meaning, Khairunisa origin, Khairunisa meaning in Urdu, Khairunisa pronunciation, Khairunisa Islamic name",
+      "description_paragraph": "Khairunisa is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Khairunisa meaning",
+        "Khairunisa name meaning",
+        "Khairunisa origin",
+        "Khairunisa meaning in Urdu",
+        "Khairunisa pronunciation",
+        "Khairunisa Islamic name"
+      ],
+      "focus_keyword": "Khairunisa meaning",
+      "secondary_keywords": [
+        "Khairunisa name meaning",
+        "Khairunisa origin",
+        "Khairunisa meaning in Urdu",
+        "Khairunisa pronunciation",
+        "Khairunisa Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/khairunisa",
+      "seo_score": 90,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Khairunisa, an Arabic-origin name used in Muslim communities.",
+      "body_summary": "Khairunisa is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Khairunisa",
+      "#KhairunisaMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 150,
+      "quality_score": 90,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form خير النساء carries the sense “Best of women”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Khairunisa",
+          "description": "Khairunisa — an Arabic-origin given name meaning Best of women",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Khairunisa mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Khairunisa is an Arabic-origin name meaning “Best of women”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Khairunisa?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Khairunisa originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Khairunisa an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form خير النساء is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Khairunisa?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No root analysis is asserted for this spelling."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Khairunisa an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Khairunisa is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Khairunisa a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Khairunisa is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Khairunisa mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written خیرونسا and carries the sense “خیرونسا، عورتوں میں بہترین”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Khairunisa pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “khai-ru-ni-sa”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Khairunisa a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Khairunisa as a girl's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Khairunisa",
+              "item": "https://nameverse.site/names/islamic/khairunisa"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

@@ -1,0 +1,524 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Shuja",
+    "slug": "shuja",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Shuja",
+      "normalized_name": "shuja",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "Shuja is recorded as a masculine given name in the sources cited in this record; actual use can vary by community.",
+      "alternate_spellings": [
+        "Shuja",
+        "Shujaa",
+        "Shujah"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Brave or courageous",
+      "primary_meaning": "Shuja (شجاع) is an Arabic adjective and noun meaning “brave” or “courageous”. It is used as a male given name and is borne by early Islamic figures, including Shuja' ibn Wahb, a companion of the Prophet.",
+      "literal_meaning": "Brave, courageous",
+      "meaning_explanation": "The root ش ج ع gives shujāʿah (“courage”) and shujāʿ (“brave”). The name is a descriptive adjective used onomastically; it is not a Qur'anic term or a divine name.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "شُجَاع",
+      "transliteration": "shujāʿ",
+      "root": "ش ج ع",
+      "root_transliteration": "sh-j-ʿ",
+      "morphology": "Arabic adjective/noun (faʿāl pattern); used descriptively as a personal name.",
+      "feminine_form": null,
+      "etymological_meaning": "Brave, courageous",
+      "root_family": [],
+      "etymology_explanation": "The root ش ج ع gives shujāʿah (“courage”) and shujāʿ (“brave”). The name is a descriptive adjective used onomastically; it is not a Qur'anic term or a divine name.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented lexical, scriptural or biographical evidence is asserted; unsupported name-site etymologies are not adopted."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form شُجَاع.",
+        "usage": "Other scripts in this record are transliterations or localized glosses; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The recorded form شُجَاع is Arabic, and its root is ش ج ع (sh-j-ʿ). The evidence distinguishes linguistic origin from religious and cultural use.",
+      "cultural_transmission": [
+        "Arabic-speaking communities",
+        "Muslim naming communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Arabic and Muslim-cultural naming usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "A descriptive Arabic name, not a divine name or a Qur'anic term.",
+      "religious_explanation": "The name is an ordinary Arabic adjective used for a person. Its religious association comes only from Muslim bearers such as Shuja' ibn Wahb, not from scripture.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_in_Quran",
+        "note": "Shuja is not attested in the Qur'an as a personal name or as a Qur'anic term."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report establishing this name or a special virtue is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Shuja as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "verified",
+        "note": "Shuja' ibn Wahb is recorded among the Companions in classical biographical literature."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Arabic and Muslim-cultural naming usage",
+      "interpretation": "This record describes documented usage; it is not a religious ruling on naming.",
+      "important_distinction": "This descriptive record is not a religious ruling. Muslim cultural use, linguistic origin, and direct Qur'anic attestation are separate claims."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim naming communities"
+      ],
+      "cultural_meaning": "The name is associated with courage and with early Muslim figures who bore it.",
+      "personal_name_interpretation": "Families may value the quality of courage; this is a naming preference, not a prediction about the bearer.",
+      "interpretation_warning": "A symbolic naming preference is distinct from dictionary meaning and is not a claim about a bearer's personality or future."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Courage and bravery",
+      "related_concepts": [
+        "courage",
+        "bravery",
+        "steadfastness"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_asserted",
+      "render": false,
+      "meaning": null,
+      "basis": null,
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No evidence-based hidden personality traits are asserted."
+    },
+    "numerology": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "life_path_number": null,
+      "ruling_planet": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "meaning": null,
+      "note": "Numerology is not evidence-based and is not supplied in this batch."
+    },
+    "lucky_attributes": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "ruling_planet": null,
+      "note": "Lucky attributes are not evidence-based and are not supplied in this batch."
+    },
+    "translations": {
+      "english": {
+        "name": "Shuja",
+        "script": "شُجَاع",
+        "meaning": "Brave or courageous",
+        "long_meaning": "Shuja (شجاع) is an Arabic adjective and noun meaning “brave” or “courageous”. It is used as a male given name and is borne by early Islamic figures, including Shuja' ibn Wahb, a companion of the Prophet."
+      },
+      "urdu": {
+        "name": "شجاع",
+        "script": "شجاع",
+        "meaning": "بہادر، دلیر",
+        "long_meaning": "شجاع کے لغوی معنی «بہادر، دلیر» ہیں۔ یہ اندراج دینی حوالے اور نام کے استعمال کو الگ الگ بیان کرتا ہے؛ یہ ترجمہ ابتدائی مسودہ ہے اور مقامی جائزے کا محتاج ہے۔"
+      },
+      "persian": {
+        "name": "شجاع",
+        "script": "شجاع",
+        "meaning": "دلیر و شجاع",
+        "long_meaning": "معنای لغوی شجاع در این مدخل «دلیر و شجاع» است. این مدخل مرجع دینی و کاربرد نام را جداگانه بیان می‌کند؛ این برگردان پیش‌نویس است و به بازبینی بومی نیاز دارد."
+      },
+      "hindi": {
+        "name": "शुजा",
+        "script": "शुजा",
+        "meaning": "बहादुर, साहसी",
+        "long_meaning": "शुजा का शब्दार्थ «बहादुर, साहसी» दिया गया है। यह प्रविष्टि धार्मिक संदर्भ और नाम-प्रयोग को अलग-अलग बताती है; यह अनुवाद प्रारूप है और स्थानीय भाषायी समीक्षा आवश्यक है।"
+      },
+      "pashto": {
+        "name": "شجاع",
+        "script": "شجاع",
+        "meaning": "زړور، ننګیالی",
+        "long_meaning": "د شجاع لغوي مانا «زړور، ننګیالی» دی. دا اندراج دیني حواله او د نوم کارونه بېل بېل بیانوي؛ دا ژباړه مسوده ده او د اصلي ژبې ویونکو بیاکتنې ته اړتیا لري.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "شجاع",
+        "script": "شجاع",
+        "meaning": "الجريء المقدام",
+        "long_meaning": "المعنى اللغوي لاسم شجاع في هذا السجل هو «الجريء المقدام»؛ ويفصل السجل بين المرجع الديني واستعمال الاسم، وهذه صياغة أولية تحتاج إلى مراجعة لغوية.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "source_language_gloss_with_localized_draft",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "The Arabic core gloss is evidence-backed. All non-English localized meanings and script renderings are editorial drafts requiring native-speaker review; transliteration does not establish a separate origin."
+    },
+    "pronunciation": {
+      "romanized": "shu-JAA",
+      "ipa": null,
+      "approximation_note": "Romanized pronunciation guide only; no IPA transcription is asserted.",
+      "common_mispronunciation": "SHOO-ja",
+      "scripts": {
+        "arabic": "شُجَاع"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Shujaa",
+        "Shujah"
+      ],
+      "script_forms": [
+        "شُجَاع",
+        "शुजा"
+      ],
+      "variant_notes": "Spelling variants reflect transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "documented_in_classical_sources",
+      "note": "Classical biographical works record Shuja' ibn Wahb among the Companions; the lexical sense is treated in the Arabic dictionaries."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Usage is attested as a Muslim given name, but no registration or frequency data is measured in this batch."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is measured in this batch; no estimate is asserted."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is included."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No individual bearer story is included without a verified source."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Shuja mean?",
+        "a": "Shuja (شجاع) is an Arabic adjective and noun meaning “brave” or “courageous”. It is used as a male given name and is borne by early Islamic figures, including Shuja' ibn Wahb, a companion of the Prophet."
+      },
+      {
+        "q": "What is the origin of Shuja?",
+        "a": "The root ش ج ع gives shujāʿah (“courage”) and shujāʿ (“brave”). The name is a descriptive adjective used onomastically; it is not a Qur'anic term or a divine name."
+      },
+      {
+        "q": "Is Shuja an Arabic name?",
+        "a": "Yes. The recorded form is شُجَاع; the name is associated with Arabic."
+      },
+      {
+        "q": "How is Shuja written in Arabic?",
+        "a": "شُجَاع"
+      },
+      {
+        "q": "Is Shuja a Quranic name?",
+        "a": "Shuja is not attested in the Qur'an as a personal name or as a Qur'anic term."
+      },
+      {
+        "q": "Is Shuja an Islamic name?",
+        "a": "A descriptive Arabic name, not a divine name or a Qur'anic term. The name is an ordinary Arabic adjective used for a person. Its religious association comes only from Muslim bearers such as Shuja' ibn Wahb, not from scripture."
+      },
+      {
+        "q": "How is Shuja pronounced?",
+        "a": "An approximate romanized guide is shu-JAA. Romanized pronunciation guide only; no IPA transcription is asserted."
+      },
+      {
+        "q": "Is Shuja a boy's or girl's name?",
+        "a": "The sources cited record Shuja as a masculine given name; actual use can vary by language and community."
+      },
+      {
+        "q": "What is the root of Shuja?",
+        "a": "The recorded Arabic root is ش ج ع (sh-j-ʿ)."
+      },
+      {
+        "q": "What should be checked before relying on this entry?",
+        "a": "The cited sources are listed with their scope and limitations but have not been independently rechecked in this pass. Non-English renderings are drafts pending native review, and no popularity figure is asserted."
+      }
+    ],
+    "seo": {
+      "title": "Shuja Name Meaning, Origin & Islamic Context",
+      "meta_description": "Shuja name meaning, Arabic origin, pronunciation and sourced Qur'anic-status notes.",
+      "meta_keywords": "Shuja meaning, Shuja name meaning, Shuja Arabic name, Shuja origin, Shuja pronunciation, Shuja Islamic name, Shuja meaning in Urdu",
+      "description_paragraph": "Shuja (شجاع) is an Arabic adjective and noun meaning “brave” or “courageous”. It is used as a male given name and is borne by early Islamic figures, including Shuja' ibn Wahb, a companion of the Prophet.",
+      "keywords": [
+        "Shuja meaning",
+        "Shuja name meaning",
+        "Shuja Arabic name",
+        "Shuja origin",
+        "Shuja pronunciation",
+        "Shuja Islamic name",
+        "Shuja meaning in Urdu"
+      ],
+      "focus_keyword": "Shuja meaning",
+      "secondary_keywords": [
+        "Shuja name meaning",
+        "Shuja Arabic name",
+        "Shuja origin",
+        "Shuja pronunciation",
+        "Shuja Islamic name",
+        "Shuja meaning in Urdu"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/shuja",
+      "seo_score": null,
+      "seo_score_basis": "Not numerically scored in this focused review; factual clarity prioritized over an unsupported score."
+    },
+    "seo_content": {
+      "intro_paragraph": "Shuja is an Arabic given name. This entry separates its documented meaning, linguistic origin, religious or scriptural status, and modern usage.",
+      "body_summary": "Shuja (شجاع) is an Arabic adjective and noun meaning “brave” or “courageous”. It is used as a male given name and is borne by early Islamic figures, including Shuja' ibn Wahb, a companion of the Prophet."
+    },
+    "social_tags": [
+      "#Shuja",
+      "#ShujaMeaning",
+      "#NameMeaning",
+      "#ArabicNames",
+      "#IslamicNames"
+    ],
+    "content_quality": {
+      "tier1_verified": false,
+      "authenticity_flags": [
+        "descriptive_name_not_Quranic",
+        "localized_translations_require_native_review",
+        "popularity_not_measured_in_this_batch"
+      ],
+      "fabricated_content_removed": true,
+      "fields_total": 305,
+      "quality_score": null,
+      "quality_score_basis": "No composite quality score is asserted; source support, limitations, scriptural status and review flags are explicit. Tier-1 verification is false because the listed sources were not independently rechecked in this pass.",
+      "tier1_verified_scope": "Core meaning and associated claims were matched to the listed sources in this pass; independent re-verification, native translation review and usage-frequency evidence remain separate outstanding tasks, so tier1_verified is false."
+    },
+    "evidence": {
+      "sources": [
+        "Ibn Ḥajar, al-Iṣābah fī Tamyīz al-Ṣaḥābah: Biographical entry for Shuja' ibn Wahb among the Companions. Limitation: Classical biographical reports are not independently rechecked in this pass.",
+        "Lane, An Arabic-English Lexicon (1863), root ش ج ع: Lexical senses of shujāʿ and shujāʿah. Limitation: Classical dictionary senses are broader than the conventional name gloss.",
+        "https://arabiclexicon.hawramani.com/%D8%B4%D8%AC%D8%B9/ — Arabic Lexicon, root شجع: Lexical senses of shujāʿ and shujāʿah: brave, courageous. Limitation: The lexicon supports the lexical sense, not the biographical report."
+      ],
+      "verification_method": "The lexical, scriptural or biographical claim was separated from name-site glosses and matched to a cited primary text, classical lexicon or biographical reference; the cited sources were not independently rechecked in this pass. Latin and Arabic-script forms were audited against every existing record before writing. No popularity figure is asserted without a source-scoped measurement.",
+      "claim_evidence": [
+        {
+          "claim": "Shuja' means brave or courageous in Arabic",
+          "source": "Lane, An Arabic-English Lexicon",
+          "status": "lexical_source_listed_not_rechecked"
+        },
+        {
+          "claim": "Shuja' ibn Wahb is recorded among the Companions",
+          "source": "Ibn Ḥajar, al-Iṣābah",
+          "status": "classical_source_listed_not_rechecked"
+        }
+      ],
+      "claim_evidence_status": "SOURCE_URLS_LISTED_NOT_INDEPENDENTLY_RECHECKED_IN_THIS_PASS"
+    },
+    "provenance": {
+      "pipeline": "NameVerse super-2.0 curated Qur'anic/Islamic supplement",
+      "methodology": "Curated evidence manifest -> template-parity build -> Latin and Arabic-script collision audit -> schema and key-path validation",
+      "upgraded_from": "New record generated from the current super-2.0 architecture; not converted from a legacy record.",
+      "processed_at": "2026-10-17T00:00:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Shuja",
+          "description": "Shuja (شُجَاع) — Brave or courageous",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Shuja mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Shuja (شجاع) is an Arabic adjective and noun meaning “brave” or “courageous”. It is used as a male given name and is borne by early Islamic figures, including Shuja' ibn Wahb, a companion of the Prophet."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Shuja?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The root ش ج ع gives shujāʿah (“courage”) and shujāʿ (“brave”). The name is a descriptive adjective used onomastically; it is not a Qur'anic term or a divine name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Shuja an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. The recorded form is شُجَاع; the name is associated with Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Shuja written in Arabic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "شُجَاع"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Shuja a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Shuja is not attested in the Qur'an as a personal name or as a Qur'anic term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Shuja an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A descriptive Arabic name, not a divine name or a Qur'anic term. The name is an ordinary Arabic adjective used for a person. Its religious association comes only from Muslim bearers such as Shuja' ibn Wahb, not from scripture."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Shuja pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An approximate romanized guide is shu-JAA. Romanized pronunciation guide only; no IPA transcription is asserted."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Shuja a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The sources cited record Shuja as a masculine given name; actual use can vary by language and community."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Shuja?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The recorded Arabic root is ش ج ع (sh-j-ʿ)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What should be checked before relying on this entry?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The cited sources are listed with their scope and limitations but have not been independently rechecked in this pass. Non-English renderings are drafts pending native review, and no popularity figure is asserted."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Shuja",
+              "item": "https://nameverse.site/names/islamic/shuja"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": true,
+      "flags": [
+        "descriptive_name_not_Quranic",
+        "localized_translations_require_native_review",
+        "popularity_not_measured_in_this_batch"
+      ],
+      "confidence": "HIGH",
+      "reviewed_by": "Automated source-aware build and collision audit; not a human or native-speaker review",
+      "reviewed_at": "2026-10-17"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": false,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

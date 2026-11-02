@@ -1,0 +1,489 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Marat",
+    "slug": "marat",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Marat",
+      "normalized_name": "marat",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Marat",
+        "marat"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Wish, desire",
+      "primary_meaning": "Marat corresponds to the Arabic form مُرَاد and is glossed in this record as “Wish, desire.” The record associates the form with root ر و د (r-w-d). The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "Wish, desire",
+      "meaning_explanation": "Marat corresponds to the Arabic form مُرَاد (Arabic root ر و د (r-w-d); مُرَاد (Murād)). Its core sense is marat; wish, desire (central asian form). Marat is the Central Asian form of Arabic مُرَاد (Murād), meaning 'wish, desire'.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "مُرَاد",
+      "transliteration": "marat",
+      "root": "ر و د",
+      "root_transliteration": "r-w-d",
+      "morphology": "Built on the root ر و د.",
+      "feminine_form": null,
+      "etymological_meaning": "From the root ر و د (r-w-d)",
+      "root_family": [],
+      "etymology_explanation": "The form مُرَاد is an established Arabic lexical item, and Marat is the word itself used as a personal name rather than a derived or diminutive form.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form مُرَاد.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Marat is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Marat is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Marat as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Wish, desire",
+      "related_concepts": [
+        "Wish, desire"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Wish, desire” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Wish, desire.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 8,
+      "life_path_number": 8,
+      "ruling_planet": "Saturn",
+      "lucky_day": "Saturday",
+      "lucky_colors": [
+        "Black",
+        "Blue"
+      ],
+      "lucky_stone": "Blue Sapphire",
+      "meaning": "In Pythagorean numerology the letters of Marat total 8, associated with ambition, authority and material success. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 8,
+      "lucky_day": "Saturday",
+      "lucky_colors": [
+        "Black",
+        "Blue"
+      ],
+      "lucky_stone": "Blue Sapphire",
+      "ruling_planet": "Saturn"
+    },
+    "translations": {
+      "english": {
+        "name": "Marat",
+        "script": "Marat",
+        "meaning": "Wish, desire",
+        "long_meaning": "Marat is an Arabic-origin given name; in Arabic the word means “Wish, desire”."
+      },
+      "urdu": {
+        "name": "مرات",
+        "script": "مرات",
+        "meaning": "مرات، خواہش",
+        "long_meaning": "Marat (مرات) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم مرات، خواہش ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "مرات",
+        "script": "مرات",
+        "meaning": "مرات، آرزو",
+        "long_meaning": "Marat (مرات) نامی برگرفته از زبان عربی است و معنای اصلی آن مرات، آرزو است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "मरात",
+        "script": "मरात",
+        "meaning": "मरात, इच्छा",
+        "long_meaning": "Marat (मरात) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ मरात, इच्छा है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "مرات",
+        "script": "مرات",
+        "meaning": "مرات، هیله",
+        "long_meaning": "Marat (مرات) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې مرات، هیله ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "مُرَاد",
+        "script": "مُرَاد",
+        "meaning": "مُرَاد، الْأُمْنِيَة",
+        "long_meaning": "Marat (مُرَاد) اسم مأخوذ من اللغة العربية، ومعناه الأساسي مُرَاد، الْأُمْنِيَة. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "ma-rat",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "مُرَاد"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Marat"
+      ],
+      "script_forms": [
+        "مرات",
+        "مُرَاد",
+        "मरात"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form مُرَاد is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Marat mean?",
+        "a": "Marat is an Arabic-origin name meaning “Wish, desire”."
+      },
+      {
+        "q": "What is the origin of Marat?",
+        "a": "Marat originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Marat an Arabic name?",
+        "a": "Yes, the recorded form مُرَاد is Arabic."
+      },
+      {
+        "q": "What is the root of Marat?",
+        "a": "It is built on the root ر و د (r-w-d)."
+      },
+      {
+        "q": "Is Marat an Islamic name?",
+        "a": "Marat is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Marat a Quranic name?",
+        "a": "Marat is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Marat mean in Urdu?",
+        "a": "In Urdu it is written مرات and carries the sense “مرات، خواہش”."
+      },
+      {
+        "q": "How is Marat pronounced?",
+        "a": "A romanized syllable approximation is “ma-rat”."
+      },
+      {
+        "q": "Is Marat a boy's or girl's name?",
+        "a": "Documented usage records Marat as a boy's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Marat Name Meaning, Origin & Islamic Context",
+      "meta_description": "Marat (مُرَاد) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Marat meaning, Marat name meaning, Marat origin, Marat meaning in Urdu, Marat pronunciation, Marat Islamic name",
+      "description_paragraph": "Marat is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Marat meaning",
+        "Marat name meaning",
+        "Marat origin",
+        "Marat meaning in Urdu",
+        "Marat pronunciation",
+        "Marat Islamic name"
+      ],
+      "focus_keyword": "Marat meaning",
+      "secondary_keywords": [
+        "Marat name meaning",
+        "Marat origin",
+        "Marat meaning in Urdu",
+        "Marat pronunciation",
+        "Marat Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/marat",
+      "seo_score": 95,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Marat, an Arabic-origin name used in Muslim communities.",
+      "body_summary": "Marat is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Marat",
+      "#MaratMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 153,
+      "quality_score": 95,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form مُرَاد carries the sense “Wish, desire”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Marat",
+          "description": "Marat — an Arabic-origin given name meaning Wish, desire",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Marat mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Marat is an Arabic-origin name meaning “Wish, desire”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Marat?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Marat originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Marat an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form مُرَاد is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Marat?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is built on the root ر و د (r-w-d)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Marat an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Marat is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Marat a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Marat is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Marat mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written مرات and carries the sense “مرات، خواہش”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Marat pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “ma-rat”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Marat a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Marat as a boy's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Marat",
+              "item": "https://nameverse.site/names/islamic/marat"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

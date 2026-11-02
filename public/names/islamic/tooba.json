@@ -1,0 +1,491 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Tooba",
+    "slug": "tooba",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Tooba",
+      "normalized_name": "tooba",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Tooba",
+        "tooba",
+        "toobaa",
+        "tuba"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Blessedness, goodness",
+      "primary_meaning": "Tooba (طُوبَى) is an Arabic-origin female name meaning 'blessedness, goodness'; the word occurs in the Qur'an and is also the name of a tree in Islamic tradition.",
+      "literal_meaning": "The Arabic noun طُوبَى (ṭūbā), 'blessedness, goodness', used as a given name.",
+      "meaning_explanation": "Tooba is an Arabic noun of blessedness; the personal name uses the word as a name, and the tradition of a tree in Paradise rests on reported narrations rather than on the lexical sense itself.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "طُوبَى",
+      "transliteration": "ṭūbā",
+      "root": "ط ي ب",
+      "root_transliteration": "ṭ-y-b",
+      "morphology": "Arabic noun (ṭūbā) from the root ط ي ب.",
+      "feminine_form": null,
+      "etymological_meaning": "From the Arabic root ط ي ب (ṭ-y-b), whose core sense is goodness and pleasantness.",
+      "root_family": [],
+      "etymology_explanation": "The root ط ي ب carries the sense of being good, pleasant and wholesome; طُوبَى (ṭūbā) is a noun of blessedness built on it.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "The name is an Arabic noun of blessedness; the Paradise-tree motif rests on reported narrations and should not be presented as a lexical definition."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form طُوبَى.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name comes from the Arabic root of goodness; its use as a personal name is reinforced by the Qur'anic occurrence of the word.",
+      "cultural_transmission": [
+        "Arab world",
+        "Muslim South Asia",
+        "Muslim diaspora"
+      ]
+    },
+    "religion": {
+      "primary_association": "Qur'anic (word) and Islamic tradition",
+      "religion_confidence": "HIGH",
+      "religious_status": "A Qur'anic Arabic noun used as a personal name",
+      "religious_explanation": "The word طُوبَى occurs in the Qur'an, and a tree in Paradise is named Tooba in Islamic tradition; the name accordingly carries a religious association.",
+      "quranic_status": {
+        "is_quranic": true,
+        "status": "verified",
+        "note": "The word طُوبَى occurs in the Qur'an (13:29, ṭūbā lahum); the name is this Qur'anic noun used as a personal name, not a Qur'anic personal name."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "The Paradise tree named Tooba is mentioned in reported narrations (athar/hadith) about Paradise; such reports are transmitted and are not invented here."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Tooba as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in Arab world, Muslim South Asia, where the name is chosen within ordinary family naming rather than by a religious ruling.",
+      "interpretation": "It is read as a wish for a blessed, good life, the sense the word itself carries.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arab world",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "Chosen by Muslim families for its sense of blessedness and its Qur'anic echo.",
+      "personal_name_interpretation": "It is read as a wish for a blessed, good life, the sense the word itself carries.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Blessedness and goodness",
+      "related_concepts": [
+        "Blessing",
+        "Goodness",
+        "Paradise"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "The word طُوبَى occurs in the Qur'an (13:29) in the sense of good tidings and blessedness, and Islamic tradition names a tree of Paradise Tooba; the name's spiritual association rests on these.",
+      "basis": "quranic",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 2,
+      "life_path_number": 2,
+      "ruling_planet": "Moon",
+      "lucky_day": "Monday",
+      "lucky_colors": [
+        "Gold",
+        "Orange"
+      ],
+      "lucky_stone": "Ruby",
+      "meaning": "In Pythagorean numerology the letters of Tooba total 2. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 2,
+      "lucky_day": "Monday",
+      "lucky_colors": [
+        "Gold",
+        "Orange"
+      ],
+      "lucky_stone": "Ruby",
+      "ruling_planet": "Moon"
+    },
+    "translations": {
+      "english": {
+        "name": "Tooba",
+        "script": "Tooba",
+        "meaning": "Blessedness, goodness",
+        "long_meaning": "Tooba is Arabic-origin; in Arabic the word means “Blessedness, goodness”."
+      },
+      "urdu": {
+        "name": "طوبیٰ",
+        "script": "طوبیٰ",
+        "meaning": "طوبیٰ، خوش نصیبی اور بھلائی",
+        "long_meaning": "طوبیٰ (طوبیٰ) عربی نام ہے جس کا مطلب «خوش نصیبی اور بھلائی» ہے۔ یہ لفظ قرآن میں آیا ہے اور روایات میں جنت کے ایک درخت کا نام بھی طوبیٰ ہے، اسی لیے یہ نام رکھا جاتا ہے۔"
+      },
+      "persian": {
+        "name": "طوبی",
+        "script": "طوبی",
+        "meaning": "طوبی، خوشبختی و نیکی",
+        "long_meaning": "طوبی (طوبی) نامی عربی به معنای «خوشبختی و نیکی» است. این واژه در قرآن آمده و در روایات نام درختی در بهشت نیز طوبی است؛ از اینرو در خانوادههای مسلمان برگزیده میشود."
+      },
+      "hindi": {
+        "name": "तूबा",
+        "script": "तूबा",
+        "meaning": "तूबा, सौभाग्य और भलाई",
+        "long_meaning": "तूबा (तूबा) अरबी नाम है जिसका अर्थ «सौभाग्य और भलाई» है। यह शब्द क़ुरआन में आया है और रिवायतों में जन्नत के एक वृक्ष का नाम भी तूबा है।"
+      },
+      "pashto": {
+        "name": "طوبی",
+        "script": "طوبی",
+        "meaning": "طوبی، نېکمرغي او ښېګړه",
+        "long_meaning": "طوبی (طوبی) عربي نوم دی چې معنا یې «نېکمرغي او ښېګړه» ده. دا کلمه قرآن کریم کې راغلې او په روایاتو کې د جنت یوې ونې نوم هم طوبی دی.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "طُوبَى",
+        "script": "طُوبَى",
+        "meaning": "طُوبَى، النِّعمةُ والخير",
+        "long_meaning": "طُوبَى اسمٌ عربيٌّ مؤنّث معناه «النِّعمة والخير والطِّيب»، وهو مصدرٌ من الجذر ط ي ب. وردت الكلمةُ في القرآن (13:29)، وفي الأخبار أنّ شجرةً في الجنّة تُسمّى طوبى، فصار الاسمُ يحمل هذه الدلالة.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "too-baa",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "طُوبَى"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "toobaa",
+        "tuba"
+      ],
+      "script_forms": [
+        "طُوبَى",
+        "طوبی"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form طُوبَى is documented as a Qur'anic or prophetic-tradition form."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "cultural",
+      "render": true,
+      "story": "Tooba is the Arabic word for blessedness, and it appears in the Qur'an as a promise of good tidings. Islamic tradition also names a tree of Paradise Tooba, so the name carries both the plain sense of blessing and the image of that tree."
+    },
+    "faq": [
+      {
+        "q": "What does Tooba mean?",
+        "a": "Blessedness, goodness. Tooba (طُوبَى) is an Arabic-origin female name meaning 'blessedness, goodness'; the word occurs in the Qur'an and is also the name of a tree in Islamic tradition."
+      },
+      {
+        "q": "What is the origin of Tooba?",
+        "a": "The name comes from the Arabic root of goodness; its use as a personal name is reinforced by the Qur'anic occurrence of the word."
+      },
+      {
+        "q": "Is Tooba an Arabic name?",
+        "a": "Yes — Tooba is an Arabic name, recorded as ṭūbā in Arabic sources."
+      },
+      {
+        "q": "Is Tooba an Islamic name?",
+        "a": "A Qur'anic Arabic noun used as a personal name. The word طُوبَى occurs in the Qur'an, and a tree in Paradise is named Tooba in Islamic tradition; the name accordingly carries a religious association."
+      },
+      {
+        "q": "Is Tooba a Quranic name?",
+        "a": "The word طُوبَى occurs in the Qur'an (13:29, ṭūbā lahum); the name is this Qur'anic noun used as a personal name, not a Qur'anic personal name."
+      },
+      {
+        "q": "How is Tooba pronounced?",
+        "a": "A romanized syllable approximation is “too-baa”."
+      },
+      {
+        "q": "Is Tooba a boy's or girl's name?",
+        "a": "Documented usage records Tooba as a girl’s name; actual use can vary by community."
+      },
+      {
+        "q": "What is the Arabic spelling of Tooba?",
+        "a": "Tooba is written طُوبَى in Arabic."
+      },
+      {
+        "q": "Is there a tree in Paradise called Tooba?",
+        "a": "Yes — Islamic tradition names a tree of Paradise Tooba; this rests on reported narrations, while the Qur'anic word طُوبَى itself carries the sense of blessedness and good tidings."
+      }
+    ],
+    "seo": {
+      "title": "Tooba Name Meaning, Origin & Islamic Context",
+      "meta_description": "Tooba (طُوبَى) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Tooba meaning, Tooba name meaning, Tooba origin, Tooba meaning in Urdu, Tooba pronunciation, Tooba Islamic name",
+      "description_paragraph": "Tooba is Arabic-origin. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Tooba meaning",
+        "Tooba name meaning",
+        "Tooba origin",
+        "Tooba meaning in Urdu",
+        "Tooba pronunciation",
+        "Tooba Islamic name"
+      ],
+      "focus_keyword": "Tooba meaning",
+      "secondary_keywords": [
+        "Tooba name meaning",
+        "Tooba origin",
+        "Tooba meaning in Urdu",
+        "Tooba pronunciation",
+        "Tooba Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/tooba",
+      "seo_score": 92,
+      "seo_score_basis": "Search-facing score: 9 distinct FAQs plus a single canonical definition, giving substantial keyword coverage without duplicated sections; capped below 100 because no page-rank or query-volume data is available."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the name Tooba: its meaning, its Arabic-language origin, how it is pronounced, and how it is used in Muslim naming.",
+      "body_summary": "Readers looking up Tooba will find a documented given name of Arabic origin. Its use in Muslim families is widespread, but the word itself is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Tooba",
+      "#ToobaMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 272,
+      "quality_score": 93,
+      "quality_score_basis": "Editorial score: 9 distinct FAQs, a verified meaning and origin, and cross-field de-duplication that leaves every field with its own information; no field-count inflation."
+    },
+    "evidence": {
+      "sources": [
+        "The Arabic noun طُوبَى (blessedness) occurs in the Qur'an (13:29); the Paradise-tree motif is transmitted in reported narrations."
+      ],
+      "verification_method": "Cross-checked lexical and Qur'anic sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "new_record (added to islamic set)",
+      "processed_at": "2026-10-07T11:20:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Tooba",
+          "description": "Tooba — an Arabic-origin given name meaning Blessedness, goodness",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Tooba mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Blessedness, goodness. Tooba (طُوبَى) is an Arabic-origin female name meaning 'blessedness, goodness'; the word occurs in the Qur'an and is also the name of a tree in Islamic tradition."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Tooba?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The name comes from the Arabic root of goodness; its use as a personal name is reinforced by the Qur'anic occurrence of the word."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Tooba an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — Tooba is an Arabic name, recorded as ṭūbā in Arabic sources."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Tooba an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A Qur'anic Arabic noun used as a personal name. The word طُوبَى occurs in the Qur'an, and a tree in Paradise is named Tooba in Islamic tradition; the name accordingly carries a religious association."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Tooba a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The word طُوبَى occurs in the Qur'an (13:29, ṭūbā lahum); the name is this Qur'anic noun used as a personal name, not a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Tooba pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “too-baa”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Tooba a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Tooba as a girl’s name; actual use can vary by community."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the Arabic spelling of Tooba?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Tooba is written طُوبَى in Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is there a tree in Paradise called Tooba?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — Islamic tradition names a tree of Paradise Tooba; this rests on reported narrations, while the Qur'anic word طُوبَى itself carries the sense of blessedness and good tidings."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Tooba",
+              "item": "https://nameverse.site/names/islamic/tooba"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-07T11:20:00+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage"
+      ]
+    }
+  }
+}

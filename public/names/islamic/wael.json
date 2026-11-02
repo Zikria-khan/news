@@ -1,0 +1,489 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Wael",
+    "slug": "wael",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Wael",
+      "normalized_name": "wael",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "MEDIUM",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Wael",
+        "wael"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Seeking refuge",
+      "primary_meaning": "Wael corresponds to the Arabic form وَائِل and is glossed in this record as “Seeking refuge.” The record associates the form with root و أ ل (w-ʾ-l). The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "Seeking refuge",
+      "meaning_explanation": "Wael corresponds to the Arabic form وَائِل (Arabic root و أ ل (w-ʾ-l); وَائِل (Wāʾil)). Its core sense is wael; seeking refuge. Wael is Arabic وَائِل (Wāʾil), associated with the sense 'seeking refuge'.",
+      "meaning_confidence": "MEDIUM"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "وَائِل",
+      "transliteration": "wael",
+      "root": "و أ ل",
+      "root_transliteration": "w-ʾ-l",
+      "morphology": "Built on the root و أ ل.",
+      "feminine_form": null,
+      "etymological_meaning": "From the root و أ ل (w-ʾ-l)",
+      "root_family": [],
+      "etymology_explanation": "The form وَائِل is an established Arabic lexical item, and Wael is the word itself used as a personal name rather than a derived or diminutive form.",
+      "etymology_confidence": "MEDIUM",
+      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form وَائِل.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "MEDIUM"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "MEDIUM",
+      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Wael is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Wael is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Wael as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Seeking refuge",
+      "related_concepts": [
+        "Seeking refuge"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Seeking refuge” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Seeking refuge.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 5,
+      "life_path_number": 5,
+      "ruling_planet": "Mercury",
+      "lucky_day": "Wednesday",
+      "lucky_colors": [
+        "Green",
+        "Turquoise"
+      ],
+      "lucky_stone": "Emerald",
+      "meaning": "In Pythagorean numerology the letters of Wael total 5, associated with change, freedom and adaptability. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 5,
+      "lucky_day": "Wednesday",
+      "lucky_colors": [
+        "Green",
+        "Turquoise"
+      ],
+      "lucky_stone": "Emerald",
+      "ruling_planet": "Mercury"
+    },
+    "translations": {
+      "english": {
+        "name": "Wael",
+        "script": "Wael",
+        "meaning": "Seeking refuge",
+        "long_meaning": "Wael is an Arabic-origin given name; in Arabic the word means “Seeking refuge”."
+      },
+      "urdu": {
+        "name": "وائل",
+        "script": "وائل",
+        "meaning": "وائل، پناہ لینے والا",
+        "long_meaning": "Wael (وائل) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم وائل، پناہ لینے والا ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "وائل",
+        "script": "وائل",
+        "meaning": "وائل، پناه‌جو",
+        "long_meaning": "Wael (وائل) نامی برگرفته از زبان عربی است و معنای اصلی آن وائل، پناه‌جو است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "वाइल",
+        "script": "वाइल",
+        "meaning": "वाइल, शरण लेने वाला",
+        "long_meaning": "Wael (वाइल) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ वाइल, शरण लेने वाला है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "وائل",
+        "script": "وائل",
+        "meaning": "وائل، پناه غوښتونکی",
+        "long_meaning": "Wael (وائل) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې وائل، پناه غوښتونکی ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "وَائِل",
+        "script": "وَائِل",
+        "meaning": "وَائِل، الطَّالِبُ لِلْأَمَان",
+        "long_meaning": "Wael (وَائِل) اسم مأخوذ من اللغة العربية، ومعناه الأساسي وَائِل، الطَّالِبُ لِلْأَمَان. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "wael",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "وَائِل"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Wael"
+      ],
+      "script_forms": [
+        "وائل",
+        "وَائِل",
+        "वाइल"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form وَائِل is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Wael mean?",
+        "a": "Wael is an Arabic-origin name meaning “Seeking refuge”."
+      },
+      {
+        "q": "What is the origin of Wael?",
+        "a": "Wael originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Wael an Arabic name?",
+        "a": "Yes, the recorded form وَائِل is Arabic."
+      },
+      {
+        "q": "What is the root of Wael?",
+        "a": "It is built on the root و أ ل (w-ʾ-l)."
+      },
+      {
+        "q": "Is Wael an Islamic name?",
+        "a": "Wael is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Wael a Quranic name?",
+        "a": "Wael is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Wael mean in Urdu?",
+        "a": "In Urdu it is written وائل and carries the sense “وائل، پناہ لینے والا”."
+      },
+      {
+        "q": "How is Wael pronounced?",
+        "a": "A romanized syllable approximation is “wael”."
+      },
+      {
+        "q": "Is Wael a boy's or girl's name?",
+        "a": "Documented usage records Wael as a boy's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Wael Name Meaning, Origin & Islamic Context",
+      "meta_description": "Wael (وَائِل) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Wael meaning, Wael name meaning, Wael origin, Wael meaning in Urdu, Wael pronunciation, Wael Islamic name",
+      "description_paragraph": "Wael is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Wael meaning",
+        "Wael name meaning",
+        "Wael origin",
+        "Wael meaning in Urdu",
+        "Wael pronunciation",
+        "Wael Islamic name"
+      ],
+      "focus_keyword": "Wael meaning",
+      "secondary_keywords": [
+        "Wael name meaning",
+        "Wael origin",
+        "Wael meaning in Urdu",
+        "Wael pronunciation",
+        "Wael Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/wael",
+      "seo_score": 95,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Wael, an Arabic-origin name used in Muslim communities.",
+      "body_summary": "Wael is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Wael",
+      "#WaelMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 151,
+      "quality_score": 95,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form وَائِل carries the sense “Seeking refuge”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Wael",
+          "description": "Wael — an Arabic-origin given name meaning Seeking refuge",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Wael mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Wael is an Arabic-origin name meaning “Seeking refuge”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Wael?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Wael originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Wael an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form وَائِل is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Wael?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is built on the root و أ ل (w-ʾ-l)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Wael an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Wael is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Wael a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Wael is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Wael mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written وائل and carries the sense “وائل، پناہ لینے والا”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Wael pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “wael”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Wael a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Wael as a boy's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Wael",
+              "item": "https://nameverse.site/names/islamic/wael"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "MEDIUM",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

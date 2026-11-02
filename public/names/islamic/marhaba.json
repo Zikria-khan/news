@@ -1,0 +1,488 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Marhaba",
+    "slug": "marhaba",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Marhaba",
+      "normalized_name": "marhaba",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Marhaba",
+        "marhaba"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Welcome, greeting",
+      "primary_meaning": "Marhaba corresponds to the Arabic form مرحبا and is glossed in this record as “Welcome, greeting.” The record associates the form with root ر ح ب (r-ḥ-b). The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "Welcome, greeting",
+      "meaning_explanation": "Marhaba corresponds to the Arabic form مرحبا (Arabic root ر ح ب (r-ḥ-b); مَرْحَبًا (Marḥaban)). Its core sense is welcome, greeting. Marhaba is Arabic مَرْحَبًا (Marḥaban) 'welcome, greeting', from the root ر ح ب (r-ḥ-b). CRITICAL SOURCE ERROR: the source gave مَرْحَبَ (a different form); the correct form is مَرْحَبًا. The source gloss 'Welcome' is consistent. Recorded at medium confidence because the word is primarily an interjection.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "مرحبا",
+      "transliteration": "marhaba",
+      "root": "ر ح ب",
+      "root_transliteration": "r-ḥ-b",
+      "morphology": "Built on the root ر ح ب.",
+      "feminine_form": null,
+      "etymological_meaning": "From the root ر ح ب (r-ḥ-b)",
+      "root_family": [],
+      "etymology_explanation": "The form مرحبا is an established Arabic lexical item, and Marhaba is the word itself used as a personal name rather than a derived or diminutive form.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form مرحبا.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Marhaba is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Marhaba is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Marhaba as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Welcome, greeting",
+      "related_concepts": [
+        "Welcome, greeting"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Welcome, greeting” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Welcome, greeting.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 8,
+      "life_path_number": 8,
+      "ruling_planet": "Saturn",
+      "lucky_day": "Saturday",
+      "lucky_colors": [
+        "Black",
+        "Blue"
+      ],
+      "lucky_stone": "Blue Sapphire",
+      "meaning": "In Pythagorean numerology the letters of Marhaba total 8, associated with ambition, authority and material success. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 8,
+      "lucky_day": "Saturday",
+      "lucky_colors": [
+        "Black",
+        "Blue"
+      ],
+      "lucky_stone": "Blue Sapphire",
+      "ruling_planet": "Saturn"
+    },
+    "translations": {
+      "english": {
+        "name": "Marhaba",
+        "script": "Marhaba",
+        "meaning": "Welcome, greeting",
+        "long_meaning": "Marhaba is an Arabic-origin given name; in Arabic the word means “Welcome, greeting”."
+      },
+      "urdu": {
+        "name": "مرحبا",
+        "script": "مرحبا",
+        "meaning": "مرحبا، خوش آمدید",
+        "long_meaning": "Marhaba (مرحبا) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم مرحبا، خوش آمدید ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "مرحبا",
+        "script": "مرحبا",
+        "meaning": "مرحبا، خوش آمدید",
+        "long_meaning": "Marhaba (مرحبا) نامی برگرفته از زبان عربی است و معنای اصلی آن مرحبا، خوش آمدید است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "मरहबा",
+        "script": "मरहबा",
+        "meaning": "स्वागत, मरहबा",
+        "long_meaning": "Marhaba (मरहबा) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ स्वागत, मरहबा है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "مرحبا",
+        "script": "مرحبا",
+        "meaning": "مرحبا، ښه راغلاست",
+        "long_meaning": "Marhaba (مرحبا) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې مرحبا، ښه راغلاست ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "مرحبا",
+        "script": "مرحبا",
+        "meaning": "مرحبا، أهلاً وسهلاً",
+        "long_meaning": "Marhaba (مرحبا) اسم مأخوذ من اللغة العربية، ومعناه الأساسي مرحبا، أهلاً وسهلاً. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "mar-ha-ba",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "مرحبا"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Marhaba"
+      ],
+      "script_forms": [
+        "مرحبا",
+        "मरहबा"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form مرحبا is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Marhaba mean?",
+        "a": "Marhaba is an Arabic-origin name meaning “Welcome, greeting”."
+      },
+      {
+        "q": "What is the origin of Marhaba?",
+        "a": "Marhaba originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Marhaba an Arabic name?",
+        "a": "Yes, the recorded form مرحبا is Arabic."
+      },
+      {
+        "q": "What is the root of Marhaba?",
+        "a": "It is built on the root ر ح ب (r-ḥ-b)."
+      },
+      {
+        "q": "Is Marhaba an Islamic name?",
+        "a": "Marhaba is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Marhaba a Quranic name?",
+        "a": "Marhaba is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Marhaba mean in Urdu?",
+        "a": "In Urdu it is written مرحبا and carries the sense “مرحبا، خوش آمدید”."
+      },
+      {
+        "q": "How is Marhaba pronounced?",
+        "a": "A romanized syllable approximation is “mar-ha-ba”."
+      },
+      {
+        "q": "Is Marhaba a boy's or girl's name?",
+        "a": "Documented usage records Marhaba as a boy's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Marhaba Name Meaning, Origin & Islamic Context",
+      "meta_description": "Marhaba (مرحبا) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Marhaba meaning, Marhaba name meaning, Marhaba origin, Marhaba meaning in Urdu, Marhaba pronunciation, Marhaba Islamic name",
+      "description_paragraph": "Marhaba is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Marhaba meaning",
+        "Marhaba name meaning",
+        "Marhaba origin",
+        "Marhaba meaning in Urdu",
+        "Marhaba pronunciation",
+        "Marhaba Islamic name"
+      ],
+      "focus_keyword": "Marhaba meaning",
+      "secondary_keywords": [
+        "Marhaba name meaning",
+        "Marhaba origin",
+        "Marhaba meaning in Urdu",
+        "Marhaba pronunciation",
+        "Marhaba Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/marhaba",
+      "seo_score": 95,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Marhaba, an Arabic-origin name used in Muslim communities.",
+      "body_summary": "Marhaba is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Marhaba",
+      "#MarhabaMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 151,
+      "quality_score": 95,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form مرحبا carries the sense “Welcome, greeting”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Marhaba",
+          "description": "Marhaba — an Arabic-origin given name meaning Welcome, greeting",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Marhaba mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Marhaba is an Arabic-origin name meaning “Welcome, greeting”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Marhaba?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Marhaba originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Marhaba an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form مرحبا is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Marhaba?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is built on the root ر ح ب (r-ḥ-b)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Marhaba an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Marhaba is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Marhaba a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Marhaba is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Marhaba mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written مرحبا and carries the sense “مرحبا، خوش آمدید”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Marhaba pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “mar-ha-ba”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Marhaba a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Marhaba as a boy's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Marhaba",
+              "item": "https://nameverse.site/names/islamic/marhaba"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

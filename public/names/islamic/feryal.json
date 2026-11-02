@@ -1,0 +1,489 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Feryal",
+    "slug": "feryal",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Feryal",
+      "normalized_name": "feryal",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Feryal",
+        "feryal"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Splendour",
+      "primary_meaning": "Feryal corresponds to the Persian form فريال and is glossed in this record as “Splendour.” The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "Splendour",
+      "meaning_explanation": "Feryal corresponds to the Persian form فريال (Persian فر (far) 'splendour' + یال (yāl) 'neck'). Its core sense is splendour of the neck, one with a beautiful neck. Feryal (also Firyal, Faryal) is a Persian feminine name, analysed as a compound of فر (far) 'splendour' and یال (yāl) 'neck' — 'she whose neck is radiant / the one with a beautiful neck'. The source labelled it 'Arabic' and glossed it 'nightingale'; both are wrong for this form. (The 'nightingale' sense belongs to a different Persian word.)",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Persian",
+      "lexical_form": "فريال",
+      "transliteration": "feryal",
+      "root": "",
+      "root_transliteration": "",
+      "morphology": "Simple lexical item used as a name.",
+      "feminine_form": null,
+      "etymological_meaning": "The Persian word فريال",
+      "root_family": [],
+      "etymology_explanation": "The form فريال is an established Persian lexical item used unchanged as a given name.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented Persian form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Persian",
+      "associated_languages": [
+        "Persian"
+      ],
+      "language_notes": {
+        "primary": "Persian is the language of the recorded form فريال.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Persian",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name originates in Persian and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Persian",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Feryal is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Feryal is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Feryal as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Persian",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Splendour",
+      "related_concepts": [
+        "Splendour"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Splendour” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Splendour.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 4,
+      "life_path_number": 4,
+      "ruling_planet": "Uranus",
+      "lucky_day": "Sunday",
+      "lucky_colors": [
+        "Grey",
+        "Blue"
+      ],
+      "lucky_stone": "Hessonite",
+      "meaning": "In Pythagorean numerology the letters of Feryal total 4, associated with stability, discipline and order. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 4,
+      "lucky_day": "Sunday",
+      "lucky_colors": [
+        "Grey",
+        "Blue"
+      ],
+      "lucky_stone": "Hessonite",
+      "ruling_planet": "Uranus"
+    },
+    "translations": {
+      "english": {
+        "name": "Feryal",
+        "script": "Feryal",
+        "meaning": "Splendour",
+        "long_meaning": "Feryal is a Persian-origin given name; in Persian the word means “Splendour”."
+      },
+      "urdu": {
+        "name": "فریال",
+        "script": "فریال",
+        "meaning": "گردن کی رونق، خوش گردن",
+        "long_meaning": "Feryal (فریال) فارسی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم گردن کی رونق، خوش گردن ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "فریال",
+        "script": "فریال",
+        "meaning": "شکوه گردن، خوش‌گردن",
+        "long_meaning": "Feryal (فریال) نامی برگرفته از زبان فارسی است و معنای اصلی آن شکوه گردن، خوش‌گردن است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "फ़रयाल",
+        "script": "फ़रयाल",
+        "meaning": "गर्दन की शोभा, सुंदर गर्दन",
+        "long_meaning": "Feryal (फ़रयाल) फ़ारसी भाषा से लिया गया नाम है। इसका मुख्य अर्थ गर्दन की शोभा, सुंदर गर्दन है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "فریال",
+        "script": "فریال",
+        "meaning": "د غاړې ښکلا، ښکلې غاړه",
+        "long_meaning": "Feryal (فریال) د فارسي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې د غاړې ښکلا، ښکلې غاړه ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "فريال",
+        "script": "فريال",
+        "meaning": "بهاء العنق، ذات العنق الجميل",
+        "long_meaning": "Feryal (فريال) اسم مأخوذ من اللغة الفارسية، ومعناه الأساسي بهاء العنق، ذات العنق الجميل. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "fe-ryal",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "فريال"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Feryal"
+      ],
+      "script_forms": [
+        "فريال",
+        "فریال",
+        "फ़रयाल"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form فريال is an established Persian lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Feryal mean?",
+        "a": "Feryal is a Persian-origin name meaning “Splendour”."
+      },
+      {
+        "q": "What is the origin of Feryal?",
+        "a": "Feryal originates in Persian and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Feryal an Arabic name?",
+        "a": "No — the recorded form فريال is Persian, not Arabic."
+      },
+      {
+        "q": "What is the root of Feryal?",
+        "a": "No root analysis is asserted for this spelling."
+      },
+      {
+        "q": "Is Feryal an Islamic name?",
+        "a": "Feryal is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Feryal a Quranic name?",
+        "a": "Feryal is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Feryal mean in Urdu?",
+        "a": "In Urdu it is written فریال and carries the sense “گردن کی رونق، خوش گردن”."
+      },
+      {
+        "q": "How is Feryal pronounced?",
+        "a": "A romanized syllable approximation is “fe-ryal”."
+      },
+      {
+        "q": "Is Feryal a boy's or girl's name?",
+        "a": "Documented usage records Feryal as a girl's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Feryal Name Meaning, Origin & Islamic Context",
+      "meta_description": "Feryal (فريال) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Feryal meaning, Feryal name meaning, Feryal origin, Feryal meaning in Urdu, Feryal pronunciation, Feryal Islamic name",
+      "description_paragraph": "Feryal is a Persian-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Feryal meaning",
+        "Feryal name meaning",
+        "Feryal origin",
+        "Feryal meaning in Urdu",
+        "Feryal pronunciation",
+        "Feryal Islamic name"
+      ],
+      "focus_keyword": "Feryal meaning",
+      "secondary_keywords": [
+        "Feryal name meaning",
+        "Feryal origin",
+        "Feryal meaning in Urdu",
+        "Feryal pronunciation",
+        "Feryal Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/feryal",
+      "seo_score": 90,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Feryal, a Persian-origin name used in Muslim communities.",
+      "body_summary": "Feryal is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Feryal",
+      "#FeryalMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 151,
+      "quality_score": 90,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Persian form فريال carries the sense “Splendour”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Feryal",
+          "description": "Feryal — a Persian-origin given name meaning Splendour",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Feryal mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Feryal is a Persian-origin name meaning “Splendour”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Feryal?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Feryal originates in Persian and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Feryal an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No — the recorded form فريال is Persian, not Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Feryal?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No root analysis is asserted for this spelling."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Feryal an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Feryal is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Feryal a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Feryal is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Feryal mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written فریال and carries the sense “گردن کی رونق، خوش گردن”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Feryal pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “fe-ryal”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Feryal a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Feryal as a girl's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Feryal",
+              "item": "https://nameverse.site/names/islamic/feryal"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

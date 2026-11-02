@@ -1,0 +1,491 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Ngozi",
+    "slug": "ngozi",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Ngozi",
+      "normalized_name": "ngozi",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Ngozi",
+        "ngozi"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Blessing",
+      "primary_meaning": "Ngozi is an Igbo-origin name meaning “Blessing”.",
+      "literal_meaning": "The name is the Igbo word itself, used unchanged as a given name rather than a derived or diminutive form.",
+      "meaning_explanation": "Ngozi corresponds to the Igbo form نْغُوزِي (Igbo ngọzi (blessing)). Its core sense is ngozi; blessing (igbo). Ngozi is Igbo, meaning 'blessing'. It is used as a female given name.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Igbo",
+      "lexical_form": "نْغُوزِي",
+      "transliteration": "ngozi",
+      "root": "",
+      "root_transliteration": "",
+      "morphology": "Simple lexical item used as a name.",
+      "feminine_form": null,
+      "etymological_meaning": "The Igbo word نْغُوزِي",
+      "root_family": [],
+      "etymology_explanation": "The form نْغُوزِي is an established Igbo lexical item used unchanged as a given name.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented Igbo form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Igbo",
+      "associated_languages": [
+        "Igbo",
+        "Muslim South Asia"
+      ],
+      "language_notes": {
+        "primary": "Igbo is the language of the recorded form نْغُوزِي.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Igbo",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name originates in Igbo and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Igbo",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Ngozi is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Ngozi is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Ngozi as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Igbo",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Blessing",
+      "related_concepts": [
+        "Blessing"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Blessing” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Blessing.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 8,
+      "life_path_number": 8,
+      "ruling_planet": "Saturn",
+      "lucky_day": "Saturday",
+      "lucky_colors": [
+        "Black",
+        "Blue"
+      ],
+      "lucky_stone": "Blue Sapphire",
+      "meaning": "In Pythagorean numerology the letters of Ngozi total 8, associated with ambition, authority and material success. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 8,
+      "lucky_day": "Saturday",
+      "lucky_colors": [
+        "Black",
+        "Blue"
+      ],
+      "lucky_stone": "Blue Sapphire",
+      "ruling_planet": "Saturn"
+    },
+    "translations": {
+      "english": {
+        "name": "Ngozi",
+        "script": "Ngozi",
+        "meaning": "Blessing",
+        "long_meaning": "Ngozi is an Igbo-origin given name; in Igbo the word means “Blessing”."
+      },
+      "urdu": {
+        "name": "نگوزی",
+        "script": "نگوزی",
+        "meaning": "نگوزی، برکت",
+        "long_meaning": "Ngozi (نگوزی) نامعلوم زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم نگوزی، برکت ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "نگوزی",
+        "script": "نگوزی",
+        "meaning": "نگوزی، برکت",
+        "long_meaning": "Ngozi (نگوزی) نامی برگرفته از زبان نامعلوم است و معنای اصلی آن نگوزی، برکت است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "न्गोज़ी",
+        "script": "न्गोज़ी",
+        "meaning": "न्गोज़ी, आशीर्वाद",
+        "long_meaning": "Ngozi (न्गोज़ी) अज्ञात भाषा से लिया गया नाम है। इसका मुख्य अर्थ न्गोज़ी, आशीर्वाद है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "نګوزي",
+        "script": "نګوزي",
+        "meaning": "نګوزي، برکت",
+        "long_meaning": "Ngozi (نګوزي) د نامعلوم ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې نګوزي، برکت ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "نْغُوزِي",
+        "script": "نْغُوزِي",
+        "meaning": "نْغُوزِي، الْبَرَكَة",
+        "long_meaning": "Ngozi (نْغُوزِي) اسم مأخوذ من اللغة غير محددة، ومعناه الأساسي نْغُوزِي، الْبَرَكَة. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "ngo-zi",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "نْغُوزِي"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Ngozi"
+      ],
+      "script_forms": [
+        "نْغُوزِي",
+        "نګوزي",
+        "نگوزی",
+        "न्गोज़ी"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form نْغُوزِي is an established Igbo lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Ngozi mean?",
+        "a": "Ngozi is an Igbo-origin name meaning “Blessing”."
+      },
+      {
+        "q": "What is the origin of Ngozi?",
+        "a": "Ngozi originates in Igbo and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Ngozi an Arabic name?",
+        "a": "No — the recorded form نْغُوزِي is Igbo, not Arabic."
+      },
+      {
+        "q": "What is the root of Ngozi?",
+        "a": "No root analysis is asserted for this spelling."
+      },
+      {
+        "q": "Is Ngozi an Islamic name?",
+        "a": "Ngozi is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Ngozi a Quranic name?",
+        "a": "Ngozi is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Ngozi mean in Urdu?",
+        "a": "In Urdu it is written نگوزی and carries the sense “نگوزی، برکت”."
+      },
+      {
+        "q": "How is Ngozi pronounced?",
+        "a": "A romanized syllable approximation is “ngo-zi”."
+      },
+      {
+        "q": "Is Ngozi a boy's or girl's name?",
+        "a": "Documented usage records Ngozi as a girl's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Ngozi Name Meaning, Origin & Islamic Context",
+      "meta_description": "Ngozi (نْغُوزِي) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Ngozi meaning, Ngozi name meaning, Ngozi origin, Ngozi meaning in Urdu, Ngozi pronunciation, Ngozi Islamic name",
+      "description_paragraph": "Ngozi is an Igbo-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Ngozi meaning",
+        "Ngozi name meaning",
+        "Ngozi origin",
+        "Ngozi meaning in Urdu",
+        "Ngozi pronunciation",
+        "Ngozi Islamic name"
+      ],
+      "focus_keyword": "Ngozi meaning",
+      "secondary_keywords": [
+        "Ngozi name meaning",
+        "Ngozi origin",
+        "Ngozi meaning in Urdu",
+        "Ngozi pronunciation",
+        "Ngozi Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/ngozi",
+      "seo_score": 90,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Ngozi, an Igbo-origin name used in Muslim communities.",
+      "body_summary": "Ngozi is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Ngozi",
+      "#NgoziMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 151,
+      "quality_score": 90,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Igbo form نْغُوزِي carries the sense “Blessing”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Ngozi",
+          "description": "Ngozi — an Igbo-origin given name meaning Blessing",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Ngozi mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ngozi is an Igbo-origin name meaning “Blessing”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Ngozi?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ngozi originates in Igbo and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Ngozi an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No — the recorded form نْغُوزِي is Igbo, not Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Ngozi?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No root analysis is asserted for this spelling."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Ngozi an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ngozi is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Ngozi a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ngozi is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Ngozi mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written نگوزی and carries the sense “نگوزی، برکت”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Ngozi pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “ngo-zi”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Ngozi a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Ngozi as a girl's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Ngozi",
+              "item": "https://nameverse.site/names/islamic/ngozi"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

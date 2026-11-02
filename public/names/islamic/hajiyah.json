@@ -1,0 +1,490 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Hajiyah",
+    "slug": "hajiyah",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Hajiyah",
+      "normalized_name": "hajiyah",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Hajiyah",
+        "hajiyah"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "A woman who has performed the Hajj",
+      "primary_meaning": "Hajiyah corresponds to the Arabic form حاجية and is glossed in this record as “A woman who has performed the Hajj.” The record associates the form with root ح ج ج (ḥ-j-j). The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "A woman who has performed the Hajj",
+      "meaning_explanation": "Hajiyah corresponds to the Arabic form حاجية (Arabic root ح ج ج (ḥ-j-j); حاجية (ḥājiya)). Its core sense is pilgrim (one who performs the hajj). Hajiyah is the feminine of حاجّ — حاجية (ḥājiya) 'a woman who has performed the Hajj'. The source gloss 'pilgrim, traveler' is a fair rendering.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "حاجية",
+      "transliteration": "hajiyah",
+      "root": "ح ج ج",
+      "root_transliteration": "ḥ-j-j",
+      "morphology": "Built on the root ح ج ج.",
+      "feminine_form": null,
+      "etymological_meaning": "From the root ح ج ج (ḥ-j-j)",
+      "root_family": [],
+      "etymology_explanation": "The form حاجية is an established Arabic lexical item, and Hajiyah is the word itself used as a personal name rather than a derived or diminutive form.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form حاجية.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Hajiyah is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Hajiyah is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Hajiyah as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "A woman who has performed the Hajj",
+      "related_concepts": [
+        "A woman who has performed the Hajj"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “A woman who has performed the Hajj” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: A woman who has performed the Hajj.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 8,
+      "life_path_number": 8,
+      "ruling_planet": "Saturn",
+      "lucky_day": "Saturday",
+      "lucky_colors": [
+        "Black",
+        "Blue"
+      ],
+      "lucky_stone": "Blue Sapphire",
+      "meaning": "In Pythagorean numerology the letters of Hajiyah total 8, associated with ambition, authority and material success. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 8,
+      "lucky_day": "Saturday",
+      "lucky_colors": [
+        "Black",
+        "Blue"
+      ],
+      "lucky_stone": "Blue Sapphire",
+      "ruling_planet": "Saturn"
+    },
+    "translations": {
+      "english": {
+        "name": "Hajiyah",
+        "script": "Hajiyah",
+        "meaning": "A woman who has performed the Hajj",
+        "long_meaning": "Hajiyah is an Arabic-origin given name; in Arabic the word means “A woman who has performed the Hajj”."
+      },
+      "urdu": {
+        "name": "حاجیہ",
+        "script": "حاجیہ",
+        "meaning": "حاجی، زیارت کرنے والا",
+        "long_meaning": "Hajiyah (حاجیہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم حاجی، زیارت کرنے والا ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "حاجیه",
+        "script": "حاجیه",
+        "meaning": "حاجی، زیارت‌گزار",
+        "long_meaning": "Hajiyah (حاجیه) نامی برگرفته از زبان عربی است و معنای اصلی آن حاجی، زیارت‌گزار است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "हाजिया",
+        "script": "हाजिया",
+        "meaning": "हाजी, तीर्थयात्री",
+        "long_meaning": "Hajiyah (हाजिया) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ हाजी, तीर्थयात्री है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "حاجیه",
+        "script": "حاجیه",
+        "meaning": "حاجي، زيارت کوونکی",
+        "long_meaning": "Hajiyah (حاجیه) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې حاجي، زيارت کوونکی ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "حاجية",
+        "script": "حاجية",
+        "meaning": "الحاج، الحاجّ",
+        "long_meaning": "Hajiyah (حاجية) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الحاج، الحاجّ. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "ha-jiyah",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "حاجية"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Hajiyah"
+      ],
+      "script_forms": [
+        "حاجية",
+        "حاجیه",
+        "حاجیہ",
+        "हाजिया"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form حاجية is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Hajiyah mean?",
+        "a": "Hajiyah is an Arabic-origin name meaning “A woman who has performed the Hajj”."
+      },
+      {
+        "q": "What is the origin of Hajiyah?",
+        "a": "Hajiyah originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Hajiyah an Arabic name?",
+        "a": "Yes, the recorded form حاجية is Arabic."
+      },
+      {
+        "q": "What is the root of Hajiyah?",
+        "a": "It is built on the root ح ج ج (ḥ-j-j)."
+      },
+      {
+        "q": "Is Hajiyah an Islamic name?",
+        "a": "Hajiyah is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Hajiyah a Quranic name?",
+        "a": "Hajiyah is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Hajiyah mean in Urdu?",
+        "a": "In Urdu it is written حاجیہ and carries the sense “حاجی، زیارت کرنے والا”."
+      },
+      {
+        "q": "How is Hajiyah pronounced?",
+        "a": "A romanized syllable approximation is “ha-jiyah”."
+      },
+      {
+        "q": "Is Hajiyah a boy's or girl's name?",
+        "a": "Documented usage records Hajiyah as a girl's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Hajiyah Name Meaning, Origin & Islamic Context",
+      "meta_description": "Hajiyah (حاجية) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Hajiyah meaning, Hajiyah name meaning, Hajiyah origin, Hajiyah meaning in Urdu, Hajiyah pronunciation, Hajiyah Islamic name",
+      "description_paragraph": "Hajiyah is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Hajiyah meaning",
+        "Hajiyah name meaning",
+        "Hajiyah origin",
+        "Hajiyah meaning in Urdu",
+        "Hajiyah pronunciation",
+        "Hajiyah Islamic name"
+      ],
+      "focus_keyword": "Hajiyah meaning",
+      "secondary_keywords": [
+        "Hajiyah name meaning",
+        "Hajiyah origin",
+        "Hajiyah meaning in Urdu",
+        "Hajiyah pronunciation",
+        "Hajiyah Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/hajiyah",
+      "seo_score": 95,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Hajiyah, an Arabic-origin name used in Muslim communities.",
+      "body_summary": "Hajiyah is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Hajiyah",
+      "#HajiyahMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 154,
+      "quality_score": 95,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form حاجية carries the sense “A woman who has performed the Hajj”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Hajiyah",
+          "description": "Hajiyah — an Arabic-origin given name meaning A woman who has performed the Hajj",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Hajiyah mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hajiyah is an Arabic-origin name meaning “A woman who has performed the Hajj”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Hajiyah?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hajiyah originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Hajiyah an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form حاجية is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Hajiyah?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is built on the root ح ج ج (ḥ-j-j)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Hajiyah an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hajiyah is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Hajiyah a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hajiyah is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Hajiyah mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written حاجیہ and carries the sense “حاجی، زیارت کرنے والا”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Hajiyah pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “ha-jiyah”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Hajiyah a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Hajiyah as a girl's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Hajiyah",
+              "item": "https://nameverse.site/names/islamic/hajiyah"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

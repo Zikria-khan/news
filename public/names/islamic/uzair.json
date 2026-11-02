@@ -1,0 +1,525 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Uzair",
+    "slug": "uzair",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Uzair",
+      "normalized_name": "uzair",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "MEDIUM",
+      "gender_note": "Uzair is recorded as a masculine given name in the sources cited in this record; actual use can vary by community.",
+      "alternate_spellings": [
+        "Uzair",
+        "Uzayr",
+        "Oozair"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Qur'anic figure identified in Islamic tradition with Ezra",
+      "primary_meaning": "Uzair (عزير) is the Arabic form of the name Ezra, mentioned once in the Qur'an (9:30). The verse reports and rejects a claim attributed to some Jews; the Qur'an does not present Uzair as a prophet, and later Islamic tradition differs about his status. The name is used, though rarely, as a male given name.",
+      "literal_meaning": "Ezra",
+      "meaning_explanation": "The Qur'an mentions Uzair only in 9:30, in a polemical context. Arabic lexicography treats the form as a proper name transmitted from Hebrew ʿEzrā; no Arabic root meaning should be invented. The verse's rhetorical context is not evidence that the name is recommended or prohibited.",
+      "meaning_confidence": "MEDIUM"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "عُزَيْر",
+      "transliteration": "ʿuzayr",
+      "root": "",
+      "root_transliteration": "",
+      "morphology": "Proper name of non-Arabic origin, transmitted into Arabic.",
+      "feminine_form": null,
+      "etymological_meaning": "Ezra",
+      "root_family": [],
+      "etymology_explanation": "The Qur'an mentions Uzair only in 9:30, in a polemical context. Arabic lexicography treats the form as a proper name transmitted from Hebrew ʿEzrā; no Arabic root meaning should be invented. The verse's rhetorical context is not evidence that the name is recommended or prohibited.",
+      "etymology_confidence": "MEDIUM",
+      "false_etymology_warning": "No derivation beyond the documented lexical, scriptural or biographical evidence is asserted; unsupported name-site etymologies are not adopted."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form عُزَيْر.",
+        "usage": "Other scripts in this record are transliterations or localized glosses; they are not independent origins."
+      },
+      "language_confidence": "MEDIUM"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "MEDIUM",
+      "origin_explanation": "The recorded form عُزَيْر is Arabic; no productive Arabic root is asserted for this proper name. The evidence distinguishes linguistic origin from religious and cultural use.",
+      "cultural_transmission": [
+        "Arabic-speaking communities",
+        "Muslim naming communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Qur'anic mention",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "A Qur'anic proper name mentioned in a polemical verse; not a divine name or an established prophetic name.",
+      "religious_explanation": "The Qur'an mentions Uzair once (9:30). Classical tafsīr discusses his identity and status, and most scholars do not count him among the prophets; the record reports this without asserting a ruling.",
+      "quranic_status": {
+        "is_quranic": true,
+        "status": "mentioned_in_quran",
+        "note": "Uzair is mentioned in Qur'an 9:30; the verse reports and rejects a claim attributed to some Jews and does not present him as a prophet."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report establishing this name or a special virtue is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "Most classical scholars do not count Uzair as a prophet; the Qur'an does not present him as one."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion attribution is asserted."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Qur'anic mention",
+      "interpretation": "The name is used in some Muslim communities; this record describes the textual evidence and does not issue a naming ruling.",
+      "important_distinction": "This descriptive record is not a religious ruling. Muslim cultural use, linguistic origin, and direct Qur'anic attestation are separate claims."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim naming communities"
+      ],
+      "cultural_meaning": "The name is associated with the Qur'anic mention of Ezra and with later discussions of his status.",
+      "personal_name_interpretation": "Use of the name may be commemorative or family-based; the record does not infer character from it.",
+      "interpretation_warning": "A symbolic naming preference is distinct from dictionary meaning and is not a claim about a bearer's personality or future."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Qur'anic mention and later tradition",
+      "related_concepts": [
+        "Ezra",
+        "Qur'an 9:30",
+        "polemical context"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_asserted",
+      "render": false,
+      "meaning": null,
+      "basis": null,
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No evidence-based hidden personality traits are asserted."
+    },
+    "numerology": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "life_path_number": null,
+      "ruling_planet": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "meaning": null,
+      "note": "Numerology is not evidence-based and is not supplied in this batch."
+    },
+    "lucky_attributes": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "ruling_planet": null,
+      "note": "Lucky attributes are not evidence-based and are not supplied in this batch."
+    },
+    "translations": {
+      "english": {
+        "name": "Uzair",
+        "script": "عُزَيْر",
+        "meaning": "Qur'anic figure identified in Islamic tradition with Ezra",
+        "long_meaning": "Uzair (عزير) is the Arabic form of the name Ezra, mentioned once in the Qur'an (9:30). The verse reports and rejects a claim attributed to some Jews; the Qur'an does not present Uzair as a prophet, and later Islamic tradition differs about his status. The name is used, though rarely, as a male given name."
+      },
+      "urdu": {
+        "name": "عزیر",
+        "script": "عزیر",
+        "meaning": "عزیر کا نام، جس کا ذکر قرآن میں ایک آیت میں آیا ہے",
+        "long_meaning": "عزیر کے لغوی معنی «عزیر کا نام، جس کا ذکر قرآن میں ایک آیت میں آیا ہے» ہیں۔ یہ اندراج دینی حوالے اور نام کے استعمال کو الگ الگ بیان کرتا ہے؛ یہ ترجمہ ابتدائی مسودہ ہے اور مقامی جائزے کا محتاج ہے۔"
+      },
+      "persian": {
+        "name": "عزیر",
+        "script": "عزیر",
+        "meaning": "نام عزیر که در یک آیه قرآن یاد شده است",
+        "long_meaning": "معنای لغوی عزیر در این مدخل «نام عزیر که در یک آیه قرآن یاد شده است» است. این مدخل مرجع دینی و کاربرد نام را جداگانه بیان می‌کند؛ این برگردان پیش‌نویس است و به بازبینی بومی نیاز دارد."
+      },
+      "hindi": {
+        "name": "उज़ैर",
+        "script": "उज़ैर",
+        "meaning": "उज़ैर का नाम, जिसका उल्लेख क़ुरआन में एक आयत में है",
+        "long_meaning": "उज़ैर का शब्दार्थ «उज़ैर का नाम, जिसका उल्लेख क़ुरआन में एक आयत में है» दिया गया है। यह प्रविष्टि धार्मिक संदर्भ और नाम-प्रयोग को अलग-अलग बताती है; यह अनुवाद प्रारूप है और स्थानीय भाषायी समीक्षा आवश्यक है।"
+      },
+      "pashto": {
+        "name": "عزیر",
+        "script": "عزیر",
+        "meaning": "د عزیر نوم چې په قرآن کې په یوه آیت ذکر شوی",
+        "long_meaning": "د عزیر لغوي مانا «د عزیر نوم چې په قرآن کې په یوه آیت ذکر شوی» دی. دا اندراج دیني حواله او د نوم کارونه بېل بېل بیانوي؛ دا ژباړه مسوده ده او د اصلي ژبې ویونکو بیاکتنې ته اړتیا لري.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "عزير",
+        "script": "عزير",
+        "meaning": "اسم عزير المذكور في القرآن",
+        "long_meaning": "المعنى اللغوي لاسم عزير في هذا السجل هو «اسم عزير المذكور في القرآن»؛ ويفصل السجل بين المرجع الديني واستعمال الاسم، وهذه صياغة أولية تحتاج إلى مراجعة لغوية.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "source_language_gloss_with_localized_draft",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "The Arabic core gloss is evidence-backed. All non-English localized meanings and script renderings are editorial drafts requiring native-speaker review; transliteration does not establish a separate origin."
+    },
+    "pronunciation": {
+      "romanized": "oo-ZAIR",
+      "ipa": null,
+      "approximation_note": "Romanized pronunciation guide only; no IPA transcription is asserted.",
+      "common_mispronunciation": "uz-ZAIR",
+      "scripts": {
+        "arabic": "عُزَيْر"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Uzayr",
+        "Oozair"
+      ],
+      "script_forms": [
+        "عُزَيْر",
+        "उज़ैर"
+      ],
+      "variant_notes": "Spelling variants reflect transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "documented_in_Quran_and_classical_exegesis",
+      "note": "Qur'an 9:30 is the only Qur'anic mention. Al-Ṭabarī and Ibn Kathīr discuss reports about Uzair; details beyond the verse are not treated as established."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Rare as a contemporary given name; no frequency data is measured here."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is measured in this batch; no estimate is asserted."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is included."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No individual bearer story is included without a verified source."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Uzair mean?",
+        "a": "Uzair (عزير) is the Arabic form of the name Ezra, mentioned once in the Qur'an (9:30). The verse reports and rejects a claim attributed to some Jews; the Qur'an does not present Uzair as a prophet, and later Islamic tradition differs about his status. The name is used, though rarely, as a male given name."
+      },
+      {
+        "q": "What is the origin of Uzair?",
+        "a": "The Qur'an mentions Uzair only in 9:30, in a polemical context. Arabic lexicography treats the form as a proper name transmitted from Hebrew ʿEzrā; no Arabic root meaning should be invented. The verse's rhetorical context is not evidence that the name is recommended or prohibited."
+      },
+      {
+        "q": "Is Uzair an Arabic name?",
+        "a": "Yes. The recorded form is عُزَيْر; the name is associated with Arabic."
+      },
+      {
+        "q": "How is Uzair written in Arabic?",
+        "a": "عُزَيْر"
+      },
+      {
+        "q": "Is Uzair a Quranic name?",
+        "a": "Uzair is mentioned in Qur'an 9:30; the verse reports and rejects a claim attributed to some Jews and does not present him as a prophet."
+      },
+      {
+        "q": "Is Uzair an Islamic name?",
+        "a": "A Qur'anic proper name mentioned in a polemical verse; not a divine name or an established prophetic name. The Qur'an mentions Uzair once (9:30). Classical tafsīr discusses his identity and status, and most scholars do not count him among the prophets; the record reports this without asserting a ruling."
+      },
+      {
+        "q": "How is Uzair pronounced?",
+        "a": "An approximate romanized guide is oo-ZAIR. Romanized pronunciation guide only; no IPA transcription is asserted."
+      },
+      {
+        "q": "Is Uzair a boy's or girl's name?",
+        "a": "The sources cited record Uzair as a masculine given name; actual use can vary by language and community."
+      },
+      {
+        "q": "What is the root of Uzair?",
+        "a": "No triliteral Arabic root is asserted for this proper name."
+      },
+      {
+        "q": "What should be checked before relying on this entry?",
+        "a": "The cited sources are listed with their scope and limitations but have not been independently rechecked in this pass. Non-English renderings are drafts pending native review, and no popularity figure is asserted."
+      }
+    ],
+    "seo": {
+      "title": "Uzair Name Meaning, Origin & Islamic Context",
+      "meta_description": "Uzair name meaning, Arabic origin, pronunciation and sourced Qur'anic-status notes.",
+      "meta_keywords": "Uzair meaning, Uzair name meaning, Uzair Arabic name, Uzair origin, Uzair pronunciation, Uzair Islamic name, Uzair meaning in Urdu",
+      "description_paragraph": "Uzair (عزير) is the Arabic form of the name Ezra, mentioned once in the Qur'an (9:30). The verse reports and rejects a claim attributed to some Jews; the Qur'an does not present Uzair as a prophet, and later Islamic tradition differs about his status. The name is used, though rarely, as a male given name.",
+      "keywords": [
+        "Uzair meaning",
+        "Uzair name meaning",
+        "Uzair Arabic name",
+        "Uzair origin",
+        "Uzair pronunciation",
+        "Uzair Islamic name",
+        "Uzair meaning in Urdu"
+      ],
+      "focus_keyword": "Uzair meaning",
+      "secondary_keywords": [
+        "Uzair name meaning",
+        "Uzair Arabic name",
+        "Uzair origin",
+        "Uzair pronunciation",
+        "Uzair Islamic name",
+        "Uzair meaning in Urdu"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/uzair",
+      "seo_score": null,
+      "seo_score_basis": "Not numerically scored in this focused review; factual clarity prioritized over an unsupported score."
+    },
+    "seo_content": {
+      "intro_paragraph": "Uzair is an Arabic given name. This entry separates its documented meaning, linguistic origin, religious or scriptural status, and modern usage.",
+      "body_summary": "Uzair (عزير) is the Arabic form of the name Ezra, mentioned once in the Qur'an (9:30). The verse reports and rejects a claim attributed to some Jews; the Qur'an does not present Uzair as a prophet, and later Islamic tradition differs about his status. The name is used, though rarely, as a male given name."
+    },
+    "social_tags": [
+      "#Uzair",
+      "#UzairMeaning",
+      "#NameMeaning",
+      "#ArabicNames",
+      "#IslamicNames"
+    ],
+    "content_quality": {
+      "tier1_verified": false,
+      "authenticity_flags": [
+        "single_polemical_Quranic_mention",
+        "prophethood_not_asserted",
+        "localized_translations_require_native_review",
+        "popularity_not_measured_in_this_batch"
+      ],
+      "fabricated_content_removed": true,
+      "fields_total": 306,
+      "quality_score": null,
+      "quality_score_basis": "No composite quality score is asserted; source support, limitations, scriptural status and review flags are explicit. Tier-1 verification is false because the listed sources were not independently rechecked in this pass.",
+      "tier1_verified_scope": "Core meaning and associated claims were matched to the listed sources in this pass; independent re-verification, native translation review and usage-frequency evidence remain separate outstanding tasks, so tier1_verified is false."
+    },
+    "evidence": {
+      "sources": [
+        "https://quran.com/9/30 — Qur'an 9:30: The single Qur'anic mention of Uzair. Limitation: The verse is polemical and does not present him as a prophet or provide a biography.",
+        "al-Ṭabarī, Jāmiʿ al-Bayān: Classical exegesis on Qur'an 9:30 and reports about Uzair. Limitation: Reports beyond the verse are not independently rechecked in this pass."
+      ],
+      "verification_method": "The lexical, scriptural or biographical claim was separated from name-site glosses and matched to a cited primary text, classical lexicon or biographical reference; the cited sources were not independently rechecked in this pass. Latin and Arabic-script forms were audited against every existing record before writing. No popularity figure is asserted without a source-scoped measurement.",
+      "claim_evidence": [
+        {
+          "claim": "Uzair is mentioned in Qur'an 9:30",
+          "source": "https://quran.com/9/30",
+          "status": "primary_text_cited_not_rechecked_in_this_pass"
+        },
+        {
+          "claim": "Most classical scholars do not count Uzair as a prophet",
+          "source": "al-Ṭabarī, Jāmiʿ al-Bayān",
+          "status": "classical_source_listed_not_rechecked"
+        }
+      ],
+      "claim_evidence_status": "SOURCE_URLS_LISTED_NOT_INDEPENDENTLY_RECHECKED_IN_THIS_PASS"
+    },
+    "provenance": {
+      "pipeline": "NameVerse super-2.0 curated Qur'anic/Islamic supplement",
+      "methodology": "Curated evidence manifest -> template-parity build -> Latin and Arabic-script collision audit -> schema and key-path validation",
+      "upgraded_from": "New record generated from the current super-2.0 architecture; not converted from a legacy record.",
+      "processed_at": "2026-10-17T00:00:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Uzair",
+          "description": "Uzair (عُزَيْر) — Qur'anic figure identified in Islamic tradition with Ezra",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Uzair mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Uzair (عزير) is the Arabic form of the name Ezra, mentioned once in the Qur'an (9:30). The verse reports and rejects a claim attributed to some Jews; the Qur'an does not present Uzair as a prophet, and later Islamic tradition differs about his status. The name is used, though rarely, as a male given name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Uzair?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The Qur'an mentions Uzair only in 9:30, in a polemical context. Arabic lexicography treats the form as a proper name transmitted from Hebrew ʿEzrā; no Arabic root meaning should be invented. The verse's rhetorical context is not evidence that the name is recommended or prohibited."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Uzair an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. The recorded form is عُزَيْر; the name is associated with Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Uzair written in Arabic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "عُزَيْر"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Uzair a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Uzair is mentioned in Qur'an 9:30; the verse reports and rejects a claim attributed to some Jews and does not present him as a prophet."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Uzair an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A Qur'anic proper name mentioned in a polemical verse; not a divine name or an established prophetic name. The Qur'an mentions Uzair once (9:30). Classical tafsīr discusses his identity and status, and most scholars do not count him among the prophets; the record reports this without asserting a ruling."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Uzair pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An approximate romanized guide is oo-ZAIR. Romanized pronunciation guide only; no IPA transcription is asserted."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Uzair a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The sources cited record Uzair as a masculine given name; actual use can vary by language and community."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Uzair?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No triliteral Arabic root is asserted for this proper name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What should be checked before relying on this entry?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The cited sources are listed with their scope and limitations but have not been independently rechecked in this pass. Non-English renderings are drafts pending native review, and no popularity figure is asserted."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Uzair",
+              "item": "https://nameverse.site/names/islamic/uzair"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": true,
+      "flags": [
+        "single_polemical_Quranic_mention",
+        "prophethood_not_asserted",
+        "localized_translations_require_native_review",
+        "popularity_not_measured_in_this_batch"
+      ],
+      "confidence": "MEDIUM",
+      "reviewed_by": "Automated source-aware build and collision audit; not a human or native-speaker review",
+      "reviewed_at": "2026-10-17"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": false,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

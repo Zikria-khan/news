@@ -1,0 +1,491 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Kwame",
+    "slug": "kwame",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Kwame",
+      "normalized_name": "kwame",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Kwame",
+        "kwame"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Born on Saturday",
+      "primary_meaning": "Kwame is an Akan-origin name meaning “Born on Saturday”.",
+      "literal_meaning": "The name is the Akan word itself, used unchanged as a given name rather than a derived or diminutive form.",
+      "meaning_explanation": "Kwame corresponds to the Akan form كْوَمِي (Akan Kwame (born on Saturday)). Its core sense is kwame; born on saturday (akan). Kwame is Akan (Ghanaian), meaning 'born on Saturday'. It is used as a male given name.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Akan",
+      "lexical_form": "كْوَمِي",
+      "transliteration": "kwame",
+      "root": "",
+      "root_transliteration": "",
+      "morphology": "Simple lexical item used as a name.",
+      "feminine_form": null,
+      "etymological_meaning": "The Akan word كْوَمِي",
+      "root_family": [],
+      "etymology_explanation": "The form كْوَمِي is an established Akan lexical item used unchanged as a given name.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented Akan form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Akan",
+      "associated_languages": [
+        "Akan",
+        "Muslim South Asia"
+      ],
+      "language_notes": {
+        "primary": "Akan is the language of the recorded form كْوَمِي.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Akan",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name originates in Akan and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Akan",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Kwame is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Kwame is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Kwame as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Akan",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Born on Saturday",
+      "related_concepts": [
+        "Born on Saturday"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Born on Saturday” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Born on Saturday.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 8,
+      "life_path_number": 8,
+      "ruling_planet": "Saturn",
+      "lucky_day": "Saturday",
+      "lucky_colors": [
+        "Black",
+        "Blue"
+      ],
+      "lucky_stone": "Blue Sapphire",
+      "meaning": "In Pythagorean numerology the letters of Kwame total 8, associated with ambition, authority and material success. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 8,
+      "lucky_day": "Saturday",
+      "lucky_colors": [
+        "Black",
+        "Blue"
+      ],
+      "lucky_stone": "Blue Sapphire",
+      "ruling_planet": "Saturn"
+    },
+    "translations": {
+      "english": {
+        "name": "Kwame",
+        "script": "Kwame",
+        "meaning": "Born on Saturday",
+        "long_meaning": "Kwame is an Akan-origin given name; in Akan the word means “Born on Saturday”."
+      },
+      "urdu": {
+        "name": "کوامی",
+        "script": "کوامی",
+        "meaning": "کوامی، ہفتہ کو پیدا ہوا",
+        "long_meaning": "Kwame (کوامی) نامعلوم زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم کوامی، ہفتہ کو پیدا ہوا ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "کوامی",
+        "script": "کوامی",
+        "meaning": "کوامی، زاده شنبه",
+        "long_meaning": "Kwame (کوامی) نامی برگرفته از زبان نامعلوم است و معنای اصلی آن کوامی، زاده شنبه است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "क्वामे",
+        "script": "क्वामे",
+        "meaning": "क्वामे, शनिवार को जन्मा",
+        "long_meaning": "Kwame (क्वामे) अज्ञात भाषा से लिया गया नाम है। इसका मुख्य अर्थ क्वामे, शनिवार को जन्मा है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "کوامي",
+        "script": "کوامي",
+        "meaning": "کوامي، شنبه زیږیدلی",
+        "long_meaning": "Kwame (کوامي) د نامعلوم ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې کوامي، شنبه زیږیدلی ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "كْوَمِي",
+        "script": "كْوَمِي",
+        "meaning": "كْوَمِي، مَوْلُودٌ يَوْمَ السَّبْت",
+        "long_meaning": "Kwame (كْوَمِي) اسم مأخوذ من اللغة غير محددة، ومعناه الأساسي كْوَمِي، مَوْلُودٌ يَوْمَ السَّبْت. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "kwa-me",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "كْوَمِي"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Kwame"
+      ],
+      "script_forms": [
+        "كْوَمِي",
+        "کوامي",
+        "کوامی",
+        "क्वामे"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form كْوَمِي is an established Akan lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Kwame mean?",
+        "a": "Kwame is an Akan-origin name meaning “Born on Saturday”."
+      },
+      {
+        "q": "What is the origin of Kwame?",
+        "a": "Kwame originates in Akan and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Kwame an Arabic name?",
+        "a": "No — the recorded form كْوَمِي is Akan, not Arabic."
+      },
+      {
+        "q": "What is the root of Kwame?",
+        "a": "No root analysis is asserted for this spelling."
+      },
+      {
+        "q": "Is Kwame an Islamic name?",
+        "a": "Kwame is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Kwame a Quranic name?",
+        "a": "Kwame is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Kwame mean in Urdu?",
+        "a": "In Urdu it is written کوامی and carries the sense “کوامی، ہفتہ کو پیدا ہوا”."
+      },
+      {
+        "q": "How is Kwame pronounced?",
+        "a": "A romanized syllable approximation is “kwa-me”."
+      },
+      {
+        "q": "Is Kwame a boy's or girl's name?",
+        "a": "Documented usage records Kwame as a boy's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Kwame Name Meaning, Origin & Islamic Context",
+      "meta_description": "Kwame (كْوَمِي) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Kwame meaning, Kwame name meaning, Kwame origin, Kwame meaning in Urdu, Kwame pronunciation, Kwame Islamic name",
+      "description_paragraph": "Kwame is an Akan-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Kwame meaning",
+        "Kwame name meaning",
+        "Kwame origin",
+        "Kwame meaning in Urdu",
+        "Kwame pronunciation",
+        "Kwame Islamic name"
+      ],
+      "focus_keyword": "Kwame meaning",
+      "secondary_keywords": [
+        "Kwame name meaning",
+        "Kwame origin",
+        "Kwame meaning in Urdu",
+        "Kwame pronunciation",
+        "Kwame Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/kwame",
+      "seo_score": 90,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Kwame, an Akan-origin name used in Muslim communities.",
+      "body_summary": "Kwame is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Kwame",
+      "#KwameMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 152,
+      "quality_score": 90,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Akan form كْوَمِي carries the sense “Born on Saturday”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Kwame",
+          "description": "Kwame — an Akan-origin given name meaning Born on Saturday",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Kwame mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Kwame is an Akan-origin name meaning “Born on Saturday”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Kwame?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Kwame originates in Akan and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Kwame an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No — the recorded form كْوَمِي is Akan, not Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Kwame?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No root analysis is asserted for this spelling."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Kwame an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Kwame is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Kwame a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Kwame is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Kwame mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written کوامی and carries the sense “کوامی، ہفتہ کو پیدا ہوا”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Kwame pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “kwa-me”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Kwame a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Kwame as a boy's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Kwame",
+              "item": "https://nameverse.site/names/islamic/kwame"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

@@ -1,0 +1,554 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Tasmir",
+    "slug": "tasmir",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Tasmir",
+      "normalized_name": "tasmir",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender follows documented naming usage, not an inference from the word's meaning; usage can vary by community.",
+      "alternate_spellings": [
+        "Tasmir",
+        "tasmir",
+        "Tathmir",
+        "Tasmeer",
+        "Tathmeer"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Making fruitful or productive; increasing or developing wealth.",
+      "primary_meaning": "Tasmir represents the Arabic verbal noun تَثْمِير, making something fruitful/productive or increasing wealth; the roman spelling Tasmir is a regional rendering of the ث consonant.",
+      "literal_meaning": "The Arabic form is تَثْمِير (taṯmīr/tathmīr), not a root with س. The spelling Tasmir is preserved because it is the searched personal-name form.",
+      "meaning_explanation": "Classical lexical material under ث م ر records form-II senses connected with forming fruit and increasing wealth. The baby-name page gives 'invest', 'turn into profit', 'blossom', and 'bear fruit'; this record uses the more literal productive/increase senses and flags the transliteration difference.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "تَثْمِير",
+      "transliteration": "taṯmīr (formal transliteration: tathmīr)",
+      "root": "ث م ر",
+      "root_transliteration": "th-m-r",
+      "morphology": "Verbal noun تَثْمِير (taṯmīr) of the form-II verb ثَمَّرَ; the popular spelling Tasmir is retained, while the Arabic consonant is ث (th), not س (s).",
+      "feminine_form": null,
+      "etymological_meaning": "Making fruitful or productive; increasing or developing wealth.",
+      "root_family": [],
+      "etymology_explanation": "Classical lexical material under ث م ر records form-II senses connected with forming fruit and increasing wealth. The baby-name page gives 'invest', 'turn into profit', 'blossom', and 'bear fruit'; this record uses the more literal productive/increase senses and flags the transliteration difference.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "The searched spelling Tasmir represents تَثْمِير; its Arabic first consonant is ث (th), not س (s). Do not infer the root س م ر from the Roman spelling."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form تَثْمِير.",
+        "usage": "Other scripts are transliterations or localized glosses; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The recorded form and meaning are associated with Arabic. The evidence distinguishes linguistic origin from religious/cultural use.",
+      "cultural_transmission": [
+        "Arabic-speaking communities",
+        "Muslim naming communities in South Asia"
+      ]
+    },
+    "religion": {
+      "primary_association": "Arabic and Muslim-cultural naming usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "A lexical Arabic verbal noun used as a name; not a religious title.",
+      "religious_explanation": "The source site labels it indirectly Qur'anic through a root relation; that is not equivalent to a direct Qur'anic occurrence of the personal name.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "root_related_not_direct_name_form",
+        "note": "Related ث م ر vocabulary occurs in Qur'anic Arabic; تثمير is not claimed as a Qur'anic personal name or direct name-form occurrence."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report establishing this name or a special virtue is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishing this as a prophet's personal name is cited."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion attribution is asserted without a verified source."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Arabic and Muslim-cultural naming usage",
+      "interpretation": "Fruitfulness and productivity are lexical associations, not a prediction of wealth or success.",
+      "important_distinction": "This descriptive record is not a religious ruling. Muslim cultural use, linguistic origin, and direct Qur'anic attestation are separate claims."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim naming communities"
+      ],
+      "cultural_meaning": "A boys' name in the name-source record; the common Roman spelling differs from strict transliteration of ث.",
+      "personal_name_interpretation": "Fruitfulness and productivity are lexical associations, not a prediction of wealth or success.",
+      "interpretation_warning": "A symbolic naming preference is distinct from dictionary meaning and is not a claim about a bearer's personality or future."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Fruitfulness, productivity, increase",
+      "related_concepts": [
+        "bearing fruit",
+        "productivity",
+        "growth",
+        "increase"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_asserted",
+      "render": false,
+      "meaning": null,
+      "basis": null,
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No evidence-based hidden personality traits are asserted."
+    },
+    "numerology": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "life_path_number": null,
+      "ruling_planet": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "meaning": null,
+      "note": "Numerology is not evidence-based and is not supplied in this record."
+    },
+    "lucky_attributes": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "ruling_planet": null
+    },
+    "translations": {
+      "english": {
+        "name": "Tasmir",
+        "script": "Tasmir",
+        "meaning": "Making fruitful or productive; increasing or developing wealth.",
+        "long_meaning": "Tasmir represents the Arabic verbal noun تَثْمِير, making something fruitful/productive or increasing wealth; the roman spelling Tasmir is a regional rendering of the ث consonant."
+      },
+      "urdu": {
+        "name": "تثمیر",
+        "script": "تثمیر",
+        "meaning": "ثمرآور کرنا، پیداوار بڑھانا، مال میں اضافہ",
+        "long_meaning": "تثمیر کے لغوی معنی ثمرآور کرنا، پیداوار بڑھانا، مال میں اضافہ ہیں۔ یہ ترجمہ ابتدائی مسودہ ہے اور مقامی لسانی جائزے کا محتاج ہے۔"
+      },
+      "persian": {
+        "name": "تثمیر",
+        "script": "تثمیر",
+        "meaning": "بارور کردن، ثمربخش کردن، افزایش دادن",
+        "long_meaning": "معنای لغوی تثمیر در این مدخل «بارور کردن، ثمربخش کردن، افزایش دادن» است؛ این برگردان پیش‌نویس است و به بازبینی بومی نیاز دارد."
+      },
+      "hindi": {
+        "name": "तस्मीर",
+        "script": "तस्मीर",
+        "meaning": "फलदायी बनाना, उत्पादक बनाना, वृद्धि करना",
+        "long_meaning": "तस्मीर का शब्दार्थ यहाँ फलदायी बनाना, उत्पादक बनाना, वृद्धि करना दिया गया है। यह अनुवाद प्रारूप है और स्थानीय भाषायी समीक्षा आवश्यक है।"
+      },
+      "pashto": {
+        "name": "تثمیر",
+        "script": "تثمیر",
+        "meaning": "مېوه لرونکی کول، ګټور کول، زیاتول",
+        "long_meaning": "د تثمیر لغوي مانا «مېوه لرونکی کول، ګټور کول، زیاتول» ده؛ دا د ژباړې مسوده ده او د اصلي ژبې ویونکي بیاکتنې ته اړتیا لري.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "تَثْمِير",
+        "script": "تَثْمِير",
+        "meaning": "جعل الشيء مثمراً أو منتجاً؛ وتنمية المال أو زيادته",
+        "long_meaning": "المعنى اللغوي لـتَثْمِير في هذا السجل هو «جعل الشيء مثمراً أو منتجاً؛ وتنمية المال أو زيادته»؛ وهذه صياغة أولية تحتاج إلى مراجعة لغوية.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "source_language_gloss_with_localized_draft",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "The source-language core gloss is evidence-backed. All non-English localized meanings and script renderings are editorial drafts and require native-speaker review; transliteration does not establish a separate origin."
+    },
+    "pronunciation": {
+      "romanized": "tath-meer (approximate; searched spelling Tasmir)",
+      "ipa": null,
+      "approximation_note": "The Arabic spelling تَثْمِير contains ث (th). The display spelling Tasmir is retained for name-search continuity; no IPA is asserted.",
+      "common_mispronunciation": "Reading the written s as the Arabic letter س rather than recognizing ث in the source spelling.",
+      "scripts": {
+        "arabic": "تَثْمِير"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Tathmir",
+        "Tasmeer",
+        "Tathmeer"
+      ],
+      "script_forms": [
+        "تَثْمِير",
+        "तस्मीर"
+      ],
+      "variant_notes": "Romanized forms reflect documented orthographic/transliteration variants. For Tasmir, the common searched spelling is not a strict transliteration of ث.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "lexically_attested_name_source_usage",
+      "note": "The Arabic verbal noun and root senses are lexically attested; no historical bearer is asserted."
+    },
+    "modern_usage": {
+      "status": "source_scoped_usage_data_available",
+      "note": "QuranicNames ranks Tasmir highly in its 2026 visitor-search table; this measures that site's searches, not births or population-wide demand."
+    },
+    "popularity": {
+      "status": "source_scoped_metrics_available",
+      "render": true,
+      "score": null,
+      "by_region": [
+        {
+          "region": "Not geographically specified; QuranicNames.com visitor audience",
+          "measure": "relative visitor-search interest",
+          "year": 2026,
+          "category": "overall",
+          "rank": 15,
+          "births": null,
+          "relative_interest_percent": 64,
+          "observation_period": "preceding three months, per the source introduction",
+          "source_title": "Most Popular Muslim Baby Names in 2026",
+          "source": "https://quranicnames.com/most-popular-names/",
+          "limitation": "Site visitors only; percent is relative to the category leader, not a birth share."
+        },
+        {
+          "region": "Not geographically specified; QuranicNames.com visitor audience",
+          "measure": "relative visitor-search interest",
+          "year": 2026,
+          "category": "Quranic names",
+          "rank": 11,
+          "births": null,
+          "relative_interest_percent": 69,
+          "observation_period": "preceding three months, per the source introduction",
+          "source_title": "Most Popular Muslim Baby Names in 2026",
+          "source": "https://quranicnames.com/most-popular-names/",
+          "limitation": "Site visitors only; this is a site's name-search category, not a population-wide ranking."
+        }
+      ],
+      "note": "QuranicNames' 2026 percentages are relative visitor-search interest against the page's category leaders over the preceding three months. These are not birth registrations or population-wide demand."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is included."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No individual bearer story is included without a verified source."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Tasmir mean?",
+        "a": "Tasmir represents the Arabic verbal noun تَثْمِير, making something fruitful/productive or increasing wealth; the roman spelling Tasmir is a regional rendering of the ث consonant."
+      },
+      {
+        "q": "What is the origin of Tasmir?",
+        "a": "Classical lexical material under ث م ر records form-II senses connected with forming fruit and increasing wealth. The baby-name page gives 'invest', 'turn into profit', 'blossom', and 'bear fruit'; this record uses the more literal productive/increase senses and flags the transliteration difference."
+      },
+      {
+        "q": "Is Tasmir an Arabic name?",
+        "a": "Yes. The recorded language/origin is Arabic; the source form is تَثْمِير."
+      },
+      {
+        "q": "How is Tasmir written in Arabic?",
+        "a": "تَثْمِير"
+      },
+      {
+        "q": "Is Tasmir a Quranic name?",
+        "a": "It is not claimed as a Qur'anic personal name. Related ث م ر vocabulary occurs in Qur'anic Arabic; تثمير is not claimed as a Qur'anic personal name or direct name-form occurrence."
+      },
+      {
+        "q": "Is Tasmir an Islamic name?",
+        "a": "A lexical Arabic verbal noun used as a name; not a religious title. The source site labels it indirectly Qur'anic through a root relation; that is not equivalent to a direct Qur'anic occurrence of the personal name."
+      },
+      {
+        "q": "How is Tasmir pronounced?",
+        "a": "An approximate romanized guide is tath-meer. The Arabic spelling تَثْمِير contains ث (th). The display spelling Tasmir is retained for name-search continuity; no IPA is asserted."
+      },
+      {
+        "q": "Is Tasmir a boy's or girl's name?",
+        "a": "The documented naming sources record Tasmir as a male name; actual use can vary by language and community."
+      },
+      {
+        "q": "How popular is Tasmir?",
+        "a": "Available scoped measure(s): Not geographically specified; QuranicNames.com visitor audience, 2026, overall list: #15, 64% relative visitor-search interest (Most Popular Muslim Baby Names in 2026); Not geographically specified; QuranicNames.com visitor audience, 2026, Quranic names list: #11, 69% relative visitor-search interest (Most Popular Muslim Baby Names in 2026). QuranicNames' 2026 percentages are relative visitor-search interest against the page's category leaders over the preceding three months. These are not birth registrations or population-wide demand."
+      },
+      {
+        "q": "What does Tasmir mean in Urdu?",
+        "a": "The draft Urdu rendering is تثمیر; its gloss is ثمرآور کرنا، پیداوار بڑھانا، مال میں اضافہ. Localized translations have not had native-speaker review."
+      },
+      {
+        "q": "What is the root of Tasmir?",
+        "a": "The recorded Arabic root is ث م ر (th-m-r)."
+      }
+    ],
+    "seo": {
+      "title": "Tasmir Name Meaning, Origin & Usage",
+      "meta_description": "Explore the sourced meaning, origin, pronunciation, script, and regional usage evidence for Tasmir.",
+      "meta_keywords": "Tasmir meaning, Tasmir name meaning, Tasmir origin, Tasmir pronunciation, Tasmir name in Urdu, Tasmir Arabic name",
+      "description_paragraph": "Tasmir is an Arabic-origin given name. This entry separates its lexical meaning, cultural and scriptural context, and source-scoped usage evidence.",
+      "keywords": [
+        "Tasmir meaning",
+        "Tasmir name meaning",
+        "Tasmir origin",
+        "Tasmir pronunciation",
+        "Tasmir name in Urdu",
+        "Tasmir Arabic name"
+      ],
+      "focus_keyword": "Tasmir meaning",
+      "secondary_keywords": [
+        "Tasmir name meaning",
+        "Tasmir origin",
+        "Tasmir pronunciation",
+        "Tasmir name in Urdu",
+        "Tasmir Arabic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/tasmir",
+      "seo_score": null,
+      "seo_score_basis": "No composite SEO score is assigned; editorial and evidence quality are recorded separately."
+    },
+    "seo_content": {
+      "intro_paragraph": "Tasmir is an Arabic-origin given name. The entry explains its documented meaning and distinguishes linguistic origin, religious/scriptural status, and regional usage.",
+      "body_summary": "Tasmir represents the Arabic verbal noun تَثْمِير, making something fruitful/productive or increasing wealth; the roman spelling Tasmir is a regional rendering of the ث consonant. QuranicNames' 2026 percentages are relative visitor-search interest against the page's category leaders over the preceding three months. These are not birth registrations or population-wide demand."
+    },
+    "social_tags": [
+      "#Tasmir",
+      "#TasmirMeaning",
+      "#NameMeaning",
+      "#ArabicNames",
+      "#IslamicNames"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [
+        "popular_roman_spelling_is_not_strict_transliteration_of_th",
+        "direct_Quranic_name_status_not_claimed",
+        "localized_translations_require_native_review",
+        "popularity_metrics_are_source_and_region_scoped"
+      ],
+      "fabricated_content_removed": true,
+      "fields_total": 330,
+      "quality_score": null,
+      "quality_score_basis": "No composite quality score is asserted; source support, limitations, scriptural status, and review flags are explicit."
+    },
+    "evidence": {
+      "sources": [
+        "The Arabic Lexicon, root ثمر — Form-II تثمير and root senses involving fruit formation and increase of wealth. Source: https://arabiclexicon.hawramani.com/%D8%AB%D9%85%D8%B1/ Limitation: The exact name usage is not established by the dictionary alone.",
+        "Wiktionary, تَثْمِير — Confirms the form as a verbal noun of form-II ثَمَّرَ under root ث م ر and records 'investment'. Source: https://en.wiktionary.org/wiki/%D8%AA%D8%AB%D9%85%D9%8A%D8%B1 Limitation: The name spelling Tasmir is a regional Roman rendering, not the strict transliteration taṯmīr.",
+        "QuranicNames, Tasmir — The searched name spelling, Arabic form تَثْمِير, boy-name usage, and name-page glosses. Source: https://quranicnames.com/tasmir-2/ Limitation: The spelling Tasmir is not the strict academic transliteration of ث; direct Qur'anic name status is not asserted.",
+        "QuranicNames 2026 visitor-search rankings — Tasmir's 2026 boys' and overall visitor-search ranks and relative interest percentages. Source: https://quranicnames.com/most-popular-names/ Limitation: Site visitor searches only; not official births or population-wide demand."
+      ],
+      "verification_method": "The lexical/scriptural or language claim is separated from name-site glosses; name usage and popularity are checked separately. Every frequency figure retains its source, region, year, category, metric, and limitation. Candidate spellings, Romanized variants, source-script forms, and localized script renderings are checked against the existing dataset. Non-English glosses are drafts requiring native-speaker review."
+    },
+    "provenance": {
+      "pipeline": "NameVerse super-2.0 demand-informed batch builder",
+      "methodology": "Curated evidence manifest -> template-matched record build -> alias/script collision audit -> schema and integrity validation",
+      "upgraded_from": "New record generated from the current super-2.0 architecture; not converted from a legacy record.",
+      "processed_at": "2026-10-13T00:00:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Tasmir",
+          "description": "Tasmir — an Arabic-origin given name: Making fruitful or productive; increasing or developing wealth.",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Tasmir mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Tasmir represents the Arabic verbal noun تَثْمِير, making something fruitful/productive or increasing wealth; the roman spelling Tasmir is a regional rendering of the ث consonant."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Tasmir?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Classical lexical material under ث م ر records form-II senses connected with forming fruit and increasing wealth. The baby-name page gives 'invest', 'turn into profit', 'blossom', and 'bear fruit'; this record uses the more literal productive/increase senses and flags the transliteration difference."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Tasmir an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. The recorded language/origin is Arabic; the source form is تَثْمِير."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Tasmir written in Arabic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "تَثْمِير"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Tasmir a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is not claimed as a Qur'anic personal name. Related ث م ر vocabulary occurs in Qur'anic Arabic; تثمير is not claimed as a Qur'anic personal name or direct name-form occurrence."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Tasmir an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A lexical Arabic verbal noun used as a name; not a religious title. The source site labels it indirectly Qur'anic through a root relation; that is not equivalent to a direct Qur'anic occurrence of the personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Tasmir pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An approximate romanized guide is tath-meer. The Arabic spelling تَثْمِير contains ث (th). The display spelling Tasmir is retained for name-search continuity; no IPA is asserted."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Tasmir a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The documented naming sources record Tasmir as a male name; actual use can vary by language and community."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How popular is Tasmir?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Available scoped measure(s): Not geographically specified; QuranicNames.com visitor audience, 2026, overall list: #15, 64% relative visitor-search interest (Most Popular Muslim Baby Names in 2026); Not geographically specified; QuranicNames.com visitor audience, 2026, Quranic names list: #11, 69% relative visitor-search interest (Most Popular Muslim Baby Names in 2026). QuranicNames' 2026 percentages are relative visitor-search interest against the page's category leaders over the preceding three months. These are not birth registrations or population-wide demand."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Tasmir mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The draft Urdu rendering is تثمیر; its gloss is ثمرآور کرنا، پیداوار بڑھانا، مال میں اضافہ. Localized translations have not had native-speaker review."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Tasmir?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The recorded Arabic root is ث م ر (th-m-r)."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Tasmir",
+              "item": "https://nameverse.site/names/islamic/tasmir"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": true,
+      "flags": [
+        "popular_roman_spelling_is_not_strict_transliteration_of_th",
+        "direct_Quranic_name_status_not_claimed",
+        "localized_translations_require_native_review",
+        "popularity_metrics_are_source_and_region_scoped"
+      ],
+      "confidence": "HIGH",
+      "reviewed_by": "Automated source-aware build and validation; not a human or native-speaker review",
+      "reviewed_at": "2026-10-13T00:00:00+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": false,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "numerology",
+        "lucky_attributes",
+        "spiritual_meaning",
+        "celebrity_usage",
+        "real_world_usage",
+        "name_story"
+      ]
+    }
+  }
+}

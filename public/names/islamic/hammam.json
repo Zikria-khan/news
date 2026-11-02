@@ -1,0 +1,488 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Hammam",
+    "slug": "hammam",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Hammam",
+      "normalized_name": "hammam",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "MEDIUM",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Hammam",
+        "hammam"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "A bathhouse, a public bath",
+      "primary_meaning": "Hammam corresponds to the Arabic form حمام and is glossed in this record as “A bathhouse, a public bath.” The record associates the form with root ح م م (ḥ-m-m). The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "A bathhouse, a public bath",
+      "meaning_explanation": "Hammam corresponds to the Arabic form حمام (Arabic root ح م م (ḥ-m-m); حَمَّام (Ḥammām)). Its core sense is bathhouse, public bath. Hammam is Arabic حَمَّام (Ḥammām) 'a bathhouse, a public bath', from the root ح م م (ḥ-m-m). It is also used as a personal name (for example the early Islamic scholar Hammām ibn Munabbih). The source gloss 'bathhouse' is correct. Recorded at medium confidence because the word is primarily a common noun and its use as a given name is less frequent.",
+      "meaning_confidence": "MEDIUM"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "حمام",
+      "transliteration": "hammam",
+      "root": "ح م م",
+      "root_transliteration": "ḥ-m-m",
+      "morphology": "Built on the root ح م م.",
+      "feminine_form": null,
+      "etymological_meaning": "From the root ح م م (ḥ-m-m)",
+      "root_family": [],
+      "etymology_explanation": "The form حمام is an established Arabic lexical item, and Hammam is the word itself used as a personal name rather than a derived or diminutive form.",
+      "etymology_confidence": "MEDIUM",
+      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form حمام.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "MEDIUM"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "MEDIUM",
+      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Hammam is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Hammam is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Hammam as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "A bathhouse, a public bath",
+      "related_concepts": [
+        "A bathhouse, a public bath"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “A bathhouse, a public bath” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: A bathhouse, a public bath.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 4,
+      "life_path_number": 4,
+      "ruling_planet": "Uranus",
+      "lucky_day": "Sunday",
+      "lucky_colors": [
+        "Grey",
+        "Blue"
+      ],
+      "lucky_stone": "Hessonite",
+      "meaning": "In Pythagorean numerology the letters of Hammam total 4, associated with stability, discipline and order. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 4,
+      "lucky_day": "Sunday",
+      "lucky_colors": [
+        "Grey",
+        "Blue"
+      ],
+      "lucky_stone": "Hessonite",
+      "ruling_planet": "Uranus"
+    },
+    "translations": {
+      "english": {
+        "name": "Hammam",
+        "script": "Hammam",
+        "meaning": "A bathhouse, a public bath",
+        "long_meaning": "Hammam is an Arabic-origin given name; in Arabic the word means “A bathhouse, a public bath”."
+      },
+      "urdu": {
+        "name": "حمام",
+        "script": "حمام",
+        "meaning": "حمام، غسل خانہ",
+        "long_meaning": "Hammam (حمام) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم حمام، غسل خانہ ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "حمام",
+        "script": "حمام",
+        "meaning": "گرمابه، حمام",
+        "long_meaning": "Hammam (حمام) نامی برگرفته از زبان عربی است و معنای اصلی آن گرمابه، حمام است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "हम्माम",
+        "script": "हम्माम",
+        "meaning": "स्नानगृह, हम्माम",
+        "long_meaning": "Hammam (हम्माम) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ स्नानगृह, हम्माम है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "حمام",
+        "script": "حمام",
+        "meaning": "حمام، لمبلځی",
+        "long_meaning": "Hammam (حمام) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې حمام، لمبلځی ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "حمام",
+        "script": "حمام",
+        "meaning": "الحمّام",
+        "long_meaning": "Hammam (حمام) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الحمّام. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "ham-mam",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "حمام"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Hammam"
+      ],
+      "script_forms": [
+        "حمام",
+        "हम्माम"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form حمام is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Hammam mean?",
+        "a": "Hammam is an Arabic-origin name meaning “A bathhouse, a public bath”."
+      },
+      {
+        "q": "What is the origin of Hammam?",
+        "a": "Hammam originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Hammam an Arabic name?",
+        "a": "Yes, the recorded form حمام is Arabic."
+      },
+      {
+        "q": "What is the root of Hammam?",
+        "a": "It is built on the root ح م م (ḥ-m-m)."
+      },
+      {
+        "q": "Is Hammam an Islamic name?",
+        "a": "Hammam is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Hammam a Quranic name?",
+        "a": "Hammam is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Hammam mean in Urdu?",
+        "a": "In Urdu it is written حمام and carries the sense “حمام، غسل خانہ”."
+      },
+      {
+        "q": "How is Hammam pronounced?",
+        "a": "A romanized syllable approximation is “ham-mam”."
+      },
+      {
+        "q": "Is Hammam a boy's or girl's name?",
+        "a": "Documented usage records Hammam as a boy's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Hammam Name Meaning, Origin & Islamic Context",
+      "meta_description": "Hammam (حمام) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Hammam meaning, Hammam name meaning, Hammam origin, Hammam meaning in Urdu, Hammam pronunciation, Hammam Islamic name",
+      "description_paragraph": "Hammam is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Hammam meaning",
+        "Hammam name meaning",
+        "Hammam origin",
+        "Hammam meaning in Urdu",
+        "Hammam pronunciation",
+        "Hammam Islamic name"
+      ],
+      "focus_keyword": "Hammam meaning",
+      "secondary_keywords": [
+        "Hammam name meaning",
+        "Hammam origin",
+        "Hammam meaning in Urdu",
+        "Hammam pronunciation",
+        "Hammam Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/hammam",
+      "seo_score": 95,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Hammam, an Arabic-origin name used in Muslim communities.",
+      "body_summary": "Hammam is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Hammam",
+      "#HammamMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 151,
+      "quality_score": 95,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form حمام carries the sense “A bathhouse, a public bath”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Hammam",
+          "description": "Hammam — an Arabic-origin given name meaning A bathhouse, a public bath",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Hammam mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hammam is an Arabic-origin name meaning “A bathhouse, a public bath”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Hammam?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hammam originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Hammam an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form حمام is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Hammam?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is built on the root ح م م (ḥ-m-m)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Hammam an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hammam is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Hammam a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hammam is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Hammam mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written حمام and carries the sense “حمام، غسل خانہ”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Hammam pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “ham-mam”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Hammam a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Hammam as a boy's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Hammam",
+              "item": "https://nameverse.site/names/islamic/hammam"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "MEDIUM",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

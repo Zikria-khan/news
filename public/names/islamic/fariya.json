@@ -1,0 +1,491 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Fariya",
+    "slug": "fariya",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Fariya",
+      "normalized_name": "fariya",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "LOW",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Fariya",
+        "fariya"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Joyful, happy",
+      "primary_meaning": "Fariya is an Unknown-origin name meaning “Joyful, happy”.",
+      "literal_meaning": "The name is the Unknown word itself, used unchanged as a given name rather than a derived or diminutive form.",
+      "meaning_explanation": "Fariya corresponds to the Unknown form فريعة (—). Its core sense is joyful, happy. The source record's gloss 'Joyful' could not be matched to a Tier-A/B lexical source. The identification is uncertain.",
+      "meaning_confidence": "LOW"
+    },
+    "etymology": {
+      "primary_language": "Unknown",
+      "lexical_form": "فريعة",
+      "transliteration": "fariya",
+      "root": "",
+      "root_transliteration": "",
+      "morphology": "Simple lexical item used as a name.",
+      "feminine_form": null,
+      "etymological_meaning": "The Unknown word فريعة",
+      "root_family": [],
+      "etymology_explanation": "The form فريعة is an established Unknown lexical item used unchanged as a given name.",
+      "etymology_confidence": "LOW",
+      "false_etymology_warning": "No derivation beyond the documented Unknown form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Unknown",
+      "associated_languages": [
+        "Unknown",
+        "Muslim South Asia"
+      ],
+      "language_notes": {
+        "primary": "Unknown is the language of the recorded form فريعة.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "LOW"
+    },
+    "origin": {
+      "primary_origin": "Unknown",
+      "origin_type": "linguistic",
+      "origin_confidence": "LOW",
+      "origin_explanation": "The name originates in Unknown and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Unknown",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Fariya is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Fariya is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Fariya as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Unknown",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Joyful, happy",
+      "related_concepts": [
+        "Joyful, happy"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_applicable",
+      "render": false,
+      "meaning": "No devotional reading is offered because the underlying word is a descriptive term rather than a religious concept.",
+      "basis": null,
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 6,
+      "life_path_number": 6,
+      "ruling_planet": "Venus",
+      "lucky_day": "Friday",
+      "lucky_colors": [
+        "White",
+        "Pink"
+      ],
+      "lucky_stone": "Diamond",
+      "meaning": "In Pythagorean numerology the letters of Fariya total 6, associated with responsibility, care and harmony. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 6,
+      "lucky_day": "Friday",
+      "lucky_colors": [
+        "White",
+        "Pink"
+      ],
+      "lucky_stone": "Diamond",
+      "ruling_planet": "Venus"
+    },
+    "translations": {
+      "english": {
+        "name": "Fariya",
+        "script": "Fariya",
+        "meaning": "Joyful, happy",
+        "long_meaning": "Fariya is an Unknown-origin given name; in Unknown the word means “Joyful, happy”."
+      },
+      "urdu": {
+        "name": "فریعہ",
+        "script": "فریعہ",
+        "meaning": "خوش، شادمان",
+        "long_meaning": "Fariya (فریعہ) نامعلوم زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم خوش، شادمان ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "Fariya",
+        "script": "Fariya",
+        "meaning": "Joyful, happy",
+        "long_meaning": "Joyful, happy"
+      },
+      "hindi": {
+        "name": "फ़रीया",
+        "script": "फ़रीया",
+        "meaning": "प्रसन्न, ख़ुश",
+        "long_meaning": "Fariya (फ़रीया) अज्ञात भाषा से लिया गया नाम है। इसका मुख्य अर्थ प्रसन्न, ख़ुश है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "فريعه",
+        "script": "فريعه",
+        "meaning": "خوشحاله، خوش",
+        "long_meaning": "Fariya (فريعه) د نامعلوم ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې خوشحاله، خوش ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "فريعة",
+        "script": "فريعة",
+        "meaning": "الفرحان، السعيد",
+        "long_meaning": "Fariya (فريعة) اسم مأخوذ من اللغة غير محددة، ومعناه الأساسي الفرحان، السعيد. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "LOW",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "fa-riya",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "فريعة"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Fariya"
+      ],
+      "script_forms": [
+        "فريعة",
+        "فريعه",
+        "فریعہ",
+        "फ़रीया"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "not_verified",
+      "note": "No verified lexical history is available."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Fariya mean?",
+        "a": "Fariya is an Unknown-origin name meaning “Joyful, happy”."
+      },
+      {
+        "q": "What is the origin of Fariya?",
+        "a": "Fariya originates in Unknown and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Fariya an Arabic name?",
+        "a": "No — the recorded form فريعة is Unknown, not Arabic."
+      },
+      {
+        "q": "What is the root of Fariya?",
+        "a": "No root analysis is asserted for this spelling."
+      },
+      {
+        "q": "Is Fariya an Islamic name?",
+        "a": "Fariya is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Fariya a Quranic name?",
+        "a": "Fariya is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Fariya mean in Urdu?",
+        "a": "In Urdu it is written فریعہ and carries the sense “خوش، شادمان”."
+      },
+      {
+        "q": "How is Fariya pronounced?",
+        "a": "A romanized syllable approximation is “fa-riya”."
+      },
+      {
+        "q": "Is Fariya a boy's or girl's name?",
+        "a": "Documented usage records Fariya as a girl's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Fariya Name Meaning, Origin & Islamic Context",
+      "meta_description": "Fariya (فريعة) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Fariya meaning, Fariya name meaning, Fariya origin, Fariya meaning in Urdu, Fariya pronunciation, Fariya Islamic name",
+      "description_paragraph": "Fariya is an Unknown-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Fariya meaning",
+        "Fariya name meaning",
+        "Fariya origin",
+        "Fariya meaning in Urdu",
+        "Fariya pronunciation",
+        "Fariya Islamic name"
+      ],
+      "focus_keyword": "Fariya meaning",
+      "secondary_keywords": [
+        "Fariya name meaning",
+        "Fariya origin",
+        "Fariya meaning in Urdu",
+        "Fariya pronunciation",
+        "Fariya Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/fariya",
+      "seo_score": 90,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Fariya, an Unknown-origin name used in Muslim communities.",
+      "body_summary": "Fariya is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Fariya",
+      "#FariyaMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 149,
+      "quality_score": 90,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Unknown form فريعة carries the sense “Joyful, happy”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Fariya",
+          "description": "Fariya — an Unknown-origin given name meaning Joyful, happy",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Fariya mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fariya is an Unknown-origin name meaning “Joyful, happy”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Fariya?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fariya originates in Unknown and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Fariya an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No — the recorded form فريعة is Unknown, not Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Fariya?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No root analysis is asserted for this spelling."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Fariya an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fariya is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Fariya a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fariya is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Fariya mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written فریعہ and carries the sense “خوش، شادمان”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Fariya pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “fa-riya”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Fariya a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Fariya as a girl's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Fariya",
+              "item": "https://nameverse.site/names/islamic/fariya"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": true,
+      "flags": [],
+      "confidence": "LOW",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

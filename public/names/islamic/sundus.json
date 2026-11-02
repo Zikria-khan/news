@@ -1,0 +1,542 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Sundus",
+    "slug": "sundus",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Sundus",
+      "normalized_name": "sundus",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender follows documented naming usage, not an inference from the word's meaning; usage can vary by community.",
+      "alternate_spellings": [
+        "Sundus",
+        "sundus",
+        "Sondos",
+        "Sundos",
+        "Soundous"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Fine silk of Paradise; directly attested Qur'anic term.",
+      "primary_meaning": "Sundus (سُنْدُس) is a Qur'anic feminine given name meaning 'fine green silk of Paradise'. It is directly attested three times in the Holy Qur'an to describe the radiant, luxurious garments bestowed upon the believers in the gardens of eternal bliss.",
+      "literal_meaning": "Thin, delicate silk brocade of vibrant green hue, symbolizing celestial purity, royal ease, and divine reward.",
+      "meaning_explanation": "The word sundus appears in Surah al-Kahf (18:31), Surah ad-Dukhan (44:53), and Surah al-Insan (76:21). Classical commentators such as Ibn Kathir and al-Tabari explain that sundus represents the finest, sheerest silk garments worn closest to the body, paired with istabraq (rich brocade), illustrating the sublime luxury prepared for the dwellers of Paradise.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "سُنْدُس",
+      "transliteration": "sundus",
+      "root": "س ن د س",
+      "root_transliteration": "s-n-d-s",
+      "morphology": "Qur'anic Arabic substantive noun designating the finest, most delicate green silk fabric worn by the righteous in Paradise.",
+      "feminine_form": null,
+      "etymological_meaning": "Fine silk of Paradise; directly attested Qur'anic term.",
+      "root_family": [],
+      "etymology_explanation": "The word sundus appears in Surah al-Kahf (18:31), Surah ad-Dukhan (44:53), and Surah al-Insan (76:21). Classical commentators such as Ibn Kathir and al-Tabari explain that sundus represents the finest, sheerest silk garments worn closest to the body, paired with istabraq (rich brocade), illustrating the sublime luxury prepared for the dwellers of Paradise.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented lexical analysis is asserted; unsupported name-site etymologies are not adopted."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form سُنْدُس.",
+        "usage": "Other scripts are transliterations or localized glosses; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The recorded form and meaning are associated with Arabic. The evidence distinguishes linguistic origin from religious/cultural use.",
+      "cultural_transmission": [
+        "Arab world",
+        "Egypt",
+        "Levant",
+        "North Africa",
+        "South Asia",
+        "Turkey"
+      ]
+    },
+    "religion": {
+      "primary_association": "Directly mentioned in the Holy Qur'an; imagery of eternal reward in Jannah",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Direct Qur'anic term with profoundly auspicious, positive scriptural imagery; widely loved as a Muslim girl's name.",
+      "religious_explanation": "Named after the blessed garments of Paradise described in the Qur'an, symbolizing purity, eternal peace, and divine favor.",
+      "quranic_status": {
+        "is_quranic": true,
+        "status": "directly_attested_word_occurrence",
+        "note": "Directly attested in the Qur'an in Surah al-Kahf (18:31), Surah ad-Dukhan (44:53), and Surah al-Insan (76:21)."
+      },
+      "hadith_status": {
+        "status": "attested_in_authentic_hadith",
+        "note": "Referred to in numerous sahih hadiths describing the garments of Paradise, such as Sahih al-Bukhari (3246, 5831)."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "Not the name of a prophet; it is a scriptural Qur'anic name for the attire of Paradise."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "Not attested as a specific prominent companion name; used primarily as a direct Qur'anic word-name."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Directly mentioned in the Holy Qur'an; imagery of eternal reward in Jannah",
+      "interpretation": "Parents choose Sundus to evoke elegance, delicate grace, modesty, and the everlasting beauty of Paradise.",
+      "important_distinction": "This descriptive record is not a religious ruling. Muslim cultural use, linguistic origin, and direct Qur'anic attestation are separate claims."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Qur'anic Arabic",
+        "Islamic eschatology",
+        "Modern Arabic feminine naming"
+      ],
+      "cultural_meaning": "Extremely popular and beloved across the Arab world, North Africa, and global Muslim communities as a poetic and spiritually uplifting name.",
+      "personal_name_interpretation": "Parents choose Sundus to evoke elegance, delicate grace, modesty, and the everlasting beauty of Paradise.",
+      "interpretation_warning": "A symbolic naming preference is distinct from dictionary meaning and is not a claim about a bearer's personality or future."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Paradise, beauty, silk, celestial reward, Quranic term",
+      "related_concepts": [
+        "Paradise",
+        "Jannah",
+        "silk",
+        "green garments",
+        "Quran"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_asserted",
+      "render": false,
+      "meaning": null,
+      "basis": null,
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No evidence-based hidden personality traits are asserted."
+    },
+    "numerology": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "life_path_number": null,
+      "ruling_planet": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "meaning": null,
+      "note": "Numerology is not evidence-based and is not supplied in this record."
+    },
+    "lucky_attributes": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "ruling_planet": null
+    },
+    "translations": {
+      "english": {
+        "name": "Sundus",
+        "script": "Sundus",
+        "meaning": "Fine silk of Paradise; directly attested Qur'anic term.",
+        "long_meaning": "Sundus (سُنْدُس) is a Qur'anic feminine given name meaning 'fine green silk of Paradise'. It is directly attested three times in the Holy Qur'an to describe the radiant, luxurious garments bestowed upon the believers in the gardens of eternal bliss."
+      },
+      "urdu": {
+        "name": "سندس",
+        "script": "سندس",
+        "meaning": "جنت کا باریک ریشم؛ قرآن مجید میں مذکور جنتی لباس کا نام",
+        "long_meaning": "سندس کے لغوی معنی جنت کا باریک ریشم؛ قرآن مجید میں مذکور جنتی لباس کا نام ہیں۔ یہ ترجمہ ابتدائی مسودہ ہے اور مقامی لسانی جائزے کا محتاج ہے۔"
+      },
+      "persian": {
+        "name": "سندس",
+        "script": "سندس",
+        "meaning": "دیبای لطیف و ابریشمین بهشتی؛ نامی قرآنی برای جامه‌های بهشت",
+        "long_meaning": "معنای لغوی سندس در این مدخل «دیبای لطیف و ابریشمین بهشتی؛ نامی قرآنی برای جامه‌های بهشت» است؛ این برگردان پیش‌نویس است و به بازبینی بومی نیاز دارد."
+      },
+      "hindi": {
+        "name": "सुन्दुस",
+        "script": "सुन्दुस",
+        "meaning": "जन्नत का महीन रेशम; पवित्र क़ुरान में वर्णित स्वर्ग का सुंदर रेशमी वस्त्र",
+        "long_meaning": "सुन्दुस का शब्दार्थ यहाँ जन्नत का महीन रेशम; पवित्र क़ुरान में वर्णित स्वर्ग का सुंदर रेशमी वस्त्र दिया गया है। यह अनुवाद प्रारूप है और स्थानीय भाषायी समीक्षा आवश्यक है।"
+      },
+      "pashto": {
+        "name": "سندس",
+        "script": "سندس",
+        "meaning": "د جنت نرم او باریک ورېښم؛ په قرآن کریم کې د جنتیانو د لباس نوم",
+        "long_meaning": "د سندس لغوي مانا «د جنت نرم او باریک ورېښم؛ په قرآن کریم کې د جنتیانو د لباس نوم» ده؛ دا د ژباړې مسوده ده او د اصلي ژبې ویونکي بیاکتنې ته اړتیا لري.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "سُنْدُس",
+        "script": "سُنْدُس",
+        "meaning": "الحرير الرقيق الناعم من ثياب أهل الجنة؛ مذكور في القرآن الكريم في ثلاثة مواضع",
+        "long_meaning": "المعنى اللغوي لـسُنْدُس في هذا السجل هو «الحرير الرقيق الناعم من ثياب أهل الجنة؛ مذكور في القرآن الكريم في ثلاثة مواضع»؛ وهذه صياغة أولية تحتاج إلى مراجعة لغوية.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "source_language_gloss_with_localized_draft",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "The source-language core gloss is evidence-backed. All non-English localized meanings and script renderings are editorial drafts and require native-speaker review; transliteration does not establish a separate origin."
+    },
+    "pronunciation": {
+      "romanized": "SOON-doos (approximate)",
+      "ipa": null,
+      "approximation_note": "Pronounced with clear 'soon' followed by 'doos', both syllables holding a pure 'u' vowel.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "سُنْدُس"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Sondos",
+        "Sundos",
+        "Soundous"
+      ],
+      "script_forms": [
+        "سُنْدُس",
+        "सुन्दुस"
+      ],
+      "variant_notes": "Alternate spellings reflect orthographic or transliteration variants; they do not establish different etymologies or pronunciations.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "quranic_scriptural_attestation",
+      "note": "Attested in Surah al-Kahf (18:31), Surah ad-Dukhan (44:53), and Surah al-Insan (76:21), where it describes the green celestial garments worn by the righteous in Paradise."
+    },
+    "modern_usage": {
+      "status": "source_scoped_usage_data_available",
+      "note": "Widely registered across the Arab world and diaspora; consistently ranked among popular modern female names in Egypt, Jordan, and Saudi Arabia."
+    },
+    "popularity": {
+      "status": "source_scoped_metrics_available",
+      "render": true,
+      "score": null,
+      "by_region": [
+        {
+          "region": "United States (Social Security Administration data via Nameberry)",
+          "measure": "Annual documented births",
+          "year": 2024,
+          "category": "girls",
+          "rank": 3820,
+          "births": 38,
+          "relative_interest_percent": null,
+          "observation_period": "2024 U.S. annual birth registration records",
+          "source_title": "Sondos / Sundus Name Meaning, Popularity and Qur'anic Heritage",
+          "source": "https://nameberry.com/baby-names/9022/sondos",
+          "limitation": "Reflects U.S. diaspora occurrences; civil registers in Arab countries show significantly higher density."
+        }
+      ],
+      "note": "Highly popular across the Middle East and North Africa; documented in international civil registers and U.S. birth statistics."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is included."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No individual bearer story is included without a verified source."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Sundus mean?",
+        "a": "Sundus (سُنْدُس) is a Qur'anic feminine given name meaning 'fine green silk of Paradise'. It is directly attested three times in the Holy Qur'an to describe the radiant, luxurious garments bestowed upon the believers in the gardens of eternal bliss."
+      },
+      {
+        "q": "What is the origin of Sundus?",
+        "a": "The word sundus appears in Surah al-Kahf (18:31), Surah ad-Dukhan (44:53), and Surah al-Insan (76:21). Classical commentators such as Ibn Kathir and al-Tabari explain that sundus represents the finest, sheerest silk garments worn closest to the body, paired with istabraq (rich brocade), illustrating the sublime luxury prepared for the dwellers of Paradise."
+      },
+      {
+        "q": "Is Sundus an Arabic name?",
+        "a": "Yes. The recorded language/origin is Arabic; the source form is سُنْدُس."
+      },
+      {
+        "q": "How is Sundus written in Arabic?",
+        "a": "سُنْدُس"
+      },
+      {
+        "q": "Is Sundus a Quranic name?",
+        "a": "The lexical/scriptural form is directly attested, but not as a named person: Directly attested in the Qur'an in Surah al-Kahf (18:31), Surah ad-Dukhan (44:53), and Surah al-Insan (76:21)."
+      },
+      {
+        "q": "Is Sundus an Islamic name?",
+        "a": "Direct Qur'anic term with profoundly auspicious, positive scriptural imagery; widely loved as a Muslim girl's name. Named after the blessed garments of Paradise described in the Qur'an, symbolizing purity, eternal peace, and divine favor."
+      },
+      {
+        "q": "How is Sundus pronounced?",
+        "a": "An approximate romanized guide is SOON-doos. Pronounced with clear 'soon' followed by 'doos', both syllables holding a pure 'u' vowel."
+      },
+      {
+        "q": "Is Sundus a boy's or girl's name?",
+        "a": "The documented naming sources record Sundus as a female name; actual use can vary by language and community."
+      },
+      {
+        "q": "How popular is Sundus?",
+        "a": "Available scoped measure(s): United States (Social Security Administration data via Nameberry), 2024: #3820 among girls, 38 births (Sondos / Sundus Name Meaning, Popularity and Qur'anic Heritage). Highly popular across the Middle East and North Africa; documented in international civil registers and U.S. birth statistics."
+      },
+      {
+        "q": "What does Sundus mean in Urdu?",
+        "a": "The draft Urdu rendering is سندس; its gloss is جنت کا باریک ریشم؛ قرآن مجید میں مذکور جنتی لباس کا نام. Localized translations have not had native-speaker review."
+      },
+      {
+        "q": "What is the root of Sundus?",
+        "a": "The recorded Arabic root is س ن د س (s-n-d-s)."
+      }
+    ],
+    "seo": {
+      "title": "Sundus Name Meaning, Origin & Usage",
+      "meta_description": "Explore the sourced meaning, origin, pronunciation, script, and regional usage evidence for Sundus.",
+      "meta_keywords": "Sundus meaning, Sundus name meaning, Sundus origin, Sundus pronunciation, Sundus name in Urdu, Sundus Arabic name",
+      "description_paragraph": "Sundus is an Arabic-origin given name. This entry separates its lexical meaning, cultural and scriptural context, and source-scoped usage evidence.",
+      "keywords": [
+        "Sundus meaning",
+        "Sundus name meaning",
+        "Sundus origin",
+        "Sundus pronunciation",
+        "Sundus name in Urdu",
+        "Sundus Arabic name"
+      ],
+      "focus_keyword": "Sundus meaning",
+      "secondary_keywords": [
+        "Sundus name meaning",
+        "Sundus origin",
+        "Sundus pronunciation",
+        "Sundus name in Urdu",
+        "Sundus Arabic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/sundus",
+      "seo_score": null,
+      "seo_score_basis": "No composite SEO score is assigned; editorial and evidence quality are recorded separately."
+    },
+    "seo_content": {
+      "intro_paragraph": "Sundus is an Arabic-origin given name. The entry explains its documented meaning and distinguishes linguistic origin, religious/scriptural status, and regional usage.",
+      "body_summary": "Sundus (سُنْدُس) is a Qur'anic feminine given name meaning 'fine green silk of Paradise'. It is directly attested three times in the Holy Qur'an to describe the radiant, luxurious garments bestowed upon the believers in the gardens of eternal bliss. Highly popular across the Middle East and North Africa; documented in international civil registers and U.S. birth statistics."
+    },
+    "social_tags": [
+      "#Sundus",
+      "#SundusMeaning",
+      "#NameMeaning",
+      "#ArabicNames",
+      "#IslamicNames"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [
+        "localized_translations_require_native_review",
+        "popularity_metrics_are_source_and_region_scoped"
+      ],
+      "fabricated_content_removed": true,
+      "fields_total": 320,
+      "quality_score": null,
+      "quality_score_basis": "No composite quality score is asserted; source support, limitations, scriptural status, and review flags are explicit."
+    },
+    "evidence": {
+      "sources": [
+        "Holy Qur'an: Surah al-Kahf 18:31, Surah al-Insan 76:21 — Direct scriptural attestation of sundus as the fine green silk garments of the dwellers of Paradise. Source: https://quran.com/18/31 Limitation: Primary divine scripture of Islam.",
+        "Tafsir Ibn Kathir: Commentary on Surah al-Kahf 18:31 — Classical tafsir defining sundus as the finest silk garments worn next to the skin in Jannah. Source: https://quran.com/18/31/tafsirs/en-tafisr-ibn-kathir Limitation: Classical Quranic exegesis.",
+        "Lisan al-Arab: Root s-n-d-s — Lexical exposition of sundus in classical Arabic poetry and Quranic usage. Source: https://lexicon.quranic-research.net/ Limitation: Authoritative Arabic dictionary."
+      ],
+      "verification_method": "The lexical/scriptural or language claim is separated from name-site glosses; name usage and popularity are checked separately. Every frequency figure retains its source, region, year, category, metric, and limitation. Candidate spellings, Romanized variants, source-script forms, and localized script renderings are checked against the existing dataset. Non-English glosses are drafts requiring native-speaker review."
+    },
+    "provenance": {
+      "pipeline": "NameVerse super-2.0 demand-informed batch builder",
+      "methodology": "Curated evidence manifest -> template-matched record build -> alias/script collision audit -> schema and integrity validation",
+      "upgraded_from": "New record generated from the current super-2.0 architecture; not converted from a legacy record.",
+      "processed_at": "2026-10-14T00:00:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Sundus",
+          "description": "Sundus — an Arabic-origin given name: Fine silk of Paradise; directly attested Qur'anic term.",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Sundus mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sundus (سُنْدُس) is a Qur'anic feminine given name meaning 'fine green silk of Paradise'. It is directly attested three times in the Holy Qur'an to describe the radiant, luxurious garments bestowed upon the believers in the gardens of eternal bliss."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Sundus?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The word sundus appears in Surah al-Kahf (18:31), Surah ad-Dukhan (44:53), and Surah al-Insan (76:21). Classical commentators such as Ibn Kathir and al-Tabari explain that sundus represents the finest, sheerest silk garments worn closest to the body, paired with istabraq (rich brocade), illustrating the sublime luxury prepared for the dwellers of Paradise."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Sundus an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. The recorded language/origin is Arabic; the source form is سُنْدُس."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Sundus written in Arabic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "سُنْدُس"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Sundus a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The lexical/scriptural form is directly attested, but not as a named person: Directly attested in the Qur'an in Surah al-Kahf (18:31), Surah ad-Dukhan (44:53), and Surah al-Insan (76:21)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Sundus an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Direct Qur'anic term with profoundly auspicious, positive scriptural imagery; widely loved as a Muslim girl's name. Named after the blessed garments of Paradise described in the Qur'an, symbolizing purity, eternal peace, and divine favor."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Sundus pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An approximate romanized guide is SOON-doos. Pronounced with clear 'soon' followed by 'doos', both syllables holding a pure 'u' vowel."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Sundus a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The documented naming sources record Sundus as a female name; actual use can vary by language and community."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How popular is Sundus?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Available scoped measure(s): United States (Social Security Administration data via Nameberry), 2024: #3820 among girls, 38 births (Sondos / Sundus Name Meaning, Popularity and Qur'anic Heritage). Highly popular across the Middle East and North Africa; documented in international civil registers and U.S. birth statistics."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Sundus mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The draft Urdu rendering is سندس; its gloss is جنت کا باریک ریشم؛ قرآن مجید میں مذکور جنتی لباس کا نام. Localized translations have not had native-speaker review."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Sundus?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The recorded Arabic root is س ن د س (s-n-d-s)."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Sundus",
+              "item": "https://nameverse.site/names/islamic/sundus"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": true,
+      "flags": [
+        "localized_translations_require_native_review",
+        "popularity_metrics_are_source_and_region_scoped"
+      ],
+      "confidence": "HIGH",
+      "reviewed_by": "Automated source-aware build and validation; not a human or native-speaker review",
+      "reviewed_at": "2026-10-14T00:00:00+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": false,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "numerology",
+        "lucky_attributes",
+        "spiritual_meaning",
+        "celebrity_usage",
+        "real_world_usage",
+        "name_story"
+      ]
+    }
+  }
+}

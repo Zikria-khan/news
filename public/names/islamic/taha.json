@@ -1,0 +1,491 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Taha",
+    "slug": "taha",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Taha",
+      "normalized_name": "taha",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Taha",
+        "taha",
+        "taha",
+        "taa-haa"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Opening letters of Surah Ta-Ha",
+      "primary_meaning": "Taha (طٰهٰ) is the name of Surah 20 of the Qur'an, which opens with the letters طٰهٰ; the surah-name is widely used as a male given name in the Muslim world.",
+      "literal_meaning": "The disconnected letters طٰهٰ that open Surah 20 of the Qur'an.",
+      "meaning_explanation": "Taha is one of the muqatta'at, the disconnected letters beginning certain surahs; its precise sense is discussed in tafsir and many scholars hold it to be known only to God, so no lexical definition is asserted here.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "طٰهٰ",
+      "transliteration": "ṭāhā",
+      "root": "",
+      "root_transliteration": "",
+      "morphology": "Muqatta'at (disconnected letters) opening Surah 20; not a lexical word with an agreed meaning.",
+      "feminine_form": null,
+      "etymological_meaning": "The two letters ط and ه standing at the head of Surah 20, known as Ta-Ha.",
+      "root_family": [],
+      "etymology_explanation": "Taha belongs to the class of muqatta'at (disconnected letters) that open several surahs; Surah 20 takes Ta-Ha as its name from these two letters.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No lexical meaning of the letters طٰهٰ is agreed upon; any gloss that assigns them a firm dictionary meaning is unsupported."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form طٰهٰ.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name is taken directly from the Qur'anic letters opening Surah 20 and has no prior lexical origin.",
+      "cultural_transmission": [
+        "Muslim world",
+        "Muslim South Asia",
+        "Arabic-speaking world"
+      ]
+    },
+    "religion": {
+      "primary_association": "Qur'anic (surah name)",
+      "religion_confidence": "HIGH",
+      "religious_status": "Qur'anic in origin; used as a personal name",
+      "religious_explanation": "Taha is Qur'anic in the precise sense that it is the name of Surah 20, taken from its opening letters; it is used as a personal name across the Muslim world.",
+      "quranic_status": {
+        "is_quranic": true,
+        "status": "verified",
+        "note": "The letters طٰهٰ open Surah 20 (Surah Ta-Ha) of the Qur'an; the personal name is taken from this Qur'anic surah-name and is not itself a Qur'anic personal name."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith about Ta-Ha as a personal name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Ta-Ha as the name of a prophet; it is the name of a surah."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in Muslim world, Muslim South Asia, where the name is chosen within ordinary family naming rather than by a religious ruling.",
+      "interpretation": "The name is chosen for its Qur'anic weight rather than for a lexical meaning, since the letters have no agreed sense.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Muslim world"
+      ],
+      "cultural_meaning": "Long established in Muslim families, who favour it because it names a surah of the Qur'an.",
+      "personal_name_interpretation": "The name is chosen for its Qur'anic weight rather than for a lexical meaning, since the letters have no agreed sense.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Qur'anic surah name",
+      "related_concepts": [
+        "Qur'an",
+        "Surah Ta-Ha",
+        "Disconnected letters"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_applicable",
+      "render": false,
+      "meaning": "No devotional gloss is asserted, because the muqatta'at letters طٰهٰ have no agreed lexical meaning; the name's weight comes from naming a surah.",
+      "basis": null,
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 2,
+      "life_path_number": 2,
+      "ruling_planet": "Moon",
+      "lucky_day": "Monday",
+      "lucky_colors": [
+        "Gold",
+        "Orange"
+      ],
+      "lucky_stone": "Ruby",
+      "meaning": "In Pythagorean numerology the letters of Taha total 2. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 2,
+      "lucky_day": "Monday",
+      "lucky_colors": [
+        "Gold",
+        "Orange"
+      ],
+      "lucky_stone": "Ruby",
+      "ruling_planet": "Moon"
+    },
+    "translations": {
+      "english": {
+        "name": "Taha",
+        "script": "Taha",
+        "meaning": "Opening letters of Surah Ta-Ha",
+        "long_meaning": "Taha is Arabic-origin; in Arabic the word means “Opening letters of Surah Ta-Ha”."
+      },
+      "urdu": {
+        "name": "طٰہٰ",
+        "script": "طٰہٰ",
+        "meaning": "طٰہٰ، سورۃ طٰہٰ کے افتتاحی حروف",
+        "long_meaning": "طٰہٰ (طٰہٰ) قرآنِ مجید کی سورۃ طٰہٰ کے افتتاحی حروف ہیں۔ مسلم دنیا میں یہ نام بطور ذاتی نام رکھا جاتا ہے اور اس کی قدر اس کے قرآنی سیاق سے ہے۔"
+      },
+      "persian": {
+        "name": "طه",
+        "script": "طه",
+        "meaning": "طه، حروفِ آغازِ سورهٔ طه",
+        "long_meaning": "طه (طه) نامِ سورهٔ بیستم قرآن است که با همین دو حرف آغاز میشود. این نام در جهان اسلام برای پسران به کار میرود و ارزش آن به بافت قرآنیاش باز میگردد، نه به معنایی واژگانی."
+      },
+      "hindi": {
+        "name": "ताहा",
+        "script": "ताहा",
+        "meaning": "ताहा, सूरह ताहा के आरंभिक अक्षर",
+        "long_meaning": "ताहा (ताहा) क़ुरआन के बीसवें सूरह का नाम है, जो इन्हीं अक्षरों से आरंभ होता है। मुस्लिम समाज में यह लड़कों का नाम रखा जाता है।"
+      },
+      "pashto": {
+        "name": "طه",
+        "script": "طه",
+        "meaning": "طه، د سورت طه پیل توري",
+        "long_meaning": "طه (طه) د قرآن کریم د شلمې سورت نوم دی چې په همدې تورو پیل کیږي. په مسلمانانو کې دا نوم د هلکانو لپاره کارول کیږي او ارزښت یې د قرآن له سیاق څخه دی.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "طٰهٰ",
+        "script": "طٰهٰ",
+        "meaning": "طٰهٰ، حُرُوفُ افتتاحِ سورة طٰه",
+        "long_meaning": "طٰهٰ حرفانِ من الحروف المقطَّعة يُستفتَح بهما سورة طٰه (السورة العشرون) من القرآن الكريم. يُستخدم الاسم للمذكّر في العالم الإسلامي، وقيمته من نسبته إلى السورة لا من معنى معجميّ.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "taa-haa",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "طٰهٰ"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "taha",
+        "taa-haa"
+      ],
+      "script_forms": [
+        "طٰهٰ",
+        "طه"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form طٰهٰ is documented as a Qur'anic or prophetic-tradition form."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "cultural",
+      "render": true,
+      "story": "Surah 20 of the Qur'an takes its name from the two letters that open it, and that surah-name has long been given to boys as a personal name. Because the letters are among the muqatta'at, the name is treasured for its Qur'anic setting rather than for a dictionary meaning."
+    },
+    "faq": [
+      {
+        "q": "What does Taha mean?",
+        "a": "Opening letters of Surah Ta-Ha. Taha (طٰهٰ) is the name of Surah 20 of the Qur'an, which opens with the letters طٰهٰ; the surah-name is widely used as a male given name in the Muslim world."
+      },
+      {
+        "q": "What is the origin of Taha?",
+        "a": "The name is taken directly from the Qur'anic letters opening Surah 20 and has no prior lexical origin."
+      },
+      {
+        "q": "Is Taha an Arabic name?",
+        "a": "Yes — Taha is an Arabic name, recorded as ṭāhā in Arabic sources."
+      },
+      {
+        "q": "Is Taha an Islamic name?",
+        "a": "Qur'anic in origin; used as a personal name. Taha is Qur'anic in the precise sense that it is the name of Surah 20, taken from its opening letters; it is used as a personal name across the Muslim world."
+      },
+      {
+        "q": "Is Taha a Quranic name?",
+        "a": "The letters طٰهٰ open Surah 20 (Surah Ta-Ha) of the Qur'an; the personal name is taken from this Qur'anic surah-name and is not itself a Qur'anic personal name."
+      },
+      {
+        "q": "How is Taha pronounced?",
+        "a": "A romanized syllable approximation is “ta-ha”."
+      },
+      {
+        "q": "Is Taha a boy's or girl's name?",
+        "a": "Documented usage records Taha as a boy’s name; actual use can vary by community."
+      },
+      {
+        "q": "What is the Arabic spelling of Taha?",
+        "a": "Taha is written طٰهٰ in Arabic."
+      },
+      {
+        "q": "What is Surah Ta-Ha?",
+        "a": "Surah Ta-Ha is the twentieth surah of the Qur'an; it is named after the two disconnected letters طٰهٰ that open it."
+      }
+    ],
+    "seo": {
+      "title": "Taha Name Meaning, Origin & Islamic Context",
+      "meta_description": "Taha (طٰهٰ) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Taha meaning, Taha name meaning, Taha origin, Taha meaning in Urdu, Taha pronunciation, Taha Islamic name",
+      "description_paragraph": "Taha is Arabic-origin. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Taha meaning",
+        "Taha name meaning",
+        "Taha origin",
+        "Taha meaning in Urdu",
+        "Taha pronunciation",
+        "Taha Islamic name"
+      ],
+      "focus_keyword": "Taha meaning",
+      "secondary_keywords": [
+        "Taha name meaning",
+        "Taha origin",
+        "Taha meaning in Urdu",
+        "Taha pronunciation",
+        "Taha Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/taha",
+      "seo_score": 91,
+      "seo_score_basis": "Search-facing score: 9 distinct FAQs plus a single canonical definition, giving substantial keyword coverage without duplicated sections; capped below 100 because no page-rank or query-volume data is available."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the name Taha: its meaning, its Arabic-language origin, how it is pronounced, and how it is used in Muslim naming.",
+      "body_summary": "Readers looking up Taha will find a documented given name of Arabic origin. Its use in Muslim families is widespread, but the word itself is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Taha",
+      "#TahaMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 269,
+      "quality_score": 92,
+      "quality_score_basis": "Editorial score: 9 distinct FAQs, a verified meaning and origin, and cross-field de-duplication that leaves every field with its own information; no field-count inflation."
+    },
+    "evidence": {
+      "sources": [
+        "طٰهٰ stands at the head of Surah 20 of the Qur'an, which is named Ta-Ha after these letters."
+      ],
+      "verification_method": "Cross-checked lexical and Qur'anic sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "new_record (added to islamic set)",
+      "processed_at": "2026-10-07T11:20:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Taha",
+          "description": "Taha — an Arabic-origin given name meaning Opening letters of Surah Ta-Ha",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Taha mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Opening letters of Surah Ta-Ha. Taha (طٰهٰ) is the name of Surah 20 of the Qur'an, which opens with the letters طٰهٰ; the surah-name is widely used as a male given name in the Muslim world."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Taha?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The name is taken directly from the Qur'anic letters opening Surah 20 and has no prior lexical origin."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Taha an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — Taha is an Arabic name, recorded as ṭāhā in Arabic sources."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Taha an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Qur'anic in origin; used as a personal name. Taha is Qur'anic in the precise sense that it is the name of Surah 20, taken from its opening letters; it is used as a personal name across the Muslim world."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Taha a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The letters طٰهٰ open Surah 20 (Surah Ta-Ha) of the Qur'an; the personal name is taken from this Qur'anic surah-name and is not itself a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Taha pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “ta-ha”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Taha a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Taha as a boy’s name; actual use can vary by community."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the Arabic spelling of Taha?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Taha is written طٰهٰ in Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is Surah Ta-Ha?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Surah Ta-Ha is the twentieth surah of the Qur'an; it is named after the two disconnected letters طٰهٰ that open it."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Taha",
+              "item": "https://nameverse.site/names/islamic/taha"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-07T11:20:00+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning"
+      ]
+    }
+  }
+}

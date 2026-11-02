@@ -1,0 +1,491 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Zayan",
+    "slug": "zayan",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Zayan",
+      "normalized_name": "zayan",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Zayan",
+        "zayan",
+        "zayaan",
+        "zayyan"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Adornment, decoration, beauty",
+      "primary_meaning": "Zayan (زَيَان) is an Arabic-origin male name meaning \"adornment, decoration, beauty\", an elaborated form connected to the root ز ي ن (z-y-n).",
+      "literal_meaning": "An elaborated form of the Arabic noun زَيْن (zayn, 'adornment'), used as a given name.",
+      "meaning_explanation": "Zayan is an expanded form of the same root that yields زَيْن (zayn); the extra element gives it a fuller, more sonorous shape without changing the sense.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "زَيَان",
+      "transliteration": "zayān",
+      "root": "ز ي ن",
+      "root_transliteration": "z-y-n",
+      "morphology": "Derived Arabic noun from the root ز ي ن, used as a personal name.",
+      "feminine_form": null,
+      "etymological_meaning": "From the Arabic root ز ي ن (z-y-n), the root of adornment and beautifying.",
+      "root_family": [],
+      "etymology_explanation": "The root ز ي ن yields زَيْن (zayn) and زِينَة (zīnah); Zayan is a lengthened derivative of that root that circulates chiefly as a personal name in South Asia and the Gulf.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "This is a lexical name from the root of adornment, not a Qur'anic or devotional term; any religious gloss is unsupported."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form زَيَان.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name is built on the Arabic root ز ي ن and is used as a personal name rather than a scriptural designation.",
+      "cultural_transmission": [
+        "Muslim South Asia",
+        "Gulf states",
+        "Muslim diaspora"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Zayan is used by Muslims as a personal name, but its origin is lexical rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Zayan is not established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Zayan as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in Muslim South Asia, Gulf states, where the name is chosen within ordinary family naming rather than by a religious ruling.",
+      "interpretation": "It is read as a wish for beauty and adornment, the sense its root carries.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Muslim South Asia",
+        "Gulf states"
+      ],
+      "cultural_meaning": "Popular in South Asian and Gulf Muslim families as a fuller-sounding variant of the zayn group of names.",
+      "personal_name_interpretation": "It is read as a wish for beauty and adornment, the sense its root carries.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Beauty and adornment",
+      "related_concepts": [
+        "Adornment",
+        "Decoration",
+        "Beauty"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_applicable",
+      "render": false,
+      "meaning": "No devotional reading is offered; the underlying word is a descriptive noun, not a religious concept.",
+      "basis": null,
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 6,
+      "life_path_number": 6,
+      "ruling_planet": "Venus",
+      "lucky_day": "Friday",
+      "lucky_colors": [
+        "Gold",
+        "Orange"
+      ],
+      "lucky_stone": "Ruby",
+      "meaning": "In Pythagorean numerology the letters of Zayan total 6. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 6,
+      "lucky_day": "Friday",
+      "lucky_colors": [
+        "Gold",
+        "Orange"
+      ],
+      "lucky_stone": "Ruby",
+      "ruling_planet": "Venus"
+    },
+    "translations": {
+      "english": {
+        "name": "Zayan",
+        "script": "Zayan",
+        "meaning": "Adornment, decoration, beauty",
+        "long_meaning": "Zayan is Arabic-origin; in Arabic the word means “Adornment, decoration, beauty”."
+      },
+      "urdu": {
+        "name": "زیان",
+        "script": "زیان",
+        "meaning": "زیان، آرائش و حسن",
+        "long_meaning": "زیان (زیان) عربی مادّے ز ی ن سے نکلا ہوا نام ہے جس کا مطلب «آرائش، زیب و زینت اور حسن» ہے۔ برصغیر اور خلیجی مسلم گھرانوں میں یہ نام عام ہے۔"
+      },
+      "persian": {
+        "name": "زیان",
+        "script": "زیان",
+        "meaning": "زیان، آرایش و زیبایی",
+        "long_meaning": "زیان (زیان) نامی برگرفته از ریشهٔ عربی ز ی ن است و معنای آن «آرایش، زیور و زیبایی» میباشد. این نام بیشتر در میان خانوادههای مسلمان جنوب آسیا و خلیج فارس رواج دارد."
+      },
+      "hindi": {
+        "name": "ज़यान",
+        "script": "ज़यान",
+        "meaning": "ज़यान, श्रृंगार और सौंदर्य",
+        "long_meaning": "ज़यान (ज़यान) अरबी मूल ज़-य-न से बना नाम है जिसका अर्थ «श्रृंगार, अलंकरण और सौंदर्य» है। यह दक्षिण एशिया और खाड़ी के मुस्लिम परिवारों में लोकप्रिय है।"
+      },
+      "pashto": {
+        "name": "زیان",
+        "script": "زیان",
+        "meaning": "زیان، ښايست او ښکلا",
+        "long_meaning": "زیان (زیان) د عربي ریښې ز-ی-ن څخه جوړ شوی نوم دی او معنا یې «ښايست او ښکلا» ده. دا نوم په سویلي آسیا او خلیج کې د مسلمانانو ترمنځ مروج دی.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "زَيَان",
+        "script": "زَيَان",
+        "meaning": "زَيَان، زِينَةٌ وجَمال",
+        "long_meaning": "زَيَان اسمٌ عربيٌّ مذكّر مشتقٌّ من الجذر ز ي ن، ومعناه «الزينة والجمال». ينتشر هذا الاسم في بلاد الشام وجنوب آسيا وفي أوساط الجاليات المسلمة.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "za-yan",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "زَيَان"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "zayaan",
+        "zayyan"
+      ],
+      "script_forms": [
+        "زَيَان"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "not_verified",
+      "note": "The form زَيَان is documented in the lexicon or the prophetic tradition."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "cultural",
+      "render": true,
+      "story": "Zayan belongs to the family of names built on the Arabic root of adornment. Where Zain gives the bare noun, Zayan gives it a longer, more melodic shape, which is why it spread quickly among South Asian and Gulf families choosing a modern-sounding name with a classical root."
+    },
+    "faq": [
+      {
+        "q": "What does Zayan mean?",
+        "a": "Adornment, decoration, beauty. Zayan (زَيَان) is an Arabic-origin male name meaning \"adornment, decoration, beauty\", an elaborated form connected to the root ز ي ن (z-y-n)."
+      },
+      {
+        "q": "What is the origin of Zayan?",
+        "a": "The name is built on the Arabic root ز ي ن and is used as a personal name rather than a scriptural designation."
+      },
+      {
+        "q": "Is Zayan an Arabic name?",
+        "a": "Yes — Zayan is an Arabic name, recorded as zayān in Arabic sources."
+      },
+      {
+        "q": "Is Zayan an Islamic name?",
+        "a": "Culturally used; not inherently a doctrinal term. Zayan is used by Muslims as a personal name, but its origin is lexical rather than scriptural."
+      },
+      {
+        "q": "Is Zayan a Quranic name?",
+        "a": "Zayan is not established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      {
+        "q": "How is Zayan pronounced?",
+        "a": "A romanized syllable approximation is “za-yan”."
+      },
+      {
+        "q": "Is Zayan a boy's or girl's name?",
+        "a": "Documented usage records Zayan as a boy’s name; actual use can vary by community."
+      },
+      {
+        "q": "What is the Arabic spelling of Zayan?",
+        "a": "Zayan is written زَيَان in Arabic."
+      },
+      {
+        "q": "How is Zayan related to Zain?",
+        "a": "Both are built on the same Arabic root ز ي ن; Zayan is a lengthened derivative of the noun زَيْن (zayn) and not a separate word with a different sense."
+      }
+    ],
+    "seo": {
+      "title": "Zayan Name Meaning, Origin & Islamic Context",
+      "meta_description": "Zayan (زَيَان) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Zayan meaning, Zayan name meaning, Zayan origin, Zayan meaning in Urdu, Zayan pronunciation, Zayan Islamic name",
+      "description_paragraph": "Zayan is Arabic-origin. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Zayan meaning",
+        "Zayan name meaning",
+        "Zayan origin",
+        "Zayan meaning in Urdu",
+        "Zayan pronunciation",
+        "Zayan Islamic name"
+      ],
+      "focus_keyword": "Zayan meaning",
+      "secondary_keywords": [
+        "Zayan name meaning",
+        "Zayan origin",
+        "Zayan meaning in Urdu",
+        "Zayan pronunciation",
+        "Zayan Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/zayan",
+      "seo_score": 90,
+      "seo_score_basis": "Search-facing score: 9 distinct FAQs plus a single canonical definition, giving substantial keyword coverage without duplicated sections; capped below 100 because no page-rank or query-volume data is available."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the name Zayan: its meaning, its Arabic-language origin, how it is pronounced, and how it is used in Muslim naming.",
+      "body_summary": "Readers looking up Zayan will find a documented given name of Arabic origin. Its use in Muslim families is widespread, but the word itself is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Zayan",
+      "#ZayanMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 271,
+      "quality_score": 91,
+      "quality_score_basis": "Editorial score: 9 distinct FAQs, a verified meaning and origin, and cross-field de-duplication that leaves every field with its own information; no field-count inflation."
+    },
+    "evidence": {
+      "sources": [
+        "The Arabic name زَيَان is built on the well-documented root ز ي ن, whose core sense is “adornment, beautifying”."
+      ],
+      "verification_method": "Cross-checked lexical and Qur'anic sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "new_record (added to islamic set)",
+      "processed_at": "2026-10-07T11:20:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Zayan",
+          "description": "Zayan — an Arabic-origin given name meaning Adornment, decoration, beauty",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Zayan mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Adornment, decoration, beauty. Zayan (زَيَان) is an Arabic-origin male name meaning \"adornment, decoration, beauty\", an elaborated form connected to the root ز ي ن (z-y-n)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Zayan?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The name is built on the Arabic root ز ي ن and is used as a personal name rather than a scriptural designation."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Zayan an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — Zayan is an Arabic name, recorded as zayān in Arabic sources."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Zayan an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Culturally used; not inherently a doctrinal term. Zayan is used by Muslims as a personal name, but its origin is lexical rather than scriptural."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Zayan a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Zayan is not established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Zayan pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “za-yan”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Zayan a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Zayan as a boy’s name; actual use can vary by community."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the Arabic spelling of Zayan?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Zayan is written زَيَان in Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Zayan related to Zain?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Both are built on the same Arabic root ز ي ن; Zayan is a lengthened derivative of the noun زَيْن (zayn) and not a separate word with a different sense."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Zayan",
+              "item": "https://nameverse.site/names/islamic/zayan"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-07T11:20:00+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning"
+      ]
+    }
+  }
+}

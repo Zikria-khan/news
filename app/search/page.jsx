@@ -10,7 +10,7 @@ import { pageMetadata, NOINDEX_FOLLOW } from '../../lib/seo.js';
 export const metadata = pageMetadata({
   title: 'Search Baby Names by Name, Meaning & Origin',
   description:
-    'Search 11,412 baby names by name, meaning or origin, and filter by tradition, recorded gender and origin — free and instant.',
+    'Search 11,730 baby names by name, meaning or origin, and filter by tradition, recorded gender and origin — free and instant.',
   path: '/search',
   robots: NOINDEX_FOLLOW,
   canonical: false,
@@ -20,7 +20,7 @@ const searchJsonLd = {
   '@context': 'https://schema.org',
   '@type': 'WebPage',
   name: 'Search Baby Names',
-  description: 'Search 11,412 baby names by name, meaning or origin, filtered by tradition, gender and origin.',
+  description: 'Search 11,730 baby names by name, meaning or origin, filtered by tradition, gender and origin.',
   url: 'https://nameverse.site/search',
   potentialAction: {
     '@type': 'SearchAction',
@@ -40,7 +40,7 @@ export default function SearchPage() {
             Search Baby Names
           </h1>
           <p className="mx-auto mt-3 max-w-2xl text-nv-text-secondary">
-            Search 11,412 baby names across traditions by keyword, meaning, language or gender.
+            Search 11,730 baby names across traditions by keyword, meaning, language or gender.
           </p>
         </header>
 
@@ -56,7 +56,7 @@ export default function SearchPage() {
           </h2>
           <div className="mt-4 space-y-4 text-sm leading-relaxed text-nv-text-secondary sm:text-base">
             <p>
-              NameVerse indexes every one of its 11,412 published names so you can search the way you
+              NameVerse indexes every one of its 11,730 published names so you can search the way you
               actually think &mdash; by a name you heard, a meaning you love, or a language you come from.
               The search box matches the name, its recorded meaning and its origin, so typing
               &ldquo;light&rdquo; with the Arabic origin and Girls filters selected finds Arabic girl names whose

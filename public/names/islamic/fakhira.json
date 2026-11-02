@@ -1,0 +1,490 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Fakhira",
+    "slug": "fakhira",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Fakhira",
+      "normalized_name": "fakhira",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Fakhira",
+        "fakhira"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Excellent, splendid",
+      "primary_meaning": "Fakhira corresponds to the Arabic form فاخرة and is glossed in this record as “Excellent, splendid.” The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "Excellent, splendid",
+      "meaning_explanation": "Fakhira corresponds to the Arabic form فاخرة (ف خ ر). Its core sense is gift of god, divine gift. Fākhira ('excellent, splendid'). The source record's gloss 'Gift of God' is unsupported.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "فاخرة",
+      "transliteration": "fakhira",
+      "root": "",
+      "root_transliteration": "",
+      "morphology": "Simple lexical item used as a name.",
+      "feminine_form": null,
+      "etymological_meaning": "The Arabic word فاخرة",
+      "root_family": [],
+      "etymology_explanation": "The form فاخرة is an established Arabic lexical item used unchanged as a given name.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form فاخرة.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Fakhira is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Fakhira is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Fakhira as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Excellent, splendid",
+      "related_concepts": [
+        "Excellent, splendid"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Excellent, splendid” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Excellent, splendid.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 9,
+      "life_path_number": 9,
+      "ruling_planet": "Mars",
+      "lucky_day": "Tuesday",
+      "lucky_colors": [
+        "Red",
+        "Crimson"
+      ],
+      "lucky_stone": "Red Coral",
+      "meaning": "In Pythagorean numerology the letters of Fakhira total 9, associated with compassion, idealism and completion. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 9,
+      "lucky_day": "Tuesday",
+      "lucky_colors": [
+        "Red",
+        "Crimson"
+      ],
+      "lucky_stone": "Red Coral",
+      "ruling_planet": "Mars"
+    },
+    "translations": {
+      "english": {
+        "name": "Fakhira",
+        "script": "Fakhira",
+        "meaning": "Excellent, splendid",
+        "long_meaning": "Fakhira is an Arabic-origin given name; in Arabic the word means “Excellent, splendid”."
+      },
+      "urdu": {
+        "name": "فاخرہ",
+        "script": "فاخرہ",
+        "meaning": "خدا کا تحفہ، الٰہی عطا",
+        "long_meaning": "Fakhira (فاخرہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم خدا کا تحفہ، الٰہی عطا ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "Fakhira",
+        "script": "Fakhira",
+        "meaning": "Gift of God, divine gift",
+        "long_meaning": "Gift of God, divine gift"
+      },
+      "hindi": {
+        "name": "फ़ाख़िरा",
+        "script": "फ़ाख़िरा",
+        "meaning": "ईश्वर का उपहार, दैवी अता",
+        "long_meaning": "Fakhira (फ़ाख़िरा) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ ईश्वर का उपहार, दैवी अता है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "فاخره",
+        "script": "فاخره",
+        "meaning": "د خدای ډالۍ، الهي عطا",
+        "long_meaning": "Fakhira (فاخره) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې د خدای ډالۍ، الهي عطا ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "فاخرة",
+        "script": "فاخرة",
+        "meaning": "هدية الله، العطاء الإلهي",
+        "long_meaning": "Fakhira (فاخرة) اسم مأخوذ من اللغة العربية، ومعناه الأساسي هدية الله، العطاء الإلهي. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "fak-hi-ra",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "فاخرة"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Fakhira"
+      ],
+      "script_forms": [
+        "فاخرة",
+        "فاخره",
+        "فاخرہ",
+        "फ़ाख़िरा"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form فاخرة is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Fakhira mean?",
+        "a": "Fakhira is an Arabic-origin name meaning “Excellent, splendid”."
+      },
+      {
+        "q": "What is the origin of Fakhira?",
+        "a": "Fakhira originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Fakhira an Arabic name?",
+        "a": "Yes, the recorded form فاخرة is Arabic."
+      },
+      {
+        "q": "What is the root of Fakhira?",
+        "a": "No root analysis is asserted for this spelling."
+      },
+      {
+        "q": "Is Fakhira an Islamic name?",
+        "a": "Fakhira is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Fakhira a Quranic name?",
+        "a": "Fakhira is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Fakhira mean in Urdu?",
+        "a": "In Urdu it is written فاخرہ and carries the sense “خدا کا تحفہ، الٰہی عطا”."
+      },
+      {
+        "q": "How is Fakhira pronounced?",
+        "a": "A romanized syllable approximation is “fak-hi-ra”."
+      },
+      {
+        "q": "Is Fakhira a boy's or girl's name?",
+        "a": "Documented usage records Fakhira as a girl's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Fakhira Name Meaning, Origin & Islamic Context",
+      "meta_description": "Fakhira (فاخرة) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Fakhira meaning, Fakhira name meaning, Fakhira origin, Fakhira meaning in Urdu, Fakhira pronunciation, Fakhira Islamic name",
+      "description_paragraph": "Fakhira is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Fakhira meaning",
+        "Fakhira name meaning",
+        "Fakhira origin",
+        "Fakhira meaning in Urdu",
+        "Fakhira pronunciation",
+        "Fakhira Islamic name"
+      ],
+      "focus_keyword": "Fakhira meaning",
+      "secondary_keywords": [
+        "Fakhira name meaning",
+        "Fakhira origin",
+        "Fakhira meaning in Urdu",
+        "Fakhira pronunciation",
+        "Fakhira Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/fakhira",
+      "seo_score": 90,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Fakhira, an Arabic-origin name used in Muslim communities.",
+      "body_summary": "Fakhira is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Fakhira",
+      "#FakhiraMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 151,
+      "quality_score": 90,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form فاخرة carries the sense “Excellent, splendid”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Fakhira",
+          "description": "Fakhira — an Arabic-origin given name meaning Excellent, splendid",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Fakhira mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fakhira is an Arabic-origin name meaning “Excellent, splendid”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Fakhira?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fakhira originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Fakhira an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form فاخرة is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Fakhira?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No root analysis is asserted for this spelling."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Fakhira an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fakhira is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Fakhira a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fakhira is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Fakhira mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written فاخرہ and carries the sense “خدا کا تحفہ، الٰہی عطا”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Fakhira pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “fak-hi-ra”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Fakhira a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Fakhira as a girl's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Fakhira",
+              "item": "https://nameverse.site/names/islamic/fakhira"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

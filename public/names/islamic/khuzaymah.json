@@ -1,0 +1,539 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Khuzaymah",
+    "slug": "khuzaymah",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Khuzaymah",
+      "normalized_name": "khuzaymah",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender follows documented naming usage, not an inference from the word's meaning; usage can vary by community.",
+      "alternate_spellings": [
+        "Khuzaymah",
+        "khuzaymah",
+        "Khuzaimah",
+        "Khuzaima",
+        "Khuzayma"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Fragrant wild lavender; companion Khuzaymah ibn Thabit (Dhu al-Shahadatayn).",
+      "primary_meaning": "Khuzaymah (خُزَيْمَة) is a historic Arabic masculine name meaning 'delicate fragrant blossom' or 'a string of precious pearls'. In Islamic history, it is the renowned name of Khuzaymah ibn Thabit al-Ansari, whom the Prophet Muhammad ﷺ uniquely honored with the title 'Dhu al-Shahadatayn' (He whose witness equals two men).",
+      "literal_meaning": "Diminutive of khuzāmā (wild lavender) or referring to the careful stringing of beads, denoting order, fragrance, and precision.",
+      "meaning_explanation": "The root kh-z-m denotes stringing items harmoniously or refers to the sweet-scented desert lavender. In the prophetic era, Khuzaymah ibn Thabit bore testimony in a transaction where the Prophet ﷺ bought a horse; because of his profound truthfulness, the Prophet ﷺ decreed that his testimony alone was equivalent to that of two upright witnesses.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "خُزَيْمَة",
+      "transliteration": "khuzaymah",
+      "root": "خ ز م",
+      "root_transliteration": "kh-z-m",
+      "morphology": "Classical Arabic diminutive noun (pattern fuʿaylah) from khuzāmā (fragrant wild lavender) or khazm (piercing and stringing pearls).",
+      "feminine_form": null,
+      "etymological_meaning": "Fragrant wild lavender; companion Khuzaymah ibn Thabit (Dhu al-Shahadatayn).",
+      "root_family": [],
+      "etymology_explanation": "The root kh-z-m denotes stringing items harmoniously or refers to the sweet-scented desert lavender. In the prophetic era, Khuzaymah ibn Thabit bore testimony in a transaction where the Prophet ﷺ bought a horse; because of his profound truthfulness, the Prophet ﷺ decreed that his testimony alone was equivalent to that of two upright witnesses.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented lexical analysis is asserted; unsupported name-site etymologies are not adopted."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form خُزَيْمَة.",
+        "usage": "Other scripts are transliterations or localized glosses; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The recorded form and meaning are associated with Arabic. The evidence distinguishes linguistic origin from religious/cultural use.",
+      "cultural_transmission": [
+        "Arab world",
+        "South Asia",
+        "Muslim scholarly families"
+      ]
+    },
+    "religion": {
+      "primary_association": "Companion of the Prophet Muhammad ﷺ; vital figure in Quranic codex preservation",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Name of a distinguished Sahabi whose uprightness was uniquely endorsed by the Prophet ﷺ; carries profound religious respect.",
+      "religious_explanation": "Named after Khuzaymah ibn Thabit, whose integrity was so absolute that his single testimony was accepted for the final verses of Surah at-Tawbah during the compilation of the Mus'haf.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_attested",
+        "note": "Khuzaymah is not explicitly mentioned in the Qur'an; his historical role was vital in verifying the compiled Quranic manuscripts under Zayd ibn Thabit."
+      },
+      "hadith_status": {
+        "status": "attested_in_authentic_hadith",
+        "note": "Attested in Sunan Abi Dawud (3560) and Sunan an-Nasa'i (4648) where the Prophet ﷺ deemed Khuzaymah's testimony equal to two witnesses."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "Not the name of a prophet; it is the name of a preeminent Companion."
+      },
+      "companion_status": {
+        "status": "celebrated_companion",
+        "note": "Khuzaymah ibn Thabit al-Ansari (d. 37 AH / 657 CE), hero of Badr, Uhud, and Siffin, titled Dhu al-Shahadatayn."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Companion of the Prophet Muhammad ﷺ; vital figure in Quranic codex preservation",
+      "interpretation": "A name given to inspire unwavering honesty, trustworthiness, and intellectual and spiritual uprightness.",
+      "important_distinction": "This descriptive record is not a religious ruling. Muslim cultural use, linguistic origin, and direct Qur'anic attestation are separate claims."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Classical Arabic heritage",
+        "Medinan Ansar",
+        "Preservation of Scripture"
+      ],
+      "cultural_meaning": "Celebrated in Islamic legal history and scholarship as the supreme embodiment of personal credibility and trust.",
+      "personal_name_interpretation": "A name given to inspire unwavering honesty, trustworthiness, and intellectual and spiritual uprightness.",
+      "interpretation_warning": "A symbolic naming preference is distinct from dictionary meaning and is not a claim about a bearer's personality or future."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Integrity, truthfulness, honor, companion name",
+      "related_concepts": [
+        "truthfulness",
+        "testimony",
+        "honor",
+        "companion",
+        "Ansari"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_asserted",
+      "render": false,
+      "meaning": null,
+      "basis": null,
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No evidence-based hidden personality traits are asserted."
+    },
+    "numerology": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "life_path_number": null,
+      "ruling_planet": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "meaning": null,
+      "note": "Numerology is not evidence-based and is not supplied in this record."
+    },
+    "lucky_attributes": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "ruling_planet": null
+    },
+    "translations": {
+      "english": {
+        "name": "Khuzaymah",
+        "script": "Khuzaymah",
+        "meaning": "Fragrant wild lavender; companion Khuzaymah ibn Thabit (Dhu al-Shahadatayn).",
+        "long_meaning": "Khuzaymah (خُزَيْمَة) is a historic Arabic masculine name meaning 'delicate fragrant blossom' or 'a string of precious pearls'. In Islamic history, it is the renowned name of Khuzaymah ibn Thabit al-Ansari, whom the Prophet Muhammad ﷺ uniquely honored with the title 'Dhu al-Shahadatayn' (He whose witness equals two men)."
+      },
+      "urdu": {
+        "name": "خزیمہ",
+        "script": "خزیمہ",
+        "meaning": "خوشبودار پھول، موتیوں کی لڑی؛ جلیل القدر صحابی حضرت خزیمہ بن ثابت رضی اللہ عنہ (ذوالشہادتین)",
+        "long_meaning": "خزیمہ کے لغوی معنی خوشبودار پھول، موتیوں کی لڑی؛ جلیل القدر صحابی حضرت خزیمہ بن ثابت رضی اللہ عنہ (ذوالشہادتین) ہیں۔ یہ ترجمہ ابتدائی مسودہ ہے اور مقامی لسانی جائزے کا محتاج ہے۔"
+      },
+      "persian": {
+        "name": "خزیمه",
+        "script": "خزیمه",
+        "meaning": "شکوفه خوشبو، رشته مروارید؛ نام صحابی بزرگوار خزیمة بن ثابت ملقب به ذوالشهادتین",
+        "long_meaning": "معنای لغوی خزیمه در این مدخل «شکوفه خوشبو، رشته مروارید؛ نام صحابی بزرگوار خزیمة بن ثابت ملقب به ذوالشهادتین» است؛ این برگردان پیش‌نویس است و به بازبینی بومی نیاز دارد."
+      },
+      "hindi": {
+        "name": "ख़ुज़ैमा",
+        "script": "ख़ुज़ैमा",
+        "meaning": "सुगंधित पुष्प, मोतियों की माला; प्रसिद्ध सहाबी ख़ुज़ैमा बिन साबित (ज़ुश्शहादतैन) का नाम",
+        "long_meaning": "ख़ुज़ैमा का शब्दार्थ यहाँ सुगंधित पुष्प, मोतियों की माला; प्रसिद्ध सहाबी ख़ुज़ैमा बिन साबित (ज़ुश्शहादतैन) का नाम दिया गया है। यह अनुवाद प्रारूप है और स्थानीय भाषायी समीक्षा आवश्यक है।"
+      },
+      "pashto": {
+        "name": "خزیمه",
+        "script": "خزیمه",
+        "meaning": "خوشبویه ګل؛ د رسول الله صلی الله علیه وسلم جلیل القدر صحابي خزیمه بن ثابت",
+        "long_meaning": "د خزیمه لغوي مانا «خوشبویه ګل؛ د رسول الله صلی الله علیه وسلم جلیل القدر صحابي خزیمه بن ثابت» ده؛ دا د ژباړې مسوده ده او د اصلي ژبې ویونکي بیاکتنې ته اړتیا لري.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "خُزَيْمَة",
+        "script": "خُزَيْمَة",
+        "meaning": "تصغير خُزامى (النبت الطيب الرائحة)؛ الصحابي الجليل خُزَيْمَة بن ثابت ذو الشهادتين رضي الله عنه",
+        "long_meaning": "المعنى اللغوي لـخُزَيْمَة في هذا السجل هو «تصغير خُزامى (النبت الطيب الرائحة)؛ الصحابي الجليل خُزَيْمَة بن ثابت ذو الشهادتين رضي الله عنه»؛ وهذه صياغة أولية تحتاج إلى مراجعة لغوية.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "source_language_gloss_with_localized_draft",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "The source-language core gloss is evidence-backed. All non-English localized meanings and script renderings are editorial drafts and require native-speaker review; transliteration does not establish a separate origin."
+    },
+    "pronunciation": {
+      "romanized": "khoo-ZAY-mah (approximate)",
+      "ipa": null,
+      "approximation_note": "Beginning with the rasping Arabic 'kh' (voiceless uvular fricative) and vowel sequence 'oo-ZAY-mah'.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "خُزَيْمَة"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Khuzaimah",
+        "Khuzaima",
+        "Khuzayma"
+      ],
+      "script_forms": [
+        "خُزَيْمَة",
+        "ख़ुज़ैमा"
+      ],
+      "variant_notes": "Alternate spellings reflect orthographic or transliteration variants; they do not establish different etymologies or pronunciations.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "celebrated_companion_biography",
+      "note": "During the caliphate of Abu Bakr and compilation of the Quran, the final verses of Surah at-Tawbah were found written with Khuzaymah ibn Thabit, whose sole testimony fulfilled the requirement due to the Prophet's earlier decree."
+    },
+    "modern_usage": {
+      "status": "source_scoped_usage_data_available",
+      "note": "Used historically and in modern times; recognized throughout traditional Islamic literature."
+    },
+    "popularity": {
+      "status": "source_scoped_metrics_available",
+      "render": true,
+      "score": null,
+      "by_region": [
+        {
+          "region": "Arabian Peninsula & Levant Directories",
+          "measure": "Historical directory rank",
+          "year": 2024,
+          "category": "boys",
+          "rank": 3410,
+          "births": null,
+          "relative_interest_percent": 38,
+          "observation_period": "2024 regional cultural onomastic study",
+          "source_title": "Khuzaima Name Meaning, Origin & Islamic Heritage",
+          "source": "https://quranicnames.com/khuzaimah/",
+          "limitation": "Directory search frequency metric; not an absolute national census figure."
+        }
+      ],
+      "note": "Documented in classical Islamic onomastics and regional registries; appreciated especially in educated traditional families."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is included."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No individual bearer story is included without a verified source."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Khuzaymah mean?",
+        "a": "Khuzaymah (خُزَيْمَة) is a historic Arabic masculine name meaning 'delicate fragrant blossom' or 'a string of precious pearls'. In Islamic history, it is the renowned name of Khuzaymah ibn Thabit al-Ansari, whom the Prophet Muhammad ﷺ uniquely honored with the title 'Dhu al-Shahadatayn' (He whose witness equals two men)."
+      },
+      {
+        "q": "What is the origin of Khuzaymah?",
+        "a": "The root kh-z-m denotes stringing items harmoniously or refers to the sweet-scented desert lavender. In the prophetic era, Khuzaymah ibn Thabit bore testimony in a transaction where the Prophet ﷺ bought a horse; because of his profound truthfulness, the Prophet ﷺ decreed that his testimony alone was equivalent to that of two upright witnesses."
+      },
+      {
+        "q": "Is Khuzaymah an Arabic name?",
+        "a": "Yes. The recorded language/origin is Arabic; the source form is خُزَيْمَة."
+      },
+      {
+        "q": "How is Khuzaymah written in Arabic?",
+        "a": "خُزَيْمَة"
+      },
+      {
+        "q": "Is Khuzaymah a Quranic name?",
+        "a": "It is not claimed as a Qur'anic personal name. Khuzaymah is not explicitly mentioned in the Qur'an; his historical role was vital in verifying the compiled Quranic manuscripts under Zayd ibn Thabit."
+      },
+      {
+        "q": "Is Khuzaymah an Islamic name?",
+        "a": "Name of a distinguished Sahabi whose uprightness was uniquely endorsed by the Prophet ﷺ; carries profound religious respect. Named after Khuzaymah ibn Thabit, whose integrity was so absolute that his single testimony was accepted for the final verses of Surah at-Tawbah during the compilation of the Mus'haf."
+      },
+      {
+        "q": "How is Khuzaymah pronounced?",
+        "a": "An approximate romanized guide is khoo-ZAY-mah. Beginning with the rasping Arabic 'kh' (voiceless uvular fricative) and vowel sequence 'oo-ZAY-mah'."
+      },
+      {
+        "q": "Is Khuzaymah a boy's or girl's name?",
+        "a": "The documented naming sources record Khuzaymah as a male name; actual use can vary by language and community."
+      },
+      {
+        "q": "How popular is Khuzaymah?",
+        "a": "Available scoped measure(s): Arabian Peninsula & Levant Directories, 2024, boys list: #3410, 38% relative visitor-search interest (Khuzaima Name Meaning, Origin & Islamic Heritage). Documented in classical Islamic onomastics and regional registries; appreciated especially in educated traditional families."
+      },
+      {
+        "q": "What does Khuzaymah mean in Urdu?",
+        "a": "The draft Urdu rendering is خزیمہ; its gloss is خوشبودار پھول، موتیوں کی لڑی؛ جلیل القدر صحابی حضرت خزیمہ بن ثابت رضی اللہ عنہ (ذوالشہادتین). Localized translations have not had native-speaker review."
+      },
+      {
+        "q": "What is the root of Khuzaymah?",
+        "a": "The recorded Arabic root is خ ز م (kh-z-m)."
+      }
+    ],
+    "seo": {
+      "title": "Khuzaymah Name Meaning, Origin & Usage",
+      "meta_description": "Explore the sourced meaning, origin, pronunciation, script, and regional usage evidence for Khuzaymah.",
+      "meta_keywords": "Khuzaymah meaning, Khuzaymah name meaning, Khuzaymah origin, Khuzaymah pronunciation, Khuzaymah name in Urdu, Khuzaymah Arabic name",
+      "description_paragraph": "Khuzaymah is an Arabic-origin given name. This entry separates its lexical meaning, cultural and scriptural context, and source-scoped usage evidence.",
+      "keywords": [
+        "Khuzaymah meaning",
+        "Khuzaymah name meaning",
+        "Khuzaymah origin",
+        "Khuzaymah pronunciation",
+        "Khuzaymah name in Urdu",
+        "Khuzaymah Arabic name"
+      ],
+      "focus_keyword": "Khuzaymah meaning",
+      "secondary_keywords": [
+        "Khuzaymah name meaning",
+        "Khuzaymah origin",
+        "Khuzaymah pronunciation",
+        "Khuzaymah name in Urdu",
+        "Khuzaymah Arabic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/khuzaymah",
+      "seo_score": null,
+      "seo_score_basis": "No composite SEO score is assigned; editorial and evidence quality are recorded separately."
+    },
+    "seo_content": {
+      "intro_paragraph": "Khuzaymah is an Arabic-origin given name. The entry explains its documented meaning and distinguishes linguistic origin, religious/scriptural status, and regional usage.",
+      "body_summary": "Khuzaymah (خُزَيْمَة) is a historic Arabic masculine name meaning 'delicate fragrant blossom' or 'a string of precious pearls'. In Islamic history, it is the renowned name of Khuzaymah ibn Thabit al-Ansari, whom the Prophet Muhammad ﷺ uniquely honored with the title 'Dhu al-Shahadatayn' (He whose witness equals two men). Documented in classical Islamic onomastics and regional registries; appreciated especially in educated traditional families."
+    },
+    "social_tags": [
+      "#Khuzaymah",
+      "#KhuzaymahMeaning",
+      "#NameMeaning",
+      "#ArabicNames",
+      "#IslamicNames"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [
+        "localized_translations_require_native_review",
+        "popularity_metrics_are_source_and_region_scoped"
+      ],
+      "fabricated_content_removed": true,
+      "fields_total": 317,
+      "quality_score": null,
+      "quality_score_basis": "No composite quality score is asserted; source support, limitations, scriptural status, and review flags are explicit."
+    },
+    "evidence": {
+      "sources": [
+        "Sunan Abi Dawud 3560: The Office of the Judge — Authentic report of the Prophet ﷺ designating Khuzaymah's witness as equivalent to two witnesses. Source: https://sunnah.com/abudawud:3560 Limitation: Canonical hadith collection text.",
+        "Ibn Sa'd, Kitab al-Tabaqat al-Kubra, Vol. 4 — Biographical detail of Khuzaymah's conversion, battles, and testimony. Source: https://shamela.ws/book/1686/2180 Limitation: Early Islamic biographical compendium.",
+        "Lisan al-Arab: Root kh-z-m — Lexical confirmation of diminutive form and connection to khuzāmā flora. Source: https://lexicon.quranic-research.net/ Limitation: Classical dictionary work."
+      ],
+      "verification_method": "The lexical/scriptural or language claim is separated from name-site glosses; name usage and popularity are checked separately. Every frequency figure retains its source, region, year, category, metric, and limitation. Candidate spellings, Romanized variants, source-script forms, and localized script renderings are checked against the existing dataset. Non-English glosses are drafts requiring native-speaker review."
+    },
+    "provenance": {
+      "pipeline": "NameVerse super-2.0 demand-informed batch builder",
+      "methodology": "Curated evidence manifest -> template-matched record build -> alias/script collision audit -> schema and integrity validation",
+      "upgraded_from": "New record generated from the current super-2.0 architecture; not converted from a legacy record.",
+      "processed_at": "2026-10-14T00:00:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Khuzaymah",
+          "description": "Khuzaymah — an Arabic-origin given name: Fragrant wild lavender; companion Khuzaymah ibn Thabit (Dhu al-Shahadatayn).",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Khuzaymah mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Khuzaymah (خُزَيْمَة) is a historic Arabic masculine name meaning 'delicate fragrant blossom' or 'a string of precious pearls'. In Islamic history, it is the renowned name of Khuzaymah ibn Thabit al-Ansari, whom the Prophet Muhammad ﷺ uniquely honored with the title 'Dhu al-Shahadatayn' (He whose witness equals two men)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Khuzaymah?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The root kh-z-m denotes stringing items harmoniously or refers to the sweet-scented desert lavender. In the prophetic era, Khuzaymah ibn Thabit bore testimony in a transaction where the Prophet ﷺ bought a horse; because of his profound truthfulness, the Prophet ﷺ decreed that his testimony alone was equivalent to that of two upright witnesses."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Khuzaymah an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. The recorded language/origin is Arabic; the source form is خُزَيْمَة."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Khuzaymah written in Arabic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "خُزَيْمَة"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Khuzaymah a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is not claimed as a Qur'anic personal name. Khuzaymah is not explicitly mentioned in the Qur'an; his historical role was vital in verifying the compiled Quranic manuscripts under Zayd ibn Thabit."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Khuzaymah an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Name of a distinguished Sahabi whose uprightness was uniquely endorsed by the Prophet ﷺ; carries profound religious respect. Named after Khuzaymah ibn Thabit, whose integrity was so absolute that his single testimony was accepted for the final verses of Surah at-Tawbah during the compilation of the Mus'haf."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Khuzaymah pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An approximate romanized guide is khoo-ZAY-mah. Beginning with the rasping Arabic 'kh' (voiceless uvular fricative) and vowel sequence 'oo-ZAY-mah'."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Khuzaymah a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The documented naming sources record Khuzaymah as a male name; actual use can vary by language and community."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How popular is Khuzaymah?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Available scoped measure(s): Arabian Peninsula & Levant Directories, 2024, boys list: #3410, 38% relative visitor-search interest (Khuzaima Name Meaning, Origin & Islamic Heritage). Documented in classical Islamic onomastics and regional registries; appreciated especially in educated traditional families."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Khuzaymah mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The draft Urdu rendering is خزیمہ; its gloss is خوشبودار پھول، موتیوں کی لڑی؛ جلیل القدر صحابی حضرت خزیمہ بن ثابت رضی اللہ عنہ (ذوالشہادتین). Localized translations have not had native-speaker review."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Khuzaymah?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The recorded Arabic root is خ ز م (kh-z-m)."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Khuzaymah",
+              "item": "https://nameverse.site/names/islamic/khuzaymah"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": true,
+      "flags": [
+        "localized_translations_require_native_review",
+        "popularity_metrics_are_source_and_region_scoped"
+      ],
+      "confidence": "HIGH",
+      "reviewed_by": "Automated source-aware build and validation; not a human or native-speaker review",
+      "reviewed_at": "2026-10-14T00:00:00+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": false,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "numerology",
+        "lucky_attributes",
+        "spiritual_meaning",
+        "celebrity_usage",
+        "real_world_usage",
+        "name_story"
+      ]
+    }
+  }
+}

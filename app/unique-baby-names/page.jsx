@@ -95,7 +95,7 @@ export default function UniqueBabyNamesPage() {
   return (
     <UsPageShell
       cluster={cluster}
-      intro="Unique baby names that sit outside the latest national rankings (SSA\u2019s top 20 for 2025 births and BabyCenter\u2019s 2026 top 40) while still carrying a recorded meaning and origin. Every pick is drawn from our 11,412 published profiles and listed A\u2013Z, so rarity never costs you the cultural depth behind the name."
+      intro="Unique baby names that sit outside the latest national rankings (SSA\u2019s top 20 for 2025 births and BabyCenter\u2019s 2026 top 40) while still carrying a recorded meaning and origin. Every pick is drawn from our 11,730 published profiles and listed A\u2013Z, so rarity never costs you the cultural depth behind the name."
       breadcrumb={BREADCRUMB}
       faqs={FAQS}
       schema={schema}
@@ -215,7 +215,7 @@ export default function UniqueBabyNamesPage() {
             { href: '/nature-baby-names', label: 'Nature baby names', note: 'Botanical and celestial' },
             { href: '/short-baby-names', label: 'Short baby names', note: 'One and two syllables' },
             { href: '/top-baby-names-2026', label: 'Top baby names 2026', note: 'What to avoid if you want rare' },
-            { href: '/names', label: 'All 11,412 names', note: 'Full directory' },
+            { href: '/names', label: 'All 11,730 names', note: 'Full directory' },
           ].map((l) => (
             <Link key={l.href} href={l.href} className="card card-hover p-4">
               <span className="block text-sm font-bold text-nv-text">{l.label}</span>

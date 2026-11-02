@@ -1,0 +1,491 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Liibaan",
+    "slug": "liibaan",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Liibaan",
+      "normalized_name": "liibaan",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Liibaan",
+        "liibaan",
+        "liiban"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Success",
+      "primary_meaning": "Liibaan is a Somali-origin name meaning “Success”.",
+      "literal_meaning": "The name is the Somali word itself, used unchanged as a given name rather than a derived or diminutive form.",
+      "meaning_explanation": "Liibaan corresponds to the Somali form لِيبَان (Somali liibaan (success)). Its core sense is liibaan; success (somali). Liibaan is Somali, meaning 'success'.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Somali",
+      "lexical_form": "لِيبَان",
+      "transliteration": "liibaan",
+      "root": "",
+      "root_transliteration": "",
+      "morphology": "Simple lexical item used as a name.",
+      "feminine_form": null,
+      "etymological_meaning": "The Somali word لِيبَان",
+      "root_family": [],
+      "etymology_explanation": "The form لِيبَان is an established Somali lexical item used unchanged as a given name.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented Somali form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Somali",
+      "associated_languages": [
+        "Somali"
+      ],
+      "language_notes": {
+        "primary": "Somali is the language of the recorded form لِيبَان.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Somali",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name originates in Somali and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Somali",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Liibaan is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Liibaan is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Liibaan as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Somali",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Success",
+      "related_concepts": [
+        "Success"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Success” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Success.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 3,
+      "life_path_number": 3,
+      "ruling_planet": "Jupiter",
+      "lucky_day": "Thursday",
+      "lucky_colors": [
+        "Yellow",
+        "Gold"
+      ],
+      "lucky_stone": "Yellow Sapphire",
+      "meaning": "In Pythagorean numerology the letters of Liibaan total 3, associated with creativity, expression and optimism. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 3,
+      "lucky_day": "Thursday",
+      "lucky_colors": [
+        "Yellow",
+        "Gold"
+      ],
+      "lucky_stone": "Yellow Sapphire",
+      "ruling_planet": "Jupiter"
+    },
+    "translations": {
+      "english": {
+        "name": "Liibaan",
+        "script": "Liibaan",
+        "meaning": "Success",
+        "long_meaning": "Liibaan is a Somali-origin given name; in Somali the word means “Success”."
+      },
+      "urdu": {
+        "name": "لیبان",
+        "script": "لیبان",
+        "meaning": "لیبان، کامیابی",
+        "long_meaning": "Liibaan (لیبان) نامعلوم زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم لیبان، کامیابی ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "لیبان",
+        "script": "لیبان",
+        "meaning": "لیبان، موفقیت",
+        "long_meaning": "Liibaan (لیبان) نامی برگرفته از زبان نامعلوم است و معنای اصلی آن لیبان، موفقیت است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "लीबान",
+        "script": "लीबान",
+        "meaning": "लीबान, सफलता",
+        "long_meaning": "Liibaan (लीबान) अज्ञात भाषा से लिया गया नाम है। इसका मुख्य अर्थ लीबान, सफलता है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "ليبaan",
+        "script": "ليبaan",
+        "meaning": "ليبان، بریا",
+        "long_meaning": "Liibaan (ليبaan) د نامعلوم ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې ليبان، بریا ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "لِيبَان",
+        "script": "لِيبَان",
+        "meaning": "لِيبَان، النَّجَاح",
+        "long_meaning": "Liibaan (لِيبَان) اسم مأخوذ من اللغة غير محددة، ومعناه الأساسي لِيبَان، النَّجَاح. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "lii-baan",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "لِيبَان"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "liiban"
+      ],
+      "script_forms": [
+        "ليبaan",
+        "لِيبَان",
+        "لیبان",
+        "लीबान"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form لِيبَان is an established Somali lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Liibaan mean?",
+        "a": "Liibaan is a Somali-origin name meaning “Success”."
+      },
+      {
+        "q": "What is the origin of Liibaan?",
+        "a": "Liibaan originates in Somali and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Liibaan an Arabic name?",
+        "a": "No — the recorded form لِيبَان is Somali, not Arabic."
+      },
+      {
+        "q": "What is the root of Liibaan?",
+        "a": "No root analysis is asserted for this spelling."
+      },
+      {
+        "q": "Is Liibaan an Islamic name?",
+        "a": "Liibaan is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Liibaan a Quranic name?",
+        "a": "Liibaan is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Liibaan mean in Urdu?",
+        "a": "In Urdu it is written لیبان and carries the sense “لیبان، کامیابی”."
+      },
+      {
+        "q": "How is Liibaan pronounced?",
+        "a": "A romanized syllable approximation is “lii-baan”."
+      },
+      {
+        "q": "Is Liibaan a boy's or girl's name?",
+        "a": "Documented usage records Liibaan as a boy's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Liibaan Name Meaning, Origin & Islamic Context",
+      "meta_description": "Liibaan (لِيبَان) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Liibaan meaning, Liibaan name meaning, Liibaan origin, Liibaan meaning in Urdu, Liibaan pronunciation, Liibaan Islamic name",
+      "description_paragraph": "Liibaan is a Somali-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Liibaan meaning",
+        "Liibaan name meaning",
+        "Liibaan origin",
+        "Liibaan meaning in Urdu",
+        "Liibaan pronunciation",
+        "Liibaan Islamic name"
+      ],
+      "focus_keyword": "Liibaan meaning",
+      "secondary_keywords": [
+        "Liibaan name meaning",
+        "Liibaan origin",
+        "Liibaan meaning in Urdu",
+        "Liibaan pronunciation",
+        "Liibaan Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/liibaan",
+      "seo_score": 90,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Liibaan, a Somali-origin name used in Muslim communities.",
+      "body_summary": "Liibaan is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Liibaan",
+      "#LiibaanMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 152,
+      "quality_score": 90,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Somali form لِيبَان carries the sense “Success”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Liibaan",
+          "description": "Liibaan — a Somali-origin given name meaning Success",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Liibaan mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Liibaan is a Somali-origin name meaning “Success”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Liibaan?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Liibaan originates in Somali and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Liibaan an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No — the recorded form لِيبَان is Somali, not Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Liibaan?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No root analysis is asserted for this spelling."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Liibaan an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Liibaan is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Liibaan a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Liibaan is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Liibaan mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written لیبان and carries the sense “لیبان، کامیابی”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Liibaan pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “lii-baan”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Liibaan a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Liibaan as a boy's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Liibaan",
+              "item": "https://nameverse.site/names/islamic/liibaan"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

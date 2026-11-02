@@ -1,0 +1,490 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Siti",
+    "slug": "siti",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Siti",
+      "normalized_name": "siti",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Siti",
+        "siti"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Lady",
+      "primary_meaning": "Siti corresponds to the Arabic form سِيتِي and is glossed in this record as “Lady.” The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "Lady",
+      "meaning_explanation": "Siti corresponds to the Arabic form سِيتِي (Arabic سِتّ (sitt, lady)). Its core sense is siti; lady (indonesian form). Siti is the Indonesian/Malay form of Arabic سِتّ (sitt), meaning 'lady'. It is widely used as a female given name, often before a name such as Siti Aisyah.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "سِيتِي",
+      "transliteration": "siti",
+      "root": "",
+      "root_transliteration": "",
+      "morphology": "Simple lexical item used as a name.",
+      "feminine_form": null,
+      "etymological_meaning": "The Arabic word سِيتِي",
+      "root_family": [],
+      "etymology_explanation": "The form سِيتِي is an established Arabic lexical item used unchanged as a given name.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form سِيتِي.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Siti is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Siti is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Siti as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Lady",
+      "related_concepts": [
+        "Lady"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Lady” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Lady.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 3,
+      "life_path_number": 3,
+      "ruling_planet": "Jupiter",
+      "lucky_day": "Thursday",
+      "lucky_colors": [
+        "Yellow",
+        "Gold"
+      ],
+      "lucky_stone": "Yellow Sapphire",
+      "meaning": "In Pythagorean numerology the letters of Siti total 3, associated with creativity, expression and optimism. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 3,
+      "lucky_day": "Thursday",
+      "lucky_colors": [
+        "Yellow",
+        "Gold"
+      ],
+      "lucky_stone": "Yellow Sapphire",
+      "ruling_planet": "Jupiter"
+    },
+    "translations": {
+      "english": {
+        "name": "Siti",
+        "script": "Siti",
+        "meaning": "Lady",
+        "long_meaning": "Siti is an Arabic-origin given name; in Arabic the word means “Lady”."
+      },
+      "urdu": {
+        "name": "سيتي",
+        "script": "سيتي",
+        "meaning": "سيتي، خاتون",
+        "long_meaning": "Siti (سيتي) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم سيتي، خاتون ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "سیتی",
+        "script": "سیتی",
+        "meaning": "سیتی، بانو",
+        "long_meaning": "Siti (سیتی) نامی برگرفته از زبان عربی است و معنای اصلی آن سیتی، بانو است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "सीती",
+        "script": "सीती",
+        "meaning": "सीती, महिला",
+        "long_meaning": "Siti (सीती) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ सीती, महिला है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "سيتي",
+        "script": "سيتي",
+        "meaning": "سيتي، بانو",
+        "long_meaning": "Siti (سيتي) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې سيتي، بانو ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "سِيتِي",
+        "script": "سِيتِي",
+        "meaning": "سِتّ، السَّيِّدَة",
+        "long_meaning": "Siti (سِيتِي) اسم مأخوذ من اللغة العربية، ومعناه الأساسي سِتّ، السَّيِّدَة. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "si-ti",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "سِيتِي"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Siti"
+      ],
+      "script_forms": [
+        "سيتي",
+        "سِيتِي",
+        "سیتی",
+        "सीती"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form سِيتِي is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Siti mean?",
+        "a": "Siti is an Arabic-origin name meaning “Lady”."
+      },
+      {
+        "q": "What is the origin of Siti?",
+        "a": "Siti originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Siti an Arabic name?",
+        "a": "Yes, the recorded form سِيتِي is Arabic."
+      },
+      {
+        "q": "What is the root of Siti?",
+        "a": "No root analysis is asserted for this spelling."
+      },
+      {
+        "q": "Is Siti an Islamic name?",
+        "a": "Siti is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Siti a Quranic name?",
+        "a": "Siti is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Siti mean in Urdu?",
+        "a": "In Urdu it is written سيتي and carries the sense “سيتي، خاتون”."
+      },
+      {
+        "q": "How is Siti pronounced?",
+        "a": "A romanized syllable approximation is “si-ti”."
+      },
+      {
+        "q": "Is Siti a boy's or girl's name?",
+        "a": "Documented usage records Siti as a girl's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Siti Name Meaning, Origin & Islamic Context",
+      "meta_description": "Siti (سِيتِي) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Siti meaning, Siti name meaning, Siti origin, Siti meaning in Urdu, Siti pronunciation, Siti Islamic name",
+      "description_paragraph": "Siti is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Siti meaning",
+        "Siti name meaning",
+        "Siti origin",
+        "Siti meaning in Urdu",
+        "Siti pronunciation",
+        "Siti Islamic name"
+      ],
+      "focus_keyword": "Siti meaning",
+      "secondary_keywords": [
+        "Siti name meaning",
+        "Siti origin",
+        "Siti meaning in Urdu",
+        "Siti pronunciation",
+        "Siti Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/siti",
+      "seo_score": 90,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Siti, an Arabic-origin name used in Muslim communities.",
+      "body_summary": "Siti is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Siti",
+      "#SitiMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 151,
+      "quality_score": 90,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form سِيتِي carries the sense “Lady”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Siti",
+          "description": "Siti — an Arabic-origin given name meaning Lady",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Siti mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Siti is an Arabic-origin name meaning “Lady”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Siti?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Siti originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Siti an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form سِيتِي is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Siti?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No root analysis is asserted for this spelling."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Siti an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Siti is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Siti a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Siti is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Siti mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written سيتي and carries the sense “سيتي، خاتون”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Siti pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “si-ti”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Siti a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Siti as a girl's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Siti",
+              "item": "https://nameverse.site/names/islamic/siti"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

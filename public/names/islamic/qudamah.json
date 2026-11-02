@@ -1,0 +1,488 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Qudamah",
+    "slug": "qudamah",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Qudamah",
+      "normalized_name": "qudamah",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender follows documented historical naming usage; usage may vary by community.",
+      "alternate_spellings": [
+        "Qudamah",
+        "Qudama",
+        "Qudāmah"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Attested Arabic masculine personal name; precise lexical meaning is not assigned without a directly verified entry for قُدَامَة.",
+      "primary_meaning": "Qudamah (قُدَامَة) is an attested Arabic personal name. Attested Arabic masculine personal name; precise lexical meaning is not assigned without a directly verified entry for قُدَامَة.",
+      "literal_meaning": "Not asserted without a directly verified lexical citation.",
+      "meaning_explanation": "This record avoids deriving the name from superficially similar Arabic words without verifying the exact vocalized form and morphology in a classical lexicon.",
+      "meaning_confidence": "LOW"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "قُدَامَة",
+      "transliteration": "qudamah",
+      "root": null,
+      "root_transliteration": null,
+      "morphology": "Not assigned; similar forms such as قُدّام and قُدوم are not automatically interchangeable with the personal name قُدَامَة.",
+      "feminine_form": null,
+      "etymological_meaning": "Attested Arabic masculine personal name; precise lexical meaning is not assigned without a directly verified entry for قُدَامَة.",
+      "root_family": [],
+      "etymology_explanation": "This record avoids deriving the name from superficially similar Arabic words without verifying the exact vocalized form and morphology in a classical lexicon.",
+      "etymology_confidence": "LOW",
+      "false_etymology_warning": "Do not infer Quranic status, popularity, religious virtue, or a symbolic meaning from name-site repetition. Exact name meaning must be supported by a lexical entry for the correct form."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "The recorded form قُدَامَة is treated as an Arabic personal name.",
+        "usage": "Transliterations and localized script forms are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic and historical attestation",
+      "origin_confidence": "MEDIUM",
+      "origin_explanation": "Arabic personal-name attestation is distinguished from the level of certainty about the lexical gloss.",
+      "cultural_transmission": [
+        "Arabic-speaking communities",
+        "Muslim historical naming"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic historical usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Attested in Islamic-era personal-name history; not thereby established as a Quranic name.",
+      "religious_explanation": "Historical use by a Muslim or Companion does not itself make a name Quranic or establish a special religious virtue.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_claimed",
+        "note": "No claim that this personal name appears in the Quran is made."
+      },
+      "hadith_status": {
+        "status": "historical_attestation_only",
+        "note": "Hadith or biographical sources are used only for the specific historical bearer where cited."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No prophetic-name claim is made."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "Qudamah ibn Maz'un is a known early Islamic historical figure. Other people also bore this name; details must be tied to the specific person in a cited biographical source."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Arabic and Muslim historical naming",
+      "interpretation": "Historical use is evidence of attestation, not a promise of virtue or a religious prescription.",
+      "important_distinction": "Muslim usage is not equivalent to Quranic status."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim historical naming"
+      ],
+      "cultural_meaning": "A documented personal name in Arabic and Islamic-era contexts.",
+      "personal_name_interpretation": "No additional symbolic interpretation is asserted beyond documented evidence.",
+      "interpretation_warning": "Dictionary senses and personal-name intent are distinct claims."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Historical personal name; lexical meaning unconfirmed",
+      "related_concepts": [
+        "historical personal name"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_verified",
+      "render": false,
+      "meaning": "",
+      "basis": "No special spiritual meaning is asserted.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links a name to personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No hidden personality traits are inferred from a name."
+    },
+    "numerology": {
+      "status": "not_evidence_based",
+      "render": false,
+      "lucky_number": null,
+      "life_path_number": null,
+      "ruling_planet": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "meaning": "",
+      "note": "Numerology is not factual evidence and is suppressed."
+    },
+    "lucky_attributes": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "ruling_planet": null
+    },
+    "translations": {
+      "english": {
+        "name": "Qudamah",
+        "script": "Qudamah",
+        "meaning": "Attested Arabic masculine personal name; precise lexical meaning is not assigned without a directly verified entry for قُدَامَة.",
+        "long_meaning": "Qudamah (قُدَامَة) is an attested Arabic personal name. Attested Arabic masculine personal name; precise lexical meaning is not assigned without a directly verified entry for قُدَامَة."
+      },
+      "urdu": {
+        "name": "قُدَامَة",
+        "script": "قُدَامَة",
+        "meaning": "لغوی معنی کی تصدیق باقی ہے",
+        "long_meaning": "Qudamah (قُدَامَة) — لغوی معنی کی تصدیق باقی ہے"
+      },
+      "persian": {
+        "name": "قُدَامَة",
+        "script": "قُدَامَة",
+        "meaning": "معنای لغوی هنوز تأیید نشده است",
+        "long_meaning": "Qudamah (قُدَامَة) — معنای لغوی هنوز تأیید نشده است"
+      },
+      "hindi": {
+        "name": "क़ुदामा",
+        "script": "क़ुदामा",
+        "meaning": "शब्दार्थ की पुष्टि बाकी है",
+        "long_meaning": "Qudamah — शब्दार्थ की पुष्टि बाकी है"
+      },
+      "pashto": {
+        "name": "قُدَامَة",
+        "script": "قُدَامَة",
+        "meaning": "د لغوي مانا تصدیق پاتې ده",
+        "long_meaning": "Qudamah (قُدَامَة) — د لغوي مانا تصدیق پاتې ده",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "قُدَامَة",
+        "script": "قُدَامَة",
+        "meaning": "لم يُتحقق من المعنى المعجمي بعد",
+        "long_meaning": "Qudamah (قُدَامَة) — لم يُتحقق من المعنى المعجمي بعد",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "conservative_semantic_note",
+      "confidence": "LOW",
+      "native_review_required": true,
+      "note": "Localized glosses deliberately state that a definitive meaning has not been verified; all language renderings remain drafts requiring native-speaker review."
+    },
+    "pronunciation": {
+      "romanized": "Qudamah",
+      "ipa": null,
+      "approximation_note": "Pronunciation should be checked against a reliable Arabic pronunciation reference.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "قُدَامَة"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Qudama",
+        "Qudāmah"
+      ],
+      "script_forms": [
+        "قُدَامَة"
+      ],
+      "variant_notes": "Transliteration variants require alias-level review before treating spellings as separate records.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "candidate_attestation",
+      "note": "Qudamah ibn Maz'un is a known early Islamic historical figure. Other people also bore this name; details must be tied to the specific person in a cited biographical source. Source references: Sunnah.com narrator profile for Qudamah ibn Maz'un al-Qurashi, identified as a Companion: https://sunnah.com/narrator/6467 | Egyptian Dar al-Ifta biography of Qudamah ibn Maz'un: https://www.dar-alifta.org/ar/articles/details/7252/قدامة-بن-مظعون | Al-Bukhari, al-Tarikh al-Kabir, باب قدامة: https://ar.wikisource.org/wiki/التاريخ_الكبير/باب_قدامة"
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "No reliable modern frequency data is supplied; historical attestation is not a popularity measure."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No source-scoped current popularity or registration data is supplied."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No modern personal story is published without a verified source."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Qudamah mean?",
+        "a": "Attested Arabic masculine personal name; precise lexical meaning is not assigned without a directly verified entry for قُدَامَة."
+      },
+      {
+        "q": "What is the origin of Qudamah?",
+        "a": "Qudamah is treated here as an Arabic personal name. This record avoids deriving the name from superficially similar Arabic words without verifying the exact vocalized form and morphology in a classical lexicon."
+      },
+      {
+        "q": "How is Qudamah written in Arabic?",
+        "a": "قُدَامَة"
+      },
+      {
+        "q": "Is Qudamah a Quranic name?",
+        "a": "This record does not claim that the personal name is mentioned in the Quran."
+      },
+      {
+        "q": "Is Qudamah an Islamic name?",
+        "a": "It is associated with Islamic-era personal-name history; this does not by itself establish Quranic status."
+      },
+      {
+        "q": "Is the meaning verified?",
+        "a": "A precise lexical meaning is not asserted because a direct entry for the exact name form has not been verified."
+      },
+      {
+        "q": "How is Qudamah pronounced?",
+        "a": "Use a reliable Arabic pronunciation source; this record does not invent an IPA transcription."
+      },
+      {
+        "q": "How popular is Qudamah?",
+        "a": "No reliable modern popularity measurement is supplied."
+      },
+      {
+        "q": "What are common spellings of Qudamah?",
+        "a": "Qudamah, Qudama, Qudāmah"
+      }
+    ],
+    "seo": {
+      "title": "Qudamah Name Meaning, Arabic Spelling & History | NameVerse",
+      "meta_description": "Explore Qudamah (قُدَامَة), its Arabic spelling, historical usage, and what is or is not verified about its meaning.",
+      "meta_keywords": "Qudamah meaning, Qudamah Arabic name, Qudamah origin",
+      "description_paragraph": "Qudamah is recorded as an Arabic personal name. NameVerse separates historical evidence from lexical claims that still require verification.",
+      "keywords": [
+        "Qudamah meaning",
+        "Qudamah Arabic name",
+        "Qudamah origin"
+      ],
+      "focus_keyword": "Qudamah name meaning",
+      "secondary_keywords": [
+        "Qudamah in Arabic",
+        "Qudamah origin"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/qudamah",
+      "seo_score": null,
+      "seo_score_basis": "No artificial SEO score assigned; lexical review is pending."
+    },
+    "seo_content": {
+      "intro_paragraph": "Qudamah is an attested Arabic personal name. This page clearly distinguishes historical usage from any unverified lexical meaning.",
+      "body_summary": "This record avoids deriving the name from superficially similar Arabic words without verifying the exact vocalized form and morphology in a classical lexicon."
+    },
+    "social_tags": [
+      "#Qudamah",
+      "#QudamahMeaning",
+      "#ArabicNames",
+      "#IslamicHistory",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": false,
+      "authenticity_flags": [
+        "historical_attestation_only",
+        "exact_lexical_form_requires_verification"
+      ],
+      "fabricated_content_removed": true,
+      "fields_total": 284,
+      "quality_score": null,
+      "quality_score_basis": "Not scored until the lexical and historical source review is complete."
+    },
+    "evidence": {
+      "sources": [
+        "Sunnah.com narrator profile for Qudamah ibn Maz'un al-Qurashi, identified as a Companion: https://sunnah.com/narrator/6467 — source supports the historical attestation or lexical statement described in the record; it does not support unrelated claims.",
+        "Egyptian Dar al-Ifta biography of Qudamah ibn Maz'un: https://www.dar-alifta.org/ar/articles/details/7252/قدامة-بن-مظعون — source supports the historical attestation or lexical statement described in the record; it does not support unrelated claims.",
+        "Al-Bukhari, al-Tarikh al-Kabir, باب قدامة: https://ar.wikisource.org/wiki/التاريخ_الكبير/باب_قدامة — source supports the historical attestation or lexical statement described in the record; it does not support unrelated claims."
+      ],
+      "verification_method": "Separate historical name attestation, lexical meaning, Quranic status, popularity, and cultural interpretation. Unverified claims are suppressed."
+    },
+    "provenance": {
+      "pipeline": "NameVerse evidence-first draft",
+      "methodology": "Template-preserving record; conservative claims; lexical/historical source review required.",
+      "upgraded_from": "new candidate record",
+      "processed_at": "2026-10-14T00:00:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Qudamah",
+          "description": "Qudamah (قُدَامَة) — attested Arabic personal name; lexical meaning status: LOW.",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Qudamah mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Attested Arabic masculine personal name; precise lexical meaning is not assigned without a directly verified entry for قُدَامَة."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Qudamah?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Qudamah is treated here as an Arabic personal name. This record avoids deriving the name from superficially similar Arabic words without verifying the exact vocalized form and morphology in a classical lexicon."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Qudamah written in Arabic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "قُدَامَة"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Qudamah a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "This record does not claim that the personal name is mentioned in the Quran."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Qudamah an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is associated with Islamic-era personal-name history; this does not by itself establish Quranic status."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the meaning verified?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A precise lexical meaning is not asserted because a direct entry for the exact name form has not been verified."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Qudamah pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use a reliable Arabic pronunciation source; this record does not invent an IPA transcription."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How popular is Qudamah?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No reliable modern popularity measurement is supplied."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are common spellings of Qudamah?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Qudamah, Qudama, Qudāmah"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Qudamah",
+              "item": "https://nameverse.site/names/islamic/qudamah"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": true,
+      "flags": [
+        "historical_attestation_only",
+        "exact_lexical_form_requires_verification",
+        "review_sources_before_publication",
+        "alias_collision_audit_required"
+      ],
+      "confidence": "LOW",
+      "reviewed_by": "",
+      "reviewed_at": ""
+    },
+    "render_policy": {
+      "render_verified": false,
+      "render_interpretive": false,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "numerology",
+        "lucky_attributes",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

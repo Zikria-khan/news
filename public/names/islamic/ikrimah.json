@@ -1,0 +1,479 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Ikrimah",
+    "slug": "ikrimah",
+    "content_revision": "v9",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Ikrimah",
+      "normalized_name": "ikrimah",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "MEDIUM",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Ikrimah",
+        "ikrimah"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Attested Arabic personal name; exact lexical meaning is not asserted in this draft.",
+      "primary_meaning": "Ikrimah (عكرمة) is recorded here as an Arabic historical personal-name form. Attested Arabic personal name; exact lexical meaning is not asserted in this draft.",
+      "literal_meaning": "Attested Arabic personal name; exact lexical meaning is not asserted in this draft.",
+      "meaning_explanation": "Attested Arabic personal name; exact lexical meaning is not asserted in this draft. The exact lexical sense and historical identity must be confirmed from specialist sources before publication.",
+      "meaning_confidence": "LOW"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "عكرمة",
+      "transliteration": "ikrimah",
+      "root": null,
+      "root_transliteration": null,
+      "morphology": "Not assigned without specialist lexical evidence.",
+      "feminine_form": null,
+      "etymological_meaning": "Attested Arabic personal name; exact lexical meaning is not asserted in this draft.",
+      "root_family": [],
+      "etymology_explanation": "Exact etymology remains unverified; no folk derivation is asserted.",
+      "etymology_confidence": "LOW",
+      "false_etymology_warning": "Do not infer a definitive meaning from spelling alone."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "The draft records عكرمة as the Arabic-script form.",
+        "usage": "Transliterations and alternate spellings require review."
+      },
+      "language_confidence": "MEDIUM"
+    },
+    "origin": {
+      "primary_origin": "Arabic historical usage",
+      "origin_type": "historical personal-name form",
+      "origin_confidence": "LOW",
+      "origin_explanation": "Ikrimah ibn Abi Jahl is documented in Islamic biographical sources; direct citation and identity disambiguation are required.",
+      "cultural_transmission": [
+        "Arabic",
+        "Historical Muslim naming contexts"
+      ]
+    },
+    "religion": {
+      "primary_association": "Historical Muslim naming context",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Historical usage; no exclusive religious status asserted",
+      "religious_explanation": "Historical Muslim use does not establish Qur'anic status or religious prescription.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "No claim of Qur'anic personal-name status is made."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No hadith prescribing this name is claimed."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No prophet-name claim is made."
+      },
+      "companion_status": {
+        "status": "requires_manual_verification",
+        "note": "Ikrimah ibn Abi Jahl is documented in Islamic biographical sources; direct citation and identity disambiguation are required."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Historical Muslim naming context",
+      "interpretation": "Historical attestation may help document use, but does not establish religious merit.",
+      "important_distinction": "Do not equate historical usage with Qur'anic status or current popularity."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Historical Muslim communities"
+      ],
+      "cultural_meaning": "Attested Arabic personal name; exact lexical meaning is not asserted in this draft.",
+      "personal_name_interpretation": "No personality or spiritual interpretation is inferred.",
+      "interpretation_warning": "Distinguish lexical meaning from historical use."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Attested Arabic personal name; exact lexical meaning is not asserted in this draft.",
+      "related_concepts": []
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Attested Arabic personal name; exact lexical meaning is not asserted in this draft.” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Attested Arabic personal name; exact lexical meaning is not asserted in this draft..",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No evidence links the name to personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No evidence supports hidden traits."
+    },
+    "numerology": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "life_path_number": null,
+      "ruling_planet": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "meaning": "No factual destiny or personality claim is made.",
+      "note": "Non-empirical numerology is not presented as fact."
+    },
+    "lucky_attributes": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "ruling_planet": null
+    },
+    "translations": {
+      "english": {
+        "name": "Ikrimah",
+        "script": "Ikrimah",
+        "meaning": "Attested Arabic personal name; exact lexical meaning is not asserted in this draft.",
+        "long_meaning": "Ikrimah (عكرمة) is recorded as an Arabic historical personal-name form. Attested Arabic personal name; exact lexical meaning is not asserted in this draft."
+      },
+      "urdu": {
+        "name": "عكرمة",
+        "script": "عكرمة",
+        "meaning": "عربی تاریخی نام؛ قطعی لغوی معنی کی تصدیق درکار ہے",
+        "long_meaning": "Ikrimah (عكرمة) عربی تاریخی نام کے طور پر درج ہے۔ اس کے لغوی معنی اور اصل کی حتمی تصدیق کے لیے معتبر لغت اور تاریخی ماخذ کا جائزہ ضروری ہے۔"
+      },
+      "persian": {
+        "name": "عكرمة",
+        "script": "عكرمة",
+        "meaning": "نام تاریخی کاربرد عربی دارد؛ ریشهٔ دقیق نیازمند بررسی است",
+        "long_meaning": "Ikrimah (عكرمة) به‌عنوان نامی در کاربرد تاریخی عربی ثبت شده است. برای تعیین دقیق ریشه و معنی باید منابع لغوی و تاریخی معتبر بررسی شوند."
+      },
+      "hindi": {
+        "name": "Ikrimah",
+        "script": "Ikrimah",
+        "meaning": "अरबी ऐतिहासिक नाम; सटीक व्युत्पत्ति की पुष्टि आवश्यक",
+        "long_meaning": "Ikrimah (عكرمة) अरबी ऐतिहासिक व्यक्तिगत नाम के रूप में दर्ज है। इसके सटीक अर्थ और व्युत्पत्ति की पुष्टि के लिए विश्वसनीय शब्दकोश और ऐतिहासिक स्रोतों की समीक्षा आवश्यक है।"
+      },
+      "pashto": {
+        "name": "عكرمة",
+        "script": "عكرمة",
+        "meaning": "عربي تاریخي نوم؛ د کره مانا تایید ته اړتیا لري",
+        "long_meaning": "Ikrimah (عكرمة) د عربي تاریخي شخصي نوم په توګه ثبت شوی. د کره مانا او ریښې د تایید لپاره د باوري لغت او تاریخي سرچینو بیاکتنه اړینه ده.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "عكرمة",
+        "script": "عكرمة",
+        "meaning": "اسم تاريخي؛ يحتاج الاشتقاق الدقيق إلى تحقق معجمي",
+        "long_meaning": "يُسجَّل عكرمة بوصفه صيغة اسم شخصي في الاستعمال التاريخي العربي. ولا يُجزم بمعناه الاشتقاقي الدقيق قبل مراجعة معجم عربي متخصص ومصدر تاريخي موثوق.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "conservative descriptive translation",
+      "confidence": "LOW",
+      "native_review_required": true,
+      "note": "Translations describe the current uncertainty; they are not certified native-reviewed name-meaning translations."
+    },
+    "pronunciation": {
+      "romanized": "aa-bid",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "عكرمة"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [],
+      "script_forms": [
+        "عكرمة"
+      ],
+      "variant_notes": "Alternate spellings and alias collisions still require a full-dataset scan.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "requires_source_review",
+      "note": "Ikrimah ibn Abi Jahl is documented in Islamic biographical sources; direct citation and identity disambiguation are required."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Modern popularity has not been measured."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No registration dataset checked."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No celebrity claims are made."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No personal story is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Ikrimah mean?",
+        "a": "Ikrimah (عكرمة) is recorded as an Arabic historical personal-name form. Attested Arabic personal name; exact lexical meaning is not asserted in this draft."
+      },
+      {
+        "q": "What is the origin of Ikrimah?",
+        "a": "The Arabic historical origin is a working classification requiring direct source review."
+      },
+      {
+        "q": "How is Ikrimah written in Arabic?",
+        "a": "Ikrimah is written عكرمة in this draft."
+      },
+      {
+        "q": "Is Ikrimah an Islamic name?",
+        "a": "It is treated as a historical Muslim-context name; that does not establish religious prescription."
+      },
+      {
+        "q": "Is Ikrimah mentioned in the Qur'an?",
+        "a": "This record does not claim Qur'anic personal-name status."
+      },
+      {
+        "q": "Is Ikrimah a Companion's name?",
+        "a": "Ikrimah ibn Abi Jahl is documented in Islamic biographical sources; direct citation and identity disambiguation are required."
+      },
+      {
+        "q": "How is Ikrimah pronounced?",
+        "a": "The romanized form is approximate and needs regional pronunciation review."
+      },
+      {
+        "q": "Is Ikrimah popular today?",
+        "a": "Modern popularity has not been measured with verified registration data."
+      },
+      {
+        "q": "Are the meaning and translations fully verified?",
+        "a": "No. Dictionary evidence, source-level historical verification and native-language review remain necessary."
+      }
+    ],
+    "seo": {
+      "title": "Ikrimah Name Meaning, Arabic Form & Historical Context",
+      "meta_description": "Research entry for Ikrimah (عكرمة), with cautious meaning notes and historical context.",
+      "meta_keywords": "Ikrimah meaning, Ikrimah Arabic, Ikrimah origin",
+      "description_paragraph": "A cautious research entry for Ikrimah, with Arabic script and clearly marked verification needs.",
+      "keywords": [
+        "Ikrimah meaning",
+        "Ikrimah Arabic",
+        "Ikrimah origin"
+      ],
+      "focus_keyword": "Ikrimah meaning",
+      "secondary_keywords": [
+        "Ikrimah Arabic",
+        "Ikrimah origin"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/ikrimah",
+      "seo_score": 70,
+      "seo_score_basis": "Draft score only; direct evidence and editorial verification are incomplete."
+    },
+    "seo_content": {
+      "intro_paragraph": "This research draft documents Ikrimah (عكرمة) as an Arabic historical personal-name form.",
+      "body_summary": "Historical attestation is distinguished from definitive etymology and modern popularity."
+    },
+    "social_tags": [
+      "#Ikrimah",
+      "#ArabicNames",
+      "#NameHistory"
+    ],
+    "content_quality": {
+      "tier1_verified": false,
+      "authenticity_flags": [
+        "source_verification_required",
+        "lexical_review_required",
+        "native_translation_review_required",
+        "alias_scan_required"
+      ],
+      "fabricated_content_removed": true,
+      "fields_total": 153,
+      "quality_score": 70,
+      "quality_score_basis": "Research draft; no 100/100 claim while source and translation checks remain incomplete."
+    },
+    "evidence": {
+      "sources": [
+        "https://sunnah.com/search?q=Ikrimah",
+        "Research note: Ikrimah ibn Abi Jahl is documented in Islamic biographical sources; direct citation and identity disambiguation are required."
+      ],
+      "verification_method": "The search link is a lead, not proof; verify exact identity, dictionary meaning and citation before publication."
+    },
+    "provenance": {
+      "pipeline": "NameVerse v9 research draft",
+      "methodology": "Conservative historical-name draft; direct source verification pending",
+      "upgraded_from": "super-2.0 template",
+      "processed_at": "2026-10-14T00:00:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "description": "Ikrimah (عكرمة) — historical Arabic personal-name form",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          },
+          "name": "Ikrimah"
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Ikrimah mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ikrimah (عكرمة) is recorded as an Arabic historical personal-name form. Attested Arabic personal name; exact lexical meaning is not asserted in this draft."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Ikrimah?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The Arabic historical origin is a working classification requiring direct source review."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Ikrimah written in Arabic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ikrimah is written عكرمة in this draft."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Ikrimah an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is treated as a historical Muslim-context name; that does not establish religious prescription."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Ikrimah mentioned in the Qur'an?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "This record does not claim Qur'anic personal-name status."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Ikrimah a Companion's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ikrimah ibn Abi Jahl is documented in Islamic biographical sources; direct citation and identity disambiguation are required."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Ikrimah pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The romanized form is approximate and needs regional pronunciation review."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Ikrimah popular today?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Modern popularity has not been measured with verified registration data."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Are the meaning and translations fully verified?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No. Dictionary evidence, source-level historical verification and native-language review remain necessary."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Ikrimah",
+              "item": "https://nameverse.site/names/islamic/ikrimah"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": true,
+      "flags": [
+        "source_verification",
+        "dictionary_etymology",
+        "native_translation",
+        "alias_scan"
+      ],
+      "confidence": "LOW",
+      "reviewed_by": "Automated draft; editorial review pending",
+      "reviewed_at": "2026-10-14T00:00:00+00:00"
+    },
+    "render_policy": {
+      "render_verified": false,
+      "render_interpretive": false,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}
