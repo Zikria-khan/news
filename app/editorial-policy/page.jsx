@@ -47,7 +47,7 @@ const SECTIONS = [
     id: 'verification',
     h2: 'What \u201cverified\u201d means here \u2014 and what it does not',
     body: [
-      'We do not claim that each of the 11,412 published profiles has been individually checked against an external reference. What we do: publish a profile only when its record has a meaning and an origin; label uncertain or missing fields instead of filling them with guesses (an unrecorded gender is shown as \u201cnot recorded\u201d, never as \u201cunisex\u201d); and check every statistic in our ranking pages and guides against the cited source when it is written.',
+      'We do not claim that each of the 11,730 published profiles has been individually checked against an external reference. What we do: publish a profile only when its record has a meaning and an origin; label uncertain or missing fields instead of filling them with guesses (an unrecorded gender is shown as \u201cnot recorded\u201d, never as \u201cunisex\u201d); and check every statistic in our ranking pages and guides against the cited source when it is written.',
       'Our build runs two automated content checks before every production deployment. One samples 1,500 published records and fails the build if meaning and origin coverage falls below threshold; the other samples 1,200 records and fails the build if composed text is too similar between profiles. They catch thin and duplicated pages at scale; they do not prove that a particular meaning is correct, which is why reader corrections matter.',
     ],
   },
@@ -260,7 +260,7 @@ export default function EditorialPolicyPage() {
           </p>
           <div className="mt-4 flex flex-wrap gap-3">
             <Link href="/names" className="btn-primary">
-              All 11,412 names
+              All 11,730 names
             </Link>
             <Link href="/top-baby-names-2026" className="btn-ghost">
               Top baby names 2026

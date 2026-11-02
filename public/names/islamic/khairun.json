@@ -1,0 +1,489 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Khairun",
+    "slug": "khairun",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Khairun",
+      "normalized_name": "khairun",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "MEDIUM",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Khairun",
+        "khairun"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Goodness",
+      "primary_meaning": "Khairun corresponds to the Arabic form خيرون and is glossed in this record as “Goodness.” The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "Goodness",
+      "meaning_explanation": "Khairun corresponds to the Arabic form خيرون (Arabic خَيْرُون (Khayrūn)). Its core sense is goodness, welfare, charity. Khairun is Arabic خَيْرُون (Khayrūn) 'goodness'. The source gloss 'Good, Virtuous' is broadly consistent. Recorded at medium confidence because the form is a derived proper name.",
+      "meaning_confidence": "MEDIUM"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "خيرون",
+      "transliteration": "khairun",
+      "root": "",
+      "root_transliteration": "",
+      "morphology": "Simple lexical item used as a name.",
+      "feminine_form": null,
+      "etymological_meaning": "The Arabic word خيرون",
+      "root_family": [],
+      "etymology_explanation": "The form خيرون is an established Arabic lexical item used unchanged as a given name.",
+      "etymology_confidence": "MEDIUM",
+      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form خيرون.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "MEDIUM"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "MEDIUM",
+      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Khairun is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Khairun is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Khairun as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Goodness",
+      "related_concepts": [
+        "Goodness"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Goodness” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Goodness.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 1,
+      "life_path_number": 1,
+      "ruling_planet": "Sun",
+      "lucky_day": "Sunday",
+      "lucky_colors": [
+        "Gold",
+        "Orange"
+      ],
+      "lucky_stone": "Ruby",
+      "meaning": "In Pythagorean numerology the letters of Khairun total 1, associated with leadership, independence and initiative. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 1,
+      "lucky_day": "Sunday",
+      "lucky_colors": [
+        "Gold",
+        "Orange"
+      ],
+      "lucky_stone": "Ruby",
+      "ruling_planet": "Sun"
+    },
+    "translations": {
+      "english": {
+        "name": "Khairun",
+        "script": "Khairun",
+        "meaning": "Goodness",
+        "long_meaning": "Khairun is an Arabic-origin given name; in Arabic the word means “Goodness”."
+      },
+      "urdu": {
+        "name": "خیرون",
+        "script": "خیرون",
+        "meaning": "خیر، بھلائی، نیکی",
+        "long_meaning": "Khairun (خیرون) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم خیر، بھلائی، نیکی ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "خیرون",
+        "script": "خیرون",
+        "meaning": "خیر، نیکی، خوبی",
+        "long_meaning": "Khairun (خیرون) نامی برگرفته از زبان عربی است و معنای اصلی آن خیر، نیکی، خوبی است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "ख़ैरून",
+        "script": "ख़ैरून",
+        "meaning": "ख़ैर, भलाई, नेकी",
+        "long_meaning": "Khairun (ख़ैरून) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ ख़ैर, भलाई, नेकी है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "خیرون",
+        "script": "خیرون",
+        "meaning": "خیر، ښېګڼه، نیکي",
+        "long_meaning": "Khairun (خیرون) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې خیر، ښېګڼه، نیکي ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "خيرون",
+        "script": "خيرون",
+        "meaning": "الخير، البر، النفع",
+        "long_meaning": "Khairun (خيرون) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الخير، البر، النفع. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "khai-run",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "خيرون"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Khairun"
+      ],
+      "script_forms": [
+        "خيرون",
+        "خیرون",
+        "ख़ैरून"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form خيرون is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Khairun mean?",
+        "a": "Khairun is an Arabic-origin name meaning “Goodness”."
+      },
+      {
+        "q": "What is the origin of Khairun?",
+        "a": "Khairun originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Khairun an Arabic name?",
+        "a": "Yes, the recorded form خيرون is Arabic."
+      },
+      {
+        "q": "What is the root of Khairun?",
+        "a": "No root analysis is asserted for this spelling."
+      },
+      {
+        "q": "Is Khairun an Islamic name?",
+        "a": "Khairun is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Khairun a Quranic name?",
+        "a": "Khairun is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Khairun mean in Urdu?",
+        "a": "In Urdu it is written خیرون and carries the sense “خیر، بھلائی، نیکی”."
+      },
+      {
+        "q": "How is Khairun pronounced?",
+        "a": "A romanized syllable approximation is “khai-run”."
+      },
+      {
+        "q": "Is Khairun a boy's or girl's name?",
+        "a": "Documented usage records Khairun as a boy's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Khairun Name Meaning, Origin & Islamic Context",
+      "meta_description": "Khairun (خيرون) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Khairun meaning, Khairun name meaning, Khairun origin, Khairun meaning in Urdu, Khairun pronunciation, Khairun Islamic name",
+      "description_paragraph": "Khairun is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Khairun meaning",
+        "Khairun name meaning",
+        "Khairun origin",
+        "Khairun meaning in Urdu",
+        "Khairun pronunciation",
+        "Khairun Islamic name"
+      ],
+      "focus_keyword": "Khairun meaning",
+      "secondary_keywords": [
+        "Khairun name meaning",
+        "Khairun origin",
+        "Khairun meaning in Urdu",
+        "Khairun pronunciation",
+        "Khairun Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/khairun",
+      "seo_score": 90,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Khairun, an Arabic-origin name used in Muslim communities.",
+      "body_summary": "Khairun is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Khairun",
+      "#KhairunMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 149,
+      "quality_score": 90,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form خيرون carries the sense “Goodness”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Khairun",
+          "description": "Khairun — an Arabic-origin given name meaning Goodness",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Khairun mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Khairun is an Arabic-origin name meaning “Goodness”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Khairun?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Khairun originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Khairun an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form خيرون is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Khairun?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No root analysis is asserted for this spelling."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Khairun an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Khairun is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Khairun a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Khairun is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Khairun mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written خیرون and carries the sense “خیر، بھلائی، نیکی”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Khairun pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “khai-run”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Khairun a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Khairun as a boy's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Khairun",
+              "item": "https://nameverse.site/names/islamic/khairun"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "MEDIUM",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

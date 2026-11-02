@@ -6,7 +6,7 @@ import { pageMetadata } from '../../lib/seo.js';
 export const metadata = pageMetadata({
   title: 'Baby Names by Meaning — Light, Love, Strength',
   description:
-    'Browse 11,412 baby names by meaning: light, love, strength, peace, gift, beautiful and more. Find the perfect meaningful name for your baby.',
+    'Browse 11,730 baby names by meaning: light, love, strength, peace, gift, beautiful and more. Find the perfect meaningful name for your baby.',
   path: '/names-by-meaning',
 });
 

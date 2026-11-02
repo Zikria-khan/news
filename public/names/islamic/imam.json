@@ -1,0 +1,489 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Imam",
+    "slug": "imam",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Imam",
+      "normalized_name": "imam",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Imam",
+        "imam"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Leader; prayer leader, model",
+      "primary_meaning": "Imam corresponds to the Arabic form إمام and is glossed in this record as “Leader; prayer leader, model.” The record associates the form with root أ م م (ʾ-m-m). The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "Leader; prayer leader, model",
+      "meaning_explanation": "Imam corresponds to the Arabic form إمام (Arabic root أ م م (ʾ-m-m); إِمَام (Imām)). Its core sense is leader; prayer leader, model. Imam is Arabic إِمَام (Imām) 'leader; prayer leader, model', from the root أ م م (ʾ-m-m). The source gloss 'Leader, Spiritual Guide' is broadly consistent.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "إمام",
+      "transliteration": "imam",
+      "root": "أ م م",
+      "root_transliteration": "ʾ-m-m",
+      "morphology": "Built on the root أ م م.",
+      "feminine_form": null,
+      "etymological_meaning": "From the root أ م م (ʾ-m-m)",
+      "root_family": [],
+      "etymology_explanation": "The form إمام is an established Arabic lexical item, and Imam is the word itself used as a personal name rather than a derived or diminutive form.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form إمام.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Imam is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Imam is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Imam as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Leader; prayer leader, model",
+      "related_concepts": [
+        "Leader; prayer leader, model"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Leader; prayer leader, model” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Leader; prayer leader, model.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 9,
+      "life_path_number": 9,
+      "ruling_planet": "Mars",
+      "lucky_day": "Tuesday",
+      "lucky_colors": [
+        "Red",
+        "Crimson"
+      ],
+      "lucky_stone": "Red Coral",
+      "meaning": "In Pythagorean numerology the letters of Imam total 9, associated with compassion, idealism and completion. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 9,
+      "lucky_day": "Tuesday",
+      "lucky_colors": [
+        "Red",
+        "Crimson"
+      ],
+      "lucky_stone": "Red Coral",
+      "ruling_planet": "Mars"
+    },
+    "translations": {
+      "english": {
+        "name": "Imam",
+        "script": "Imam",
+        "meaning": "Leader; prayer leader, model",
+        "long_meaning": "Imam is an Arabic-origin given name; in Arabic the word means “Leader; prayer leader, model”."
+      },
+      "urdu": {
+        "name": "امام",
+        "script": "امام",
+        "meaning": "امام، پیشوا، رہنما",
+        "long_meaning": "Imam (امام) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم امام، پیشوا، رہنما ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "امام",
+        "script": "امام",
+        "meaning": "امام، پیشوا، رهبر",
+        "long_meaning": "Imam (امام) نامی برگرفته از زبان عربی است و معنای اصلی آن امام، پیشوا، رهبر است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "इमाम",
+        "script": "इमाम",
+        "meaning": "इमाम, नेता, पेशवा",
+        "long_meaning": "Imam (इमाम) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ इमाम, नेता, पेशवा है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "امام",
+        "script": "امام",
+        "meaning": "امام، مشر، لارښود",
+        "long_meaning": "Imam (امام) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې امام، مشر، لارښود ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "إمام",
+        "script": "إمام",
+        "meaning": "الإمام، القائد، القدوة",
+        "long_meaning": "Imam (إمام) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الإمام، القائد، القدوة. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "i-mam",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "إمام"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Imam"
+      ],
+      "script_forms": [
+        "إمام",
+        "امام",
+        "इमाम"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form إمام is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Imam mean?",
+        "a": "Imam is an Arabic-origin name meaning “Leader; prayer leader, model”."
+      },
+      {
+        "q": "What is the origin of Imam?",
+        "a": "Imam originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Imam an Arabic name?",
+        "a": "Yes, the recorded form إمام is Arabic."
+      },
+      {
+        "q": "What is the root of Imam?",
+        "a": "It is built on the root أ م م (ʾ-m-m)."
+      },
+      {
+        "q": "Is Imam an Islamic name?",
+        "a": "Imam is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Imam a Quranic name?",
+        "a": "Imam is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Imam mean in Urdu?",
+        "a": "In Urdu it is written امام and carries the sense “امام، پیشوا، رہنما”."
+      },
+      {
+        "q": "How is Imam pronounced?",
+        "a": "A romanized syllable approximation is “i-mam”."
+      },
+      {
+        "q": "Is Imam a boy's or girl's name?",
+        "a": "Documented usage records Imam as a boy's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Imam Name Meaning, Origin & Islamic Context",
+      "meta_description": "Imam (إمام) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Imam meaning, Imam name meaning, Imam origin, Imam meaning in Urdu, Imam pronunciation, Imam Islamic name",
+      "description_paragraph": "Imam is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Imam meaning",
+        "Imam name meaning",
+        "Imam origin",
+        "Imam meaning in Urdu",
+        "Imam pronunciation",
+        "Imam Islamic name"
+      ],
+      "focus_keyword": "Imam meaning",
+      "secondary_keywords": [
+        "Imam name meaning",
+        "Imam origin",
+        "Imam meaning in Urdu",
+        "Imam pronunciation",
+        "Imam Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/imam",
+      "seo_score": 95,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Imam, an Arabic-origin name used in Muslim communities.",
+      "body_summary": "Imam is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Imam",
+      "#ImamMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 153,
+      "quality_score": 95,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form إمام carries the sense “Leader; prayer leader, model”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Imam",
+          "description": "Imam — an Arabic-origin given name meaning Leader; prayer leader, model",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Imam mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Imam is an Arabic-origin name meaning “Leader; prayer leader, model”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Imam?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Imam originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Imam an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form إمام is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Imam?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is built on the root أ م م (ʾ-m-m)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Imam an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Imam is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Imam a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Imam is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Imam mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written امام and carries the sense “امام، پیشوا، رہنما”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Imam pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “i-mam”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Imam a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Imam as a boy's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Imam",
+              "item": "https://nameverse.site/names/islamic/imam"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

@@ -1,0 +1,488 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Hanoon",
+    "slug": "hanoon",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Hanoon",
+      "normalized_name": "hanoon",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "MEDIUM",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Hanoon",
+        "hanoon"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Compassionate, tender, affectionate",
+      "primary_meaning": "Hanoon corresponds to the Arabic form حنون and is glossed in this record as “Compassionate, tender, affectionate.” The record associates the form with root ح ن ن (ḥ-n-n). The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "Compassionate, tender, affectionate",
+      "meaning_explanation": "Hanoon corresponds to the Arabic form حنون (Arabic root ح ن ن (ḥ-n-n); حَنُون (Ḥanūn)). Its core sense is compassionate, kind. Hanoon is Arabic حَنُون (Ḥanūn) 'compassionate, tender, affectionate', from the root ح ن ن (ḥ-n-n). The source gloss 'contentment, satisfaction' is unsupported and belongs to a different root; it has been replaced with the lexical sense. Recorded at medium confidence because the form is primarily an adjective and its use as a given name is less frequent.",
+      "meaning_confidence": "MEDIUM"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "حنون",
+      "transliteration": "hanoon",
+      "root": "ح ن ن",
+      "root_transliteration": "ḥ-n-n",
+      "morphology": "Built on the root ح ن ن.",
+      "feminine_form": null,
+      "etymological_meaning": "From the root ح ن ن (ḥ-n-n)",
+      "root_family": [],
+      "etymology_explanation": "The form حنون is an established Arabic lexical item, and Hanoon is the word itself used as a personal name rather than a derived or diminutive form.",
+      "etymology_confidence": "MEDIUM",
+      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form حنون.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "MEDIUM"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "MEDIUM",
+      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Hanoon is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Hanoon is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Hanoon as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Compassionate, tender, affectionate",
+      "related_concepts": [
+        "Compassionate, tender, affectionate"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Compassionate, tender, affectionate” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Compassionate, tender, affectionate.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 4,
+      "life_path_number": 4,
+      "ruling_planet": "Uranus",
+      "lucky_day": "Sunday",
+      "lucky_colors": [
+        "Grey",
+        "Blue"
+      ],
+      "lucky_stone": "Hessonite",
+      "meaning": "In Pythagorean numerology the letters of Hanoon total 4, associated with stability, discipline and order. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 4,
+      "lucky_day": "Sunday",
+      "lucky_colors": [
+        "Grey",
+        "Blue"
+      ],
+      "lucky_stone": "Hessonite",
+      "ruling_planet": "Uranus"
+    },
+    "translations": {
+      "english": {
+        "name": "Hanoon",
+        "script": "Hanoon",
+        "meaning": "Compassionate, tender, affectionate",
+        "long_meaning": "Hanoon is an Arabic-origin given name; in Arabic the word means “Compassionate, tender, affectionate”."
+      },
+      "urdu": {
+        "name": "حنون",
+        "script": "حنون",
+        "meaning": "شفیق، مہربان",
+        "long_meaning": "Hanoon (حنون) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم شفیق، مہربان ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "حنون",
+        "script": "حنون",
+        "meaning": "مهربان، دلسوز",
+        "long_meaning": "Hanoon (حنون) نامی برگرفته از زبان عربی است و معنای اصلی آن مهربان، دلسوز است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "हनून",
+        "script": "हनून",
+        "meaning": "दयालु, करुणामय",
+        "long_meaning": "Hanoon (हनून) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ दयालु, करुणामय है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "حنون",
+        "script": "حنون",
+        "meaning": "مهربان، زړه سواند",
+        "long_meaning": "Hanoon (حنون) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې مهربان، زړه سواند ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "حنون",
+        "script": "حنون",
+        "meaning": "الشفوق، الرحيم",
+        "long_meaning": "Hanoon (حنون) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الشفوق، الرحيم. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "ha-noon",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "حنون"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Hanoon"
+      ],
+      "script_forms": [
+        "حنون",
+        "हनून"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form حنون is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Hanoon mean?",
+        "a": "Hanoon is an Arabic-origin name meaning “Compassionate, tender, affectionate”."
+      },
+      {
+        "q": "What is the origin of Hanoon?",
+        "a": "Hanoon originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Hanoon an Arabic name?",
+        "a": "Yes, the recorded form حنون is Arabic."
+      },
+      {
+        "q": "What is the root of Hanoon?",
+        "a": "It is built on the root ح ن ن (ḥ-n-n)."
+      },
+      {
+        "q": "Is Hanoon an Islamic name?",
+        "a": "Hanoon is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Hanoon a Quranic name?",
+        "a": "Hanoon is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Hanoon mean in Urdu?",
+        "a": "In Urdu it is written حنون and carries the sense “شفیق، مہربان”."
+      },
+      {
+        "q": "How is Hanoon pronounced?",
+        "a": "A romanized syllable approximation is “ha-noon”."
+      },
+      {
+        "q": "Is Hanoon a boy's or girl's name?",
+        "a": "Documented usage records Hanoon as a boy's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Hanoon Name Meaning, Origin & Islamic Context",
+      "meta_description": "Hanoon (حنون) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Hanoon meaning, Hanoon name meaning, Hanoon origin, Hanoon meaning in Urdu, Hanoon pronunciation, Hanoon Islamic name",
+      "description_paragraph": "Hanoon is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Hanoon meaning",
+        "Hanoon name meaning",
+        "Hanoon origin",
+        "Hanoon meaning in Urdu",
+        "Hanoon pronunciation",
+        "Hanoon Islamic name"
+      ],
+      "focus_keyword": "Hanoon meaning",
+      "secondary_keywords": [
+        "Hanoon name meaning",
+        "Hanoon origin",
+        "Hanoon meaning in Urdu",
+        "Hanoon pronunciation",
+        "Hanoon Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/hanoon",
+      "seo_score": 95,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Hanoon, an Arabic-origin name used in Muslim communities.",
+      "body_summary": "Hanoon is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Hanoon",
+      "#HanoonMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 151,
+      "quality_score": 95,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form حنون carries the sense “Compassionate, tender, affectionate”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Hanoon",
+          "description": "Hanoon — an Arabic-origin given name meaning Compassionate, tender, affectionate",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Hanoon mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hanoon is an Arabic-origin name meaning “Compassionate, tender, affectionate”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Hanoon?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hanoon originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Hanoon an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form حنون is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Hanoon?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is built on the root ح ن ن (ḥ-n-n)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Hanoon an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hanoon is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Hanoon a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hanoon is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Hanoon mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written حنون and carries the sense “شفیق، مہربان”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Hanoon pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “ha-noon”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Hanoon a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Hanoon as a boy's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Hanoon",
+              "item": "https://nameverse.site/names/islamic/hanoon"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "MEDIUM",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

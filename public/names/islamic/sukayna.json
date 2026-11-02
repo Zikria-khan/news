@@ -1,0 +1,527 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Sukayna",
+    "slug": "sukayna",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Sukayna",
+      "normalized_name": "sukayna",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "HIGH",
+      "gender_note": "Sukayna is recorded as a feminine given name in the sources cited in this record; actual use can vary by community.",
+      "alternate_spellings": [
+        "Sukayna",
+        "Sukaina",
+        "Sakina",
+        "Sakinah"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Tranquility; name of Sukayna bint al-Husayn",
+      "primary_meaning": "Sukayna (سكينة) is a feminine name meaning “tranquility” or “calm”, from the root س ك ن. The related Qur'anic word sakīnah denotes the tranquility God sends down upon believers (9:26, 48:4). The personal name is associated with Sukayna bint al-Husayn, a granddaughter of the Prophet.",
+      "literal_meaning": "Tranquility, calm",
+      "meaning_explanation": "The root س ك ن gives sakana (“to be still, dwell”) and sakīnah (“tranquility”). The Qur'an uses sakīnah for the calm sent down upon believers. Sukayna is a feminine diminutive personal name; the record distinguishes the Qur'anic word from the later personal name.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "سُكَيْنَة",
+      "transliteration": "sukaynah",
+      "root": "س ك ن",
+      "root_transliteration": "s-k-n",
+      "morphology": "Feminine diminutive form related to sakīnah (“tranquility”), used as a personal name.",
+      "feminine_form": null,
+      "etymological_meaning": "Tranquility, calm",
+      "root_family": [],
+      "etymology_explanation": "The root س ك ن gives sakana (“to be still, dwell”) and sakīnah (“tranquility”). The Qur'an uses sakīnah for the calm sent down upon believers. Sukayna is a feminine diminutive personal name; the record distinguishes the Qur'anic word from the later personal name.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented lexical, scriptural or biographical evidence is asserted; unsupported name-site etymologies are not adopted."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form سُكَيْنَة.",
+        "usage": "Other scripts in this record are transliterations or localized glosses; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The recorded form سُكَيْنَة is Arabic, and its root is س ك ن (s-k-n). The evidence distinguishes linguistic origin from religious and cultural use.",
+      "cultural_transmission": [
+        "Arabic-speaking communities",
+        "Muslim naming communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Qur'anic vocabulary and Prophetic family history",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "A personal name related to a Qur'anic word; not a Qur'anic personal name or a divine name.",
+      "religious_explanation": "The Qur'anic word sakīnah denotes tranquility sent by God. The personal name Sukayna is associated with Sukayna bint al-Husayn and is not itself a Qur'anic name.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "related_word_attested",
+        "note": "The word sakīnah occurs in Qur'an 9:26, 9:40, 48:4, 48:18 and 48:26; the personal name Sukayna is not used in the Qur'an."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report establishing this name or a special virtue is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "Sukayna is not the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "Sukayna bint al-Husayn belongs to a later generation and is not a Companion."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Qur'anic vocabulary and Prophetic family history",
+      "interpretation": "This record describes documented usage; it is not a religious ruling on naming.",
+      "important_distinction": "This descriptive record is not a religious ruling. Muslim cultural use, linguistic origin, and direct Qur'anic attestation are separate claims."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim naming communities"
+      ],
+      "cultural_meaning": "The name is associated with tranquility and with Sukayna bint al-Husayn, a figure of the Prophet's family.",
+      "personal_name_interpretation": "Families may value the sense of calm and dignity; this is a naming preference, not a claim about the bearer.",
+      "interpretation_warning": "A symbolic naming preference is distinct from dictionary meaning and is not a claim about a bearer's personality or future."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Tranquility and early Islamic biography",
+      "related_concepts": [
+        "tranquility",
+        "sakinah",
+        "Prophet's family"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_asserted",
+      "render": false,
+      "meaning": null,
+      "basis": null,
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No evidence-based hidden personality traits are asserted."
+    },
+    "numerology": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "life_path_number": null,
+      "ruling_planet": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "meaning": null,
+      "note": "Numerology is not evidence-based and is not supplied in this batch."
+    },
+    "lucky_attributes": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "ruling_planet": null,
+      "note": "Lucky attributes are not evidence-based and are not supplied in this batch."
+    },
+    "translations": {
+      "english": {
+        "name": "Sukayna",
+        "script": "سُكَيْنَة",
+        "meaning": "Tranquility; name of Sukayna bint al-Husayn",
+        "long_meaning": "Sukayna (سكينة) is a feminine name meaning “tranquility” or “calm”, from the root س ك ن. The related Qur'anic word sakīnah denotes the tranquility God sends down upon believers (9:26, 48:4). The personal name is associated with Sukayna bint al-Husayn, a granddaughter of the Prophet."
+      },
+      "urdu": {
+        "name": "سکینہ",
+        "script": "سکینہ",
+        "meaning": "سکون اور اطمینان؛ حسین بن علی کی بیٹی کا نام",
+        "long_meaning": "سکینہ کے لغوی معنی «سکون اور اطمینان؛ حسین بن علی کی بیٹی کا نام» ہیں۔ یہ اندراج دینی حوالے اور نام کے استعمال کو الگ الگ بیان کرتا ہے؛ یہ ترجمہ ابتدائی مسودہ ہے اور مقامی جائزے کا محتاج ہے۔"
+      },
+      "persian": {
+        "name": "سکینه",
+        "script": "سکینه",
+        "meaning": "آرامش و طمأنینه؛ نام دختر حسین بن علی",
+        "long_meaning": "معنای لغوی سکینه در این مدخل «آرامش و طمأنینه؛ نام دختر حسین بن علی» است. این مدخل مرجع دینی و کاربرد نام را جداگانه بیان می‌کند؛ این برگردان پیش‌نویس است و به بازبینی بومی نیاز دارد."
+      },
+      "hindi": {
+        "name": "सुकैना",
+        "script": "सुकैना",
+        "meaning": "शांति और सुकून; हुसैन बिन अली की बेटी का नाम",
+        "long_meaning": "सुकैना का शब्दार्थ «शांति और सुकून; हुसैन बिन अली की बेटी का नाम» दिया गया है। यह प्रविष्टि धार्मिक संदर्भ और नाम-प्रयोग को अलग-अलग बताती है; यह अनुवाद प्रारूप है और स्थानीय भाषायी समीक्षा आवश्यक है।"
+      },
+      "pashto": {
+        "name": "سکینه",
+        "script": "سکینه",
+        "meaning": "ارام او ډاډ؛ د حسین بن علي لور نوم",
+        "long_meaning": "د سکینه لغوي مانا «ارام او ډاډ؛ د حسین بن علي لور نوم» دی. دا اندراج دیني حواله او د نوم کارونه بېل بېل بیانوي؛ دا ژباړه مسوده ده او د اصلي ژبې ویونکو بیاکتنې ته اړتیا لري.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "سكينة",
+        "script": "سكينة",
+        "meaning": "الطمأنينة والسكون، واسم بنت الحسين",
+        "long_meaning": "المعنى اللغوي لاسم سكينة في هذا السجل هو «الطمأنينة والسكون، واسم بنت الحسين»؛ ويفصل السجل بين المرجع الديني واستعمال الاسم، وهذه صياغة أولية تحتاج إلى مراجعة لغوية.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "source_language_gloss_with_localized_draft",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "The Arabic core gloss is evidence-backed. All non-English localized meanings and script renderings are editorial drafts requiring native-speaker review; transliteration does not establish a separate origin."
+    },
+    "pronunciation": {
+      "romanized": "su-KAY-na",
+      "ipa": null,
+      "approximation_note": "Romanized pronunciation guide only; no IPA transcription is asserted.",
+      "common_mispronunciation": "soo-KAY-na",
+      "scripts": {
+        "arabic": "سُكَيْنَة"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Sukaina",
+        "Sakina",
+        "Sakinah"
+      ],
+      "script_forms": [
+        "سُكَيْنَة",
+        "सुकैना"
+      ],
+      "variant_notes": "Spelling variants reflect transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "documented_in_classical_sources",
+      "note": "Classical biographical literature records Sukayna bint al-Husayn; reports about her life vary in detail."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Usage is attested as a Muslim given name, but no registration or frequency data is measured in this batch."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is measured in this batch; no estimate is asserted."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is included."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No individual bearer story is included without a verified source."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Sukayna mean?",
+        "a": "Sukayna (سكينة) is a feminine name meaning “tranquility” or “calm”, from the root س ك ن. The related Qur'anic word sakīnah denotes the tranquility God sends down upon believers (9:26, 48:4). The personal name is associated with Sukayna bint al-Husayn, a granddaughter of the Prophet."
+      },
+      {
+        "q": "What is the origin of Sukayna?",
+        "a": "The root س ك ن gives sakana (“to be still, dwell”) and sakīnah (“tranquility”). The Qur'an uses sakīnah for the calm sent down upon believers. Sukayna is a feminine diminutive personal name; the record distinguishes the Qur'anic word from the later personal name."
+      },
+      {
+        "q": "Is Sukayna an Arabic name?",
+        "a": "Yes. The recorded form is سُكَيْنَة; the name is associated with Arabic."
+      },
+      {
+        "q": "How is Sukayna written in Arabic?",
+        "a": "سُكَيْنَة"
+      },
+      {
+        "q": "Is Sukayna a Quranic name?",
+        "a": "The word sakīnah occurs in Qur'an 9:26, 9:40, 48:4, 48:18 and 48:26; the personal name Sukayna is not used in the Qur'an."
+      },
+      {
+        "q": "Is Sukayna an Islamic name?",
+        "a": "A personal name related to a Qur'anic word; not a Qur'anic personal name or a divine name. The Qur'anic word sakīnah denotes tranquility sent by God. The personal name Sukayna is associated with Sukayna bint al-Husayn and is not itself a Qur'anic name."
+      },
+      {
+        "q": "How is Sukayna pronounced?",
+        "a": "An approximate romanized guide is su-KAY-na. Romanized pronunciation guide only; no IPA transcription is asserted."
+      },
+      {
+        "q": "Is Sukayna a boy's or girl's name?",
+        "a": "The sources cited record Sukayna as a feminine given name; actual use can vary by language and community."
+      },
+      {
+        "q": "What is the root of Sukayna?",
+        "a": "The recorded Arabic root is س ك ن (s-k-n)."
+      },
+      {
+        "q": "What should be checked before relying on this entry?",
+        "a": "The cited sources are listed with their scope and limitations but have not been independently rechecked in this pass. Non-English renderings are drafts pending native review, and no popularity figure is asserted."
+      }
+    ],
+    "seo": {
+      "title": "Sukayna Name Meaning, Origin & Islamic Context",
+      "meta_description": "Sukayna name meaning, Arabic origin, pronunciation and sourced Qur'anic-status notes.",
+      "meta_keywords": "Sukayna meaning, Sukayna name meaning, Sukayna Arabic name, Sukayna origin, Sukayna pronunciation, Sukayna Islamic name, Sukayna meaning in Urdu",
+      "description_paragraph": "Sukayna (سكينة) is a feminine name meaning “tranquility” or “calm”, from the root س ك ن. The related Qur'anic word sakīnah denotes the tranquility God sends down upon believers (9:26, 48:4). The personal name is associated with Sukayna bint al-Husayn, a granddaughter of the Prophet.",
+      "keywords": [
+        "Sukayna meaning",
+        "Sukayna name meaning",
+        "Sukayna Arabic name",
+        "Sukayna origin",
+        "Sukayna pronunciation",
+        "Sukayna Islamic name",
+        "Sukayna meaning in Urdu"
+      ],
+      "focus_keyword": "Sukayna meaning",
+      "secondary_keywords": [
+        "Sukayna name meaning",
+        "Sukayna Arabic name",
+        "Sukayna origin",
+        "Sukayna pronunciation",
+        "Sukayna Islamic name",
+        "Sukayna meaning in Urdu"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/sukayna",
+      "seo_score": null,
+      "seo_score_basis": "Not numerically scored in this focused review; factual clarity prioritized over an unsupported score."
+    },
+    "seo_content": {
+      "intro_paragraph": "Sukayna is an Arabic given name. This entry separates its documented meaning, linguistic origin, religious or scriptural status, and modern usage.",
+      "body_summary": "Sukayna (سكينة) is a feminine name meaning “tranquility” or “calm”, from the root س ك ن. The related Qur'anic word sakīnah denotes the tranquility God sends down upon believers (9:26, 48:4). The personal name is associated with Sukayna bint al-Husayn, a granddaughter of the Prophet."
+    },
+    "social_tags": [
+      "#Sukayna",
+      "#SukaynaMeaning",
+      "#NameMeaning",
+      "#ArabicNames",
+      "#IslamicNames"
+    ],
+    "content_quality": {
+      "tier1_verified": false,
+      "authenticity_flags": [
+        "Quranic_word_not_Quranic_person_name",
+        "historical_female_name",
+        "localized_translations_require_native_review",
+        "popularity_not_measured_in_this_batch"
+      ],
+      "fabricated_content_removed": true,
+      "fields_total": 308,
+      "quality_score": null,
+      "quality_score_basis": "No composite quality score is asserted; source support, limitations, scriptural status and review flags are explicit. Tier-1 verification is false because the listed sources were not independently rechecked in this pass.",
+      "tier1_verified_scope": "Core meaning and associated claims were matched to the listed sources in this pass; independent re-verification, native translation review and usage-frequency evidence remain separate outstanding tasks, so tier1_verified is false."
+    },
+    "evidence": {
+      "sources": [
+        "https://quran.com/48/4 — Qur'an 48:4 and 9:26: Qur'anic usage of sakīnah (“tranquility”). Limitation: The Qur'an uses the word, not the later personal name.",
+        "al-Dhahabī, Siyar Aʿlām al-Nubalāʾ: Biographical reports about Sukayna bint al-Husayn. Limitation: Classical reports vary in detail and are not independently rechecked in this pass."
+      ],
+      "verification_method": "The lexical, scriptural or biographical claim was separated from name-site glosses and matched to a cited primary text, classical lexicon or biographical reference; the cited sources were not independently rechecked in this pass. Latin and Arabic-script forms were audited against every existing record before writing. No popularity figure is asserted without a source-scoped measurement.",
+      "claim_evidence": [
+        {
+          "claim": "Sakīnah is a Qur'anic word meaning tranquility",
+          "source": "https://quran.com/48/4",
+          "status": "primary_text_cited_not_rechecked_in_this_pass"
+        },
+        {
+          "claim": "Sukayna is associated with Sukayna bint al-Husayn",
+          "source": "al-Dhahabī, Siyar Aʿlām al-Nubalāʾ",
+          "status": "classical_source_listed_not_rechecked"
+        }
+      ],
+      "claim_evidence_status": "SOURCE_URLS_LISTED_NOT_INDEPENDENTLY_RECHECKED_IN_THIS_PASS"
+    },
+    "provenance": {
+      "pipeline": "NameVerse super-2.0 curated Qur'anic/Islamic supplement",
+      "methodology": "Curated evidence manifest -> template-parity build -> Latin and Arabic-script collision audit -> schema and key-path validation",
+      "upgraded_from": "New record generated from the current super-2.0 architecture; not converted from a legacy record.",
+      "processed_at": "2026-10-17T00:00:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Sukayna",
+          "description": "Sukayna (سُكَيْنَة) — Tranquility; name of Sukayna bint al-Husayn",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Sukayna mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sukayna (سكينة) is a feminine name meaning “tranquility” or “calm”, from the root س ك ن. The related Qur'anic word sakīnah denotes the tranquility God sends down upon believers (9:26, 48:4). The personal name is associated with Sukayna bint al-Husayn, a granddaughter of the Prophet."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Sukayna?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The root س ك ن gives sakana (“to be still, dwell”) and sakīnah (“tranquility”). The Qur'an uses sakīnah for the calm sent down upon believers. Sukayna is a feminine diminutive personal name; the record distinguishes the Qur'anic word from the later personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Sukayna an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. The recorded form is سُكَيْنَة; the name is associated with Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Sukayna written in Arabic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "سُكَيْنَة"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Sukayna a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The word sakīnah occurs in Qur'an 9:26, 9:40, 48:4, 48:18 and 48:26; the personal name Sukayna is not used in the Qur'an."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Sukayna an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A personal name related to a Qur'anic word; not a Qur'anic personal name or a divine name. The Qur'anic word sakīnah denotes tranquility sent by God. The personal name Sukayna is associated with Sukayna bint al-Husayn and is not itself a Qur'anic name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Sukayna pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An approximate romanized guide is su-KAY-na. Romanized pronunciation guide only; no IPA transcription is asserted."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Sukayna a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The sources cited record Sukayna as a feminine given name; actual use can vary by language and community."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Sukayna?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The recorded Arabic root is س ك ن (s-k-n)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What should be checked before relying on this entry?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The cited sources are listed with their scope and limitations but have not been independently rechecked in this pass. Non-English renderings are drafts pending native review, and no popularity figure is asserted."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Sukayna",
+              "item": "https://nameverse.site/names/islamic/sukayna"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": true,
+      "flags": [
+        "Quranic_word_not_Quranic_person_name",
+        "historical_female_name",
+        "localized_translations_require_native_review",
+        "popularity_not_measured_in_this_batch"
+      ],
+      "confidence": "HIGH",
+      "reviewed_by": "Automated source-aware build and collision audit; not a human or native-speaker review",
+      "reviewed_at": "2026-10-17"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": false,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

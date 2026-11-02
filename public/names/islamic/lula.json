@@ -1,0 +1,489 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Lula",
+    "slug": "lula",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Lula",
+      "normalized_name": "lula",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "LOW",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Lula",
+        "lula"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Meaning not independently verified",
+      "primary_meaning": "The meaning of Lula is not objectively established from available lexical sources; no confident gloss is asserted.",
+      "literal_meaning": "No literal gloss is asserted for this spelling.",
+      "meaning_explanation": "Lula corresponds to the Western form لولا (Western Lula). Its core sense is lula; a female given name. Lula is recorded at low confidence. The source repeated the Latin string in the Arabic column and glossed the name 'Gentle Flow'; Lula is a Western female given name, but the source's Arabic column and gloss could not be confirmed. MISLABELLED ORIGIN: the source recorded the name as Arabic. No confident meaning is asserted.",
+      "meaning_confidence": "LOW"
+    },
+    "etymology": {
+      "primary_language": "Western",
+      "lexical_form": "لولا",
+      "transliteration": "lula",
+      "root": "",
+      "root_transliteration": "",
+      "morphology": "Simple lexical item used as a name.",
+      "feminine_form": null,
+      "etymological_meaning": "Not established",
+      "root_family": [],
+      "etymology_explanation": "No reliable root analysis is available for this spelling.",
+      "etymology_confidence": "LOW",
+      "false_etymology_warning": "No derivation beyond the documented Western form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Western",
+      "associated_languages": [
+        "Western",
+        "Muslim South Asia"
+      ],
+      "language_notes": {
+        "primary": "Western is the language of the recorded form لولا.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "LOW"
+    },
+    "origin": {
+      "primary_origin": "Western",
+      "origin_type": "linguistic",
+      "origin_confidence": "LOW",
+      "origin_explanation": "The origin of this spelling is not objectively established; it circulates in Muslim naming communities, but no single language of origin is confirmed.",
+      "cultural_transmission": [
+        "Western",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Lula is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Lula is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Lula as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Western",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Gentle Flow",
+      "related_concepts": [
+        "Gentle Flow"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_applicable",
+      "render": false,
+      "meaning": "No devotional reading is offered because the underlying word is a descriptive term rather than a religious concept.",
+      "basis": null,
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 1,
+      "life_path_number": 1,
+      "ruling_planet": "Sun",
+      "lucky_day": "Sunday",
+      "lucky_colors": [
+        "Gold",
+        "Orange"
+      ],
+      "lucky_stone": "Ruby",
+      "meaning": "In Pythagorean numerology the letters of Lula total 1, associated with leadership, independence and initiative. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 1,
+      "lucky_day": "Sunday",
+      "lucky_colors": [
+        "Gold",
+        "Orange"
+      ],
+      "lucky_stone": "Ruby",
+      "ruling_planet": "Sun"
+    },
+    "translations": {
+      "english": {
+        "name": "Lula",
+        "script": "Lula",
+        "meaning": "Gentle Flow",
+        "long_meaning": "Lula is a Western-origin given name; in Western the word means “Gentle Flow”."
+      },
+      "urdu": {
+        "name": "لولا",
+        "script": "لولا",
+        "meaning": "لولا (زنانہ نام)",
+        "long_meaning": "Lula (لولا) نامعلوم زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم لولا (زنانہ نام) ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "لولا",
+        "script": "لولا",
+        "meaning": "لولا (نام زنانه)",
+        "long_meaning": "Lula (لولا) نامی برگرفته از زبان نامعلوم است و معنای اصلی آن لولا (نام زنانه) است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "लूला",
+        "script": "लूला",
+        "meaning": "लूला (स्त्री नाम)",
+        "long_meaning": "Lula (लूला) अज्ञात भाषा से लिया गया नाम है। इसका मुख्य अर्थ लूला (स्त्री नाम) है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "لولا",
+        "script": "لولا",
+        "meaning": "لولا (ښځينه نوم)",
+        "long_meaning": "Lula (لولا) د نامعلوم ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې لولا (ښځينه نوم) ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "لولا",
+        "script": "لولا",
+        "meaning": "لُولَا (اسم علم مؤنث)",
+        "long_meaning": "Lula (لولا) اسم مأخوذ من اللغة غير محددة، ومعناه الأساسي لُولَا (اسم علم مؤنث). يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "LOW",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "lu-la",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "لولا"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Lula"
+      ],
+      "script_forms": [
+        "لولا",
+        "लूला"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form لولا is an established Western lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": "No verified narrative is available for this spelling."
+    },
+    "faq": [
+      {
+        "q": "What does Lula mean?",
+        "a": "The meaning of Lula is not objectively established; no confident gloss is asserted."
+      },
+      {
+        "q": "What is the origin of Lula?",
+        "a": "Lula originates in Western and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Lula an Arabic name?",
+        "a": "No — the recorded form لولا is Western, not Arabic."
+      },
+      {
+        "q": "What is the root of Lula?",
+        "a": "No root analysis is asserted for this spelling."
+      },
+      {
+        "q": "Is Lula an Islamic name?",
+        "a": "Lula is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Lula a Quranic name?",
+        "a": "Lula is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Lula mean in Urdu?",
+        "a": "In Urdu it is written لولا and carries the sense “لولا (زنانہ نام)”."
+      },
+      {
+        "q": "How is Lula pronounced?",
+        "a": "A romanized syllable approximation is “lu-la”."
+      },
+      {
+        "q": "Is Lula a boy's or girl's name?",
+        "a": "Documented usage records Lula as a girl's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Lula Name Meaning, Origin & Islamic Context",
+      "meta_description": "Meaning, origin and usage of the name Lula.",
+      "meta_keywords": "Lula meaning, Lula name meaning, Lula origin, Lula meaning in Urdu, Lula pronunciation, Lula Islamic name",
+      "description_paragraph": "This page records what is known about the name Lula; no confident meaning is asserted.",
+      "keywords": [
+        "Lula meaning",
+        "Lula name meaning",
+        "Lula origin",
+        "Lula meaning in Urdu",
+        "Lula pronunciation",
+        "Lula Islamic name"
+      ],
+      "focus_keyword": "Lula meaning",
+      "secondary_keywords": [
+        "Lula name meaning",
+        "Lula origin",
+        "Lula meaning in Urdu",
+        "Lula pronunciation",
+        "Lula Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/lula",
+      "seo_score": 90,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page records what is known about the name Lula; its meaning is not objectively established from available sources.",
+      "body_summary": "Lula is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Lula",
+      "#LulaMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 152,
+      "quality_score": 90,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Western form لولا carries the sense “Gentle Flow”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Lula",
+          "description": "Lula — a Western-origin given name meaning Gentle Flow",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Lula mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The meaning of Lula is not objectively established; no confident gloss is asserted."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Lula?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Lula originates in Western and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Lula an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No — the recorded form لولا is Western, not Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Lula?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No root analysis is asserted for this spelling."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Lula an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Lula is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Lula a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Lula is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Lula mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written لولا and carries the sense “لولا (زنانہ نام)”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Lula pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “lu-la”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Lula a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Lula as a girl's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Lula",
+              "item": "https://nameverse.site/names/islamic/lula"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": true,
+      "flags": [],
+      "confidence": "LOW",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

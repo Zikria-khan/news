@@ -1,0 +1,492 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Modupe",
+    "slug": "modupe",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Modupe",
+      "normalized_name": "modupe",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Modupe",
+        "modupe"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "I give thanks",
+      "primary_meaning": "Modupe is a Yoruba-origin name meaning “I give thanks”.",
+      "literal_meaning": "The name is the Yoruba word itself, used unchanged as a given name rather than a derived or diminutive form.",
+      "meaning_explanation": "Modupe corresponds to the Yoruba form مودوپي (Yoruba Modupe). Its core sense is modupe; a yoruba female given name. Modupe is the Yoruba female given name Modupe, meaning 'I give thanks'. CRITICAL SOURCE ERROR: the source labelled the origin Arabic; the name is Yoruba. The source gloss 'Gift from God' is unsupported and has been replaced with the documented sense.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Yoruba",
+      "lexical_form": "مودوپي",
+      "transliteration": "modupe",
+      "root": "",
+      "root_transliteration": "",
+      "morphology": "Simple lexical item used as a name.",
+      "feminine_form": null,
+      "etymological_meaning": "The Yoruba word مودوپي",
+      "root_family": [],
+      "etymology_explanation": "The form مودوپي is an established Yoruba lexical item used unchanged as a given name.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented Yoruba form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Yoruba",
+      "associated_languages": [
+        "Yoruba",
+        "Muslim South Asia"
+      ],
+      "language_notes": {
+        "primary": "Yoruba is the language of the recorded form مودوپي.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Yoruba",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name originates in Yoruba and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Yoruba",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Modupe is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Modupe is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Modupe as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Yoruba",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "I give thanks",
+      "related_concepts": [
+        "I give thanks"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “I give thanks” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: I give thanks.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 2,
+      "life_path_number": 2,
+      "ruling_planet": "Moon",
+      "lucky_day": "Monday",
+      "lucky_colors": [
+        "White",
+        "Silver"
+      ],
+      "lucky_stone": "Pearl",
+      "meaning": "In Pythagorean numerology the letters of Modupe total 2, associated with cooperation, balance and sensitivity. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 2,
+      "lucky_day": "Monday",
+      "lucky_colors": [
+        "White",
+        "Silver"
+      ],
+      "lucky_stone": "Pearl",
+      "ruling_planet": "Moon"
+    },
+    "translations": {
+      "english": {
+        "name": "Modupe",
+        "script": "Modupe",
+        "meaning": "I give thanks",
+        "long_meaning": "Modupe is a Yoruba-origin given name; in Yoruba the word means “I give thanks”."
+      },
+      "urdu": {
+        "name": "مودوپے",
+        "script": "مودوپے",
+        "meaning": "مودوپے (یوروبا نام)",
+        "long_meaning": "Modupe (مودوپے) نامعلوم زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم مودوپے (یوروبا نام) ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "مودوپه",
+        "script": "مودوپه",
+        "meaning": "مودوپه (نام یوروبا)",
+        "long_meaning": "Modupe (مودوپه) نامی برگرفته از زبان نامعلوم است و معنای اصلی آن مودوپه (نام یوروبا) است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "मोदुपे",
+        "script": "मोदुपे",
+        "meaning": "मोदुपे (योरूबा नाम)",
+        "long_meaning": "Modupe (मोदुपे) अज्ञात भाषा से लिया गया नाम है। इसका मुख्य अर्थ मोदुपे (योरूबा नाम) है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "مودوپې",
+        "script": "مودوپې",
+        "meaning": "مودوپې (یوروبا نوم)",
+        "long_meaning": "Modupe (مودوپې) د نامعلوم ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې مودوپې (یوروبا نوم) ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "مودوپي",
+        "script": "مودوپي",
+        "meaning": "مُودُوبِي (اسم علم مؤنث يوروبي)",
+        "long_meaning": "Modupe (مودوپي) اسم مأخوذ من اللغة غير محددة، ومعناه الأساسي مُودُوبِي (اسم علم مؤنث يوروبي). يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "mo-du-pe",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "مودوپي"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Modupe"
+      ],
+      "script_forms": [
+        "مودوپه",
+        "مودوپي",
+        "مودوپې",
+        "مودوپے",
+        "मोदुपे"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form مودوپي is an established Yoruba lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Modupe mean?",
+        "a": "Modupe is a Yoruba-origin name meaning “I give thanks”."
+      },
+      {
+        "q": "What is the origin of Modupe?",
+        "a": "Modupe originates in Yoruba and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Modupe an Arabic name?",
+        "a": "No — the recorded form مودوپي is Yoruba, not Arabic."
+      },
+      {
+        "q": "What is the root of Modupe?",
+        "a": "No root analysis is asserted for this spelling."
+      },
+      {
+        "q": "Is Modupe an Islamic name?",
+        "a": "Modupe is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Modupe a Quranic name?",
+        "a": "Modupe is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Modupe mean in Urdu?",
+        "a": "In Urdu it is written مودوپے and carries the sense “مودوپے (یوروبا نام)”."
+      },
+      {
+        "q": "How is Modupe pronounced?",
+        "a": "A romanized syllable approximation is “mo-du-pe”."
+      },
+      {
+        "q": "Is Modupe a boy's or girl's name?",
+        "a": "Documented usage records Modupe as a girl's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Modupe Name Meaning, Origin & Islamic Context",
+      "meta_description": "Modupe (مودوپي) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Modupe meaning, Modupe name meaning, Modupe origin, Modupe meaning in Urdu, Modupe pronunciation, Modupe Islamic name",
+      "description_paragraph": "Modupe is a Yoruba-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Modupe meaning",
+        "Modupe name meaning",
+        "Modupe origin",
+        "Modupe meaning in Urdu",
+        "Modupe pronunciation",
+        "Modupe Islamic name"
+      ],
+      "focus_keyword": "Modupe meaning",
+      "secondary_keywords": [
+        "Modupe name meaning",
+        "Modupe origin",
+        "Modupe meaning in Urdu",
+        "Modupe pronunciation",
+        "Modupe Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/modupe",
+      "seo_score": 90,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Modupe, a Yoruba-origin name used in Muslim communities.",
+      "body_summary": "Modupe is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Modupe",
+      "#ModupeMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 152,
+      "quality_score": 90,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Yoruba form مودوپي carries the sense “I give thanks”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Modupe",
+          "description": "Modupe — a Yoruba-origin given name meaning I give thanks",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Modupe mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Modupe is a Yoruba-origin name meaning “I give thanks”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Modupe?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Modupe originates in Yoruba and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Modupe an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No — the recorded form مودوپي is Yoruba, not Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Modupe?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No root analysis is asserted for this spelling."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Modupe an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Modupe is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Modupe a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Modupe is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Modupe mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written مودوپے and carries the sense “مودوپے (یوروبا نام)”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Modupe pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “mo-du-pe”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Modupe a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Modupe as a girl's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Modupe",
+              "item": "https://nameverse.site/names/islamic/modupe"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

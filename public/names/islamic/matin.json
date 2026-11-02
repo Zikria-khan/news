@@ -1,0 +1,489 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Matin",
+    "slug": "matin",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Matin",
+      "normalized_name": "matin",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Matin",
+        "matin"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Firm, steadfast, solid",
+      "primary_meaning": "Matin corresponds to the Arabic form متين and is glossed in this record as “Firm, steadfast, solid.” The record associates the form with root م ت ن (m-t-n). The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "Firm, steadfast, solid",
+      "meaning_explanation": "Matin corresponds to the Arabic form متين (Arabic root م ت ن (m-t-n); مَتِين (Matīn)). Its core sense is matin; firm, steadfast. Matin is Arabic مَتِين (Matīn) 'firm, steadfast, solid', from the root م ت ن (m-t-n). The source gloss 'Early' is unsupported and has been replaced with the lexical sense. Same name as mateen.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "متين",
+      "transliteration": "matin",
+      "root": "م ت ن",
+      "root_transliteration": "m-t-n",
+      "morphology": "Built on the root م ت ن.",
+      "feminine_form": null,
+      "etymological_meaning": "From the root م ت ن (m-t-n)",
+      "root_family": [],
+      "etymology_explanation": "The form متين is an established Arabic lexical item, and Matin is the word itself used as a personal name rather than a derived or diminutive form.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form متين.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Matin is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Matin is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Matin as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Firm, steadfast, solid",
+      "related_concepts": [
+        "Firm, steadfast, solid"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Firm, steadfast, solid” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Firm, steadfast, solid.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 3,
+      "life_path_number": 3,
+      "ruling_planet": "Jupiter",
+      "lucky_day": "Thursday",
+      "lucky_colors": [
+        "Yellow",
+        "Gold"
+      ],
+      "lucky_stone": "Yellow Sapphire",
+      "meaning": "In Pythagorean numerology the letters of Matin total 3, associated with creativity, expression and optimism. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 3,
+      "lucky_day": "Thursday",
+      "lucky_colors": [
+        "Yellow",
+        "Gold"
+      ],
+      "lucky_stone": "Yellow Sapphire",
+      "ruling_planet": "Jupiter"
+    },
+    "translations": {
+      "english": {
+        "name": "Matin",
+        "script": "Matin",
+        "meaning": "Firm, steadfast, solid",
+        "long_meaning": "Matin is an Arabic-origin given name; in Arabic the word means “Firm, steadfast, solid”."
+      },
+      "urdu": {
+        "name": "متین",
+        "script": "متین",
+        "meaning": "متین، مضبوط، ثابت قدم",
+        "long_meaning": "Matin (متین) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم متین، مضبوط، ثابت قدم ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "متین",
+        "script": "متین",
+        "meaning": "متین، استوار، پابرجا",
+        "long_meaning": "Matin (متین) نامی برگرفته از زبان عربی است و معنای اصلی آن متین، استوار، پابرجا است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "मतीन",
+        "script": "मतीन",
+        "meaning": "मतीन, दृढ़, अटल",
+        "long_meaning": "Matin (मतीन) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ मतीन, दृढ़, अटल है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "متین",
+        "script": "متین",
+        "meaning": "متین، ټینګ",
+        "long_meaning": "Matin (متین) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې متین، ټینګ ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "متين",
+        "script": "متين",
+        "meaning": "الْمَتِين، الرَّاسِخ، الثَّابِت",
+        "long_meaning": "Matin (متين) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الْمَتِين، الرَّاسِخ، الثَّابِت. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "ma-tin",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "متين"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Matin"
+      ],
+      "script_forms": [
+        "متين",
+        "متین",
+        "मतीन"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form متين is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Matin mean?",
+        "a": "Matin is an Arabic-origin name meaning “Firm, steadfast, solid”."
+      },
+      {
+        "q": "What is the origin of Matin?",
+        "a": "Matin originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Matin an Arabic name?",
+        "a": "Yes, the recorded form متين is Arabic."
+      },
+      {
+        "q": "What is the root of Matin?",
+        "a": "It is built on the root م ت ن (m-t-n)."
+      },
+      {
+        "q": "Is Matin an Islamic name?",
+        "a": "Matin is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Matin a Quranic name?",
+        "a": "Matin is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Matin mean in Urdu?",
+        "a": "In Urdu it is written متین and carries the sense “متین، مضبوط، ثابت قدم”."
+      },
+      {
+        "q": "How is Matin pronounced?",
+        "a": "A romanized syllable approximation is “ma-tin”."
+      },
+      {
+        "q": "Is Matin a boy's or girl's name?",
+        "a": "Documented usage records Matin as a boy's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Matin Name Meaning, Origin & Islamic Context",
+      "meta_description": "Matin (متين) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Matin meaning, Matin name meaning, Matin origin, Matin meaning in Urdu, Matin pronunciation, Matin Islamic name",
+      "description_paragraph": "Matin is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Matin meaning",
+        "Matin name meaning",
+        "Matin origin",
+        "Matin meaning in Urdu",
+        "Matin pronunciation",
+        "Matin Islamic name"
+      ],
+      "focus_keyword": "Matin meaning",
+      "secondary_keywords": [
+        "Matin name meaning",
+        "Matin origin",
+        "Matin meaning in Urdu",
+        "Matin pronunciation",
+        "Matin Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/matin",
+      "seo_score": 95,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Matin, an Arabic-origin name used in Muslim communities.",
+      "body_summary": "Matin is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Matin",
+      "#MatinMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 152,
+      "quality_score": 95,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form متين carries the sense “Firm, steadfast, solid”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Matin",
+          "description": "Matin — an Arabic-origin given name meaning Firm, steadfast, solid",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Matin mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Matin is an Arabic-origin name meaning “Firm, steadfast, solid”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Matin?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Matin originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Matin an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form متين is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Matin?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is built on the root م ت ن (m-t-n)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Matin an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Matin is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Matin a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Matin is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Matin mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written متین and carries the sense “متین، مضبوط، ثابت قدم”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Matin pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “ma-tin”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Matin a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Matin as a boy's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Matin",
+              "item": "https://nameverse.site/names/islamic/matin"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

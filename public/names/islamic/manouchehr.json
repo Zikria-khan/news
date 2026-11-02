@@ -1,0 +1,490 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Manouchehr",
+    "slug": "manouchehr",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Manouchehr",
+      "normalized_name": "manouchehr",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Manouchehr",
+        "manouchehr"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Persian legendary king",
+      "primary_meaning": "Manouchehr corresponds to the Persian form مَنُوشِهْر and is glossed in this record as “Persian legendary king.” The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "Persian legendary king",
+      "meaning_explanation": "Manouchehr corresponds to the Persian form مَنُوشِهْر (Persian منوچهر (Manūchehr)). Its core sense is manouchehr; a persian legendary king. Manouchehr is Persian منوچهر (Manūchehr), the name of a legendary king in the Shahnameh. It is used as a male given name in Iran.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Persian",
+      "lexical_form": "مَنُوشِهْر",
+      "transliteration": "manouchehr",
+      "root": "",
+      "root_transliteration": "",
+      "morphology": "Simple lexical item used as a name.",
+      "feminine_form": null,
+      "etymological_meaning": "The Persian word مَنُوشِهْر",
+      "root_family": [],
+      "etymology_explanation": "The form مَنُوشِهْر is an established Persian lexical item used unchanged as a given name.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented Persian form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Persian",
+      "associated_languages": [
+        "Persian"
+      ],
+      "language_notes": {
+        "primary": "Persian is the language of the recorded form مَنُوشِهْر.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Persian",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name originates in Persian and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Persian",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Manouchehr is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Manouchehr is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Manouchehr as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Persian",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Persian legendary king",
+      "related_concepts": [
+        "Persian legendary king"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Persian legendary king” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Persian legendary king.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 7,
+      "life_path_number": 7,
+      "ruling_planet": "Neptune",
+      "lucky_day": "Monday",
+      "lucky_colors": [
+        "Sea Green",
+        "Grey"
+      ],
+      "lucky_stone": "Cat's Eye",
+      "meaning": "In Pythagorean numerology the letters of Manouchehr total 7, associated with analysis, reflection and inner wisdom. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 7,
+      "lucky_day": "Monday",
+      "lucky_colors": [
+        "Sea Green",
+        "Grey"
+      ],
+      "lucky_stone": "Cat's Eye",
+      "ruling_planet": "Neptune"
+    },
+    "translations": {
+      "english": {
+        "name": "Manouchehr",
+        "script": "Manouchehr",
+        "meaning": "Persian legendary king",
+        "long_meaning": "Manouchehr is a Persian-origin given name; in Persian the word means “Persian legendary king”."
+      },
+      "urdu": {
+        "name": "منوچہر",
+        "script": "منوچہر",
+        "meaning": "منوچہر، فارسی بادشاہ",
+        "long_meaning": "Manouchehr (منوچہر) فارسی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم منوچہر، فارسی بادشاہ ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "منوچهر",
+        "script": "منوچهر",
+        "meaning": "منوچهر، شاه افسانه‌ای",
+        "long_meaning": "Manouchehr (منوچهر) نامی برگرفته از زبان فارسی است و معنای اصلی آن منوچهر، شاه افسانه‌ای است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "मनूचेहर",
+        "script": "मनूचेहर",
+        "meaning": "मनूचेहर, फ़ारसी राजा",
+        "long_meaning": "Manouchehr (मनूचेहर) फ़ारसी भाषा से लिया गया नाम है। इसका मुख्य अर्थ मनूचेहर, फ़ारसी राजा है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "منوچهر",
+        "script": "منوچهر",
+        "meaning": "منوچهر، افسانوي پاچا",
+        "long_meaning": "Manouchehr (منوچهر) د فارسي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې منوچهر، افسانوي پاچا ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "مَنُوشِهْر",
+        "script": "مَنُوشِهْر",
+        "meaning": "مَنُوشِهْر، مَلِك أَسْطُورِيّ",
+        "long_meaning": "Manouchehr (مَنُوشِهْر) اسم مأخوذ من اللغة الفارسية، ومعناه الأساسي مَنُوشِهْر، مَلِك أَسْطُورِيّ. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "ma-nouc-hehr",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "مَنُوشِهْر"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Manouchehr"
+      ],
+      "script_forms": [
+        "منوچهر",
+        "منوچہر",
+        "مَنُوشِهْر",
+        "मनूचेहर"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form مَنُوشِهْر is an established Persian lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Manouchehr mean?",
+        "a": "Manouchehr is a Persian-origin name meaning “Persian legendary king”."
+      },
+      {
+        "q": "What is the origin of Manouchehr?",
+        "a": "Manouchehr originates in Persian and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Manouchehr an Arabic name?",
+        "a": "No — the recorded form مَنُوشِهْر is Persian, not Arabic."
+      },
+      {
+        "q": "What is the root of Manouchehr?",
+        "a": "No root analysis is asserted for this spelling."
+      },
+      {
+        "q": "Is Manouchehr an Islamic name?",
+        "a": "Manouchehr is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Manouchehr a Quranic name?",
+        "a": "Manouchehr is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Manouchehr mean in Urdu?",
+        "a": "In Urdu it is written منوچہر and carries the sense “منوچہر، فارسی بادشاہ”."
+      },
+      {
+        "q": "How is Manouchehr pronounced?",
+        "a": "A romanized syllable approximation is “ma-nouc-hehr”."
+      },
+      {
+        "q": "Is Manouchehr a boy's or girl's name?",
+        "a": "Documented usage records Manouchehr as a boy's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Manouchehr Name Meaning, Origin & Islamic Context",
+      "meta_description": "Manouchehr (مَنُوشِهْر) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Manouchehr meaning, Manouchehr name meaning, Manouchehr origin, Manouchehr meaning in Urdu, Manouchehr pronunciation, Manouchehr Islamic name",
+      "description_paragraph": "Manouchehr is a Persian-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Manouchehr meaning",
+        "Manouchehr name meaning",
+        "Manouchehr origin",
+        "Manouchehr meaning in Urdu",
+        "Manouchehr pronunciation",
+        "Manouchehr Islamic name"
+      ],
+      "focus_keyword": "Manouchehr meaning",
+      "secondary_keywords": [
+        "Manouchehr name meaning",
+        "Manouchehr origin",
+        "Manouchehr meaning in Urdu",
+        "Manouchehr pronunciation",
+        "Manouchehr Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/manouchehr",
+      "seo_score": 90,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Manouchehr, a Persian-origin name used in Muslim communities.",
+      "body_summary": "Manouchehr is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Manouchehr",
+      "#ManouchehrMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 152,
+      "quality_score": 90,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Persian form مَنُوشِهْر carries the sense “Persian legendary king”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Manouchehr",
+          "description": "Manouchehr — a Persian-origin given name meaning Persian legendary king",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Manouchehr mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Manouchehr is a Persian-origin name meaning “Persian legendary king”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Manouchehr?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Manouchehr originates in Persian and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Manouchehr an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No — the recorded form مَنُوشِهْر is Persian, not Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Manouchehr?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No root analysis is asserted for this spelling."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Manouchehr an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Manouchehr is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Manouchehr a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Manouchehr is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Manouchehr mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written منوچہر and carries the sense “منوچہر، فارسی بادشاہ”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Manouchehr pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “ma-nouc-hehr”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Manouchehr a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Manouchehr as a boy's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Manouchehr",
+              "item": "https://nameverse.site/names/islamic/manouchehr"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

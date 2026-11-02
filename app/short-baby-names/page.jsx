@@ -165,7 +165,7 @@ export default function ShortBabyNamesPage() {
             { href: '/nature-baby-names', label: 'Nature baby names', note: 'Botanical and celestial' },
             { href: '/vintage-baby-names', label: 'Vintage baby names', note: 'Classics returning' },
             { href: '/top-baby-names-2026', label: 'Top names 2026', note: 'Current rankings' },
-            { href: '/names', label: 'All 11,412 names', note: 'Full directory' },
+            { href: '/names', label: 'All 11,730 names', note: 'Full directory' },
           ].map((l) => (
             <Link key={l.href} href={l.href} className="card card-hover p-4">
               <span className="block text-sm font-bold text-nv-text">{l.label}</span>

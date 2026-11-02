@@ -1,0 +1,489 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Nejat",
+    "slug": "nejat",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Nejat",
+      "normalized_name": "nejat",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Nejat",
+        "nejat"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Salvation, safety, deliverance",
+      "primary_meaning": "Nejat is a Turkish-origin name meaning “Salvation, safety, deliverance”.",
+      "literal_meaning": "The name is the Turkish word itself, used unchanged as a given name rather than a derived or diminutive form.",
+      "meaning_explanation": "Nejat corresponds to the Turkish form نَجَاة (Turkish Necat, from Arabic نَجَاة (najāh)). Its core sense is salvation, safety, deliverance. Nejat is the Turkish form of Arabic نَجَاة (najāh) 'salvation, safety, deliverance'. CRITICAL SOURCE ERROR: the source gave نِجَاط (a non-standard form) and labelled the origin Arabic; the name as spelled is Turkish. The source gloss 'Safety, Salvation, Security' is consistent.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Turkish",
+      "lexical_form": "نَجَاة",
+      "transliteration": "nejat",
+      "root": "",
+      "root_transliteration": "",
+      "morphology": "Simple lexical item used as a name.",
+      "feminine_form": null,
+      "etymological_meaning": "The Turkish word نَجَاة",
+      "root_family": [],
+      "etymology_explanation": "The form نَجَاة is an established Turkish lexical item used unchanged as a given name.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented Turkish form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Turkish",
+      "associated_languages": [
+        "Turkish"
+      ],
+      "language_notes": {
+        "primary": "Turkish is the language of the recorded form نَجَاة.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Turkish",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name originates in Turkish and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Turkish",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Nejat is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Nejat is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Nejat as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Turkish",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Salvation, safety, deliverance",
+      "related_concepts": [
+        "Salvation, safety, deliverance"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Salvation, safety, deliverance” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Salvation, safety, deliverance.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 5,
+      "life_path_number": 5,
+      "ruling_planet": "Mercury",
+      "lucky_day": "Wednesday",
+      "lucky_colors": [
+        "Green",
+        "Turquoise"
+      ],
+      "lucky_stone": "Emerald",
+      "meaning": "In Pythagorean numerology the letters of Nejat total 5, associated with change, freedom and adaptability. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 5,
+      "lucky_day": "Wednesday",
+      "lucky_colors": [
+        "Green",
+        "Turquoise"
+      ],
+      "lucky_stone": "Emerald",
+      "ruling_planet": "Mercury"
+    },
+    "translations": {
+      "english": {
+        "name": "Nejat",
+        "script": "Nejat",
+        "meaning": "Salvation, safety, deliverance",
+        "long_meaning": "Nejat is a Turkish-origin given name; in Turkish the word means “Salvation, safety, deliverance”."
+      },
+      "urdu": {
+        "name": "نجات",
+        "script": "نجات",
+        "meaning": "نجات، سلامتی، چھٹکارا",
+        "long_meaning": "Nejat (نجات) ترکی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم نجات، سلامتی، چھٹکارا ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "نجات",
+        "script": "نجات",
+        "meaning": "نجات، رهایی",
+        "long_meaning": "Nejat (نجات) نامی برگرفته از زبان ترکی است و معنای اصلی آن نجات، رهایی است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "नजात",
+        "script": "नजात",
+        "meaning": "नजात, मुक्ति",
+        "long_meaning": "Nejat (नजात) तुर्की भाषा से लिया गया नाम है। इसका मुख्य अर्थ नजात, मुक्ति है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "نجات",
+        "script": "نجات",
+        "meaning": "نجات، خلاصون",
+        "long_meaning": "Nejat (نجات) د ترکي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې نجات، خلاصون ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "نَجَاة",
+        "script": "نَجَاة",
+        "meaning": "النَّجَاة، الْخَلَاص",
+        "long_meaning": "Nejat (نَجَاة) اسم مأخوذ من اللغة التركية، ومعناه الأساسي النَّجَاة، الْخَلَاص. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "ne-jat",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "نَجَاة"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Nejat"
+      ],
+      "script_forms": [
+        "نجات",
+        "نَجَاة",
+        "नजात"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form نَجَاة is an established Turkish lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Nejat mean?",
+        "a": "Nejat is a Turkish-origin name meaning “Salvation, safety, deliverance”."
+      },
+      {
+        "q": "What is the origin of Nejat?",
+        "a": "Nejat originates in Turkish and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Nejat an Arabic name?",
+        "a": "No — the recorded form نَجَاة is Turkish, not Arabic."
+      },
+      {
+        "q": "What is the root of Nejat?",
+        "a": "No root analysis is asserted for this spelling."
+      },
+      {
+        "q": "Is Nejat an Islamic name?",
+        "a": "Nejat is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Nejat a Quranic name?",
+        "a": "Nejat is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Nejat mean in Urdu?",
+        "a": "In Urdu it is written نجات and carries the sense “نجات، سلامتی، چھٹکارا”."
+      },
+      {
+        "q": "How is Nejat pronounced?",
+        "a": "A romanized syllable approximation is “ne-jat”."
+      },
+      {
+        "q": "Is Nejat a boy's or girl's name?",
+        "a": "Documented usage records Nejat as a boy's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Nejat Name Meaning, Origin & Islamic Context",
+      "meta_description": "Nejat (نَجَاة) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Nejat meaning, Nejat name meaning, Nejat origin, Nejat meaning in Urdu, Nejat pronunciation, Nejat Islamic name",
+      "description_paragraph": "Nejat is a Turkish-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Nejat meaning",
+        "Nejat name meaning",
+        "Nejat origin",
+        "Nejat meaning in Urdu",
+        "Nejat pronunciation",
+        "Nejat Islamic name"
+      ],
+      "focus_keyword": "Nejat meaning",
+      "secondary_keywords": [
+        "Nejat name meaning",
+        "Nejat origin",
+        "Nejat meaning in Urdu",
+        "Nejat pronunciation",
+        "Nejat Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/nejat",
+      "seo_score": 90,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Nejat, a Turkish-origin name used in Muslim communities.",
+      "body_summary": "Nejat is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Nejat",
+      "#NejatMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 151,
+      "quality_score": 90,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Turkish form نَجَاة carries the sense “Salvation, safety, deliverance”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Nejat",
+          "description": "Nejat — a Turkish-origin given name meaning Salvation, safety, deliverance",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Nejat mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Nejat is a Turkish-origin name meaning “Salvation, safety, deliverance”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Nejat?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Nejat originates in Turkish and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Nejat an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No — the recorded form نَجَاة is Turkish, not Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Nejat?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No root analysis is asserted for this spelling."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Nejat an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Nejat is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Nejat a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Nejat is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Nejat mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written نجات and carries the sense “نجات، سلامتی، چھٹکارا”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Nejat pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “ne-jat”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Nejat a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Nejat as a boy's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Nejat",
+              "item": "https://nameverse.site/names/islamic/nejat"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

@@ -1,0 +1,489 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Hanafi",
+    "slug": "hanafi",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Hanafi",
+      "normalized_name": "hanafi",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Hanafi",
+        "hanafi"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "The learned one",
+      "primary_meaning": "Hanafi corresponds to the Arabic form حنفي and is glossed in this record as “The learned one.” The record associates the form with root ح ن ف (ḥ-n-f). The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "The learned one",
+      "meaning_explanation": "Hanafi corresponds to the Arabic form حنفي (Arabic root ح ن ف (ḥ-n-f); حَنَفِي (Ḥanafī)). Its core sense is the learned one; follower of the hanafi school. Hanafi is Arabic حَنَفِي (Ḥanafī), a nisba from the root ح ن ف (ḥ-n-f), and the name of the school of Islamic law founded by Abū Ḥanīfa — a documented historical figure. The source gloss 'the learned one' is a loose rendering; the form is a relational nisba. CRITICAL SOURCE ERROR: the source gave حناڤي with a ڤ (veh) that does not belong in Arabic orthography; the correct form حنفي is given here.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "حنفي",
+      "transliteration": "hanafi",
+      "root": "ح ن ف",
+      "root_transliteration": "ḥ-n-f",
+      "morphology": "Built on the root ح ن ف.",
+      "feminine_form": null,
+      "etymological_meaning": "From the root ح ن ف (ḥ-n-f)",
+      "root_family": [],
+      "etymology_explanation": "The form حنفي is an established Arabic lexical item, and Hanafi is the word itself used as a personal name rather than a derived or diminutive form.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form حنفي.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Hanafi is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Hanafi is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Hanafi as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "The learned one",
+      "related_concepts": [
+        "The learned one"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “The learned one” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: The learned one.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 3,
+      "life_path_number": 3,
+      "ruling_planet": "Jupiter",
+      "lucky_day": "Thursday",
+      "lucky_colors": [
+        "Yellow",
+        "Gold"
+      ],
+      "lucky_stone": "Yellow Sapphire",
+      "meaning": "In Pythagorean numerology the letters of Hanafi total 3, associated with creativity, expression and optimism. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 3,
+      "lucky_day": "Thursday",
+      "lucky_colors": [
+        "Yellow",
+        "Gold"
+      ],
+      "lucky_stone": "Yellow Sapphire",
+      "ruling_planet": "Jupiter"
+    },
+    "translations": {
+      "english": {
+        "name": "Hanafi",
+        "script": "Hanafi",
+        "meaning": "The learned one",
+        "long_meaning": "Hanafi is an Arabic-origin given name; in Arabic the word means “The learned one”."
+      },
+      "urdu": {
+        "name": "حنفی",
+        "script": "حنفی",
+        "meaning": "عالم، فقیہ؛ حنفی",
+        "long_meaning": "Hanafi (حنفی) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم عالم، فقیہ؛ حنفی ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "حنفی",
+        "script": "حنفی",
+        "meaning": "دانشمند، فقیه؛ حنفی",
+        "long_meaning": "Hanafi (حنفی) نامی برگرفته از زبان عربی است و معنای اصلی آن دانشمند، فقیه؛ حنفی است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "हनफ़ी",
+        "script": "हनफ़ी",
+        "meaning": "विद्वान, हनफ़ी",
+        "long_meaning": "Hanafi (हनफ़ी) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ विद्वान, हनफ़ी है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "حنفي",
+        "script": "حنفي",
+        "meaning": "پوه، حنفي",
+        "long_meaning": "Hanafi (حنفي) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې پوه، حنفي ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "حنفي",
+        "script": "حنفي",
+        "meaning": "الحنفي، العالم، الفقيه",
+        "long_meaning": "Hanafi (حنفي) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الحنفي، العالم، الفقيه. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "ha-na-fi",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "حنفي"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Hanafi"
+      ],
+      "script_forms": [
+        "حنفي",
+        "حنفی",
+        "हनफ़ी"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form حنفي is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Hanafi mean?",
+        "a": "Hanafi is an Arabic-origin name meaning “The learned one”."
+      },
+      {
+        "q": "What is the origin of Hanafi?",
+        "a": "Hanafi originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Hanafi an Arabic name?",
+        "a": "Yes, the recorded form حنفي is Arabic."
+      },
+      {
+        "q": "What is the root of Hanafi?",
+        "a": "It is built on the root ح ن ف (ḥ-n-f)."
+      },
+      {
+        "q": "Is Hanafi an Islamic name?",
+        "a": "Hanafi is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Hanafi a Quranic name?",
+        "a": "Hanafi is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Hanafi mean in Urdu?",
+        "a": "In Urdu it is written حنفی and carries the sense “عالم، فقیہ؛ حنفی”."
+      },
+      {
+        "q": "How is Hanafi pronounced?",
+        "a": "A romanized syllable approximation is “ha-na-fi”."
+      },
+      {
+        "q": "Is Hanafi a boy's or girl's name?",
+        "a": "Documented usage records Hanafi as a boy's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Hanafi Name Meaning, Origin & Islamic Context",
+      "meta_description": "Hanafi (حنفي) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Hanafi meaning, Hanafi name meaning, Hanafi origin, Hanafi meaning in Urdu, Hanafi pronunciation, Hanafi Islamic name",
+      "description_paragraph": "Hanafi is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Hanafi meaning",
+        "Hanafi name meaning",
+        "Hanafi origin",
+        "Hanafi meaning in Urdu",
+        "Hanafi pronunciation",
+        "Hanafi Islamic name"
+      ],
+      "focus_keyword": "Hanafi meaning",
+      "secondary_keywords": [
+        "Hanafi name meaning",
+        "Hanafi origin",
+        "Hanafi meaning in Urdu",
+        "Hanafi pronunciation",
+        "Hanafi Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/hanafi",
+      "seo_score": 95,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Hanafi, an Arabic-origin name used in Muslim communities.",
+      "body_summary": "Hanafi is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Hanafi",
+      "#HanafiMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 152,
+      "quality_score": 95,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form حنفي carries the sense “The learned one”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Hanafi",
+          "description": "Hanafi — an Arabic-origin given name meaning The learned one",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Hanafi mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hanafi is an Arabic-origin name meaning “The learned one”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Hanafi?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hanafi originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Hanafi an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form حنفي is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Hanafi?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is built on the root ح ن ف (ḥ-n-f)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Hanafi an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hanafi is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Hanafi a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hanafi is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Hanafi mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written حنفی and carries the sense “عالم، فقیہ؛ حنفی”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Hanafi pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “ha-na-fi”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Hanafi a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Hanafi as a boy's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Hanafi",
+              "item": "https://nameverse.site/names/islamic/hanafi"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

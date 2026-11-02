@@ -1,0 +1,490 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Jamia",
+    "slug": "jamia",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Jamia",
+      "normalized_name": "jamia",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "MEDIUM",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Jamia",
+        "jamia"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "University; gathering, assembly",
+      "primary_meaning": "Jamia corresponds to the Arabic form جامعة and is glossed in this record as “University; gathering, assembly.” The record associates the form with root ج م ع (j-m-ʿ). The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "University; gathering, assembly",
+      "meaning_explanation": "Jamia corresponds to the Arabic form جامعة (Arabic root ج م ع (j-m-ʿ); جَامِعَة (Jāmiʿa)). Its core sense is university; gathering, assembly. Jamia is Arabic جَامِعَة (Jāmiʿa) 'university; gathering, assembly', from the root ج م ع (j-m-ʿ). The source gloss 'Gathering, assembly' is broadly consistent. Recorded at medium confidence because the word is primarily a common noun.",
+      "meaning_confidence": "MEDIUM"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "جامعة",
+      "transliteration": "jamia",
+      "root": "ج م ع",
+      "root_transliteration": "j-m-ʿ",
+      "morphology": "Built on the root ج م ع.",
+      "feminine_form": null,
+      "etymological_meaning": "From the root ج م ع (j-m-ʿ)",
+      "root_family": [],
+      "etymology_explanation": "The form جامعة is an established Arabic lexical item, and Jamia is the word itself used as a personal name rather than a derived or diminutive form.",
+      "etymology_confidence": "MEDIUM",
+      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form جامعة.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "MEDIUM"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "MEDIUM",
+      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Jamia is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Jamia is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Jamia as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "University; gathering, assembly",
+      "related_concepts": [
+        "University; gathering, assembly"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “University; gathering, assembly” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: University; gathering, assembly.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 7,
+      "life_path_number": 7,
+      "ruling_planet": "Neptune",
+      "lucky_day": "Monday",
+      "lucky_colors": [
+        "Sea Green",
+        "Grey"
+      ],
+      "lucky_stone": "Cat's Eye",
+      "meaning": "In Pythagorean numerology the letters of Jamia total 7, associated with analysis, reflection and inner wisdom. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 7,
+      "lucky_day": "Monday",
+      "lucky_colors": [
+        "Sea Green",
+        "Grey"
+      ],
+      "lucky_stone": "Cat's Eye",
+      "ruling_planet": "Neptune"
+    },
+    "translations": {
+      "english": {
+        "name": "Jamia",
+        "script": "Jamia",
+        "meaning": "University; gathering, assembly",
+        "long_meaning": "Jamia is an Arabic-origin given name; in Arabic the word means “University; gathering, assembly”."
+      },
+      "urdu": {
+        "name": "جامعہ",
+        "script": "جامعہ",
+        "meaning": "جامعہ، یونیورسٹی، اجتماع",
+        "long_meaning": "Jamia (جامعہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم جامعہ، یونیورسٹی، اجتماع ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "جامعه",
+        "script": "جامعه",
+        "meaning": "دانشگاه، گردهمایی",
+        "long_meaning": "Jamia (جامعه) نامی برگرفته از زبان عربی است و معنای اصلی آن دانشگاه، گردهمایی است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "जामिया",
+        "script": "जामिया",
+        "meaning": "विश्वविद्यालय, जमाव",
+        "long_meaning": "Jamia (जामिया) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ विश्वविद्यालय, जमाव है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "جامعه",
+        "script": "جامعه",
+        "meaning": "پوهنتون، ټولنه",
+        "long_meaning": "Jamia (جامعه) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې پوهنتون، ټولنه ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "جامعة",
+        "script": "جامعة",
+        "meaning": "الجامعة، المجمع، الاجتماع",
+        "long_meaning": "Jamia (جامعة) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الجامعة، المجمع، الاجتماع. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "ja-mia",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "جامعة"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Jamia"
+      ],
+      "script_forms": [
+        "جامعة",
+        "جامعه",
+        "جامعہ",
+        "जामिया"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form جامعة is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Jamia mean?",
+        "a": "Jamia is an Arabic-origin name meaning “University; gathering, assembly”."
+      },
+      {
+        "q": "What is the origin of Jamia?",
+        "a": "Jamia originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Jamia an Arabic name?",
+        "a": "Yes, the recorded form جامعة is Arabic."
+      },
+      {
+        "q": "What is the root of Jamia?",
+        "a": "It is built on the root ج م ع (j-m-ʿ)."
+      },
+      {
+        "q": "Is Jamia an Islamic name?",
+        "a": "Jamia is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Jamia a Quranic name?",
+        "a": "Jamia is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Jamia mean in Urdu?",
+        "a": "In Urdu it is written جامعہ and carries the sense “جامعہ، یونیورسٹی، اجتماع”."
+      },
+      {
+        "q": "How is Jamia pronounced?",
+        "a": "A romanized syllable approximation is “ja-mia”."
+      },
+      {
+        "q": "Is Jamia a boy's or girl's name?",
+        "a": "Documented usage records Jamia as a girl's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Jamia Name Meaning, Origin & Islamic Context",
+      "meta_description": "Jamia (جامعة) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Jamia meaning, Jamia name meaning, Jamia origin, Jamia meaning in Urdu, Jamia pronunciation, Jamia Islamic name",
+      "description_paragraph": "Jamia is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Jamia meaning",
+        "Jamia name meaning",
+        "Jamia origin",
+        "Jamia meaning in Urdu",
+        "Jamia pronunciation",
+        "Jamia Islamic name"
+      ],
+      "focus_keyword": "Jamia meaning",
+      "secondary_keywords": [
+        "Jamia name meaning",
+        "Jamia origin",
+        "Jamia meaning in Urdu",
+        "Jamia pronunciation",
+        "Jamia Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/jamia",
+      "seo_score": 95,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Jamia, an Arabic-origin name used in Muslim communities.",
+      "body_summary": "Jamia is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Jamia",
+      "#JamiaMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 153,
+      "quality_score": 95,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form جامعة carries the sense “University; gathering, assembly”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Jamia",
+          "description": "Jamia — an Arabic-origin given name meaning University; gathering, assembly",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Jamia mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Jamia is an Arabic-origin name meaning “University; gathering, assembly”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Jamia?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Jamia originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Jamia an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form جامعة is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Jamia?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is built on the root ج م ع (j-m-ʿ)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Jamia an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Jamia is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Jamia a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Jamia is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Jamia mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written جامعہ and carries the sense “جامعہ، یونیورسٹی، اجتماع”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Jamia pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “ja-mia”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Jamia a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Jamia as a girl's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Jamia",
+              "item": "https://nameverse.site/names/islamic/jamia"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "MEDIUM",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

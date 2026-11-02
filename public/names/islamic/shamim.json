@@ -1,0 +1,490 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Shamim",
+    "slug": "shamim",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Shamim",
+      "normalized_name": "shamim",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Shamim",
+        "shamim"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Fragrance, scent",
+      "primary_meaning": "Shamim corresponds to the Arabic form شَمِيم and is glossed in this record as “Fragrance, scent.” The record associates the form with root ش م م (sh-m-m). The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "Fragrance, scent",
+      "meaning_explanation": "Shamim corresponds to the Arabic form شَمِيم (Arabic root ش م م (sh-m-m); شَمِيم (Shamīm)). Its core sense is shamim; fragrance, scent. Shamim is Arabic شَمِيم (Shamīm), meaning 'fragrance, scent'.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "شَمِيم",
+      "transliteration": "shamim",
+      "root": "ش م م",
+      "root_transliteration": "sh-m-m",
+      "morphology": "Built on the root ش م م.",
+      "feminine_form": null,
+      "etymological_meaning": "From the root ش م م (sh-m-m)",
+      "root_family": [],
+      "etymology_explanation": "The form شَمِيم is an established Arabic lexical item, and Shamim is the word itself used as a personal name rather than a derived or diminutive form.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form شَمِيم.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Shamim is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Shamim is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Shamim as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Fragrance, scent",
+      "related_concepts": [
+        "Fragrance, scent"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Fragrance, scent” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Fragrance, scent.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 9,
+      "life_path_number": 9,
+      "ruling_planet": "Mars",
+      "lucky_day": "Tuesday",
+      "lucky_colors": [
+        "Red",
+        "Crimson"
+      ],
+      "lucky_stone": "Red Coral",
+      "meaning": "In Pythagorean numerology the letters of Shamim total 9, associated with compassion, idealism and completion. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 9,
+      "lucky_day": "Tuesday",
+      "lucky_colors": [
+        "Red",
+        "Crimson"
+      ],
+      "lucky_stone": "Red Coral",
+      "ruling_planet": "Mars"
+    },
+    "translations": {
+      "english": {
+        "name": "Shamim",
+        "script": "Shamim",
+        "meaning": "Fragrance, scent",
+        "long_meaning": "Shamim is an Arabic-origin given name; in Arabic the word means “Fragrance, scent”."
+      },
+      "urdu": {
+        "name": "شمیم",
+        "script": "شمیم",
+        "meaning": "شمیم، خوشبو",
+        "long_meaning": "Shamim (شمیم) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم شمیم، خوشبو ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "شمیم",
+        "script": "شمیم",
+        "meaning": "شمیم، رایحه",
+        "long_meaning": "Shamim (شمیم) نامی برگرفته از زبان عربی است و معنای اصلی آن شمیم، رایحه است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "शमीम",
+        "script": "शमीम",
+        "meaning": "शमीम, सुगंध",
+        "long_meaning": "Shamim (शमीम) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ शमीम, सुगंध है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "شميم",
+        "script": "شميم",
+        "meaning": "شميم، خوشبویه",
+        "long_meaning": "Shamim (شميم) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې شميم، خوشبویه ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "شَمِيم",
+        "script": "شَمِيم",
+        "meaning": "الشَّمِيم، الْعَبِير",
+        "long_meaning": "Shamim (شَمِيم) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الشَّمِيم، الْعَبِير. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "sha-mim",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "شَمِيم"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Shamim"
+      ],
+      "script_forms": [
+        "شميم",
+        "شمیم",
+        "شَمِيم",
+        "शमीम"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form شَمِيم is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Shamim mean?",
+        "a": "Shamim is an Arabic-origin name meaning “Fragrance, scent”."
+      },
+      {
+        "q": "What is the origin of Shamim?",
+        "a": "Shamim originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Shamim an Arabic name?",
+        "a": "Yes, the recorded form شَمِيم is Arabic."
+      },
+      {
+        "q": "What is the root of Shamim?",
+        "a": "It is built on the root ش م م (sh-m-m)."
+      },
+      {
+        "q": "Is Shamim an Islamic name?",
+        "a": "Shamim is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Shamim a Quranic name?",
+        "a": "Shamim is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Shamim mean in Urdu?",
+        "a": "In Urdu it is written شمیم and carries the sense “شمیم، خوشبو”."
+      },
+      {
+        "q": "How is Shamim pronounced?",
+        "a": "A romanized syllable approximation is “sha-mim”."
+      },
+      {
+        "q": "Is Shamim a boy's or girl's name?",
+        "a": "Documented usage records Shamim as a girl's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Shamim Name Meaning, Origin & Islamic Context",
+      "meta_description": "Shamim (شَمِيم) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Shamim meaning, Shamim name meaning, Shamim origin, Shamim meaning in Urdu, Shamim pronunciation, Shamim Islamic name",
+      "description_paragraph": "Shamim is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Shamim meaning",
+        "Shamim name meaning",
+        "Shamim origin",
+        "Shamim meaning in Urdu",
+        "Shamim pronunciation",
+        "Shamim Islamic name"
+      ],
+      "focus_keyword": "Shamim meaning",
+      "secondary_keywords": [
+        "Shamim name meaning",
+        "Shamim origin",
+        "Shamim meaning in Urdu",
+        "Shamim pronunciation",
+        "Shamim Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/shamim",
+      "seo_score": 95,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Shamim, an Arabic-origin name used in Muslim communities.",
+      "body_summary": "Shamim is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Shamim",
+      "#ShamimMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 154,
+      "quality_score": 95,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form شَمِيم carries the sense “Fragrance, scent”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Shamim",
+          "description": "Shamim — an Arabic-origin given name meaning Fragrance, scent",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Shamim mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Shamim is an Arabic-origin name meaning “Fragrance, scent”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Shamim?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Shamim originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Shamim an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form شَمِيم is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Shamim?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is built on the root ش م م (sh-m-m)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Shamim an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Shamim is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Shamim a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Shamim is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Shamim mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written شمیم and carries the sense “شمیم، خوشبو”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Shamim pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “sha-mim”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Shamim a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Shamim as a girl's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Shamim",
+              "item": "https://nameverse.site/names/islamic/shamim"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

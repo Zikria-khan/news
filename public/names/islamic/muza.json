@@ -1,0 +1,491 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Muza",
+    "slug": "muza",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Muza",
+      "normalized_name": "muza",
+      "name_type": "given_name",
+      "gender": "Unknown",
+      "gender_confidence": "LOW",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Muza",
+        "muza"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Meaning not independently verified",
+      "primary_meaning": "The meaning of Muza is not objectively established from available lexical sources; no confident gloss is asserted.",
+      "literal_meaning": "No literal gloss is asserted for this spelling.",
+      "meaning_explanation": "Muza corresponds to the Unknown form مُزَّة (No reliable root analysis established.). Its core sense is meaning not objectively established. Muza is recorded at low confidence. CRITICAL SOURCE ERROR: the source gave موزا (a non-standard form) and glossed the name with a root reference; no verified Arabic lexical form could be confirmed for this spelling. No confident meaning is asserted.",
+      "meaning_confidence": "LOW"
+    },
+    "etymology": {
+      "primary_language": "Unknown",
+      "lexical_form": "مُزَّة",
+      "transliteration": "muza",
+      "root": "",
+      "root_transliteration": "",
+      "morphology": "Simple lexical item used as a name.",
+      "feminine_form": null,
+      "etymological_meaning": "Not established",
+      "root_family": [],
+      "etymology_explanation": "No reliable root analysis is available for this spelling.",
+      "etymology_confidence": "LOW",
+      "false_etymology_warning": "No derivation beyond the documented Unknown form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Unknown",
+      "associated_languages": [
+        "Unknown",
+        "Muslim South Asia"
+      ],
+      "language_notes": {
+        "primary": "Unknown is the language of the recorded form مُزَّة.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "LOW"
+    },
+    "origin": {
+      "primary_origin": "Unknown",
+      "origin_type": "linguistic",
+      "origin_confidence": "LOW",
+      "origin_explanation": "The origin of this spelling is not objectively established; it circulates in Muslim naming communities, but no single language of origin is confirmed.",
+      "cultural_transmission": [
+        "Unknown",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Muza is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Muza is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Muza as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "No confident interpretation is asserted.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Unknown",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "No cultural connotation is asserted.",
+      "personal_name_interpretation": "No interpretation is asserted.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "unverified",
+      "related_concepts": []
+    },
+    "spiritual_meaning": {
+      "status": "not_applicable",
+      "render": false,
+      "meaning": "No devotional reading is offered because the underlying word is a descriptive term rather than a religious concept.",
+      "basis": null,
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 7,
+      "life_path_number": 7,
+      "ruling_planet": "Neptune",
+      "lucky_day": "Monday",
+      "lucky_colors": [
+        "Sea Green",
+        "Grey"
+      ],
+      "lucky_stone": "Cat's Eye",
+      "meaning": "In Pythagorean numerology the letters of Muza total 7, associated with analysis, reflection and inner wisdom. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 7,
+      "lucky_day": "Monday",
+      "lucky_colors": [
+        "Sea Green",
+        "Grey"
+      ],
+      "lucky_stone": "Cat's Eye",
+      "ruling_planet": "Neptune"
+    },
+    "translations": {
+      "english": {
+        "name": "Muza",
+        "script": "Muza",
+        "meaning": "Meaning not independently verified",
+        "long_meaning": "Muza is an Unknown-origin given name; in Unknown the word means “the attested meaning”."
+      },
+      "urdu": {
+        "name": "مزہ",
+        "script": "مزہ",
+        "meaning": "معنی مصدق نہیں",
+        "long_meaning": "Muza (مزہ) نامعلوم زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم معنی مصدق نہیں ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "مزه",
+        "script": "مزه",
+        "meaning": "معنا تأیید نشده",
+        "long_meaning": "Muza (مزه) نامی برگرفته از زبان نامعلوم است و معنای اصلی آن معنا تأیید نشده است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "मुज़ा",
+        "script": "मुज़ा",
+        "meaning": "अर्थ प्रमाणित नहीं",
+        "long_meaning": "Muza (मुज़ा) अज्ञात भाषा से लिया गया नाम है। इसका मुख्य अर्थ अर्थ प्रमाणित नहीं है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "مزه",
+        "script": "مزه",
+        "meaning": "مانا تایید شوې نه ده",
+        "long_meaning": "Muza (مزه) د نامعلوم ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې مانا تایید شوې نه ده ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "مُزَّة",
+        "script": "مُزَّة",
+        "meaning": "المعنى غير محقق",
+        "long_meaning": "Muza (مُزَّة) اسم مأخوذ من اللغة غير محددة، ومعناه الأساسي المعنى غير محقق. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "LOW",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "mu-za",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "مُزَّة"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Muza"
+      ],
+      "script_forms": [
+        "مزه",
+        "مزہ",
+        "مُزَّة",
+        "मुज़ा"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "not_verified",
+      "note": "No verified lexical history is available."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": "No verified narrative is available for this spelling."
+    },
+    "faq": [
+      {
+        "q": "What does Muza mean?",
+        "a": "The meaning of Muza is not objectively established; no confident gloss is asserted."
+      },
+      {
+        "q": "What is the origin of Muza?",
+        "a": "Muza originates in Unknown and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Muza an Arabic name?",
+        "a": "No — the recorded form مُزَّة is Unknown, not Arabic."
+      },
+      {
+        "q": "What is the root of Muza?",
+        "a": "No root analysis is asserted for this spelling."
+      },
+      {
+        "q": "Is Muza an Islamic name?",
+        "a": "Muza is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Muza a Quranic name?",
+        "a": "Muza is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Muza mean in Urdu?",
+        "a": "In Urdu it is written مزہ and carries the sense “معنی مصدق نہیں”."
+      },
+      {
+        "q": "How is Muza pronounced?",
+        "a": "A romanized syllable approximation is “mu-za”."
+      },
+      {
+        "q": "Is Muza a boy's or girl's name?",
+        "a": "Documented usage records Muza as not gender-specific name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Muza Name Meaning, Origin & Islamic Context",
+      "meta_description": "Meaning, origin and usage of the name Muza.",
+      "meta_keywords": "Muza meaning, Muza name meaning, Muza origin, Muza meaning in Urdu, Muza pronunciation, Muza Islamic name",
+      "description_paragraph": "This page records what is known about the name Muza; no confident meaning is asserted.",
+      "keywords": [
+        "Muza meaning",
+        "Muza name meaning",
+        "Muza origin",
+        "Muza meaning in Urdu",
+        "Muza pronunciation",
+        "Muza Islamic name"
+      ],
+      "focus_keyword": "Muza meaning",
+      "secondary_keywords": [
+        "Muza name meaning",
+        "Muza origin",
+        "Muza meaning in Urdu",
+        "Muza pronunciation",
+        "Muza Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/muza",
+      "seo_score": 75,
+      "seo_score_basis": "9 distinct FAQs; gloss unverified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page records what is known about the name Muza; its meaning is not objectively established from available sources.",
+      "body_summary": "Muza is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Muza",
+      "#MuzaMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": false,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 154,
+      "quality_score": 75,
+      "quality_score_basis": "9 distinct FAQs; gloss unverified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "No Tier-A/B source confirms a meaning for this spelling."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Muza",
+          "description": "Muza — an Unknown-origin given name meaning meaning not independently verified",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Muza mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The meaning of Muza is not objectively established; no confident gloss is asserted."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Muza?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Muza originates in Unknown and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Muza an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No — the recorded form مُزَّة is Unknown, not Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Muza?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No root analysis is asserted for this spelling."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Muza an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Muza is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Muza a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Muza is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Muza mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written مزہ and carries the sense “معنی مصدق نہیں”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Muza pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “mu-za”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Muza a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Muza as not gender-specific name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Muza",
+              "item": "https://nameverse.site/names/islamic/muza"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": true,
+      "flags": [
+        "meaning unverified"
+      ],
+      "confidence": "LOW",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

@@ -1,0 +1,489 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Rooh",
+    "slug": "rooh",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Rooh",
+      "normalized_name": "rooh",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Rooh",
+        "rooh"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Soul, spirit",
+      "primary_meaning": "Rooh corresponds to the Arabic form رُوح and is glossed in this record as “Soul, spirit.” The record associates the form with root ر و ح (r-w-ḥ). The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "Soul, spirit",
+      "meaning_explanation": "Rooh corresponds to the Arabic form رُوح (Arabic root ر و ح (r-w-ḥ); رُوح (Rūḥ)). Its core sense is rooh; soul, spirit. Rooh is Arabic رُوح (Rūḥ) 'soul, spirit', from the root ر و ح (r-w-ḥ). The source gloss 'Soul' is consistent. CRITICAL SOURCE ERROR: the source labelled the gender unisex; documented usage is predominantly female.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "رُوح",
+      "transliteration": "rooh",
+      "root": "ر و ح",
+      "root_transliteration": "r-w-ḥ",
+      "morphology": "Built on the root ر و ح.",
+      "feminine_form": null,
+      "etymological_meaning": "From the root ر و ح (r-w-ḥ)",
+      "root_family": [],
+      "etymology_explanation": "The form رُوح is an established Arabic lexical item, and Rooh is the word itself used as a personal name rather than a derived or diminutive form.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form رُوح.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Rooh is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Rooh is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Rooh as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Soul, spirit",
+      "related_concepts": [
+        "Soul, spirit"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Soul, spirit” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Soul, spirit.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 2,
+      "life_path_number": 2,
+      "ruling_planet": "Moon",
+      "lucky_day": "Monday",
+      "lucky_colors": [
+        "White",
+        "Silver"
+      ],
+      "lucky_stone": "Pearl",
+      "meaning": "In Pythagorean numerology the letters of Rooh total 2, associated with cooperation, balance and sensitivity. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 2,
+      "lucky_day": "Monday",
+      "lucky_colors": [
+        "White",
+        "Silver"
+      ],
+      "lucky_stone": "Pearl",
+      "ruling_planet": "Moon"
+    },
+    "translations": {
+      "english": {
+        "name": "Rooh",
+        "script": "Rooh",
+        "meaning": "Soul, spirit",
+        "long_meaning": "Rooh is an Arabic-origin given name; in Arabic the word means “Soul, spirit”."
+      },
+      "urdu": {
+        "name": "روح",
+        "script": "روح",
+        "meaning": "روح، جان",
+        "long_meaning": "Rooh (روح) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم روح، جان ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "روح",
+        "script": "روح",
+        "meaning": "روح، جان",
+        "long_meaning": "Rooh (روح) نامی برگرفته از زبان عربی است و معنای اصلی آن روح، جان است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "रूह",
+        "script": "रूह",
+        "meaning": "रूह, आत्मा",
+        "long_meaning": "Rooh (रूह) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ रूह, आत्मा है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "روح",
+        "script": "روح",
+        "meaning": "روح، روح",
+        "long_meaning": "Rooh (روح) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې روح، روح ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "رُوح",
+        "script": "رُوح",
+        "meaning": "الرُّوح، النَّفْس",
+        "long_meaning": "Rooh (رُوح) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الرُّوح، النَّفْس. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "rooh",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "رُوح"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Rooh"
+      ],
+      "script_forms": [
+        "روح",
+        "رُوح",
+        "रूह"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form رُوح is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Rooh mean?",
+        "a": "Rooh is an Arabic-origin name meaning “Soul, spirit”."
+      },
+      {
+        "q": "What is the origin of Rooh?",
+        "a": "Rooh originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Rooh an Arabic name?",
+        "a": "Yes, the recorded form رُوح is Arabic."
+      },
+      {
+        "q": "What is the root of Rooh?",
+        "a": "It is built on the root ر و ح (r-w-ḥ)."
+      },
+      {
+        "q": "Is Rooh an Islamic name?",
+        "a": "Rooh is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Rooh a Quranic name?",
+        "a": "Rooh is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Rooh mean in Urdu?",
+        "a": "In Urdu it is written روح and carries the sense “روح، جان”."
+      },
+      {
+        "q": "How is Rooh pronounced?",
+        "a": "A romanized syllable approximation is “rooh”."
+      },
+      {
+        "q": "Is Rooh a boy's or girl's name?",
+        "a": "Documented usage records Rooh as a girl's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Rooh Name Meaning, Origin & Islamic Context",
+      "meta_description": "Rooh (رُوح) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Rooh meaning, Rooh name meaning, Rooh origin, Rooh meaning in Urdu, Rooh pronunciation, Rooh Islamic name",
+      "description_paragraph": "Rooh is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Rooh meaning",
+        "Rooh name meaning",
+        "Rooh origin",
+        "Rooh meaning in Urdu",
+        "Rooh pronunciation",
+        "Rooh Islamic name"
+      ],
+      "focus_keyword": "Rooh meaning",
+      "secondary_keywords": [
+        "Rooh name meaning",
+        "Rooh origin",
+        "Rooh meaning in Urdu",
+        "Rooh pronunciation",
+        "Rooh Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/rooh",
+      "seo_score": 95,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Rooh, an Arabic-origin name used in Muslim communities.",
+      "body_summary": "Rooh is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Rooh",
+      "#RoohMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 150,
+      "quality_score": 95,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form رُوح carries the sense “Soul, spirit”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Rooh",
+          "description": "Rooh — an Arabic-origin given name meaning Soul, spirit",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Rooh mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Rooh is an Arabic-origin name meaning “Soul, spirit”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Rooh?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Rooh originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Rooh an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form رُوح is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Rooh?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is built on the root ر و ح (r-w-ḥ)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Rooh an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Rooh is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Rooh a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Rooh is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Rooh mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written روح and carries the sense “روح، جان”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Rooh pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “rooh”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Rooh a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Rooh as a girl's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Rooh",
+              "item": "https://nameverse.site/names/islamic/rooh"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

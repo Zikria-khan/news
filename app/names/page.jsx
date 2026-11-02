@@ -8,9 +8,9 @@ import PageJsonLd from '../../components/PageJsonLd.jsx';
 import AdSlot from '../../components/AdSlot.jsx';
 
 export const metadata = pageMetadata({
-  title: 'All Baby Names by Religion \u2014 11,412 Names & Meanings',
+  title: 'All Baby Names by Religion \u2014 11,730 Names & Meanings',
   description:
-    'Browse 11,412 baby names across Islamic, Christian and Hindu traditions with recorded meanings and origins \u2014 A\u2013Z by tradition, gender and letter.',
+    'Browse 11,730 baby names across Islamic, Christian and Hindu traditions with recorded meanings and origins \u2014 A\u2013Z by tradition, gender and letter.',
   path: '/names',
 });
 
@@ -18,7 +18,7 @@ const namesIndexJsonLd = {
   '@context': 'https://schema.org',
   '@type': 'CollectionPage',
   name: 'All Baby Names',
-  description: 'Browse 11,412 published baby names across Islamic, Christian and Hindu traditions.',
+  description: 'Browse 11,730 published baby names across Islamic, Christian and Hindu traditions.',
   url: 'https://nameverse.site/names',
   isPartOf: {
     '@type': 'WebSite',

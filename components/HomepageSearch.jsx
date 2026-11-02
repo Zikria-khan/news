@@ -352,7 +352,7 @@ export default function HomepageSearch() {
                 onClick={handleSearchSubmit}
                 className="btn-primary mt-3 !min-h-[36px] !px-4 text-xs"
               >
-                Search Full 11,412 Database &rarr;
+                Search Full 11,730 Database &rarr;
               </button>
             </div>
           )}

@@ -1,0 +1,490 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Qahir",
+    "slug": "qahir",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Qahir",
+      "normalized_name": "qahir",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Qahir",
+        "qahir"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Conqueror, subduer",
+      "primary_meaning": "Qahir corresponds to the Arabic form قَاهِر and is glossed in this record as “Conqueror, subduer.” The record associates the form with root ق ه ر (q-h-r). The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "Conqueror, subduer",
+      "meaning_explanation": "Qahir corresponds to the Arabic form قَاهِر (Arabic root ق ه ر (q-h-r); قَاهِر (Qāhir)). Its core sense is qahir; conqueror, subduer. Qahir is Arabic قَاهِر (Qāhir) 'conqueror, subduer', from the root ق ه ر (q-h-r). The source gloss 'Conqueror' is consistent.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "قَاهِر",
+      "transliteration": "qahir",
+      "root": "ق ه ر",
+      "root_transliteration": "q-h-r",
+      "morphology": "Built on the root ق ه ر.",
+      "feminine_form": null,
+      "etymological_meaning": "From the root ق ه ر (q-h-r)",
+      "root_family": [],
+      "etymology_explanation": "The form قَاهِر is an established Arabic lexical item, and Qahir is the word itself used as a personal name rather than a derived or diminutive form.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form قَاهِر.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Qahir is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Qahir is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Qahir as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Conqueror, subduer",
+      "related_concepts": [
+        "Conqueror, subduer"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Conqueror, subduer” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Conqueror, subduer.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 8,
+      "life_path_number": 8,
+      "ruling_planet": "Saturn",
+      "lucky_day": "Saturday",
+      "lucky_colors": [
+        "Black",
+        "Blue"
+      ],
+      "lucky_stone": "Blue Sapphire",
+      "meaning": "In Pythagorean numerology the letters of Qahir total 8, associated with ambition, authority and material success. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 8,
+      "lucky_day": "Saturday",
+      "lucky_colors": [
+        "Black",
+        "Blue"
+      ],
+      "lucky_stone": "Blue Sapphire",
+      "ruling_planet": "Saturn"
+    },
+    "translations": {
+      "english": {
+        "name": "Qahir",
+        "script": "Qahir",
+        "meaning": "Conqueror, subduer",
+        "long_meaning": "Qahir is an Arabic-origin given name; in Arabic the word means “Conqueror, subduer”."
+      },
+      "urdu": {
+        "name": "قاہر",
+        "script": "قاہر",
+        "meaning": "قاہر، فاتح، غالب",
+        "long_meaning": "Qahir (قاہر) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم قاہر، فاتح، غالب ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "قاهر",
+        "script": "قاهر",
+        "meaning": "قاهر، چیره‌گر",
+        "long_meaning": "Qahir (قاهر) نامی برگرفته از زبان عربی است و معنای اصلی آن قاهر، چیره‌گر است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "क़ाहिर",
+        "script": "क़ाहिर",
+        "meaning": "क़ाहिर, विजेता",
+        "long_meaning": "Qahir (क़ाहिर) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ क़ाहिर, विजेता है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "قاهر",
+        "script": "قاهر",
+        "meaning": "قاهر، بریالی",
+        "long_meaning": "Qahir (قاهر) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې قاهر، بریالی ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "قَاهِر",
+        "script": "قَاهِر",
+        "meaning": "الْقَاهِر، الْغَالِب",
+        "long_meaning": "Qahir (قَاهِر) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الْقَاهِر، الْغَالِب. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "qa-hir",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "قَاهِر"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Qahir"
+      ],
+      "script_forms": [
+        "قاهر",
+        "قاہر",
+        "قَاهِر",
+        "क़ाहिर"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form قَاهِر is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Qahir mean?",
+        "a": "Qahir is an Arabic-origin name meaning “Conqueror, subduer”."
+      },
+      {
+        "q": "What is the origin of Qahir?",
+        "a": "Qahir originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Qahir an Arabic name?",
+        "a": "Yes, the recorded form قَاهِر is Arabic."
+      },
+      {
+        "q": "What is the root of Qahir?",
+        "a": "It is built on the root ق ه ر (q-h-r)."
+      },
+      {
+        "q": "Is Qahir an Islamic name?",
+        "a": "Qahir is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Qahir a Quranic name?",
+        "a": "Qahir is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Qahir mean in Urdu?",
+        "a": "In Urdu it is written قاہر and carries the sense “قاہر، فاتح، غالب”."
+      },
+      {
+        "q": "How is Qahir pronounced?",
+        "a": "A romanized syllable approximation is “qa-hir”."
+      },
+      {
+        "q": "Is Qahir a boy's or girl's name?",
+        "a": "Documented usage records Qahir as a boy's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Qahir Name Meaning, Origin & Islamic Context",
+      "meta_description": "Qahir (قَاهِر) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Qahir meaning, Qahir name meaning, Qahir origin, Qahir meaning in Urdu, Qahir pronunciation, Qahir Islamic name",
+      "description_paragraph": "Qahir is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Qahir meaning",
+        "Qahir name meaning",
+        "Qahir origin",
+        "Qahir meaning in Urdu",
+        "Qahir pronunciation",
+        "Qahir Islamic name"
+      ],
+      "focus_keyword": "Qahir meaning",
+      "secondary_keywords": [
+        "Qahir name meaning",
+        "Qahir origin",
+        "Qahir meaning in Urdu",
+        "Qahir pronunciation",
+        "Qahir Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/qahir",
+      "seo_score": 95,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Qahir, an Arabic-origin name used in Muslim communities.",
+      "body_summary": "Qahir is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Qahir",
+      "#QahirMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 154,
+      "quality_score": 95,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form قَاهِر carries the sense “Conqueror, subduer”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Qahir",
+          "description": "Qahir — an Arabic-origin given name meaning Conqueror, subduer",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Qahir mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Qahir is an Arabic-origin name meaning “Conqueror, subduer”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Qahir?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Qahir originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Qahir an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form قَاهِر is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Qahir?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is built on the root ق ه ر (q-h-r)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Qahir an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Qahir is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Qahir a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Qahir is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Qahir mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written قاہر and carries the sense “قاہر، فاتح، غالب”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Qahir pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “qa-hir”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Qahir a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Qahir as a boy's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Qahir",
+              "item": "https://nameverse.site/names/islamic/qahir"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

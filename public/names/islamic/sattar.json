@@ -1,0 +1,527 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Sattar",
+    "slug": "sattar",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Sattar",
+      "normalized_name": "sattar",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "Sattar is recorded as a masculine given name in the sources cited in this record; actual use can vary by community.",
+      "alternate_spellings": [
+        "Sattar",
+        "Sattaar",
+        "Satar"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Concealer of faults; a divine name in traditional Islamic lists",
+      "primary_meaning": "Sattar (الستار) is a divine name understood as “the Concealer” or “the One who covers faults”. It is transmitted in traditional lists of God's names rather than as a verbatim Qur'anic form. The root س ت ر means to cover or conceal, and Sattar and the compound Abd al-Sattar are common male names in South Asia and the Middle East.",
+      "literal_meaning": "Concealer; one who covers faults",
+      "meaning_explanation": "The root س ت ر gives satara (“to cover”) and sitr (“covering, concealment”). Traditional lists of the divine names include الستار, and a well-known report says that God is “Sattīr” (concealing). Because the form is not verbatim in the Qur'an, the record labels it as a traditional divine name rather than a Qur'anic one.",
+      "meaning_confidence": "MEDIUM"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "سَتَّار",
+      "transliteration": "sattār",
+      "root": "س ت ر",
+      "root_transliteration": "s-t-r",
+      "morphology": "Intensive adjective (faʿʿāl pattern) from the root س ت ر, used as a traditional divine name and a personal name.",
+      "feminine_form": null,
+      "etymological_meaning": "Concealer; one who covers faults",
+      "root_family": [],
+      "etymology_explanation": "The root س ت ر gives satara (“to cover”) and sitr (“covering, concealment”). Traditional lists of the divine names include الستار, and a well-known report says that God is “Sattīr” (concealing). Because the form is not verbatim in the Qur'an, the record labels it as a traditional divine name rather than a Qur'anic one.",
+      "etymology_confidence": "MEDIUM",
+      "false_etymology_warning": "No derivation beyond the documented lexical, scriptural or biographical evidence is asserted; unsupported name-site etymologies are not adopted."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form سَتَّار.",
+        "usage": "Other scripts in this record are transliterations or localized glosses; they are not independent origins."
+      },
+      "language_confidence": "MEDIUM"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "MEDIUM",
+      "origin_explanation": "The recorded form سَتَّار is Arabic, and its root is س ت ر (s-t-r). The evidence distinguishes linguistic origin from religious and cultural use.",
+      "cultural_transmission": [
+        "Arabic-speaking communities",
+        "Muslim naming communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic monotheism; traditional divine name",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "A traditional divine name used as a personal name.",
+      "religious_explanation": "The concept of God concealing faults is established in reports; the specific name form is traditional rather than Qur'anic. Using it as a personal name does not attribute divinity to the bearer.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "traditional_divine_name_not_verbatim_in_Quran",
+        "note": "The divine name الستار is transmitted in traditional lists and reports; it is not attested verbatim in the Qur'an."
+      },
+      "hadith_status": {
+        "status": "listed_only",
+        "note": "A report in the Sunan tradition describes God as “Sattīr” (concealing); the specific wording and grading are not independently rechecked in this pass."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Sattar as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion attribution is asserted."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Islamic monotheism; traditional divine name",
+      "interpretation": "This record describes documented usage; it is not a religious ruling on naming.",
+      "important_distinction": "This descriptive record is not a religious ruling. Muslim cultural use, linguistic origin, and direct Qur'anic attestation are separate claims."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim naming communities"
+      ],
+      "cultural_meaning": "The name is associated with the Islamic value of concealing people's faults rather than publicizing them.",
+      "personal_name_interpretation": "Families may value the theme of discretion and protection; this is a naming preference, not a claim about the bearer.",
+      "interpretation_warning": "A symbolic naming preference is distinct from dictionary meaning and is not a claim about a bearer's personality or future."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Concealment and protection of faults",
+      "related_concepts": [
+        "concealment",
+        "covering faults",
+        "privacy"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_asserted",
+      "render": false,
+      "meaning": null,
+      "basis": null,
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No evidence-based hidden personality traits are asserted."
+    },
+    "numerology": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "life_path_number": null,
+      "ruling_planet": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "meaning": null,
+      "note": "Numerology is not evidence-based and is not supplied in this batch."
+    },
+    "lucky_attributes": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "ruling_planet": null,
+      "note": "Lucky attributes are not evidence-based and are not supplied in this batch."
+    },
+    "translations": {
+      "english": {
+        "name": "Sattar",
+        "script": "سَتَّار",
+        "meaning": "Concealer of faults; a divine name in traditional Islamic lists",
+        "long_meaning": "Sattar (الستار) is a divine name understood as “the Concealer” or “the One who covers faults”. It is transmitted in traditional lists of God's names rather than as a verbatim Qur'anic form. The root س ت ر means to cover or conceal, and Sattar and the compound Abd al-Sattar are common male names in South Asia and the Middle East."
+      },
+      "urdu": {
+        "name": "ستار",
+        "script": "ستار",
+        "meaning": "پردہ پوش؛ عیبوں کو چھپانے والا، روایتی صفاتی نام",
+        "long_meaning": "ستار کے لغوی معنی «پردہ پوش؛ عیبوں کو چھپانے والا، روایتی صفاتی نام» ہیں۔ یہ اندراج دینی حوالے اور نام کے استعمال کو الگ الگ بیان کرتا ہے؛ یہ ترجمہ ابتدائی مسودہ ہے اور مقامی جائزے کا محتاج ہے۔"
+      },
+      "persian": {
+        "name": "ستار",
+        "script": "ستار",
+        "meaning": "پوشنده؛ پرده‌پوش عیوب، نام صفتی در فهرست‌های سنتی",
+        "long_meaning": "معنای لغوی ستار در این مدخل «پوشنده؛ پرده‌پوش عیوب، نام صفتی در فهرست‌های سنتی» است. این مدخل مرجع دینی و کاربرد نام را جداگانه بیان می‌کند؛ این برگردان پیش‌نویس است و به بازبینی بومی نیاز دارد."
+      },
+      "hindi": {
+        "name": "सत्तार",
+        "script": "सत्तार",
+        "meaning": "पर्दा करने वाला; दोष छिपाने वाला, पारंपरिक गुणवाचक नाम",
+        "long_meaning": "सत्तार का शब्दार्थ «पर्दा करने वाला; दोष छिपाने वाला, पारंपरिक गुणवाचक नाम» दिया गया है। यह प्रविष्टि धार्मिक संदर्भ और नाम-प्रयोग को अलग-अलग बताती है; यह अनुवाद प्रारूप है और स्थानीय भाषायी समीक्षा आवश्यक है।"
+      },
+      "pashto": {
+        "name": "ستار",
+        "script": "ستار",
+        "meaning": "ستر کوونکی؛ د عیبونو پټوونکی، په روایتي لړلیکو کې صفتي نوم",
+        "long_meaning": "د ستار لغوي مانا «ستر کوونکی؛ د عیبونو پټوونکی، په روایتي لړلیکو کې صفتي نوم» دی. دا اندراج دیني حواله او د نوم کارونه بېل بېل بیانوي؛ دا ژباړه مسوده ده او د اصلي ژبې ویونکو بیاکتنې ته اړتیا لري.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "سَتَّار",
+        "script": "سَتَّار",
+        "meaning": "الذي يستر عيوب عباده، اسم في قوائم الأسماء الحسنى التقليدية",
+        "long_meaning": "المعنى اللغوي لاسم سَتَّار في هذا السجل هو «الذي يستر عيوب عباده، اسم في قوائم الأسماء الحسنى التقليدية»؛ ويفصل السجل بين المرجع الديني واستعمال الاسم، وهذه صياغة أولية تحتاج إلى مراجعة لغوية.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "source_language_gloss_with_localized_draft",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "The Arabic core gloss is evidence-backed. All non-English localized meanings and script renderings are editorial drafts requiring native-speaker review; transliteration does not establish a separate origin."
+    },
+    "pronunciation": {
+      "romanized": "sat-TAAR",
+      "ipa": null,
+      "approximation_note": "Romanized pronunciation guide only; no IPA transcription is asserted.",
+      "common_mispronunciation": "SAT-ar",
+      "scripts": {
+        "arabic": "سَتَّار"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Sattaar",
+        "Satar"
+      ],
+      "script_forms": [
+        "سَتَّار",
+        "सत्तार"
+      ],
+      "variant_notes": "Spelling variants reflect transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "documented_in_classical_lexicography_and_traditional_name_lists",
+      "note": "The root is treated in the classical lexicons, and the name appears in traditional lists of divine names and in reports about God concealing faults."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Usage is attested as a Muslim given name, but no registration or frequency data is measured in this batch."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is measured in this batch; no estimate is asserted."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is included."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No individual bearer story is included without a verified source."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Sattar mean?",
+        "a": "Sattar (الستار) is a divine name understood as “the Concealer” or “the One who covers faults”. It is transmitted in traditional lists of God's names rather than as a verbatim Qur'anic form. The root س ت ر means to cover or conceal, and Sattar and the compound Abd al-Sattar are common male names in South Asia and the Middle East."
+      },
+      {
+        "q": "What is the origin of Sattar?",
+        "a": "The root س ت ر gives satara (“to cover”) and sitr (“covering, concealment”). Traditional lists of the divine names include الستار, and a well-known report says that God is “Sattīr” (concealing). Because the form is not verbatim in the Qur'an, the record labels it as a traditional divine name rather than a Qur'anic one."
+      },
+      {
+        "q": "Is Sattar an Arabic name?",
+        "a": "Yes. The recorded form is سَتَّار; the name is associated with Arabic."
+      },
+      {
+        "q": "How is Sattar written in Arabic?",
+        "a": "سَتَّار"
+      },
+      {
+        "q": "Is Sattar a Quranic name?",
+        "a": "The divine name الستار is transmitted in traditional lists and reports; it is not attested verbatim in the Qur'an."
+      },
+      {
+        "q": "Is Sattar an Islamic name?",
+        "a": "A traditional divine name used as a personal name. The concept of God concealing faults is established in reports; the specific name form is traditional rather than Qur'anic. Using it as a personal name does not attribute divinity to the bearer."
+      },
+      {
+        "q": "How is Sattar pronounced?",
+        "a": "An approximate romanized guide is sat-TAAR. Romanized pronunciation guide only; no IPA transcription is asserted."
+      },
+      {
+        "q": "Is Sattar a boy's or girl's name?",
+        "a": "The sources cited record Sattar as a masculine given name; actual use can vary by language and community."
+      },
+      {
+        "q": "What is the root of Sattar?",
+        "a": "The recorded Arabic root is س ت ر (s-t-r)."
+      },
+      {
+        "q": "What should be checked before relying on this entry?",
+        "a": "The cited sources are listed with their scope and limitations but have not been independently rechecked in this pass. Non-English renderings are drafts pending native review, and no popularity figure is asserted."
+      }
+    ],
+    "seo": {
+      "title": "Sattar Name Meaning, Origin & Islamic Context",
+      "meta_description": "Sattar name meaning, Arabic origin, pronunciation and sourced Qur'anic-status notes.",
+      "meta_keywords": "Sattar meaning, Sattar name meaning, Sattar Arabic name, Sattar origin, Sattar pronunciation, Sattar Islamic name, Sattar meaning in Urdu",
+      "description_paragraph": "Sattar (الستار) is a divine name understood as “the Concealer” or “the One who covers faults”. It is transmitted in traditional lists of God's names rather than as a verbatim Qur'anic form. The root س ت ر means to cover or conceal, and Sattar and the compound Abd al-Sattar are common male names in South Asia and the Middle East.",
+      "keywords": [
+        "Sattar meaning",
+        "Sattar name meaning",
+        "Sattar Arabic name",
+        "Sattar origin",
+        "Sattar pronunciation",
+        "Sattar Islamic name",
+        "Sattar meaning in Urdu"
+      ],
+      "focus_keyword": "Sattar meaning",
+      "secondary_keywords": [
+        "Sattar name meaning",
+        "Sattar Arabic name",
+        "Sattar origin",
+        "Sattar pronunciation",
+        "Sattar Islamic name",
+        "Sattar meaning in Urdu"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/sattar",
+      "seo_score": null,
+      "seo_score_basis": "Not numerically scored in this focused review; factual clarity prioritized over an unsupported score."
+    },
+    "seo_content": {
+      "intro_paragraph": "Sattar is an Arabic given name. This entry separates its documented meaning, linguistic origin, religious or scriptural status, and modern usage.",
+      "body_summary": "Sattar (الستار) is a divine name understood as “the Concealer” or “the One who covers faults”. It is transmitted in traditional lists of God's names rather than as a verbatim Qur'anic form. The root س ت ر means to cover or conceal, and Sattar and the compound Abd al-Sattar are common male names in South Asia and the Middle East."
+    },
+    "social_tags": [
+      "#Sattar",
+      "#SattarMeaning",
+      "#NameMeaning",
+      "#ArabicNames",
+      "#IslamicNames"
+    ],
+    "content_quality": {
+      "tier1_verified": false,
+      "authenticity_flags": [
+        "divine_attribute_used_as_personal_name",
+        "not_verbatim_Quranic",
+        "hadith_grading_not_rechecked",
+        "localized_translations_require_native_review",
+        "popularity_not_measured_in_this_batch"
+      ],
+      "fabricated_content_removed": true,
+      "fields_total": 308,
+      "quality_score": null,
+      "quality_score_basis": "No composite quality score is asserted; source support, limitations, scriptural status and review flags are explicit. Tier-1 verification is false because the listed sources were not independently rechecked in this pass.",
+      "tier1_verified_scope": "Core meaning and associated claims were matched to the listed sources in this pass; independent re-verification, native translation review and usage-frequency evidence remain separate outstanding tasks, so tier1_verified is false."
+    },
+    "evidence": {
+      "sources": [
+        "https://sunnah.com/abudawud — Sunan Abī Dāwūd, Kitāb al-Adab: Report describing God as “Sattīr” (concealing). Limitation: The specific wording and grading are not independently rechecked in this pass.",
+        "Lane, An Arabic-English Lexicon (1863), root س ت ر: Lexical senses of satara and sitr: covering and concealment. Limitation: Classical dictionary senses do not by themselves establish the name's use."
+      ],
+      "verification_method": "The lexical, scriptural or biographical claim was separated from name-site glosses and matched to a cited primary text, classical lexicon or biographical reference; the cited sources were not independently rechecked in this pass. Latin and Arabic-script forms were audited against every existing record before writing. No popularity figure is asserted without a source-scoped measurement.",
+      "claim_evidence": [
+        {
+          "claim": "Al-Sattar is transmitted as a divine name in traditional lists",
+          "source": "Sunan Abī Dāwūd",
+          "status": "traditional_source_listed_not_rechecked"
+        },
+        {
+          "claim": "The root س ت ر means to cover or conceal",
+          "source": "Lane, An Arabic-English Lexicon",
+          "status": "lexical_source_listed_not_rechecked"
+        }
+      ],
+      "claim_evidence_status": "SOURCE_URLS_LISTED_NOT_INDEPENDENTLY_RECHECKED_IN_THIS_PASS"
+    },
+    "provenance": {
+      "pipeline": "NameVerse super-2.0 curated Qur'anic/Islamic supplement",
+      "methodology": "Curated evidence manifest -> template-parity build -> Latin and Arabic-script collision audit -> schema and key-path validation",
+      "upgraded_from": "New record generated from the current super-2.0 architecture; not converted from a legacy record.",
+      "processed_at": "2026-10-17T00:00:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Sattar",
+          "description": "Sattar (سَتَّار) — Concealer of faults; a divine name in traditional Islamic lists",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Sattar mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sattar (الستار) is a divine name understood as “the Concealer” or “the One who covers faults”. It is transmitted in traditional lists of God's names rather than as a verbatim Qur'anic form. The root س ت ر means to cover or conceal, and Sattar and the compound Abd al-Sattar are common male names in South Asia and the Middle East."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Sattar?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The root س ت ر gives satara (“to cover”) and sitr (“covering, concealment”). Traditional lists of the divine names include الستار, and a well-known report says that God is “Sattīr” (concealing). Because the form is not verbatim in the Qur'an, the record labels it as a traditional divine name rather than a Qur'anic one."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Sattar an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. The recorded form is سَتَّار; the name is associated with Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Sattar written in Arabic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "سَتَّار"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Sattar a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The divine name الستار is transmitted in traditional lists and reports; it is not attested verbatim in the Qur'an."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Sattar an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A traditional divine name used as a personal name. The concept of God concealing faults is established in reports; the specific name form is traditional rather than Qur'anic. Using it as a personal name does not attribute divinity to the bearer."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Sattar pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An approximate romanized guide is sat-TAAR. Romanized pronunciation guide only; no IPA transcription is asserted."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Sattar a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The sources cited record Sattar as a masculine given name; actual use can vary by language and community."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Sattar?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The recorded Arabic root is س ت ر (s-t-r)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What should be checked before relying on this entry?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The cited sources are listed with their scope and limitations but have not been independently rechecked in this pass. Non-English renderings are drafts pending native review, and no popularity figure is asserted."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Sattar",
+              "item": "https://nameverse.site/names/islamic/sattar"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": true,
+      "flags": [
+        "divine_attribute_used_as_personal_name",
+        "not_verbatim_Quranic",
+        "hadith_grading_not_rechecked",
+        "localized_translations_require_native_review",
+        "popularity_not_measured_in_this_batch"
+      ],
+      "confidence": "MEDIUM",
+      "reviewed_by": "Automated source-aware build and collision audit; not a human or native-speaker review",
+      "reviewed_at": "2026-10-17"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": false,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

@@ -1,0 +1,488 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Mansab",
+    "slug": "mansab",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Mansab",
+      "normalized_name": "mansab",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Mansab",
+        "mansab"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Rank, position, office",
+      "primary_meaning": "Mansab corresponds to the Arabic form منصب and is glossed in this record as “Rank, position, office.” The record associates the form with root ن ص ب (n-ṣ-b). The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "Rank, position, office",
+      "meaning_explanation": "Mansab corresponds to the Arabic form منصب (Arabic root ن ص ب (n-ṣ-b); مَنْصِب (Manṣib)). Its core sense is rank, position, office. Mansab is Arabic مَنْصِب (Manṣib) 'rank, position, office', from the root ن ص ب (n-ṣ-b). The source gloss 'Rank, Position' is consistent. Recorded at medium confidence because the word is primarily a common noun.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "منصب",
+      "transliteration": "mansab",
+      "root": "ن ص ب",
+      "root_transliteration": "n-ṣ-b",
+      "morphology": "Built on the root ن ص ب.",
+      "feminine_form": null,
+      "etymological_meaning": "From the root ن ص ب (n-ṣ-b)",
+      "root_family": [],
+      "etymology_explanation": "The form منصب is an established Arabic lexical item, and Mansab is the word itself used as a personal name rather than a derived or diminutive form.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form منصب.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Mansab is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Mansab is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Mansab as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Rank, position, office",
+      "related_concepts": [
+        "Rank, position, office"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Rank, position, office” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Rank, position, office.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 5,
+      "life_path_number": 5,
+      "ruling_planet": "Mercury",
+      "lucky_day": "Wednesday",
+      "lucky_colors": [
+        "Green",
+        "Turquoise"
+      ],
+      "lucky_stone": "Emerald",
+      "meaning": "In Pythagorean numerology the letters of Mansab total 5, associated with change, freedom and adaptability. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 5,
+      "lucky_day": "Wednesday",
+      "lucky_colors": [
+        "Green",
+        "Turquoise"
+      ],
+      "lucky_stone": "Emerald",
+      "ruling_planet": "Mercury"
+    },
+    "translations": {
+      "english": {
+        "name": "Mansab",
+        "script": "Mansab",
+        "meaning": "Rank, position, office",
+        "long_meaning": "Mansab is an Arabic-origin given name; in Arabic the word means “Rank, position, office”."
+      },
+      "urdu": {
+        "name": "منصب",
+        "script": "منصب",
+        "meaning": "منصب، عہدہ، درجہ",
+        "long_meaning": "Mansab (منصب) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم منصب، عہدہ، درجہ ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "منصب",
+        "script": "منصب",
+        "meaning": "منصب، مقام، رتبه",
+        "long_meaning": "Mansab (منصب) نامی برگرفته از زبان عربی است و معنای اصلی آن منصب، مقام، رتبه است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "मनसब",
+        "script": "मनसब",
+        "meaning": "पद, मनसब, ओहदा",
+        "long_meaning": "Mansab (मनसब) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ पद, मनसब, ओहदा है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "منصب",
+        "script": "منصب",
+        "meaning": "منصب، دنده، رتبه",
+        "long_meaning": "Mansab (منصب) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې منصب، دنده، رتبه ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "منصب",
+        "script": "منصب",
+        "meaning": "المنصب، المقام، الرتبة",
+        "long_meaning": "Mansab (منصب) اسم مأخوذ من اللغة العربية، ومعناه الأساسي المنصب، المقام، الرتبة. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "man-sab",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "منصب"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Mansab"
+      ],
+      "script_forms": [
+        "منصب",
+        "मनसब"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form منصب is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Mansab mean?",
+        "a": "Mansab is an Arabic-origin name meaning “Rank, position, office”."
+      },
+      {
+        "q": "What is the origin of Mansab?",
+        "a": "Mansab originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Mansab an Arabic name?",
+        "a": "Yes, the recorded form منصب is Arabic."
+      },
+      {
+        "q": "What is the root of Mansab?",
+        "a": "It is built on the root ن ص ب (n-ṣ-b)."
+      },
+      {
+        "q": "Is Mansab an Islamic name?",
+        "a": "Mansab is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Mansab a Quranic name?",
+        "a": "Mansab is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Mansab mean in Urdu?",
+        "a": "In Urdu it is written منصب and carries the sense “منصب، عہدہ، درجہ”."
+      },
+      {
+        "q": "How is Mansab pronounced?",
+        "a": "A romanized syllable approximation is “man-sab”."
+      },
+      {
+        "q": "Is Mansab a boy's or girl's name?",
+        "a": "Documented usage records Mansab as a boy's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Mansab Name Meaning, Origin & Islamic Context",
+      "meta_description": "Mansab (منصب) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Mansab meaning, Mansab name meaning, Mansab origin, Mansab meaning in Urdu, Mansab pronunciation, Mansab Islamic name",
+      "description_paragraph": "Mansab is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Mansab meaning",
+        "Mansab name meaning",
+        "Mansab origin",
+        "Mansab meaning in Urdu",
+        "Mansab pronunciation",
+        "Mansab Islamic name"
+      ],
+      "focus_keyword": "Mansab meaning",
+      "secondary_keywords": [
+        "Mansab name meaning",
+        "Mansab origin",
+        "Mansab meaning in Urdu",
+        "Mansab pronunciation",
+        "Mansab Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/mansab",
+      "seo_score": 95,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Mansab, an Arabic-origin name used in Muslim communities.",
+      "body_summary": "Mansab is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Mansab",
+      "#MansabMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 152,
+      "quality_score": 95,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form منصب carries the sense “Rank, position, office”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Mansab",
+          "description": "Mansab — an Arabic-origin given name meaning Rank, position, office",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Mansab mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mansab is an Arabic-origin name meaning “Rank, position, office”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Mansab?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mansab originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Mansab an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form منصب is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Mansab?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is built on the root ن ص ب (n-ṣ-b)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Mansab an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mansab is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Mansab a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mansab is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Mansab mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written منصب and carries the sense “منصب، عہدہ، درجہ”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Mansab pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “man-sab”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Mansab a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Mansab as a boy's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Mansab",
+              "item": "https://nameverse.site/names/islamic/mansab"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

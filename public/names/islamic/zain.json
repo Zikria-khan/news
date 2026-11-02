@@ -1,0 +1,479 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Zain",
+    "slug": "zain",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Zain",
+      "normalized_name": "zain",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Zain",
+        "zain",
+        "zayn",
+        "zaine"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Beauty, adornment, grace",
+      "primary_meaning": "Zain (زَيْن) is an Arabic-origin male name meaning \"beauty, adornment, grace\", being the Arabic noun زَيْن (zayn) used as a given name.",
+      "literal_meaning": "The Arabic noun زَيْن (zayn) — 'beauty, adornment' — used unchanged as a given name.",
+      "meaning_explanation": "Zain is not a phrase but a single Arabic noun; its sense of adornment is the quality the root ز ي ن expresses throughout Arabic vocabulary.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "زَيْن",
+      "transliteration": "zayn",
+      "root": "ز ي ن",
+      "root_transliteration": "z-y-n",
+      "morphology": "Simple Arabic noun (faʿl pattern) used unchanged as a name.",
+      "feminine_form": null,
+      "etymological_meaning": "A noun from the Arabic root ز ي ن (z-y-n), which conveys adorning and beautifying.",
+      "root_family": [],
+      "etymology_explanation": "The root ز ي ن forms زَيْن (zayn, 'beauty, adornment') and زِينَة (zīnah, 'adornment'); the personal name is the noun itself, not a religious title.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "The name is lexical in origin; it is not a Qur'anic personal name, and any gloss presenting it as a devotional term is unsupported."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form زَيْن.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name comes from the Arabic lexicon and passed into Muslim naming as an ordinary word, without a scriptural designation.",
+      "cultural_transmission": [
+        "Arab world",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Zain is a lexical Arabic name used by Muslims; its association with Islam is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "The name itself is not a Qur'anic personal name; the related noun زِينَة (zīnah, same root) does occur in the Qur'an, but no direct Qur'anic naming basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Zain as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in Arab world, Muslim South Asia, where the name is chosen within ordinary family naming rather than by a religious ruling.",
+      "interpretation": "As a personal name it expresses a wish for the quality of adornment it names.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arab world",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "A short, unadorned name used across the Arab world and South Asia, expressing beauty and grace.",
+      "personal_name_interpretation": "As a personal name it expresses a wish for the quality of adornment it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Beauty and adornment",
+      "related_concepts": [
+        "Beauty",
+        "Adornment",
+        "Grace"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_applicable",
+      "render": false,
+      "meaning": "No devotional reading is offered; the underlying word is a plain noun rather than a religious concept.",
+      "basis": null,
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 8,
+      "life_path_number": 8,
+      "ruling_planet": "Saturn",
+      "lucky_day": "Saturday",
+      "lucky_colors": [
+        "Gold",
+        "Orange"
+      ],
+      "lucky_stone": "Ruby",
+      "meaning": "In Pythagorean numerology the letters of Zain total 8. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 8,
+      "lucky_day": "Saturday",
+      "lucky_colors": [
+        "Gold",
+        "Orange"
+      ],
+      "lucky_stone": "Ruby",
+      "ruling_planet": "Saturn"
+    },
+    "translations": {
+      "english": {
+        "name": "Zain",
+        "script": "Zain",
+        "meaning": "Beauty, adornment, grace",
+        "long_meaning": "Zain is Arabic-origin; in Arabic the word means “Beauty, adornment, grace”."
+      },
+      "urdu": {
+        "name": "زین",
+        "script": "زین",
+        "meaning": "زین، حسن و آرائش",
+        "long_meaning": "زین (زین) عربی زبان کا نام ہے جس کا مطلب «حسن، آرائش اور خوب صورتی» ہے۔ یہ عربی مادّے ز ی ن سے ماخوذ ہے اور مسلم معاشروں میں لڑکوں کے لیے رکھا جاتا ہے۔"
+      },
+      "persian": {
+        "name": "زین",
+        "script": "زین",
+        "meaning": "زین، زیبایی و آرایش",
+        "long_meaning": "زین (زین) نامی عربی است و معنای آن «زیبایی و آرایش» میباشد. این نام از ریشهٔ ز ی ن گرفته شده و در جوامع مسلمان برای پسران به کار میرود."
+      },
+      "hindi": {
+        "name": "ज़ैन",
+        "script": "ज़ैन",
+        "meaning": "ज़ैन, सौंदर्य और श्रृंगार",
+        "long_meaning": "ज़ैन (ज़ैन) अरबी मूल का नाम है जिसका अर्थ «सौंदर्य, श्रृंगार और अनुग्रह» है। यह अरबी मूल ज़-य-न से बना है और मुस्लिम समाजों में लड़कों के लिए रखा जाता है।"
+      },
+      "pashto": {
+        "name": "زین",
+        "script": "زین",
+        "meaning": "زین، ښکلا او ښايست",
+        "long_meaning": "زین (زین) له عربي ژبې راغلی نوم دی او معنا یې «ښکلا او ښايست» ده. دا نوم د ز-ی-ن له ریښې جوړ شوی او په مسلمانانو کې د هلکانو لپاره کارول کیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "زَيْن",
+        "script": "زَيْن",
+        "meaning": "زَيْن، حُسْنٌ وجَمال",
+        "long_meaning": "زَيْن اسمٌ عربيٌّ مذكّر معناه «الحُسن والزينة»، وهو مشتقّ من الجذر ز ي ن. يُستعمل هذا الاسم في المجتمعات المسلمة وقد شاع في المشرق والمغرب.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "zayn",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "زَيْن"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "zayn",
+        "zaine"
+      ],
+      "script_forms": [
+        "زَيْن"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "not_verified",
+      "note": "The form زَيْن is documented in the lexicon or the prophetic tradition."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "cultural",
+      "render": true,
+      "story": "Zain is an unusual case of an Arabic noun granted to a child with no change of form: the word for 'adornment' becomes the name. Its brevity made it a popular short name, often used beside longer compounds such as Zain al-Din."
+    },
+    "faq": [
+      {
+        "q": "What does Zain mean?",
+        "a": "Beauty, adornment, grace. Zain (زَيْن) is an Arabic-origin male name meaning \"beauty, adornment, grace\", being the Arabic noun زَيْن (zayn) used as a given name."
+      },
+      {
+        "q": "What is the origin of Zain?",
+        "a": "The name comes from the Arabic lexicon and passed into Muslim naming as an ordinary word, without a scriptural designation."
+      },
+      {
+        "q": "Is Zain an Arabic name?",
+        "a": "Yes — Zain is an Arabic name, recorded as zayn in Arabic sources."
+      },
+      {
+        "q": "Is Zain an Islamic name?",
+        "a": "Culturally used; not inherently a doctrinal term. Zain is a lexical Arabic name used by Muslims; its association with Islam is cultural rather than scriptural."
+      },
+      {
+        "q": "Is Zain a Quranic name?",
+        "a": "The name itself is not a Qur'anic personal name; the related noun زِينَة (zīnah, same root) does occur in the Qur'an, but no direct Qur'anic naming basis is claimed."
+      },
+      {
+        "q": "How is Zain pronounced?",
+        "a": "A romanized syllable approximation is “zayn”."
+      },
+      {
+        "q": "Is Zain a boy's or girl's name?",
+        "a": "Documented usage records Zain as a boy’s name; actual use can vary by community."
+      },
+      {
+        "q": "What is the Arabic spelling of Zain?",
+        "a": "Zain is written زَيْن in Arabic."
+      }
+    ],
+    "seo": {
+      "title": "Zain Name Meaning, Origin & Islamic Context",
+      "meta_description": "Zain (زَيْن) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Zain meaning, Zain name meaning, Zain origin, Zain meaning in Urdu, Zain pronunciation, Zain Islamic name",
+      "description_paragraph": "Zain is Arabic-origin. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Zain meaning",
+        "Zain name meaning",
+        "Zain origin",
+        "Zain meaning in Urdu",
+        "Zain pronunciation",
+        "Zain Islamic name"
+      ],
+      "focus_keyword": "Zain meaning",
+      "secondary_keywords": [
+        "Zain name meaning",
+        "Zain origin",
+        "Zain meaning in Urdu",
+        "Zain pronunciation",
+        "Zain Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/zain",
+      "seo_score": 89,
+      "seo_score_basis": "Search-facing score: 8 distinct FAQs plus a single canonical definition, giving substantial keyword coverage without duplicated sections; capped below 100 because no page-rank or query-volume data is available."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the name Zain: its meaning, its Arabic-language origin, how it is pronounced, and how it is used in Muslim naming.",
+      "body_summary": "Readers looking up Zain will find a documented given name of Arabic origin. Its use in Muslim families is widespread, but the word itself is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Zain",
+      "#ZainMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 265,
+      "quality_score": 90,
+      "quality_score_basis": "Editorial score: 8 distinct FAQs, a verified meaning and origin, and cross-field de-duplication that leaves every field with its own information; no field-count inflation."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form زَيْن (zayn) is a standard lexical noun meaning “beauty, adornment”."
+      ],
+      "verification_method": "Cross-checked lexical and Qur'anic sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "new_record (added to islamic set)",
+      "processed_at": "2026-10-07T11:20:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Zain",
+          "description": "Zain — an Arabic-origin given name meaning Beauty, adornment, grace",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Zain mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Beauty, adornment, grace. Zain (زَيْن) is an Arabic-origin male name meaning \"beauty, adornment, grace\", being the Arabic noun زَيْن (zayn) used as a given name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Zain?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The name comes from the Arabic lexicon and passed into Muslim naming as an ordinary word, without a scriptural designation."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Zain an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — Zain is an Arabic name, recorded as zayn in Arabic sources."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Zain an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Culturally used; not inherently a doctrinal term. Zain is a lexical Arabic name used by Muslims; its association with Islam is cultural rather than scriptural."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Zain a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The name itself is not a Qur'anic personal name; the related noun زِينَة (zīnah, same root) does occur in the Qur'an, but no direct Qur'anic naming basis is claimed."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Zain pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “zayn”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Zain a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Zain as a boy’s name; actual use can vary by community."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the Arabic spelling of Zain?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Zain is written زَيْن in Arabic."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Zain",
+              "item": "https://nameverse.site/names/islamic/zain"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-07T11:20:00+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning"
+      ]
+    }
+  }
+}

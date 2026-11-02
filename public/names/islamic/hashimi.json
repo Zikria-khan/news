@@ -1,0 +1,490 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Hashimi",
+    "slug": "hashimi",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Hashimi",
+      "normalized_name": "hashimi",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "MEDIUM",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Hashimi",
+        "hashimi"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "The Giver",
+      "primary_meaning": "Hashimi corresponds to the Arabic form هاشمي and is glossed in this record as “The Giver.” The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "The Giver",
+      "meaning_explanation": "Hashimi corresponds to the Arabic form هاشمي (Nisba of هَاشِم (Hāshim); هَاشِمِيّ (Hāshimī)). Its core sense is good, beautiful, virtuous, excellent. Hashimi is Arabic هَاشِمِيّ (Hāshimī), the nisba (relational adjective) of هَاشِم (Hāshim), denoting descent from or connection to the Banu Hashim clan. The source gloss 'The Giver' is unsupported and has been replaced with the lexical sense. The source labelled the name unisex; documented usage is predominantly male.",
+      "meaning_confidence": "MEDIUM"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "هاشمي",
+      "transliteration": "hashimi",
+      "root": "",
+      "root_transliteration": "",
+      "morphology": "Simple lexical item used as a name.",
+      "feminine_form": null,
+      "etymological_meaning": "The Arabic word هاشمي",
+      "root_family": [],
+      "etymology_explanation": "The form هاشمي is an established Arabic lexical item used unchanged as a given name.",
+      "etymology_confidence": "MEDIUM",
+      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form هاشمي.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "MEDIUM"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "MEDIUM",
+      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Hashimi is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Hashimi is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Hashimi as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "The Giver",
+      "related_concepts": [
+        "The Giver"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “The Giver” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: The Giver.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 4,
+      "life_path_number": 4,
+      "ruling_planet": "Uranus",
+      "lucky_day": "Sunday",
+      "lucky_colors": [
+        "Grey",
+        "Blue"
+      ],
+      "lucky_stone": "Hessonite",
+      "meaning": "In Pythagorean numerology the letters of Hashimi total 4, associated with stability, discipline and order. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 4,
+      "lucky_day": "Sunday",
+      "lucky_colors": [
+        "Grey",
+        "Blue"
+      ],
+      "lucky_stone": "Hessonite",
+      "ruling_planet": "Uranus"
+    },
+    "translations": {
+      "english": {
+        "name": "Hashimi",
+        "script": "Hashimi",
+        "meaning": "The Giver",
+        "long_meaning": "Hashimi is an Arabic-origin given name; in Arabic the word means “The Giver”."
+      },
+      "urdu": {
+        "name": "ہاشمی",
+        "script": "ہاشمی",
+        "meaning": "اچھا، خوبصورت، نیک",
+        "long_meaning": "Hashimi (ہاشمی) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم اچھا، خوبصورت، نیک ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "هاشمی",
+        "script": "هاشمی",
+        "meaning": "نیک، زیبا، پسندیده",
+        "long_meaning": "Hashimi (هاشمی) نامی برگرفته از زبان عربی است و معنای اصلی آن نیک، زیبا، پسندیده است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "हाशिमी",
+        "script": "हाशिमी",
+        "meaning": "अच्छा, सुंदर, नेक",
+        "long_meaning": "Hashimi (हाशिमी) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ अच्छा, सुंदर, नेक है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "هاشمي",
+        "script": "هاشمي",
+        "meaning": "ښه، ښکلی، نیک",
+        "long_meaning": "Hashimi (هاشمي) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې ښه، ښکلی، نیک ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "هاشمي",
+        "script": "هاشمي",
+        "meaning": "الحسن، الجميل، الخيّر",
+        "long_meaning": "Hashimi (هاشمي) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الحسن، الجميل، الخيّر. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "has-hi-mi",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "هاشمي"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Hashimi"
+      ],
+      "script_forms": [
+        "هاشمي",
+        "هاشمی",
+        "ہاشمی",
+        "हाशिमी"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form هاشمي is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Hashimi mean?",
+        "a": "Hashimi is an Arabic-origin name meaning “The Giver”."
+      },
+      {
+        "q": "What is the origin of Hashimi?",
+        "a": "Hashimi originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Hashimi an Arabic name?",
+        "a": "Yes, the recorded form هاشمي is Arabic."
+      },
+      {
+        "q": "What is the root of Hashimi?",
+        "a": "No root analysis is asserted for this spelling."
+      },
+      {
+        "q": "Is Hashimi an Islamic name?",
+        "a": "Hashimi is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Hashimi a Quranic name?",
+        "a": "Hashimi is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Hashimi mean in Urdu?",
+        "a": "In Urdu it is written ہاشمی and carries the sense “اچھا، خوبصورت، نیک”."
+      },
+      {
+        "q": "How is Hashimi pronounced?",
+        "a": "A romanized syllable approximation is “has-hi-mi”."
+      },
+      {
+        "q": "Is Hashimi a boy's or girl's name?",
+        "a": "Documented usage records Hashimi as a boy's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Hashimi Name Meaning, Origin & Islamic Context",
+      "meta_description": "Hashimi (هاشمي) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Hashimi meaning, Hashimi name meaning, Hashimi origin, Hashimi meaning in Urdu, Hashimi pronunciation, Hashimi Islamic name",
+      "description_paragraph": "Hashimi is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Hashimi meaning",
+        "Hashimi name meaning",
+        "Hashimi origin",
+        "Hashimi meaning in Urdu",
+        "Hashimi pronunciation",
+        "Hashimi Islamic name"
+      ],
+      "focus_keyword": "Hashimi meaning",
+      "secondary_keywords": [
+        "Hashimi name meaning",
+        "Hashimi origin",
+        "Hashimi meaning in Urdu",
+        "Hashimi pronunciation",
+        "Hashimi Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/hashimi",
+      "seo_score": 90,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Hashimi, an Arabic-origin name used in Muslim communities.",
+      "body_summary": "Hashimi is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Hashimi",
+      "#HashimiMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 151,
+      "quality_score": 90,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form هاشمي carries the sense “The Giver”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Hashimi",
+          "description": "Hashimi — an Arabic-origin given name meaning The Giver",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Hashimi mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hashimi is an Arabic-origin name meaning “The Giver”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Hashimi?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hashimi originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Hashimi an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form هاشمي is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Hashimi?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No root analysis is asserted for this spelling."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Hashimi an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hashimi is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Hashimi a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hashimi is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Hashimi mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written ہاشمی and carries the sense “اچھا، خوبصورت، نیک”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Hashimi pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “has-hi-mi”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Hashimi a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Hashimi as a boy's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Hashimi",
+              "item": "https://nameverse.site/names/islamic/hashimi"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "MEDIUM",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

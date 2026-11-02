@@ -1,0 +1,535 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Ilyasa",
+    "slug": "ilyasa",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Ilyasa",
+      "normalized_name": "ilyasa",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender follows documented naming usage, not an inference from the word's meaning; usage can vary by community.",
+      "alternate_spellings": [
+        "Ilyasa",
+        "ilyasa",
+        "Alyasa",
+        "Alyasaa",
+        "Ilyasaa"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Al-Yasa (Elisha); a prophet named in the Qur'an.",
+      "primary_meaning": "Ilyasa (al-yasaʿ) is the Qur'anic Arabic form of the prophet name Elisha, named in the Qur'an among the prophets of the Israelite line; the record asserts the scriptural reference, not any additional biography.",
+      "literal_meaning": "The form الْيَسَع occurs in Qur'an 6:86 and 38:48 as the name of a prophet; the verses do not gloss its etymology.",
+      "meaning_explanation": "The name is attested directly in the Qur'an (6:86 and 38:48) as the prophet known in Biblical tradition as Elisha; the deeper etymology belongs to Hebrew (Ĕlîšāʿ) and is not derived from Arabic roots.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "الْيَسَع",
+      "transliteration": "al-yasaʿ",
+      "root": "",
+      "root_transliteration": "",
+      "morphology": "Qur'anic Arabic proper name of a prophet; the underlying name is the Hebrew Ĕlîšāʿ (Elisha), so no Arabic triliteral root is asserted.",
+      "feminine_form": null,
+      "etymological_meaning": "Al-Yasa (Elisha); a prophet named in the Qur'an.",
+      "root_family": [],
+      "etymology_explanation": "The name is attested directly in the Qur'an (6:86 and 38:48) as the prophet known in Biblical tradition as Elisha; the deeper etymology belongs to Hebrew (Ĕlîšāʿ) and is not derived from Arabic roots.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented lexical analysis is asserted; unsupported name-site etymologies are not adopted."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form الْيَسَع.",
+        "usage": "Other scripts are transliterations or localized glosses; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The recorded form and meaning are associated with Arabic. The evidence distinguishes linguistic origin from religious/cultural use.",
+      "cultural_transmission": [
+        "Arabic-speaking communities",
+        "Muslim naming communities in South Asia"
+      ]
+    },
+    "religion": {
+      "primary_association": "Abrahamic scriptural naming; common Muslim practice of naming after prophets",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Name of a prophet in the Qur'an; this descriptive record is not a religious ruling.",
+      "religious_explanation": "Naming children after prophets is a widespread Muslim practice, but this record asserts no ruling about naming; the scriptural reference is a textual fact, separate from any recommendation.",
+      "quranic_status": {
+        "is_quranic": true,
+        "status": "directly_attested_proper_name",
+        "note": "The prophet's name الْيَسَع occurs in Qur'an 6:86 and 38:48; the verses name the person directly."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report establishing this name or a special virtue is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishing this as a prophet's personal name is cited."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion attribution is asserted without a verified source."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Abrahamic scriptural naming; common Muslim practice of naming after prophets",
+      "interpretation": "Families may value the prophetic association, but that is a naming preference rather than a prediction about the bearer.",
+      "important_distinction": "This descriptive record is not a religious ruling. Muslim cultural use, linguistic origin, and direct Qur'anic attestation are separate claims."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim naming communities"
+      ],
+      "cultural_meaning": "Recorded as a masculine given name in Arabic and Muslim naming sources; this does not establish a single worldwide frequency.",
+      "personal_name_interpretation": "Families may value the prophetic association, but that is a naming preference rather than a prediction about the bearer.",
+      "interpretation_warning": "A symbolic naming preference is distinct from dictionary meaning and is not a claim about a bearer's personality or future."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Prophet name, scriptural proper name",
+      "related_concepts": [
+        "prophet",
+        "Elisha",
+        "scripture"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_asserted",
+      "render": false,
+      "meaning": null,
+      "basis": null,
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No evidence-based hidden personality traits are asserted."
+    },
+    "numerology": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "life_path_number": null,
+      "ruling_planet": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "meaning": null,
+      "note": "Numerology is not evidence-based and is not supplied in this record."
+    },
+    "lucky_attributes": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "ruling_planet": null
+    },
+    "translations": {
+      "english": {
+        "name": "Ilyasa",
+        "script": "Ilyasa",
+        "meaning": "Al-Yasa (Elisha); a prophet named in the Qur'an.",
+        "long_meaning": "Ilyasa (al-yasaʿ) is the Qur'anic Arabic form of the prophet name Elisha, named in the Qur'an among the prophets of the Israelite line; the record asserts the scriptural reference, not any additional biography."
+      },
+      "urdu": {
+        "name": "الیسع",
+        "script": "الیسع",
+        "meaning": "الیسع؛ ایک نبی کا نام جس کا ذکر قرآن میں ہے",
+        "long_meaning": "الیسع کے لغوی معنی الیسع؛ ایک نبی کا نام جس کا ذکر قرآن میں ہے ہیں۔ یہ ترجمہ ابتدائی مسودہ ہے اور مقامی لسانی جائزے کا محتاج ہے۔"
+      },
+      "persian": {
+        "name": "الیسع",
+        "script": "الیسع",
+        "meaning": "الیسع؛ نامِ پیامبری که در قرآن ذکر شده است",
+        "long_meaning": "معنای لغوی الیسع در این مدخل «الیسع؛ نامِ پیامبری که در قرآن ذکر شده است» است؛ این برگردان پیش‌نویس است و به بازبینی بومی نیاز دارد."
+      },
+      "hindi": {
+        "name": "इलयासा",
+        "script": "इलयासा",
+        "meaning": "इलयासा; क़ुरान में वर्णित एक पैग़ंबर का नाम",
+        "long_meaning": "इलयासा का शब्दार्थ यहाँ इलयासा; क़ुरान में वर्णित एक पैग़ंबर का नाम दिया गया है। यह अनुवाद प्रारूप है और स्थानीय भाषायी समीक्षा आवश्यक है।"
+      },
+      "pashto": {
+        "name": "الیسع",
+        "script": "الیسع",
+        "meaning": "الیسع؛ د قرآن په ذکر کې د یو پیغمبر نوم",
+        "long_meaning": "د الیسع لغوي مانا «الیسع؛ د قرآن په ذکر کې د یو پیغمبر نوم» ده؛ دا د ژباړې مسوده ده او د اصلي ژبې ویونکي بیاکتنې ته اړتیا لري.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "الْيَسَع",
+        "script": "الْيَسَع",
+        "meaning": "الْيَسَع؛ نبيٌّ مذكور في القرآن",
+        "long_meaning": "المعنى اللغوي لـالْيَسَع في هذا السجل هو «الْيَسَع؛ نبيٌّ مذكور في القرآن»؛ وهذه صياغة أولية تحتاج إلى مراجعة لغوية.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "source_language_gloss_with_localized_draft",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "The source-language core gloss is evidence-backed. All non-English localized meanings and script renderings are editorial drafts and require native-speaker review; transliteration does not establish a separate origin."
+    },
+    "pronunciation": {
+      "romanized": "il-YA-sa (approximate)",
+      "ipa": null,
+      "approximation_note": "Romanized pronunciation guide only; no IPA is asserted.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "الْيَسَع"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Alyasa",
+        "Alyasaa",
+        "Ilyasaa"
+      ],
+      "script_forms": [
+        "الْيَسَع",
+        "इलयासा"
+      ],
+      "variant_notes": "Alternate spellings reflect orthographic or transliteration variants; they do not establish different etymologies or pronunciations.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "scriptural_prophet_reference",
+      "note": "Al-Yasa (Elisha) is named in Qur'an 6:86 and 38:48 as a prophet in the Israelite line; no further biography is asserted by this record."
+    },
+    "modern_usage": {
+      "status": "source_scoped_usage_data_available",
+      "note": "Name directories list the name as rare in U.S. data; usage is documented in Muslim communities in South Asia and the Arab world."
+    },
+    "popularity": {
+      "status": "source_scoped_metrics_available",
+      "render": true,
+      "score": null,
+      "by_region": [
+        {
+          "region": "HamariWeb name directory (site-internal ranking)",
+          "measure": "HamariWeb popularity rank",
+          "year": 2025,
+          "category": "boys",
+          "rank": 15977,
+          "births": null,
+          "relative_interest_percent": null,
+          "observation_period": "undated directory snapshot as displayed on the source page",
+          "source_title": "Alyasaa Name Meaning - Alyasaa Origin, Popularity & History",
+          "source": "https://hamariweb.com/names/muslim/urdu/boy/alyasaa-meaning_43645/",
+          "limitation": "Site-internal directory ranking over an unclear population; not birth-registration or survey data."
+        }
+      ],
+      "note": "The only collected metric is a name-directory ranking; it measures a website's internal ordering, not births. U.S. SSA public data reportedly has no record of the spelling Ilyasa (fewer than five occurrences)."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is included."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No individual bearer story is included without a verified source."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Ilyasa mean?",
+        "a": "Ilyasa (al-yasaʿ) is the Qur'anic Arabic form of the prophet name Elisha, named in the Qur'an among the prophets of the Israelite line; the record asserts the scriptural reference, not any additional biography."
+      },
+      {
+        "q": "What is the origin of Ilyasa?",
+        "a": "The name is attested directly in the Qur'an (6:86 and 38:48) as the prophet known in Biblical tradition as Elisha; the deeper etymology belongs to Hebrew (Ĕlîšāʿ) and is not derived from Arabic roots."
+      },
+      {
+        "q": "Is Ilyasa an Arabic name?",
+        "a": "Yes. The recorded language/origin is Arabic; the source form is الْيَسَع."
+      },
+      {
+        "q": "How is Ilyasa written in Arabic?",
+        "a": "الْيَسَع"
+      },
+      {
+        "q": "Is Ilyasa a Quranic name?",
+        "a": "The lexical/scriptural form is directly attested, but not as a named person: The prophet's name الْيَسَع occurs in Qur'an 6:86 and 38:48; the verses name the person directly."
+      },
+      {
+        "q": "Is Ilyasa an Islamic name?",
+        "a": "Name of a prophet in the Qur'an; this descriptive record is not a religious ruling. Naming children after prophets is a widespread Muslim practice, but this record asserts no ruling about naming; the scriptural reference is a textual fact, separate from any recommendation."
+      },
+      {
+        "q": "How is Ilyasa pronounced?",
+        "a": "An approximate romanized guide is il-YA-sa. Romanized pronunciation guide only; no IPA is asserted."
+      },
+      {
+        "q": "Is Ilyasa a boy's or girl's name?",
+        "a": "The documented naming sources record Ilyasa as a male name; actual use can vary by language and community."
+      },
+      {
+        "q": "How popular is Ilyasa?",
+        "a": "Available scoped measure(s): HamariWeb name directory (site-internal ranking), 2025: #15977 among boys (Alyasaa Name Meaning - Alyasaa Origin, Popularity & History). The only collected metric is a name-directory ranking; it measures a website's internal ordering, not births. U.S. SSA public data reportedly has no record of the spelling Ilyasa (fewer than five occurrences)."
+      },
+      {
+        "q": "What does Ilyasa mean in Urdu?",
+        "a": "The draft Urdu rendering is الیسع; its gloss is الیسع؛ ایک نبی کا نام جس کا ذکر قرآن میں ہے. Localized translations have not had native-speaker review."
+      },
+      {
+        "q": "What is the root of Ilyasa?",
+        "a": "No triliteral Arabic root is asserted for this name."
+      }
+    ],
+    "seo": {
+      "title": "Ilyasa Name Meaning, Origin & Usage",
+      "meta_description": "Explore the sourced meaning, origin, pronunciation, script, and regional usage evidence for Ilyasa.",
+      "meta_keywords": "Ilyasa meaning, Ilyasa name meaning, Ilyasa origin, Ilyasa pronunciation, Ilyasa name in Urdu, Ilyasa Arabic name",
+      "description_paragraph": "Ilyasa is an Arabic-origin given name. This entry separates its lexical meaning, cultural and scriptural context, and source-scoped usage evidence.",
+      "keywords": [
+        "Ilyasa meaning",
+        "Ilyasa name meaning",
+        "Ilyasa origin",
+        "Ilyasa pronunciation",
+        "Ilyasa name in Urdu",
+        "Ilyasa Arabic name"
+      ],
+      "focus_keyword": "Ilyasa meaning",
+      "secondary_keywords": [
+        "Ilyasa name meaning",
+        "Ilyasa origin",
+        "Ilyasa pronunciation",
+        "Ilyasa name in Urdu",
+        "Ilyasa Arabic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/ilyasa",
+      "seo_score": null,
+      "seo_score_basis": "No composite SEO score is assigned; editorial and evidence quality are recorded separately."
+    },
+    "seo_content": {
+      "intro_paragraph": "Ilyasa is an Arabic-origin given name. The entry explains its documented meaning and distinguishes linguistic origin, religious/scriptural status, and regional usage.",
+      "body_summary": "Ilyasa (al-yasaʿ) is the Qur'anic Arabic form of the prophet name Elisha, named in the Qur'an among the prophets of the Israelite line; the record asserts the scriptural reference, not any additional biography. The only collected metric is a name-directory ranking; it measures a website's internal ordering, not births. U.S. SSA public data reportedly has no record of the spelling Ilyasa (fewer than five occurrences)."
+    },
+    "social_tags": [
+      "#Ilyasa",
+      "#IlyasaMeaning",
+      "#NameMeaning",
+      "#ArabicNames",
+      "#IslamicNames"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [
+        "localized_translations_require_native_review",
+        "popularity_metrics_are_source_and_region_scoped"
+      ],
+      "fabricated_content_removed": true,
+      "fields_total": 313,
+      "quality_score": null,
+      "quality_score_basis": "No composite quality score is asserted; source support, limitations, scriptural status, and review flags are explicit."
+    },
+    "evidence": {
+      "sources": [
+        "ItsAboutIslam, Alyasaa — Names the child after Prophet Elisha (Al-Yasa) and cites Qur'an 6:86 and 38:48. Source: https://itsaboutislam.com/muslim-names/alyasaa/ Limitation: Baby-name reference; the verse references are cross-checked against the Quran text itself.",
+        "IQNA, Elisha; A Prophet with Miracles Similar to Those of Jesus — Al-Yasa as a prophet and successor to Ilyas; the name occurs in Surahs Al-An'am and Sad. Source: https://iqna.ir/en/news/3482815/elisha-a-prophet-with-miracles-similar-to-those-of-jesus Limitation: Religious-news service article; not a lexical dictionary.",
+        "HamariWeb, Alyasaa — Gloss 'Elisha - a Prophet' and a documented directory entry with a site-internal rank of 15,977. Source: https://hamariweb.com/names/muslim/urdu/boy/alyasaa-meaning_43645/ Limitation: Directory entry with a site-internal, population-unclear ranking."
+      ],
+      "verification_method": "The lexical/scriptural or language claim is separated from name-site glosses; name usage and popularity are checked separately. Every frequency figure retains its source, region, year, category, metric, and limitation. Candidate spellings, Romanized variants, source-script forms, and localized script renderings are checked against the existing dataset. Non-English glosses are drafts requiring native-speaker review."
+    },
+    "provenance": {
+      "pipeline": "NameVerse super-2.0 demand-informed batch builder",
+      "methodology": "Curated evidence manifest -> template-matched record build -> alias/script collision audit -> schema and integrity validation",
+      "upgraded_from": "New record generated from the current super-2.0 architecture; not converted from a legacy record.",
+      "processed_at": "2026-10-13T00:00:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Ilyasa",
+          "description": "Ilyasa — an Arabic-origin given name: Al-Yasa (Elisha); a prophet named in the Qur'an.",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Ilyasa mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Ilyasa (al-yasaʿ) is the Qur'anic Arabic form of the prophet name Elisha, named in the Qur'an among the prophets of the Israelite line; the record asserts the scriptural reference, not any additional biography."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Ilyasa?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The name is attested directly in the Qur'an (6:86 and 38:48) as the prophet known in Biblical tradition as Elisha; the deeper etymology belongs to Hebrew (Ĕlîšāʿ) and is not derived from Arabic roots."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Ilyasa an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. The recorded language/origin is Arabic; the source form is الْيَسَع."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Ilyasa written in Arabic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "الْيَسَع"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Ilyasa a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The lexical/scriptural form is directly attested, but not as a named person: The prophet's name الْيَسَع occurs in Qur'an 6:86 and 38:48; the verses name the person directly."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Ilyasa an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Name of a prophet in the Qur'an; this descriptive record is not a religious ruling. Naming children after prophets is a widespread Muslim practice, but this record asserts no ruling about naming; the scriptural reference is a textual fact, separate from any recommendation."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Ilyasa pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An approximate romanized guide is il-YA-sa. Romanized pronunciation guide only; no IPA is asserted."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Ilyasa a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The documented naming sources record Ilyasa as a male name; actual use can vary by language and community."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How popular is Ilyasa?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Available scoped measure(s): HamariWeb name directory (site-internal ranking), 2025: #15977 among boys (Alyasaa Name Meaning - Alyasaa Origin, Popularity & History). The only collected metric is a name-directory ranking; it measures a website's internal ordering, not births. U.S. SSA public data reportedly has no record of the spelling Ilyasa (fewer than five occurrences)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Ilyasa mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The draft Urdu rendering is الیسع; its gloss is الیسع؛ ایک نبی کا نام جس کا ذکر قرآن میں ہے. Localized translations have not had native-speaker review."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Ilyasa?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No triliteral Arabic root is asserted for this name."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Ilyasa",
+              "item": "https://nameverse.site/names/islamic/ilyasa"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": true,
+      "flags": [
+        "localized_translations_require_native_review",
+        "popularity_metrics_are_source_and_region_scoped"
+      ],
+      "confidence": "HIGH",
+      "reviewed_by": "Automated source-aware build and validation; not a human or native-speaker review",
+      "reviewed_at": "2026-10-13T00:00:00+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": false,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "numerology",
+        "lucky_attributes",
+        "spiritual_meaning",
+        "celebrity_usage",
+        "real_world_usage",
+        "name_story"
+      ]
+    }
+  }
+}

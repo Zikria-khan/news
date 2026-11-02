@@ -1,0 +1,521 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Zamzam",
+    "slug": "zamzam",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Zamzam",
+      "normalized_name": "zamzam",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "MEDIUM",
+      "gender_note": "Zamzam is recorded as a feminine given name in the sources cited in this record; actual use can vary by community.",
+      "alternate_spellings": [
+        "Zamzam",
+        "Zam Zam"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "The name of the well at Makkah, used as a given name",
+      "primary_meaning": "Zamzam is the name of the well near the Ka'bah in Makkah, associated in Islamic tradition with Hajar and Isma'il. The name is used as a feminine given name, especially in South Asia and the Arab world. It is a well name rather than a Qur'anic personal name.",
+      "literal_meaning": "The name of the well at Makkah",
+      "meaning_explanation": "The word is a proper name of the well and is traditionally treated as reduplicative (z-m-z-m) rather than as a triliteral Arabic root. The well's history is recorded in the Sirah and hadith literature; the Qur'an does not name it explicitly.",
+      "meaning_confidence": "MEDIUM"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "زَمْزَم",
+      "transliteration": "zamzam",
+      "root": "",
+      "root_transliteration": "",
+      "morphology": "Proper name of the well; a reduplicative form (z-m-z-m) rather than a triliteral Arabic root.",
+      "feminine_form": null,
+      "etymological_meaning": "The name of the well at Makkah",
+      "root_family": [],
+      "etymology_explanation": "The word is a proper name of the well and is traditionally treated as reduplicative (z-m-z-m) rather than as a triliteral Arabic root. The well's history is recorded in the Sirah and hadith literature; the Qur'an does not name it explicitly.",
+      "etymology_confidence": "MEDIUM",
+      "false_etymology_warning": "No derivation beyond the documented lexical, scriptural or biographical evidence is asserted; unsupported name-site etymologies are not adopted."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form زَمْزَم.",
+        "usage": "Other scripts in this record are transliterations or localized glosses; they are not independent origins."
+      },
+      "language_confidence": "MEDIUM"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "MEDIUM",
+      "origin_explanation": "The recorded form زَمْزَم is Arabic; no productive Arabic root is asserted for this proper name. The evidence distinguishes linguistic origin from religious and cultural use.",
+      "cultural_transmission": [
+        "Arabic-speaking communities",
+        "Muslim naming communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic sacred geography and pilgrimage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "A well name used as a personal name; not a Qur'anic or divine name.",
+      "religious_explanation": "Zamzam is the name of the well in Makkah and is associated with pilgrimage. Its religious significance is historical and ritual, not scriptural onomastics.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_named_in_Quran",
+        "note": "The Zamzam well is not named explicitly in the Qur'an; its history is recorded in the Sirah and hadith literature."
+      },
+      "hadith_status": {
+        "status": "listed_only",
+        "note": "Reports in the hadith collections mention Zamzam water and drinking from the well; grading is not independently rechecked in this pass."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "Zamzam is not the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion attribution is asserted."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Islamic sacred geography and pilgrimage",
+      "interpretation": "This record describes documented usage; it is not a religious ruling on naming.",
+      "important_distinction": "This descriptive record is not a religious ruling. Muslim cultural use, linguistic origin, and direct Qur'anic attestation are separate claims."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim naming communities"
+      ],
+      "cultural_meaning": "The name is associated with the well of Zamzam, the pilgrimage, and the story of Hajar and Isma'il.",
+      "personal_name_interpretation": "Families may value the connection to Makkah and pilgrimage; this is a naming preference, not a claim about the bearer.",
+      "interpretation_warning": "A symbolic naming preference is distinct from dictionary meaning and is not a claim about a bearer's personality or future."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Makkan sacred geography",
+      "related_concepts": [
+        "Zamzam well",
+        "Makkah",
+        "Hajar and Isma'il"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_asserted",
+      "render": false,
+      "meaning": null,
+      "basis": null,
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No evidence-based hidden personality traits are asserted."
+    },
+    "numerology": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "life_path_number": null,
+      "ruling_planet": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "meaning": null,
+      "note": "Numerology is not evidence-based and is not supplied in this batch."
+    },
+    "lucky_attributes": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "ruling_planet": null,
+      "note": "Lucky attributes are not evidence-based and are not supplied in this batch."
+    },
+    "translations": {
+      "english": {
+        "name": "Zamzam",
+        "script": "زَمْزَم",
+        "meaning": "The name of the well at Makkah, used as a given name",
+        "long_meaning": "Zamzam is the name of the well near the Ka'bah in Makkah, associated in Islamic tradition with Hajar and Isma'il. The name is used as a feminine given name, especially in South Asia and the Arab world. It is a well name rather than a Qur'anic personal name."
+      },
+      "urdu": {
+        "name": "زمزم",
+        "script": "زمزم",
+        "meaning": "مکہ کا مشہور کنواں؛ نام کے طور پر بھی مستعمل",
+        "long_meaning": "زمزم کے لغوی معنی «مکہ کا مشہور کنواں؛ نام کے طور پر بھی مستعمل» ہیں۔ یہ اندراج دینی حوالے اور نام کے استعمال کو الگ الگ بیان کرتا ہے؛ یہ ترجمہ ابتدائی مسودہ ہے اور مقامی جائزے کا محتاج ہے۔"
+      },
+      "persian": {
+        "name": "زمزم",
+        "script": "زمزم",
+        "meaning": "چاه مشهور مکه؛ به‌عنوان نام نیز به کار می‌رود",
+        "long_meaning": "معنای لغوی زمزم در این مدخل «چاه مشهور مکه؛ به‌عنوان نام نیز به کار می‌رود» است. این مدخل مرجع دینی و کاربرد نام را جداگانه بیان می‌کند؛ این برگردان پیش‌نویس است و به بازبینی بومی نیاز دارد."
+      },
+      "hindi": {
+        "name": "ज़मज़म",
+        "script": "ज़मज़म",
+        "meaning": "मक्का का प्रसिद्ध कुआँ; नाम के रूप में भी प्रयुक्त",
+        "long_meaning": "ज़मज़म का शब्दार्थ «मक्का का प्रसिद्ध कुआँ; नाम के रूप में भी प्रयुक्त» दिया गया है। यह प्रविष्टि धार्मिक संदर्भ और नाम-प्रयोग को अलग-अलग बताती है; यह अनुवाद प्रारूप है और स्थानीय भाषायी समीक्षा आवश्यक है।"
+      },
+      "pashto": {
+        "name": "زمزم",
+        "script": "زمزم",
+        "meaning": "د مکې مشهور څاه؛ د نوم په توګه هم کارول کیږي",
+        "long_meaning": "د زمزم لغوي مانا «د مکې مشهور څاه؛ د نوم په توګه هم کارول کیږي» دی. دا اندراج دیني حواله او د نوم کارونه بېل بېل بیانوي؛ دا ژباړه مسوده ده او د اصلي ژبې ویونکو بیاکتنې ته اړتیا لري.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "زمزم",
+        "script": "زمزم",
+        "meaning": "بئر مكة المشهورة، وتُستخدم اسماً شخصياً",
+        "long_meaning": "المعنى اللغوي لاسم زمزم في هذا السجل هو «بئر مكة المشهورة، وتُستخدم اسماً شخصياً»؛ ويفصل السجل بين المرجع الديني واستعمال الاسم، وهذه صياغة أولية تحتاج إلى مراجعة لغوية.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "source_language_gloss_with_localized_draft",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "The Arabic core gloss is evidence-backed. All non-English localized meanings and script renderings are editorial drafts requiring native-speaker review; transliteration does not establish a separate origin."
+    },
+    "pronunciation": {
+      "romanized": "ZAM-zam",
+      "ipa": null,
+      "approximation_note": "Romanized pronunciation guide only; no IPA transcription is asserted.",
+      "common_mispronunciation": "zam-ZAM",
+      "scripts": {
+        "arabic": "زَمْزَم"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Zam Zam"
+      ],
+      "script_forms": [
+        "زَمْزَم",
+        "ज़मज़म"
+      ],
+      "variant_notes": "Spelling variants reflect transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "documented_in_classical_sources",
+      "note": "The Sirah and hadith literature record the well's history and its connection with Hajar and Isma'il."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Usage is attested as a Muslim given name, but no registration or frequency data is measured in this batch."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is measured in this batch; no estimate is asserted."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is included."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No individual bearer story is included without a verified source."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Zamzam mean?",
+        "a": "Zamzam is the name of the well near the Ka'bah in Makkah, associated in Islamic tradition with Hajar and Isma'il. The name is used as a feminine given name, especially in South Asia and the Arab world. It is a well name rather than a Qur'anic personal name."
+      },
+      {
+        "q": "What is the origin of Zamzam?",
+        "a": "The word is a proper name of the well and is traditionally treated as reduplicative (z-m-z-m) rather than as a triliteral Arabic root. The well's history is recorded in the Sirah and hadith literature; the Qur'an does not name it explicitly."
+      },
+      {
+        "q": "Is Zamzam an Arabic name?",
+        "a": "Yes. The recorded form is زَمْزَم; the name is associated with Arabic."
+      },
+      {
+        "q": "How is Zamzam written in Arabic?",
+        "a": "زَمْزَم"
+      },
+      {
+        "q": "Is Zamzam a Quranic name?",
+        "a": "The Zamzam well is not named explicitly in the Qur'an; its history is recorded in the Sirah and hadith literature."
+      },
+      {
+        "q": "Is Zamzam an Islamic name?",
+        "a": "A well name used as a personal name; not a Qur'anic or divine name. Zamzam is the name of the well in Makkah and is associated with pilgrimage. Its religious significance is historical and ritual, not scriptural onomastics."
+      },
+      {
+        "q": "How is Zamzam pronounced?",
+        "a": "An approximate romanized guide is ZAM-zam. Romanized pronunciation guide only; no IPA transcription is asserted."
+      },
+      {
+        "q": "Is Zamzam a boy's or girl's name?",
+        "a": "The sources cited record Zamzam as a feminine given name; actual use can vary by language and community."
+      },
+      {
+        "q": "What is the root of Zamzam?",
+        "a": "No triliteral Arabic root is asserted for this proper name."
+      },
+      {
+        "q": "What should be checked before relying on this entry?",
+        "a": "The cited sources are listed with their scope and limitations but have not been independently rechecked in this pass. Non-English renderings are drafts pending native review, and no popularity figure is asserted."
+      }
+    ],
+    "seo": {
+      "title": "Zamzam Name Meaning, Origin & Islamic Context",
+      "meta_description": "Zamzam name meaning, Arabic origin, pronunciation and sourced Qur'anic-status notes.",
+      "meta_keywords": "Zamzam meaning, Zamzam name meaning, Zamzam Arabic name, Zamzam origin, Zamzam pronunciation, Zamzam Islamic name, Zamzam meaning in Urdu",
+      "description_paragraph": "Zamzam is the name of the well near the Ka'bah in Makkah, associated in Islamic tradition with Hajar and Isma'il. The name is used as a feminine given name, especially in South Asia and the Arab world. It is a well name rather than a Qur'anic personal name.",
+      "keywords": [
+        "Zamzam meaning",
+        "Zamzam name meaning",
+        "Zamzam Arabic name",
+        "Zamzam origin",
+        "Zamzam pronunciation",
+        "Zamzam Islamic name",
+        "Zamzam meaning in Urdu"
+      ],
+      "focus_keyword": "Zamzam meaning",
+      "secondary_keywords": [
+        "Zamzam name meaning",
+        "Zamzam Arabic name",
+        "Zamzam origin",
+        "Zamzam pronunciation",
+        "Zamzam Islamic name",
+        "Zamzam meaning in Urdu"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/zamzam",
+      "seo_score": null,
+      "seo_score_basis": "Not numerically scored in this focused review; factual clarity prioritized over an unsupported score."
+    },
+    "seo_content": {
+      "intro_paragraph": "Zamzam is an Arabic given name. This entry separates its documented meaning, linguistic origin, religious or scriptural status, and modern usage.",
+      "body_summary": "Zamzam is the name of the well near the Ka'bah in Makkah, associated in Islamic tradition with Hajar and Isma'il. The name is used as a feminine given name, especially in South Asia and the Arab world. It is a well name rather than a Qur'anic personal name."
+    },
+    "social_tags": [
+      "#Zamzam",
+      "#ZamzamMeaning",
+      "#NameMeaning",
+      "#ArabicNames",
+      "#IslamicNames"
+    ],
+    "content_quality": {
+      "tier1_verified": false,
+      "authenticity_flags": [
+        "well_name_not_Quranic_person_name",
+        "localized_translations_require_native_review",
+        "popularity_not_measured_in_this_batch"
+      ],
+      "fabricated_content_removed": true,
+      "fields_total": 302,
+      "quality_score": null,
+      "quality_score_basis": "No composite quality score is asserted; source support, limitations, scriptural status and review flags are explicit. Tier-1 verification is false because the listed sources were not independently rechecked in this pass.",
+      "tier1_verified_scope": "Core meaning and associated claims were matched to the listed sources in this pass; independent re-verification, native translation review and usage-frequency evidence remain separate outstanding tasks, so tier1_verified is false."
+    },
+    "evidence": {
+      "sources": [
+        "https://sunnah.com/bukhari — Ṣaḥīḥ al-Bukhārī, Kitāb al-Ḥajj: Reports about Zamzam water and the well in Makkah. Limitation: Collection-level citation; the specific reports and grading are not rechecked here.",
+        "Ibn Hishām, al-Sīrah al-Nabawiyyah: Account of Hajar, Isma'il and the Zamzam well. Limitation: Classical reports are not independently rechecked in this pass."
+      ],
+      "verification_method": "The lexical, scriptural or biographical claim was separated from name-site glosses and matched to a cited primary text, classical lexicon or biographical reference; the cited sources were not independently rechecked in this pass. Latin and Arabic-script forms were audited against every existing record before writing. No popularity figure is asserted without a source-scoped measurement.",
+      "claim_evidence": [
+        {
+          "claim": "Zamzam is the name of the well at Makkah",
+          "source": "Ibn Hishām, al-Sīrah al-Nabawiyyah",
+          "status": "classical_source_listed_not_rechecked"
+        },
+        {
+          "claim": "Zamzam is not named explicitly in the Qur'an",
+          "source": "https://quran.com",
+          "status": "negative_claim_based_on_text_search"
+        }
+      ],
+      "claim_evidence_status": "SOURCE_URLS_LISTED_NOT_INDEPENDENTLY_RECHECKED_IN_THIS_PASS"
+    },
+    "provenance": {
+      "pipeline": "NameVerse super-2.0 curated Qur'anic/Islamic supplement",
+      "methodology": "Curated evidence manifest -> template-parity build -> Latin and Arabic-script collision audit -> schema and key-path validation",
+      "upgraded_from": "New record generated from the current super-2.0 architecture; not converted from a legacy record.",
+      "processed_at": "2026-10-17T00:00:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Zamzam",
+          "description": "Zamzam (زَمْزَم) — The name of the well at Makkah, used as a given name",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Zamzam mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Zamzam is the name of the well near the Ka'bah in Makkah, associated in Islamic tradition with Hajar and Isma'il. The name is used as a feminine given name, especially in South Asia and the Arab world. It is a well name rather than a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Zamzam?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The word is a proper name of the well and is traditionally treated as reduplicative (z-m-z-m) rather than as a triliteral Arabic root. The well's history is recorded in the Sirah and hadith literature; the Qur'an does not name it explicitly."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Zamzam an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. The recorded form is زَمْزَم; the name is associated with Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Zamzam written in Arabic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "زَمْزَم"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Zamzam a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The Zamzam well is not named explicitly in the Qur'an; its history is recorded in the Sirah and hadith literature."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Zamzam an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A well name used as a personal name; not a Qur'anic or divine name. Zamzam is the name of the well in Makkah and is associated with pilgrimage. Its religious significance is historical and ritual, not scriptural onomastics."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Zamzam pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An approximate romanized guide is ZAM-zam. Romanized pronunciation guide only; no IPA transcription is asserted."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Zamzam a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The sources cited record Zamzam as a feminine given name; actual use can vary by language and community."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Zamzam?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No triliteral Arabic root is asserted for this proper name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What should be checked before relying on this entry?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The cited sources are listed with their scope and limitations but have not been independently rechecked in this pass. Non-English renderings are drafts pending native review, and no popularity figure is asserted."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Zamzam",
+              "item": "https://nameverse.site/names/islamic/zamzam"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": true,
+      "flags": [
+        "well_name_not_Quranic_person_name",
+        "localized_translations_require_native_review",
+        "popularity_not_measured_in_this_batch"
+      ],
+      "confidence": "MEDIUM",
+      "reviewed_by": "Automated source-aware build and collision audit; not a human or native-speaker review",
+      "reviewed_at": "2026-10-17"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": false,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

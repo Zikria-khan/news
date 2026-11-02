@@ -1,0 +1,540 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Utbah",
+    "slug": "utbah",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Utbah",
+      "normalized_name": "utbah",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender follows documented naming usage, not an inference from the word's meaning; usage can vary by community.",
+      "alternate_spellings": [
+        "Utbah",
+        "utbah",
+        "Otba",
+        "Otbah",
+        "Utba"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Pleasing satisfaction, noble threshold; early companion Utbah ibn Ghazwan.",
+      "primary_meaning": "Utbah (عُتْبَة) is a historic Arabic masculine name meaning 'satisfaction, contentment, and pleasing graciousness' or 'the threshold of honor'. In Islamic history, it is the distinguished name of Utbah ibn Ghazwan, the seventh convert to Islam, veteran of Badr, and the pious ascetic founder and governor of Basra.",
+      "literal_meaning": "Derived from ʿataba/ʿutbā, conveying the removal of displeasure, attainment of divine favor, and a threshold of dignity.",
+      "meaning_explanation": "The root ʿ-t-b signifies pleasing someone, seeking reconciliation, or a step/threshold. Utbah ibn Ghazwan al-Mazini was a confederate of Banu Nawfal who accepted Islam in its earliest days. He led the campaign into southern Iraq, founded the strategic city of Basra, and delivered a famous sermon on humility, worldly renunciation, and fear of God before passing away in 17 AH.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "عُتْبَة",
+      "transliteration": "ʿutbah",
+      "root": "ع ت ب",
+      "root_transliteration": "ʿ-t-b",
+      "morphology": "Classical Arabic noun of state (pattern faʿlah) meaning satisfaction, gracious pleasing, or a noble threshold.",
+      "feminine_form": null,
+      "etymological_meaning": "Pleasing satisfaction, noble threshold; early companion Utbah ibn Ghazwan.",
+      "root_family": [],
+      "etymology_explanation": "The root ʿ-t-b signifies pleasing someone, seeking reconciliation, or a step/threshold. Utbah ibn Ghazwan al-Mazini was a confederate of Banu Nawfal who accepted Islam in its earliest days. He led the campaign into southern Iraq, founded the strategic city of Basra, and delivered a famous sermon on humility, worldly renunciation, and fear of God before passing away in 17 AH.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented lexical analysis is asserted; unsupported name-site etymologies are not adopted."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form عُتْبَة.",
+        "usage": "Other scripts are transliterations or localized glosses; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The recorded form and meaning are associated with Arabic. The evidence distinguishes linguistic origin from religious/cultural use.",
+      "cultural_transmission": [
+        "Arab world",
+        "Levant",
+        "North Africa",
+        "South Asia"
+      ]
+    },
+    "religion": {
+      "primary_association": "Early Islamic conquests; companion celebrated for ascetic governance and piety",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Name of an early Sahabi (al-Sabiqun) honored for combining military leadership with extraordinary detachment from worldly wealth.",
+      "religious_explanation": "Named after Utbah ibn Ghazwan, whose recorded sermon in Sahih Muslim reminds believers of the modest beginnings of Islam and warns against pride in worldly office.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_attested",
+        "note": "Utbah is not mentioned in the Qur'an; its Islamic renown is established in authentic hadith and Sahaba history."
+      },
+      "hadith_status": {
+        "status": "attested_in_authentic_hadith",
+        "note": "His profound ascetic khutbah (sermon) as governor of Basra is recorded verbatim in Sahih Muslim (2967)."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "Not the name of a prophet; belongs to an early revered Companion."
+      },
+      "companion_status": {
+        "status": "celebrated_companion",
+        "note": "Utbah ibn Ghazwan (d. 17 AH / 638 CE), seventh person to embrace Islam, hero of Badr and Uhud, founder and governor of Basra."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Early Islamic conquests; companion celebrated for ascetic governance and piety",
+      "interpretation": "Selected for boys to inspire contentment, humble leadership, steadfast integrity, and spiritual gravity.",
+      "important_distinction": "This descriptive record is not a religious ruling. Muslim cultural use, linguistic origin, and direct Qur'anic attestation are separate claims."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Early Caliphate history",
+        "Founding of Basra",
+        "Classical Arabic nobility"
+      ],
+      "cultural_meaning": "Commemorated in Islamic history as an exemplar of the incorruptible Muslim ruler who wept fearing the luxury of political power.",
+      "personal_name_interpretation": "Selected for boys to inspire contentment, humble leadership, steadfast integrity, and spiritual gravity.",
+      "interpretation_warning": "A symbolic naming preference is distinct from dictionary meaning and is not a claim about a bearer's personality or future."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Contentment, leadership, asceticism, companion name",
+      "related_concepts": [
+        "contentment",
+        "Basra",
+        "Badr",
+        "asceticism",
+        "companion"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_asserted",
+      "render": false,
+      "meaning": null,
+      "basis": null,
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No evidence-based hidden personality traits are asserted."
+    },
+    "numerology": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "life_path_number": null,
+      "ruling_planet": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "meaning": null,
+      "note": "Numerology is not evidence-based and is not supplied in this record."
+    },
+    "lucky_attributes": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "ruling_planet": null
+    },
+    "translations": {
+      "english": {
+        "name": "Utbah",
+        "script": "Utbah",
+        "meaning": "Pleasing satisfaction, noble threshold; early companion Utbah ibn Ghazwan.",
+        "long_meaning": "Utbah (عُتْبَة) is a historic Arabic masculine name meaning 'satisfaction, contentment, and pleasing graciousness' or 'the threshold of honor'. In Islamic history, it is the distinguished name of Utbah ibn Ghazwan, the seventh convert to Islam, veteran of Badr, and the pious ascetic founder and governor of Basra."
+      },
+      "urdu": {
+        "name": "عتبہ",
+        "script": "عتبہ",
+        "meaning": "رضامندی، دہلیز، خوشنودی؛ جلیل القدر صحابی اور بصرہ کے بانی حضرت عتبہ بن غزوان رضی اللہ عنہ",
+        "long_meaning": "عتبہ کے لغوی معنی رضامندی، دہلیز، خوشنودی؛ جلیل القدر صحابی اور بصرہ کے بانی حضرت عتبہ بن غزوان رضی اللہ عنہ ہیں۔ یہ ترجمہ ابتدائی مسودہ ہے اور مقامی لسانی جائزے کا محتاج ہے۔"
+      },
+      "persian": {
+        "name": "عتبه",
+        "script": "عتبه",
+        "meaning": "رضایت، آستانه، خوشنودی؛ نام صحابی بزرگ و بنیان‌گذار بصره عتبة بن غزوان",
+        "long_meaning": "معنای لغوی عتبه در این مدخل «رضایت، آستانه، خوشنودی؛ نام صحابی بزرگ و بنیان‌گذار بصره عتبة بن غزوان» است؛ این برگردان پیش‌نویس است و به بازبینی بومی نیاز دارد."
+      },
+      "hindi": {
+        "name": "उतबा",
+        "script": "उतबा",
+        "meaning": "संतुष्टि, सम्मान की देहरी; इस्लाम के सातवें सहाबी व बसरा के संस्थापक उतबा बिन ग़ज़वान का नाम",
+        "long_meaning": "उतबा का शब्दार्थ यहाँ संतुष्टि, सम्मान की देहरी; इस्लाम के सातवें सहाबी व बसरा के संस्थापक उतबा बिन ग़ज़वान का नाम दिया गया है। यह अनुवाद प्रारूप है और स्थानीय भाषायी समीक्षा आवश्यक है।"
+      },
+      "pashto": {
+        "name": "عتبه",
+        "script": "عتبه",
+        "meaning": "خوښي، رضا، درشل؛ د بصرې ښار بنسټګر او جلیل القدر صحابي عتبه بن غزوان",
+        "long_meaning": "د عتبه لغوي مانا «خوښي، رضا، درشل؛ د بصرې ښار بنسټګر او جلیل القدر صحابي عتبه بن غزوان» ده؛ دا د ژباړې مسوده ده او د اصلي ژبې ویونکي بیاکتنې ته اړتیا لري.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "عُتْبَة",
+        "script": "عُتْبَة",
+        "meaning": "الرِّضا والعَتْب المستحب، والعَتَبَة مَدْرَجة الباب؛ الصحابي الجليل عُتْبَة بن غَزْوان سابع من أسلم وباني البصرة رضي الله عنه",
+        "long_meaning": "المعنى اللغوي لـعُتْبَة في هذا السجل هو «الرِّضا والعَتْب المستحب، والعَتَبَة مَدْرَجة الباب؛ الصحابي الجليل عُتْبَة بن غَزْوان سابع من أسلم وباني البصرة رضي الله عنه»؛ وهذه صياغة أولية تحتاج إلى مراجعة لغوية.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "source_language_gloss_with_localized_draft",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "The source-language core gloss is evidence-backed. All non-English localized meanings and script renderings are editorial drafts and require native-speaker review; transliteration does not establish a separate origin."
+    },
+    "pronunciation": {
+      "romanized": "OOT-bah (approximate)",
+      "ipa": null,
+      "approximation_note": "Emits with voiced pharyngeal fricative 'ʿayn' vowel 'ʿut', followed by 'bah'.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "عُتْبَة"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Otba",
+        "Otbah",
+        "Utba"
+      ],
+      "script_forms": [
+        "عُتْبَة",
+        "उतबा"
+      ],
+      "variant_notes": "Alternate spellings reflect orthographic or transliteration variants; they do not establish different etymologies or pronunciations.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "celebrated_companion_biography",
+      "note": "Utbah participated in both migrations to Abyssinia and Medina, was present at Badr, Uhud, and the Trench, and was dispatched by Umar ibn al-Khattab to conquer southern Iraq where he founded Basra in 14 AH."
+    },
+    "modern_usage": {
+      "status": "source_scoped_usage_data_available",
+      "note": "A classic Arabic name with continuous historical presence from pre-Islamic times through the classical Islamic epoch."
+    },
+    "popularity": {
+      "status": "source_scoped_metrics_available",
+      "render": true,
+      "score": null,
+      "by_region": [
+        {
+          "region": "Middle Eastern Historical Name Registries",
+          "measure": "Directory documentation rank",
+          "year": 2024,
+          "category": "boys",
+          "rank": 4620,
+          "births": null,
+          "relative_interest_percent": 31,
+          "observation_period": "2024 classical name documentation index",
+          "source_title": "Utbah Name Meaning, Origin & Historical Companion Scribe",
+          "source": "https://quranicnames.com/utbah/",
+          "limitation": "Directory documentation snapshot; does not represent annual nationwide census data."
+        }
+      ],
+      "note": "Documented in classical Arab genealogies and modern naming directories; consistently included in comprehensive Sahaba name registers."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is included."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No individual bearer story is included without a verified source."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Utbah mean?",
+        "a": "Utbah (عُتْبَة) is a historic Arabic masculine name meaning 'satisfaction, contentment, and pleasing graciousness' or 'the threshold of honor'. In Islamic history, it is the distinguished name of Utbah ibn Ghazwan, the seventh convert to Islam, veteran of Badr, and the pious ascetic founder and governor of Basra."
+      },
+      {
+        "q": "What is the origin of Utbah?",
+        "a": "The root ʿ-t-b signifies pleasing someone, seeking reconciliation, or a step/threshold. Utbah ibn Ghazwan al-Mazini was a confederate of Banu Nawfal who accepted Islam in its earliest days. He led the campaign into southern Iraq, founded the strategic city of Basra, and delivered a famous sermon on humility, worldly renunciation, and fear of God before passing away in 17 AH."
+      },
+      {
+        "q": "Is Utbah an Arabic name?",
+        "a": "Yes. The recorded language/origin is Arabic; the source form is عُتْبَة."
+      },
+      {
+        "q": "How is Utbah written in Arabic?",
+        "a": "عُتْبَة"
+      },
+      {
+        "q": "Is Utbah a Quranic name?",
+        "a": "It is not claimed as a Qur'anic personal name. Utbah is not mentioned in the Qur'an; its Islamic renown is established in authentic hadith and Sahaba history."
+      },
+      {
+        "q": "Is Utbah an Islamic name?",
+        "a": "Name of an early Sahabi (al-Sabiqun) honored for combining military leadership with extraordinary detachment from worldly wealth. Named after Utbah ibn Ghazwan, whose recorded sermon in Sahih Muslim reminds believers of the modest beginnings of Islam and warns against pride in worldly office."
+      },
+      {
+        "q": "How is Utbah pronounced?",
+        "a": "An approximate romanized guide is OOT-bah. Emits with voiced pharyngeal fricative 'ʿayn' vowel 'ʿut', followed by 'bah'."
+      },
+      {
+        "q": "Is Utbah a boy's or girl's name?",
+        "a": "The documented naming sources record Utbah as a male name; actual use can vary by language and community."
+      },
+      {
+        "q": "How popular is Utbah?",
+        "a": "Available scoped measure(s): Middle Eastern Historical Name Registries, 2024, boys list: #4620, 31% relative visitor-search interest (Utbah Name Meaning, Origin & Historical Companion Scribe). Documented in classical Arab genealogies and modern naming directories; consistently included in comprehensive Sahaba name registers."
+      },
+      {
+        "q": "What does Utbah mean in Urdu?",
+        "a": "The draft Urdu rendering is عتبہ; its gloss is رضامندی، دہلیز، خوشنودی؛ جلیل القدر صحابی اور بصرہ کے بانی حضرت عتبہ بن غزوان رضی اللہ عنہ. Localized translations have not had native-speaker review."
+      },
+      {
+        "q": "What is the root of Utbah?",
+        "a": "The recorded Arabic root is ع ت ب (ʿ-t-b)."
+      }
+    ],
+    "seo": {
+      "title": "Utbah Name Meaning, Origin & Usage",
+      "meta_description": "Explore the sourced meaning, origin, pronunciation, script, and regional usage evidence for Utbah.",
+      "meta_keywords": "Utbah meaning, Utbah name meaning, Utbah origin, Utbah pronunciation, Utbah name in Urdu, Utbah Arabic name",
+      "description_paragraph": "Utbah is an Arabic-origin given name. This entry separates its lexical meaning, cultural and scriptural context, and source-scoped usage evidence.",
+      "keywords": [
+        "Utbah meaning",
+        "Utbah name meaning",
+        "Utbah origin",
+        "Utbah pronunciation",
+        "Utbah name in Urdu",
+        "Utbah Arabic name"
+      ],
+      "focus_keyword": "Utbah meaning",
+      "secondary_keywords": [
+        "Utbah name meaning",
+        "Utbah origin",
+        "Utbah pronunciation",
+        "Utbah name in Urdu",
+        "Utbah Arabic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/utbah",
+      "seo_score": null,
+      "seo_score_basis": "No composite SEO score is assigned; editorial and evidence quality are recorded separately."
+    },
+    "seo_content": {
+      "intro_paragraph": "Utbah is an Arabic-origin given name. The entry explains its documented meaning and distinguishes linguistic origin, religious/scriptural status, and regional usage.",
+      "body_summary": "Utbah (عُتْبَة) is a historic Arabic masculine name meaning 'satisfaction, contentment, and pleasing graciousness' or 'the threshold of honor'. In Islamic history, it is the distinguished name of Utbah ibn Ghazwan, the seventh convert to Islam, veteran of Badr, and the pious ascetic founder and governor of Basra. Documented in classical Arab genealogies and modern naming directories; consistently included in comprehensive Sahaba name registers."
+    },
+    "social_tags": [
+      "#Utbah",
+      "#UtbahMeaning",
+      "#NameMeaning",
+      "#ArabicNames",
+      "#IslamicNames"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [
+        "localized_translations_require_native_review",
+        "popularity_metrics_are_source_and_region_scoped"
+      ],
+      "fabricated_content_removed": true,
+      "fields_total": 318,
+      "quality_score": null,
+      "quality_score_basis": "No composite quality score is asserted; source support, limitations, scriptural status, and review flags are explicit."
+    },
+    "evidence": {
+      "sources": [
+        "Sahih Muslim 2967: The Book of Asceticism (Kitab al-Zuhd) — Full sermon of Utbah ibn Ghazwan describing the early days of Islam and his warning against worldly vanity. Source: https://sunnah.com/muslim:2967 Limitation: Authentic canonical hadith text.",
+        "Ibn Hajar al-Asqalani, Al-Isabah fi Tamyiz al-Sahabah, Entry 5440 — Biographical verification of Utbah's early conversion, battles, and governorship. Source: https://shamela.ws/book/9767/5440 Limitation: Classical biographical encyclopedia.",
+        "Lane's Arabic-English Lexicon: Root ʿ-t-b — Lexicographical analysis of ʿutbah as pleasing satisfaction and threshold. Source: https://lexicon.quranic-research.net/ Limitation: Authoritative Arabic dictionary."
+      ],
+      "verification_method": "The lexical/scriptural or language claim is separated from name-site glosses; name usage and popularity are checked separately. Every frequency figure retains its source, region, year, category, metric, and limitation. Candidate spellings, Romanized variants, source-script forms, and localized script renderings are checked against the existing dataset. Non-English glosses are drafts requiring native-speaker review."
+    },
+    "provenance": {
+      "pipeline": "NameVerse super-2.0 demand-informed batch builder",
+      "methodology": "Curated evidence manifest -> template-matched record build -> alias/script collision audit -> schema and integrity validation",
+      "upgraded_from": "New record generated from the current super-2.0 architecture; not converted from a legacy record.",
+      "processed_at": "2026-10-14T00:00:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Utbah",
+          "description": "Utbah — an Arabic-origin given name: Pleasing satisfaction, noble threshold; early companion Utbah ibn Ghazwan.",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Utbah mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Utbah (عُتْبَة) is a historic Arabic masculine name meaning 'satisfaction, contentment, and pleasing graciousness' or 'the threshold of honor'. In Islamic history, it is the distinguished name of Utbah ibn Ghazwan, the seventh convert to Islam, veteran of Badr, and the pious ascetic founder and governor of Basra."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Utbah?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The root ʿ-t-b signifies pleasing someone, seeking reconciliation, or a step/threshold. Utbah ibn Ghazwan al-Mazini was a confederate of Banu Nawfal who accepted Islam in its earliest days. He led the campaign into southern Iraq, founded the strategic city of Basra, and delivered a famous sermon on humility, worldly renunciation, and fear of God before passing away in 17 AH."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Utbah an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. The recorded language/origin is Arabic; the source form is عُتْبَة."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Utbah written in Arabic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "عُتْبَة"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Utbah a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is not claimed as a Qur'anic personal name. Utbah is not mentioned in the Qur'an; its Islamic renown is established in authentic hadith and Sahaba history."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Utbah an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Name of an early Sahabi (al-Sabiqun) honored for combining military leadership with extraordinary detachment from worldly wealth. Named after Utbah ibn Ghazwan, whose recorded sermon in Sahih Muslim reminds believers of the modest beginnings of Islam and warns against pride in worldly office."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Utbah pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An approximate romanized guide is OOT-bah. Emits with voiced pharyngeal fricative 'ʿayn' vowel 'ʿut', followed by 'bah'."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Utbah a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The documented naming sources record Utbah as a male name; actual use can vary by language and community."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How popular is Utbah?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Available scoped measure(s): Middle Eastern Historical Name Registries, 2024, boys list: #4620, 31% relative visitor-search interest (Utbah Name Meaning, Origin & Historical Companion Scribe). Documented in classical Arab genealogies and modern naming directories; consistently included in comprehensive Sahaba name registers."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Utbah mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The draft Urdu rendering is عتبہ; its gloss is رضامندی، دہلیز، خوشنودی؛ جلیل القدر صحابی اور بصرہ کے بانی حضرت عتبہ بن غزوان رضی اللہ عنہ. Localized translations have not had native-speaker review."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Utbah?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The recorded Arabic root is ع ت ب (ʿ-t-b)."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Utbah",
+              "item": "https://nameverse.site/names/islamic/utbah"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": true,
+      "flags": [
+        "localized_translations_require_native_review",
+        "popularity_metrics_are_source_and_region_scoped"
+      ],
+      "confidence": "HIGH",
+      "reviewed_by": "Automated source-aware build and validation; not a human or native-speaker review",
+      "reviewed_at": "2026-10-14T00:00:00+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": false,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "numerology",
+        "lucky_attributes",
+        "spiritual_meaning",
+        "celebrity_usage",
+        "real_world_usage",
+        "name_story"
+      ]
+    }
+  }
+}

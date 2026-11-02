@@ -244,7 +244,7 @@ export default function SearchClient({ initialQuery = '', initialReligion = '', 
         <div className="flex items-center gap-2">
           <span className="text-sm font-bold text-nv-text" role="status" aria-live="polite">
             {loading
-              ? 'Loading 11,412 names…'
+              ? 'Loading 11,730 names…'
               : `${allResults.length.toLocaleString()} ${allResults.length === 1 ? 'match' : 'matches'}`}
           </span>
           {allResults.length > results.length && (

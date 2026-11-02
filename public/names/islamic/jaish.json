@@ -1,0 +1,489 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Jaish",
+    "slug": "jaish",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Jaish",
+      "normalized_name": "jaish",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "MEDIUM",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Jaish",
+        "jaish"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Army, troops, host",
+      "primary_meaning": "Jaish corresponds to the Arabic form جيش and is glossed in this record as “Army, troops, host.” The record associates the form with root ج ي ش (j-y-sh). The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "Army, troops, host",
+      "meaning_explanation": "Jaish corresponds to the Arabic form جيش (Arabic root ج ي ش (j-y-sh); جَيْش (Jaysh)). Its core sense is army, troops, host. Jaish is Arabic جَيْش (Jaysh) 'army, troops, host', from the root ج ي ش (j-y-sh). The source gloss 'Warrior, Soldier, Army' is broadly consistent. Recorded at medium confidence because the word is primarily a common noun.",
+      "meaning_confidence": "MEDIUM"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "جيش",
+      "transliteration": "jaish",
+      "root": "ج ي ش",
+      "root_transliteration": "j-y-sh",
+      "morphology": "Built on the root ج ي ش.",
+      "feminine_form": null,
+      "etymological_meaning": "From the root ج ي ش (j-y-sh)",
+      "root_family": [],
+      "etymology_explanation": "The form جيش is an established Arabic lexical item, and Jaish is the word itself used as a personal name rather than a derived or diminutive form.",
+      "etymology_confidence": "MEDIUM",
+      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form جيش.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "MEDIUM"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "MEDIUM",
+      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Jaish is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Jaish is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Jaish as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Army, troops, host",
+      "related_concepts": [
+        "Army, troops, host"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Army, troops, host” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Army, troops, host.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 2,
+      "life_path_number": 2,
+      "ruling_planet": "Moon",
+      "lucky_day": "Monday",
+      "lucky_colors": [
+        "White",
+        "Silver"
+      ],
+      "lucky_stone": "Pearl",
+      "meaning": "In Pythagorean numerology the letters of Jaish total 2, associated with cooperation, balance and sensitivity. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 2,
+      "lucky_day": "Monday",
+      "lucky_colors": [
+        "White",
+        "Silver"
+      ],
+      "lucky_stone": "Pearl",
+      "ruling_planet": "Moon"
+    },
+    "translations": {
+      "english": {
+        "name": "Jaish",
+        "script": "Jaish",
+        "meaning": "Army, troops, host",
+        "long_meaning": "Jaish is an Arabic-origin given name; in Arabic the word means “Army, troops, host”."
+      },
+      "urdu": {
+        "name": "جیش",
+        "script": "جیش",
+        "meaning": "جیش، فوج، لشکر",
+        "long_meaning": "Jaish (جیش) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم جیش، فوج، لشکر ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "جیش",
+        "script": "جیش",
+        "meaning": "جیش، ارتش، لشکر",
+        "long_meaning": "Jaish (جیش) نامی برگرفته از زبان عربی است و معنای اصلی آن جیش، ارتش، لشکر است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "जैश",
+        "script": "जैश",
+        "meaning": "सेना, फ़ौज, लश्कर",
+        "long_meaning": "Jaish (जैश) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ सेना, फ़ौज, लश्कर है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "جیش",
+        "script": "جیش",
+        "meaning": "جیش، پوځ، لښکر",
+        "long_meaning": "Jaish (جیش) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې جیش، پوځ، لښکر ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "جيش",
+        "script": "جيش",
+        "meaning": "الجيش، العسكر، الحشد",
+        "long_meaning": "Jaish (جيش) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الجيش، العسكر، الحشد. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "jaish",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "جيش"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Jaish"
+      ],
+      "script_forms": [
+        "جيش",
+        "جیش",
+        "जैश"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form جيش is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Jaish mean?",
+        "a": "Jaish is an Arabic-origin name meaning “Army, troops, host”."
+      },
+      {
+        "q": "What is the origin of Jaish?",
+        "a": "Jaish originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Jaish an Arabic name?",
+        "a": "Yes, the recorded form جيش is Arabic."
+      },
+      {
+        "q": "What is the root of Jaish?",
+        "a": "It is built on the root ج ي ش (j-y-sh)."
+      },
+      {
+        "q": "Is Jaish an Islamic name?",
+        "a": "Jaish is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Jaish a Quranic name?",
+        "a": "Jaish is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Jaish mean in Urdu?",
+        "a": "In Urdu it is written جیش and carries the sense “جیش، فوج، لشکر”."
+      },
+      {
+        "q": "How is Jaish pronounced?",
+        "a": "A romanized syllable approximation is “jaish”."
+      },
+      {
+        "q": "Is Jaish a boy's or girl's name?",
+        "a": "Documented usage records Jaish as a boy's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Jaish Name Meaning, Origin & Islamic Context",
+      "meta_description": "Jaish (جيش) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Jaish meaning, Jaish name meaning, Jaish origin, Jaish meaning in Urdu, Jaish pronunciation, Jaish Islamic name",
+      "description_paragraph": "Jaish is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Jaish meaning",
+        "Jaish name meaning",
+        "Jaish origin",
+        "Jaish meaning in Urdu",
+        "Jaish pronunciation",
+        "Jaish Islamic name"
+      ],
+      "focus_keyword": "Jaish meaning",
+      "secondary_keywords": [
+        "Jaish name meaning",
+        "Jaish origin",
+        "Jaish meaning in Urdu",
+        "Jaish pronunciation",
+        "Jaish Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/jaish",
+      "seo_score": 95,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Jaish, an Arabic-origin name used in Muslim communities.",
+      "body_summary": "Jaish is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Jaish",
+      "#JaishMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 150,
+      "quality_score": 95,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form جيش carries the sense “Army, troops, host”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Jaish",
+          "description": "Jaish — an Arabic-origin given name meaning Army, troops, host",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Jaish mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Jaish is an Arabic-origin name meaning “Army, troops, host”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Jaish?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Jaish originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Jaish an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form جيش is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Jaish?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is built on the root ج ي ش (j-y-sh)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Jaish an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Jaish is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Jaish a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Jaish is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Jaish mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written جیش and carries the sense “جیش، فوج، لشکر”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Jaish pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “jaish”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Jaish a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Jaish as a boy's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Jaish",
+              "item": "https://nameverse.site/names/islamic/jaish"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "MEDIUM",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

@@ -1,7 +1,7 @@
 # NameVerse
 
 **[nameverse.site](https://nameverse.site)** — a baby-name reference with meanings, origins and cultural context
-across Islamic, Christian and Hindu traditions: 11,412 published name profiles, US ranking pages built on dated
+across Islamic, Christian and Hindu traditions: 11,730 published name profiles, US ranking pages built on dated
 Social Security Administration data, and in-depth naming guides.
 
 Founded and run by **Zakriya Khan** — WhatsApp [0349 7174815](https://wa.me/923497174815) ·
@@ -78,9 +78,10 @@ readers they gate every deployment.
 
 ## Known data gaps
 
-The source dataset is alphabetically incomplete: Islamic records cover names beginning **A–N**, Christian **A–J**, and
-Hindu mostly **A–P**. Many widely used names (for example Yusuf, Zainab, Omar, Sarah) therefore have no profile yet, and
-about 1,700 Islamic records — including some very common names — are held back as verification-pending. Articles and
+The source dataset is alphabetically incomplete for two traditions: Christian records cover names beginning **A–J**
+and Hindu mostly **A–P**. Islamic records now cover **A–Z** (synced from the `new` repo's
+`upgrading/names_upgraded/islamic/`). Names without a profile, and records held back as verification-pending or
+consolidated as duplicates, are not linked: articles and
 lists show such names as plain text rather than linking to a missing page.
 
 ## Historical documents

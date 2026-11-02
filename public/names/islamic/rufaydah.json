@@ -1,0 +1,472 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Rufaydah",
+    "slug": "rufaydah",
+    "content_revision": "v1",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Rufaydah",
+      "normalized_name": "rufaydah",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "HIGH",
+      "gender_note": "The cited Al-Adab al-Mufrad report identifies Rufayda as a woman. This supports historical feminine use only; modern country-level gender-frequency data has not been established here.",
+      "alternate_spellings": [
+        "Rufaydah",
+        "Rufayda",
+        "Rufaida",
+        "Rufaidah"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Historically attested feminine name; precise lexical meaning unverified",
+      "primary_meaning": "Rufaydah (رُفَيْدَة) is a feminine name attested in Al-Adab al-Mufrad 1129, where a woman called Rufayda is described as treating the wounded. A precise dictionary meaning is not asserted here.",
+      "literal_meaning": "Not verified in this entry.",
+      "meaning_explanation": "Al-Adab al-Mufrad 1129 names a woman called Rufayda and says she treated the wounded; it also describes Saʿd being moved to her care after an injury at the Battle of the Ditch. This supports historical use of the name. The report does not explain the name's lexical derivation, so no literal gloss is assigned here.",
+      "meaning_confidence": "HIGH for attestation; LOW for lexical derivation"
+    },
+    "etymology": {
+      "primary_language": "Arabic (historical name form)",
+      "lexical_form": "رُفَيْدَة",
+      "transliteration": "Rufayda / Rufaydah",
+      "root": "",
+      "root_transliteration": "",
+      "morphology": "Not asserted; proposed diminutive analyses require a specialist lexicon citation.",
+      "feminine_form": null,
+      "etymological_meaning": "Not verified",
+      "root_family": [],
+      "etymology_explanation": "The historical report confirms the name form رُفَيْدَة but does not explain its etymology. No root or morphological analysis is asserted without a directly checkable specialist Arabic lexical source.",
+      "etymology_confidence": "LOW",
+      "false_etymology_warning": "Do not state 'little helper' or a similar gloss as fact without a directly checkable Arabic lexical source."
+    },
+    "language": {
+      "primary": "Arabic (historical form)",
+      "associated_languages": [
+        "Muslim naming contexts (modern distribution not measured)"
+      ],
+      "language_notes": {
+        "primary": "The cited report records the Arabic name form رُفَيْدَة.",
+        "usage": "Rufaydah, Rufayda, Rufaida, and Rufaidah are Latin transliteration variants. Their modern frequency is not established here."
+      },
+      "language_confidence": "HIGH for attestation"
+    },
+    "origin": {
+      "primary_origin": "Arabic-language historical context",
+      "origin_type": "historical_attestation",
+      "origin_confidence": "HIGH for attestation; LOW for etymology",
+      "origin_explanation": "Al-Adab al-Mufrad 1129 attests the name in an early Islamic historical report. This confirms historical use but does not by itself establish the word’s literal etymology.",
+      "cultural_transmission": [
+        "Early Islamic historical reports"
+      ]
+    },
+    "religion": {
+      "primary_association": "Early Islamic historical attestation",
+      "religion_confidence": "HIGH for the cited report",
+      "religious_status": "Historically attested; not established here as religiously prescribed",
+      "religious_explanation": "Rufayda appears in a report in Al-Adab al-Mufrad describing care for an injured man. This is historical evidence, not a claim of Qur’anic status or a religious naming ruling.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_established_as_personal_name",
+        "note": "This entry does not establish Rufaydah as a Qur’anic personal name."
+      },
+      "hadith_status": {
+        "status": "attested_in_al_adab_al_mufrad_1129",
+        "note": "Al-Adab al-Mufrad 1129 names Rufayda and says she treated the wounded. This record does not infer any extra historical detail beyond the cited report."
+      },
+      "prophetic_status": {
+        "status": "not_applicable",
+        "note": "Rufaydah is not presented as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "historical_report_association; broader biography requires review",
+        "note": "The cited report establishes a woman called Rufayda in the historical account; broader biographical claims are not expanded here."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Historical attestation; this entry is not a religious ruling",
+      "interpretation": "The historical association may be meaningful to some families. This record does not provide a formal religious ruling on naming.",
+      "important_distinction": "Historical attestation does not establish Qur’anic status, religious prescription, or a formal naming ruling."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Early Islamic report concerning care for the wounded"
+      ],
+      "cultural_meaning": "The supported association in this entry is historical; a precise lexical meaning remains unverified.",
+      "personal_name_interpretation": "A family may associate the historical account with service and care, but these are interpretations rather than dictionary meanings or personality predictions.",
+      "interpretation_warning": "Do not convert a historical bearer’s actions into claims about every person with the name."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Historical personal name; lexical derivation unverified",
+      "related_concepts": [
+        "Historical attestation",
+        "Care for the wounded in the cited report"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_verified",
+      "render": false,
+      "meaning": "",
+      "basis": "No separate spiritual meaning is asserted; the documented lexical or historical facts should not be converted into a spiritual promise.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No evidence establishes personality traits from this name."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No evidence establishes hidden personality traits from this name."
+    },
+    "numerology": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "life_path_number": null,
+      "ruling_planet": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "meaning": "",
+      "note": "Numerology attributes are omitted because they are not verifiable name facts."
+    },
+    "lucky_attributes": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "ruling_planet": null
+    },
+    "translations": {
+      "english": {
+        "name": "Rufaydah",
+        "script": "Rufaydah",
+        "meaning": "Historically attested name; literal meaning not verified",
+        "long_meaning": "Rufaydah is attested as a woman's name in Al-Adab al-Mufrad 1129. The report does not provide a dictionary meaning, so this entry leaves the lexical derivation unverified."
+      },
+      "urdu": {
+        "name": "رفیدہ",
+        "script": "رفیدہ",
+        "meaning": "ابتدائی اسلامی روایت میں مذکور ایک خاتون کا نام؛ قطعی لغوی معنی کی تصدیق نہیں ہوئی۔",
+        "long_meaning": "رفیدہ کا نام الادب المفرد 1129 میں ایک خاتون کے طور پر آتا ہے جو زخمیوں کا علاج کرتی تھیں۔ اس روایت میں نام کا لغوی اشتقاق بیان نہیں کیا گیا، اس لیے یہاں قطعی معنی مقرر نہیں کیا گیا۔"
+      },
+      "arabic": {
+        "name": "رفيدة",
+        "script": "رُفَيْدَة",
+        "meaning": "اسم امرأة ورد في رواية تاريخية؛ المعنى المعجمي غير متحقق منه هنا.",
+        "long_meaning": "يرد اسم رُفَيْدَة في رواية تاريخية في الأدب المفرد 1129، حيث وُصفت امرأة بهذا الاسم بأنها كانت تداوي الجرحى. لا تشرح الرواية أصل الاسم المعجمي، لذلك لا يُحدَّد هنا معنى اشتقاقي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "lexical_meaning_plus_historical_context",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "The historical Arabic name form is taken from the cited hadith report; Urdu and Arabic explanatory wording should receive native editorial review. No lexical meaning is claimed."
+    },
+    "pronunciation": {
+      "romanized": "ru-FAY-da (approximate)",
+      "ipa": null,
+      "approximation_note": "Approximate guide only; confirm with a qualified Arabic speaker.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "رُفَيْدَة"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Rufayda",
+        "Rufaida",
+        "Rufaidah"
+      ],
+      "script_forms": [
+        "رُفَيْدَة"
+      ],
+      "variant_notes": "The source uses Rufayda in English and رُفَيْدَة in Arabic. Other Latin spellings are transliteration variants; modern name-frequency is not measured.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "attested_in_primary_report",
+      "note": "Al-Adab al-Mufrad 1129 states that when Saʿd was gravely wounded at the Battle of the Ditch, he was moved to a woman called Rufayda who treated the wounded. The entry does not claim more than the cited report establishes."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "No current registration, census, or regional frequency dataset is supplied; modern popularity is not claimed."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified name-frequency dataset is supplied."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified modern public-figure examples are supplied."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No contemporary bearer story is published."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "Who was Rufaydah?",
+        "a": "Al-Adab al-Mufrad 1129 reports that a woman called Rufayda treated the wounded and that Saʿd was moved to her care after being injured at the Battle of the Ditch. This is the specific historical claim supported by the cited report."
+      },
+      {
+        "q": "What does Rufaydah mean?",
+        "a": "This entry does not assign a definitive dictionary meaning. The cited historical report confirms the name form but does not explain its derivation; a specialist Arabic lexical source is needed before a literal meaning can be stated as fact."
+      },
+      {
+        "q": "How is Rufaydah written in Arabic?",
+        "a": "The cited report records the Arabic form رُفَيْدَةُ (Rufayda). Rufaydah, Rufayda, Rufaida, and Rufaidah are Latin transliteration variants; modern frequency for each spelling is not established here."
+      },
+      {
+        "q": "Is Rufaydah a Quranic name?",
+        "a": "This entry does not establish Rufaydah as a Qur’anic personal name. Its attestation here comes from a historical report, not from a claim that the Qur’an names a person Rufaydah."
+      },
+      {
+        "q": "Is Rufaydah an Islamic name?",
+        "a": "Rufaydah is a historically attested name in an early Islamic report. Historical use does not itself mean a name is prescribed or carries a guaranteed religious virtue."
+      },
+      {
+        "q": "What does Rufaydah mean in Urdu?",
+        "a": "اس اندراج میں رفیدہ کا قطعی لغوی معنی بیان نہیں کیا گیا۔ حوالہ شدہ تاریخی روایت نام کا ذکر کرتی ہے، مگر اس کا لغوی اشتقاق نہیں بتاتی؛ قطعی معنی کے لیے معتبر عربی لغت کا حوالہ درکار ہے۔"
+      },
+      {
+        "q": "How is Rufaydah pronounced?",
+        "a": "A rough guide is roo-FAY-dah or ru-FAY-da, depending on transliteration and regional pronunciation. This is an approximation, not a formal phonetic transcription."
+      },
+      {
+        "q": "Is Rufaydah a girl’s name?",
+        "a": "The cited historical report identifies Rufayda as a woman. This supports the historical feminine use, but does not establish modern gender-frequency statistics."
+      }
+    ],
+    "seo": {
+      "title": "Rufaydah Name Meaning, Arabic Spelling & History",
+      "meta_description": "Rufaydah (رُفَيْدَة) is historically attested in Al-Adab al-Mufrad 1129 as a woman who treated the wounded. Its exact dictionary meaning is not established in this entry.",
+      "meta_keywords": "Rufaydah name, Rufayda Arabic, Rufaydah history, رفيدة, Al-Adab al-Mufrad 1129",
+      "description_paragraph": "Rufaydah (رُفَيْدَة) is historically attested in Al-Adab al-Mufrad 1129 as the name of a woman described as treating the wounded. The report establishes historical use, not a definitive dictionary meaning.",
+      "keywords": [
+        "Rufaydah name",
+        "Rufayda Arabic",
+        "Rufaydah history",
+        "رفيدة",
+        "Al-Adab al-Mufrad 1129"
+      ],
+      "focus_keyword": "Rufaydah name",
+      "secondary_keywords": [
+        "Rufayda Arabic",
+        "Rufaydah meaning",
+        "Rufaydah in hadith",
+        "رفيدة"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/rufaydah",
+      "seo_score": 76,
+      "seo_score_basis": "Provisional editorial estimate for a cautious, source-linked historical name entry; not a ranking prediction. Lexical derivation and native-language review remain incomplete."
+    },
+    "seo_content": {
+      "intro_paragraph": "Rufaydah (رُفَيْدَة) is a historical Arabic name attested in Al-Adab al-Mufrad 1129. The report describes a woman of this name treating the wounded.",
+      "body_summary": "The cited report supports historical use of the name and a limited detail about the woman named Rufayda. It does not establish a literal dictionary meaning or a formal religious naming ruling."
+    },
+    "social_tags": [
+      "#Rufaydah",
+      "#ArabicNames",
+      "#IslamicHistory",
+      "#IslamicNames"
+    ],
+    "content_quality": {
+      "tier1_verified": false,
+      "authenticity_flags": [
+        "Exact lexical meaning and derivation not verified",
+        "Modern personal-name frequency not measured",
+        "Arabic and Urdu explanatory wording needs native review",
+        "Formal religious naming ruling not assessed"
+      ],
+      "fabricated_content_removed": true,
+      "fields_total": 177,
+      "quality_score": 76,
+      "quality_score_basis": "Provisional editorial assessment. Historical name attestation is supported by an exact cited report; lexical derivation, modern popularity, native-language review, and formal religious suitability review remain incomplete. Not a certification of every field."
+    },
+    "evidence": {
+      "sources": [
+        {
+          "title": "Al-Adab al-Mufrad 1129 — Rufayda and treatment of the wounded",
+          "url": "https://sunnah.com/adab:1129",
+          "supports": "Exact report names Rufayda and states that she treated the wounded; Saʿd was moved to her care after injury at the Battle of the Ditch."
+        },
+        {
+          "title": "Islamic Heritage / Dar al-Ifta — Women in Islamic History",
+          "url": "https://www.dar-alifta.org/en/article/details/141/women-in-islamic-history",
+          "supports": "Secondary institutional historical overview mentioning Rufaydah al-Ansariyyah; used only as supplementary historical context, not as a lexical source or a substitute for the exact report."
+        }
+      ],
+      "verification_method": "Checked the exact Al-Adab al-Mufrad 1129 page and confirmed the Arabic name form رُفَيْدَة and the report's statement that she treated the wounded. The report does not establish a literal meaning or naming ruling; no root or diminutive derivation is asserted.",
+      "claim_evidence_status": "HISTORICAL_ATTESTATION_CHECKED_AT_EXACT_REPORT; ETYMOLOGY_POPULARITY_AND_FORMAL_NAMING_RULING_UNVERIFIED"
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v1",
+      "methodology": "Historical attestation, lexical meaning, and religious/scriptural status are recorded as separate claims; unsupported etymology, popularity, and religious claims are withheld.",
+      "upgraded_from": null,
+      "processed_at": "2026-10-15"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Rufaydah",
+          "description": "Rufaydah (رُفَيْدَة) — a historically attested feminine name in Al-Adab al-Mufrad 1129; exact lexical derivation is not verified in this entry.",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Who was Rufaydah?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Al-Adab al-Mufrad 1129 reports that a woman called Rufayda treated the wounded and that Saʿd was moved to her care after being injured at the Battle of the Ditch. This is the specific historical claim supported by the cited report."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Rufaydah mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "This entry does not assign a definitive dictionary meaning. The cited historical report confirms the name form but does not explain its derivation; a specialist Arabic lexical source is needed before a literal meaning can be stated as fact."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Rufaydah written in Arabic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The cited report records the Arabic form رُفَيْدَةُ (Rufayda). Rufaydah, Rufayda, Rufaida, and Rufaidah are Latin transliteration variants; modern frequency for each spelling is not established here."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Rufaydah a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "This entry does not establish Rufaydah as a Qur’anic personal name. Its attestation here comes from a historical report, not from a claim that the Qur’an names a person Rufaydah."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Rufaydah an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Rufaydah is a historically attested name in an early Islamic report. Historical use does not itself mean a name is prescribed or carries a guaranteed religious virtue."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Rufaydah mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "اس اندراج میں رفیدہ کا قطعی لغوی معنی بیان نہیں کیا گیا۔ حوالہ شدہ تاریخی روایت نام کا ذکر کرتی ہے، مگر اس کا لغوی اشتقاق نہیں بتاتی؛ قطعی معنی کے لیے معتبر عربی لغت کا حوالہ درکار ہے۔"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Rufaydah pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A rough guide is roo-FAY-dah or ru-FAY-da, depending on transliteration and regional pronunciation. This is an approximation, not a formal phonetic transcription."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Rufaydah a girl’s name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The cited historical report identifies Rufayda as a woman. This supports the historical feminine use, but does not establish modern gender-frequency statistics."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Rufaydah",
+              "item": "https://nameverse.site/names/islamic/rufaydah"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": true,
+      "flags": [
+        "Exact lexical meaning and root require a specialist Arabic dictionary citation",
+        "Modern name-frequency data not independently verified",
+        "Arabic and Urdu wording needs native review",
+        "Formal religious naming suitability has not been independently assessed"
+      ],
+      "confidence": "MEDIUM for historical attestation; LOW for lexical meaning and broader suitability",
+      "reviewed_by": "NameVerse editorial revision (limited claim-level source check)",
+      "reviewed_at": "2026-10-15"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": false,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story",
+        "numerology",
+        "lucky_attributes"
+      ]
+    }
+  }
+}

@@ -1,0 +1,535 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Taybah",
+    "slug": "taybah",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Taybah",
+      "normalized_name": "taybah",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender follows documented naming usage, not an inference from the word's meaning; usage can vary by community.",
+      "alternate_spellings": [
+        "Taybah",
+        "taybah",
+        "Tayba",
+        "Taibah",
+        "Tayibah"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Good, pure, wholesome.",
+      "primary_meaning": "Taybah (ṭayyiba) is an Arabic feminine name from the adjective ṭayyib, meaning 'good, pure, wholesome'; the ṭayyib word family is common Qur'anic vocabulary, and the name Taiba/Taybah is also recorded as the name the Prophet gave to the city of Yathrib (Medina).",
+      "literal_meaning": "The feminine adjective form is standard Arabic morphology; the ṭayyibāt word family occurs in the Qur'an (e.g., 2:57) as vocabulary, not as a person's name.",
+      "meaning_explanation": "Name references record the 'good, pure' gloss; the Medina-epithet tradition is reported as a separate historical/cultural claim attributed to the cited reference and is not folded into the lexical meaning.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "طَيِّبَة",
+      "transliteration": "ṭayyiba",
+      "root": "ط ي ب",
+      "root_transliteration": "ṭ-y-b",
+      "morphology": "Feminine form of the Arabic adjective ṭayyib ('good, pure'), established lexical form used as a feminine given name.",
+      "feminine_form": null,
+      "etymological_meaning": "Good, pure, wholesome.",
+      "root_family": [],
+      "etymology_explanation": "Name references record the 'good, pure' gloss; the Medina-epithet tradition is reported as a separate historical/cultural claim attributed to the cited reference and is not folded into the lexical meaning.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented lexical analysis is asserted; unsupported name-site etymologies are not adopted."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form طَيِّبَة.",
+        "usage": "Other scripts are transliterations or localized glosses; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The recorded form and meaning are associated with Arabic. The evidence distinguishes linguistic origin from religious/cultural use.",
+      "cultural_transmission": [
+        "Arabic-speaking communities",
+        "Muslim naming communities in South Asia"
+      ]
+    },
+    "religion": {
+      "primary_association": "Arabic and Muslim-cultural naming usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "A lexical name with a positive sense; not a prescribed religious formula.",
+      "religious_explanation": "The positive lexical sense and the Medina association make the name popular in Muslim naming culture, but neither is a religious ruling or recommendation.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_claimed",
+        "note": "The ṭayyib word family occurs frequently in the Qur'an as vocabulary (e.g., ṭayyibāt in 2:57), but the form طَيِّبَة is not used in the Qur'an as a person's name."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report establishing this name or a special virtue is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishing this as a prophet's personal name is cited."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion attribution is asserted without a verified source."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Arabic and Muslim-cultural naming usage",
+      "interpretation": "Families may value the purity sense and the Medina association, but that is a naming preference rather than a prediction about the bearer.",
+      "important_distinction": "This descriptive record is not a religious ruling. Muslim cultural use, linguistic origin, and direct Qur'anic attestation are separate claims."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim naming communities"
+      ],
+      "cultural_meaning": "Recorded as a feminine given name in Arabic and Muslim naming sources; the city-name association adds a cultural layer reported from the cited reference.",
+      "personal_name_interpretation": "Families may value the purity sense and the Medina association, but that is a naming preference rather than a prediction about the bearer.",
+      "interpretation_warning": "A symbolic naming preference is distinct from dictionary meaning and is not a claim about a bearer's personality or future."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Goodness, purity",
+      "related_concepts": [
+        "pure",
+        "good",
+        "wholesome",
+        "Medina epithet"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_asserted",
+      "render": false,
+      "meaning": null,
+      "basis": null,
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No evidence-based hidden personality traits are asserted."
+    },
+    "numerology": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "life_path_number": null,
+      "ruling_planet": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "meaning": null,
+      "note": "Numerology is not evidence-based and is not supplied in this record."
+    },
+    "lucky_attributes": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "ruling_planet": null
+    },
+    "translations": {
+      "english": {
+        "name": "Taybah",
+        "script": "Taybah",
+        "meaning": "Good, pure, wholesome.",
+        "long_meaning": "Taybah (ṭayyiba) is an Arabic feminine name from the adjective ṭayyib, meaning 'good, pure, wholesome'; the ṭayyib word family is common Qur'anic vocabulary, and the name Taiba/Taybah is also recorded as the name the Prophet gave to the city of Yathrib (Medina)."
+      },
+      "urdu": {
+        "name": "طیبہ",
+        "script": "طیبہ",
+        "meaning": "طیبہ؛ پاکیزہ، نیک",
+        "long_meaning": "طیبہ کے لغوی معنی طیبہ؛ پاکیزہ، نیک ہیں۔ یہ ترجمہ ابتدائی مسودہ ہے اور مقامی لسانی جائزے کا محتاج ہے۔"
+      },
+      "persian": {
+        "name": "طیبه",
+        "script": "طیبه",
+        "meaning": "طیبه؛ پاکیزه، نیک",
+        "long_meaning": "معنای لغوی طیبه در این مدخل «طیبه؛ پاکیزه، نیک» است؛ این برگردان پیش‌نویس است و به بازبینی بومی نیاز دارد."
+      },
+      "hindi": {
+        "name": "तैयबा",
+        "script": "तैयबा",
+        "meaning": "तैयबा; पवित्र, अच्छी",
+        "long_meaning": "तैयबा का शब्दार्थ यहाँ तैयबा; पवित्र, अच्छी दिया गया है। यह अनुवाद प्रारूप है और स्थानीय भाषायी समीक्षा आवश्यक है।"
+      },
+      "pashto": {
+        "name": "طیبه",
+        "script": "طیبه",
+        "meaning": "طیبه؛ پاکه، ښه",
+        "long_meaning": "د طیبه لغوي مانا «طیبه؛ پاکه، ښه» ده؛ دا د ژباړې مسوده ده او د اصلي ژبې ویونکي بیاکتنې ته اړتیا لري.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "طَيِّبَة",
+        "script": "طَيِّبَة",
+        "meaning": "طَيِّبَة؛ الطيِّبة النقية",
+        "long_meaning": "المعنى اللغوي لـطَيِّبَة في هذا السجل هو «طَيِّبَة؛ الطيِّبة النقية»؛ وهذه صياغة أولية تحتاج إلى مراجعة لغوية.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "source_language_gloss_with_localized_draft",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "The source-language core gloss is evidence-backed. All non-English localized meanings and script renderings are editorial drafts and require native-speaker review; transliteration does not establish a separate origin."
+    },
+    "pronunciation": {
+      "romanized": "TAY-ba (approximate)",
+      "ipa": null,
+      "approximation_note": "Romanized pronunciation guide only; no IPA is asserted.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "طَيِّبَة"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Tayba",
+        "Taibah",
+        "Tayibah"
+      ],
+      "script_forms": [
+        "طَيِّبَة",
+        "तैयबा"
+      ],
+      "variant_notes": "Alternate spellings reflect orthographic or transliteration variants; they do not establish different etymologies or pronunciations.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "lexical_and_city_name_tradition",
+      "note": "The cited reference reports the tradition that the Prophet renamed Yathrib as Taiba; the city is commonly called Taybah in Islamic tradition. This record cites the tradition without extending it."
+    },
+    "modern_usage": {
+      "status": "source_scoped_usage_data_available",
+      "note": "The name is modest in U.S. data; the only collected numeric metric is a site-internal directory ranking."
+    },
+    "popularity": {
+      "status": "source_scoped_metrics_available",
+      "render": true,
+      "score": null,
+      "by_region": [
+        {
+          "region": "HamariWeb name directory (site-internal ranking)",
+          "measure": "HamariWeb popularity rank",
+          "year": 2025,
+          "category": "girls",
+          "rank": 81880,
+          "births": null,
+          "relative_interest_percent": null,
+          "observation_period": "undated directory snapshot as displayed on the source page",
+          "source_title": "Taybah Name Meaning - Taybah Origin, Popularity & History",
+          "source": "https://hamariweb.com/names/muslim/arabic/girl/taybah-meaning_85383/",
+          "limitation": "Site-internal directory ranking over an unclear population; not birth-registration or survey data."
+        }
+      ],
+      "note": "The only collected metric is a name-directory ranking; it measures a website's internal ordering, not births."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is included."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No individual bearer story is included without a verified source."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Taybah mean?",
+        "a": "Taybah (ṭayyiba) is an Arabic feminine name from the adjective ṭayyib, meaning 'good, pure, wholesome'; the ṭayyib word family is common Qur'anic vocabulary, and the name Taiba/Taybah is also recorded as the name the Prophet gave to the city of Yathrib (Medina)."
+      },
+      {
+        "q": "What is the origin of Taybah?",
+        "a": "Name references record the 'good, pure' gloss; the Medina-epithet tradition is reported as a separate historical/cultural claim attributed to the cited reference and is not folded into the lexical meaning."
+      },
+      {
+        "q": "Is Taybah an Arabic name?",
+        "a": "Yes. The recorded language/origin is Arabic; the source form is طَيِّبَة."
+      },
+      {
+        "q": "How is Taybah written in Arabic?",
+        "a": "طَيِّبَة"
+      },
+      {
+        "q": "Is Taybah a Quranic name?",
+        "a": "It is not claimed as a Qur'anic personal name. The ṭayyib word family occurs frequently in the Qur'an as vocabulary (e.g., ṭayyibāt in 2:57), but the form طَيِّبَة is not used in the Qur'an as a person's name."
+      },
+      {
+        "q": "Is Taybah an Islamic name?",
+        "a": "A lexical name with a positive sense; not a prescribed religious formula. The positive lexical sense and the Medina association make the name popular in Muslim naming culture, but neither is a religious ruling or recommendation."
+      },
+      {
+        "q": "How is Taybah pronounced?",
+        "a": "An approximate romanized guide is TAY-ba. Romanized pronunciation guide only; no IPA is asserted."
+      },
+      {
+        "q": "Is Taybah a boy's or girl's name?",
+        "a": "The documented naming sources record Taybah as a female name; actual use can vary by language and community."
+      },
+      {
+        "q": "How popular is Taybah?",
+        "a": "Available scoped measure(s): HamariWeb name directory (site-internal ranking), 2025: #81880 among girls (Taybah Name Meaning - Taybah Origin, Popularity & History). The only collected metric is a name-directory ranking; it measures a website's internal ordering, not births."
+      },
+      {
+        "q": "What does Taybah mean in Urdu?",
+        "a": "The draft Urdu rendering is طیبہ; its gloss is طیبہ؛ پاکیزہ، نیک. Localized translations have not had native-speaker review."
+      },
+      {
+        "q": "What is the root of Taybah?",
+        "a": "The recorded Arabic root is ط ي ب (ṭ-y-b)."
+      }
+    ],
+    "seo": {
+      "title": "Taybah Name Meaning, Origin & Usage",
+      "meta_description": "Explore the sourced meaning, origin, pronunciation, script, and regional usage evidence for Taybah.",
+      "meta_keywords": "Taybah meaning, Taybah name meaning, Taybah origin, Taybah pronunciation, Taybah name in Urdu, Taybah Arabic name",
+      "description_paragraph": "Taybah is an Arabic-origin given name. This entry separates its lexical meaning, cultural and scriptural context, and source-scoped usage evidence.",
+      "keywords": [
+        "Taybah meaning",
+        "Taybah name meaning",
+        "Taybah origin",
+        "Taybah pronunciation",
+        "Taybah name in Urdu",
+        "Taybah Arabic name"
+      ],
+      "focus_keyword": "Taybah meaning",
+      "secondary_keywords": [
+        "Taybah name meaning",
+        "Taybah origin",
+        "Taybah pronunciation",
+        "Taybah name in Urdu",
+        "Taybah Arabic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/taybah",
+      "seo_score": null,
+      "seo_score_basis": "No composite SEO score is assigned; editorial and evidence quality are recorded separately."
+    },
+    "seo_content": {
+      "intro_paragraph": "Taybah is an Arabic-origin given name. The entry explains its documented meaning and distinguishes linguistic origin, religious/scriptural status, and regional usage.",
+      "body_summary": "Taybah (ṭayyiba) is an Arabic feminine name from the adjective ṭayyib, meaning 'good, pure, wholesome'; the ṭayyib word family is common Qur'anic vocabulary, and the name Taiba/Taybah is also recorded as the name the Prophet gave to the city of Yathrib (Medina). The only collected metric is a name-directory ranking; it measures a website's internal ordering, not births."
+    },
+    "social_tags": [
+      "#Taybah",
+      "#TaybahMeaning",
+      "#NameMeaning",
+      "#ArabicNames",
+      "#IslamicNames"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [
+        "localized_translations_require_native_review",
+        "popularity_metrics_are_source_and_region_scoped"
+      ],
+      "fabricated_content_removed": true,
+      "fields_total": 313,
+      "quality_score": null,
+      "quality_score_basis": "No composite quality score is asserted; source support, limitations, scriptural status, and review flags are explicit."
+    },
+    "evidence": {
+      "sources": [
+        "QuranicNames, Taiba — 'Wholesome, good, pure'; reports the tradition that Taiba is the name the Prophet gave to Yathrib (Medina). Source: https://quranicnames.com/taiba-3/ Limitation: Baby-name reference; the Medina-epithet tradition is a historical claim attributed to this source, kept separate from the lexical gloss.",
+        "HamariWeb, Taybah — 'Good and Pure'; girl name; site-internal rank 81,880. Source: https://hamariweb.com/names/muslim/arabic/girl/taybah-meaning_85383/ Limitation: Directory entry with a site-internal, population-unclear ranking."
+      ],
+      "verification_method": "The lexical/scriptural or language claim is separated from name-site glosses; name usage and popularity are checked separately. Every frequency figure retains its source, region, year, category, metric, and limitation. Candidate spellings, Romanized variants, source-script forms, and localized script renderings are checked against the existing dataset. Non-English glosses are drafts requiring native-speaker review."
+    },
+    "provenance": {
+      "pipeline": "NameVerse super-2.0 demand-informed batch builder",
+      "methodology": "Curated evidence manifest -> template-matched record build -> alias/script collision audit -> schema and integrity validation",
+      "upgraded_from": "New record generated from the current super-2.0 architecture; not converted from a legacy record.",
+      "processed_at": "2026-10-13T00:00:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Taybah",
+          "description": "Taybah — an Arabic-origin given name: Good, pure, wholesome.",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Taybah mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Taybah (ṭayyiba) is an Arabic feminine name from the adjective ṭayyib, meaning 'good, pure, wholesome'; the ṭayyib word family is common Qur'anic vocabulary, and the name Taiba/Taybah is also recorded as the name the Prophet gave to the city of Yathrib (Medina)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Taybah?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Name references record the 'good, pure' gloss; the Medina-epithet tradition is reported as a separate historical/cultural claim attributed to the cited reference and is not folded into the lexical meaning."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Taybah an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. The recorded language/origin is Arabic; the source form is طَيِّبَة."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Taybah written in Arabic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "طَيِّبَة"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Taybah a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is not claimed as a Qur'anic personal name. The ṭayyib word family occurs frequently in the Qur'an as vocabulary (e.g., ṭayyibāt in 2:57), but the form طَيِّبَة is not used in the Qur'an as a person's name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Taybah an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A lexical name with a positive sense; not a prescribed religious formula. The positive lexical sense and the Medina association make the name popular in Muslim naming culture, but neither is a religious ruling or recommendation."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Taybah pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An approximate romanized guide is TAY-ba. Romanized pronunciation guide only; no IPA is asserted."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Taybah a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The documented naming sources record Taybah as a female name; actual use can vary by language and community."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How popular is Taybah?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Available scoped measure(s): HamariWeb name directory (site-internal ranking), 2025: #81880 among girls (Taybah Name Meaning - Taybah Origin, Popularity & History). The only collected metric is a name-directory ranking; it measures a website's internal ordering, not births."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Taybah mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The draft Urdu rendering is طیبہ; its gloss is طیبہ؛ پاکیزہ، نیک. Localized translations have not had native-speaker review."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Taybah?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The recorded Arabic root is ط ي ب (ṭ-y-b)."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Taybah",
+              "item": "https://nameverse.site/names/islamic/taybah"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": true,
+      "flags": [
+        "localized_translations_require_native_review",
+        "popularity_metrics_are_source_and_region_scoped"
+      ],
+      "confidence": "HIGH",
+      "reviewed_by": "Automated source-aware build and validation; not a human or native-speaker review",
+      "reviewed_at": "2026-10-13T00:00:00+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": false,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "numerology",
+        "lucky_attributes",
+        "spiritual_meaning",
+        "celebrity_usage",
+        "real_world_usage",
+        "name_story"
+      ]
+    }
+  }
+}

@@ -1,0 +1,490 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Nabeelah",
+    "slug": "nabeelah",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Nabeelah",
+      "normalized_name": "nabeelah",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Nabeelah",
+        "nabeelah"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Noble, high-born",
+      "primary_meaning": "Nabeelah corresponds to the Arabic form نَبِيلَة and is glossed in this record as “Noble, high-born.” The record associates the form with root ن ب ل (n-b-l). The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "Noble, high-born",
+      "meaning_explanation": "Nabeelah corresponds to the Arabic form نَبِيلَة (Arabic root ن ب ل (n-b-l); نَبِيلَة (Nabīla)). Its core sense is nabeela; noble, high-born (feminine). Nabeelah is Arabic نَبِيلَة (Nabīla) 'noble, high-born' (feminine), from the root ن ب ل (n-b-l). The source gloss 'Companion of the Prophet' is a historical association rather than a lexical sense. Same name as nabila.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "نَبِيلَة",
+      "transliteration": "nabeelah",
+      "root": "ن ب ل",
+      "root_transliteration": "n-b-l",
+      "morphology": "Built on the root ن ب ل.",
+      "feminine_form": null,
+      "etymological_meaning": "From the root ن ب ل (n-b-l)",
+      "root_family": [],
+      "etymology_explanation": "The form نَبِيلَة is an established Arabic lexical item, and Nabeelah is the word itself used as a personal name rather than a derived or diminutive form.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form نَبِيلَة.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Nabeelah is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Nabeelah is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Nabeelah as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Noble, high-born",
+      "related_concepts": [
+        "Noble, high-born"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Noble, high-born” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Noble, high-born.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 3,
+      "life_path_number": 3,
+      "ruling_planet": "Jupiter",
+      "lucky_day": "Thursday",
+      "lucky_colors": [
+        "Yellow",
+        "Gold"
+      ],
+      "lucky_stone": "Yellow Sapphire",
+      "meaning": "In Pythagorean numerology the letters of Nabeelah total 3, associated with creativity, expression and optimism. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 3,
+      "lucky_day": "Thursday",
+      "lucky_colors": [
+        "Yellow",
+        "Gold"
+      ],
+      "lucky_stone": "Yellow Sapphire",
+      "ruling_planet": "Jupiter"
+    },
+    "translations": {
+      "english": {
+        "name": "Nabeelah",
+        "script": "Nabeelah",
+        "meaning": "Noble, high-born",
+        "long_meaning": "Nabeelah is an Arabic-origin given name; in Arabic the word means “Noble, high-born”."
+      },
+      "urdu": {
+        "name": "نبیلہ",
+        "script": "نبیلہ",
+        "meaning": "نبیلہ، نجیب (مؤنث)",
+        "long_meaning": "Nabeelah (نبیلہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم نبیلہ، نجیب (مؤنث) ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "نبيله",
+        "script": "نبيله",
+        "meaning": "نبيله، نجیب (مؤنث)",
+        "long_meaning": "Nabeelah (نبيله) نامی برگرفته از زبان عربی است و معنای اصلی آن نبيله، نجیب (مؤنث) است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "नबीला",
+        "script": "नबीला",
+        "meaning": "नबीला, कुलीन (स्त्री)",
+        "long_meaning": "Nabeelah (नबीला) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ नबीला, कुलीन (स्त्री) है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "نبيله",
+        "script": "نبيله",
+        "meaning": "نبيله، نومیالې",
+        "long_meaning": "Nabeelah (نبيله) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې نبيله، نومیالې ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "نَبِيلَة",
+        "script": "نَبِيلَة",
+        "meaning": "النَّبِيلَة، النَّجِيبَة",
+        "long_meaning": "Nabeelah (نَبِيلَة) اسم مأخوذ من اللغة العربية، ومعناه الأساسي النَّبِيلَة، النَّجِيبَة. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "na-bee-lah",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "نَبِيلَة"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Nabeelah"
+      ],
+      "script_forms": [
+        "نبيله",
+        "نبیلہ",
+        "نَبِيلَة",
+        "नबीला"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form نَبِيلَة is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Nabeelah mean?",
+        "a": "Nabeelah is an Arabic-origin name meaning “Noble, high-born”."
+      },
+      {
+        "q": "What is the origin of Nabeelah?",
+        "a": "Nabeelah originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Nabeelah an Arabic name?",
+        "a": "Yes, the recorded form نَبِيلَة is Arabic."
+      },
+      {
+        "q": "What is the root of Nabeelah?",
+        "a": "It is built on the root ن ب ل (n-b-l)."
+      },
+      {
+        "q": "Is Nabeelah an Islamic name?",
+        "a": "Nabeelah is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Nabeelah a Quranic name?",
+        "a": "Nabeelah is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Nabeelah mean in Urdu?",
+        "a": "In Urdu it is written نبیلہ and carries the sense “نبیلہ، نجیب (مؤنث)”."
+      },
+      {
+        "q": "How is Nabeelah pronounced?",
+        "a": "A romanized syllable approximation is “na-bee-lah”."
+      },
+      {
+        "q": "Is Nabeelah a boy's or girl's name?",
+        "a": "Documented usage records Nabeelah as a girl's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Nabeelah Name Meaning, Origin & Islamic Context",
+      "meta_description": "Nabeelah (نَبِيلَة) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Nabeelah meaning, Nabeelah name meaning, Nabeelah origin, Nabeelah meaning in Urdu, Nabeelah pronunciation, Nabeelah Islamic name",
+      "description_paragraph": "Nabeelah is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Nabeelah meaning",
+        "Nabeelah name meaning",
+        "Nabeelah origin",
+        "Nabeelah meaning in Urdu",
+        "Nabeelah pronunciation",
+        "Nabeelah Islamic name"
+      ],
+      "focus_keyword": "Nabeelah meaning",
+      "secondary_keywords": [
+        "Nabeelah name meaning",
+        "Nabeelah origin",
+        "Nabeelah meaning in Urdu",
+        "Nabeelah pronunciation",
+        "Nabeelah Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/nabeelah",
+      "seo_score": 95,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Nabeelah, an Arabic-origin name used in Muslim communities.",
+      "body_summary": "Nabeelah is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Nabeelah",
+      "#NabeelahMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 153,
+      "quality_score": 95,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form نَبِيلَة carries the sense “Noble, high-born”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Nabeelah",
+          "description": "Nabeelah — an Arabic-origin given name meaning Noble, high-born",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Nabeelah mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Nabeelah is an Arabic-origin name meaning “Noble, high-born”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Nabeelah?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Nabeelah originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Nabeelah an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form نَبِيلَة is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Nabeelah?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is built on the root ن ب ل (n-b-l)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Nabeelah an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Nabeelah is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Nabeelah a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Nabeelah is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Nabeelah mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written نبیلہ and carries the sense “نبیلہ، نجیب (مؤنث)”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Nabeelah pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “na-bee-lah”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Nabeelah a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Nabeelah as a girl's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Nabeelah",
+              "item": "https://nameverse.site/names/islamic/nabeelah"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

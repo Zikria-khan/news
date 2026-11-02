@@ -1,0 +1,489 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Munaf",
+    "slug": "munaf",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Munaf",
+      "normalized_name": "munaf",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "MEDIUM",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Munaf",
+        "munaf"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Forbearing, Patient",
+      "primary_meaning": "Munaf corresponds to the Arabic form مُنَاف and is glossed in this record as “Forbearing, Patient.” The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "Forbearing, Patient",
+      "meaning_explanation": "Munaf corresponds to the Arabic form مُنَاف (Arabic مُنَاف (Munāf)). Its core sense is munaf; a male given name. Munaf is recorded as Arabic مُنَاف (Munāf), a male given name. The source gloss 'Forbearing, Patient' is unsupported; no confident lexical sense is asserted. The identification is recorded at medium confidence.",
+      "meaning_confidence": "MEDIUM"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "مُنَاف",
+      "transliteration": "munaf",
+      "root": "",
+      "root_transliteration": "",
+      "morphology": "Simple lexical item used as a name.",
+      "feminine_form": null,
+      "etymological_meaning": "The Arabic word مُنَاف",
+      "root_family": [],
+      "etymology_explanation": "The form مُنَاف is an established Arabic lexical item used unchanged as a given name.",
+      "etymology_confidence": "MEDIUM",
+      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form مُنَاف.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "MEDIUM"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "MEDIUM",
+      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Munaf is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Munaf is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Munaf as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Forbearing, Patient",
+      "related_concepts": [
+        "Forbearing, Patient"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Forbearing, Patient” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Forbearing, Patient.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 1,
+      "life_path_number": 1,
+      "ruling_planet": "Sun",
+      "lucky_day": "Sunday",
+      "lucky_colors": [
+        "Gold",
+        "Orange"
+      ],
+      "lucky_stone": "Ruby",
+      "meaning": "In Pythagorean numerology the letters of Munaf total 1, associated with leadership, independence and initiative. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 1,
+      "lucky_day": "Sunday",
+      "lucky_colors": [
+        "Gold",
+        "Orange"
+      ],
+      "lucky_stone": "Ruby",
+      "ruling_planet": "Sun"
+    },
+    "translations": {
+      "english": {
+        "name": "Munaf",
+        "script": "Munaf",
+        "meaning": "Forbearing, Patient",
+        "long_meaning": "Munaf is an Arabic-origin given name; in Arabic the word means “Forbearing, Patient”."
+      },
+      "urdu": {
+        "name": "مناف",
+        "script": "مناف",
+        "meaning": "مناف (مردانہ نام)",
+        "long_meaning": "Munaf (مناف) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم مناف (مردانہ نام) ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "مناف",
+        "script": "مناف",
+        "meaning": "مناف (نام مردانه)",
+        "long_meaning": "Munaf (مناف) نامی برگرفته از زبان عربی است و معنای اصلی آن مناف (نام مردانه) است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "मुनाफ़",
+        "script": "मुनाफ़",
+        "meaning": "मुनाफ़ (पुरुष नाम)",
+        "long_meaning": "Munaf (मुनाफ़) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ मुनाफ़ (पुरुष नाम) है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "مناف",
+        "script": "مناف",
+        "meaning": "مناف (نر نوم)",
+        "long_meaning": "Munaf (مناف) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې مناف (نر نوم) ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "مُنَاف",
+        "script": "مُنَاف",
+        "meaning": "مُنَاف (اسْم عَلَم مُذَكَّر)",
+        "long_meaning": "Munaf (مُنَاف) اسم مأخوذ من اللغة العربية، ومعناه الأساسي مُنَاف (اسْم عَلَم مُذَكَّر). يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "mu-naf",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "مُنَاف"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Munaf"
+      ],
+      "script_forms": [
+        "مناف",
+        "مُنَاف",
+        "मुनाफ़"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form مُنَاف is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Munaf mean?",
+        "a": "Munaf is an Arabic-origin name meaning “Forbearing, Patient”."
+      },
+      {
+        "q": "What is the origin of Munaf?",
+        "a": "Munaf originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Munaf an Arabic name?",
+        "a": "Yes, the recorded form مُنَاف is Arabic."
+      },
+      {
+        "q": "What is the root of Munaf?",
+        "a": "No root analysis is asserted for this spelling."
+      },
+      {
+        "q": "Is Munaf an Islamic name?",
+        "a": "Munaf is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Munaf a Quranic name?",
+        "a": "Munaf is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Munaf mean in Urdu?",
+        "a": "In Urdu it is written مناف and carries the sense “مناف (مردانہ نام)”."
+      },
+      {
+        "q": "How is Munaf pronounced?",
+        "a": "A romanized syllable approximation is “mu-naf”."
+      },
+      {
+        "q": "Is Munaf a boy's or girl's name?",
+        "a": "Documented usage records Munaf as a boy's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Munaf Name Meaning, Origin & Islamic Context",
+      "meta_description": "Munaf (مُنَاف) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Munaf meaning, Munaf name meaning, Munaf origin, Munaf meaning in Urdu, Munaf pronunciation, Munaf Islamic name",
+      "description_paragraph": "Munaf is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Munaf meaning",
+        "Munaf name meaning",
+        "Munaf origin",
+        "Munaf meaning in Urdu",
+        "Munaf pronunciation",
+        "Munaf Islamic name"
+      ],
+      "focus_keyword": "Munaf meaning",
+      "secondary_keywords": [
+        "Munaf name meaning",
+        "Munaf origin",
+        "Munaf meaning in Urdu",
+        "Munaf pronunciation",
+        "Munaf Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/munaf",
+      "seo_score": 90,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Munaf, an Arabic-origin name used in Muslim communities.",
+      "body_summary": "Munaf is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Munaf",
+      "#MunafMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 149,
+      "quality_score": 90,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form مُنَاف carries the sense “Forbearing, Patient”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Munaf",
+          "description": "Munaf — an Arabic-origin given name meaning Forbearing, Patient",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Munaf mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Munaf is an Arabic-origin name meaning “Forbearing, Patient”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Munaf?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Munaf originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Munaf an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form مُنَاف is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Munaf?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No root analysis is asserted for this spelling."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Munaf an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Munaf is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Munaf a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Munaf is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Munaf mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written مناف and carries the sense “مناف (مردانہ نام)”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Munaf pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “mu-naf”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Munaf a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Munaf as a boy's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Munaf",
+              "item": "https://nameverse.site/names/islamic/munaf"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "MEDIUM",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

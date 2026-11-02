@@ -1,0 +1,490 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Zeki",
+    "slug": "zeki",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Zeki",
+      "normalized_name": "zeki",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Zeki",
+        "zeki"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Intelligent, clever",
+      "primary_meaning": "Zeki corresponds to the Arabic form ذَكِي and is glossed in this record as “Intelligent, clever.” The record associates the form with root ذ ك و (dh-k-w). The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "Intelligent, clever",
+      "meaning_explanation": "Zeki corresponds to the Arabic form ذَكِي (Arabic root ذ ك و (dh-k-w); ذَكِيّ (Dhākī)). Its core sense is zeki; intelligent, clever (turkish form). Zeki is the Turkish form of Arabic ذَكِيّ (Dhākī), meaning 'intelligent, clever'.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "ذَكِي",
+      "transliteration": "zeki",
+      "root": "ذ ك و",
+      "root_transliteration": "dh-k-w",
+      "morphology": "Built on the root ذ ك و.",
+      "feminine_form": null,
+      "etymological_meaning": "From the root ذ ك و (dh-k-w)",
+      "root_family": [],
+      "etymology_explanation": "The form ذَكِي is an established Arabic lexical item, and Zeki is the word itself used as a personal name rather than a derived or diminutive form.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form ذَكِي.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Zeki is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Zeki is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Zeki as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Intelligent, clever",
+      "related_concepts": [
+        "Intelligent, clever"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Intelligent, clever” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Intelligent, clever.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 6,
+      "life_path_number": 6,
+      "ruling_planet": "Venus",
+      "lucky_day": "Friday",
+      "lucky_colors": [
+        "White",
+        "Pink"
+      ],
+      "lucky_stone": "Diamond",
+      "meaning": "In Pythagorean numerology the letters of Zeki total 6, associated with responsibility, care and harmony. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 6,
+      "lucky_day": "Friday",
+      "lucky_colors": [
+        "White",
+        "Pink"
+      ],
+      "lucky_stone": "Diamond",
+      "ruling_planet": "Venus"
+    },
+    "translations": {
+      "english": {
+        "name": "Zeki",
+        "script": "Zeki",
+        "meaning": "Intelligent, clever",
+        "long_meaning": "Zeki is an Arabic-origin given name; in Arabic the word means “Intelligent, clever”."
+      },
+      "urdu": {
+        "name": "ذکی",
+        "script": "ذکی",
+        "meaning": "ذکی، ذہین",
+        "long_meaning": "Zeki (ذکی) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم ذکی، ذہین ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "ذکی",
+        "script": "ذکی",
+        "meaning": "ذکی، باهوش",
+        "long_meaning": "Zeki (ذکی) نامی برگرفته از زبان عربی است و معنای اصلی آن ذکی، باهوش است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "ज़की",
+        "script": "ज़की",
+        "meaning": "ज़की, बुद्धिमान",
+        "long_meaning": "Zeki (ज़की) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ ज़की, बुद्धिमान है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "ذکي",
+        "script": "ذکي",
+        "meaning": "ذکي، ځیرک",
+        "long_meaning": "Zeki (ذکي) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې ذکي، ځیرک ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "ذَكِي",
+        "script": "ذَكِي",
+        "meaning": "الذَّكِيّ، الْفَطِن",
+        "long_meaning": "Zeki (ذَكِي) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الذَّكِيّ، الْفَطِن. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "ze-ki",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "ذَكِي"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Zeki"
+      ],
+      "script_forms": [
+        "ذَكِي",
+        "ذکي",
+        "ذکی",
+        "ज़की"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form ذَكِي is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Zeki mean?",
+        "a": "Zeki is an Arabic-origin name meaning “Intelligent, clever”."
+      },
+      {
+        "q": "What is the origin of Zeki?",
+        "a": "Zeki originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Zeki an Arabic name?",
+        "a": "Yes, the recorded form ذَكِي is Arabic."
+      },
+      {
+        "q": "What is the root of Zeki?",
+        "a": "It is built on the root ذ ك و (dh-k-w)."
+      },
+      {
+        "q": "Is Zeki an Islamic name?",
+        "a": "Zeki is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Zeki a Quranic name?",
+        "a": "Zeki is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Zeki mean in Urdu?",
+        "a": "In Urdu it is written ذکی and carries the sense “ذکی، ذہین”."
+      },
+      {
+        "q": "How is Zeki pronounced?",
+        "a": "A romanized syllable approximation is “ze-ki”."
+      },
+      {
+        "q": "Is Zeki a boy's or girl's name?",
+        "a": "Documented usage records Zeki as a boy's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Zeki Name Meaning, Origin & Islamic Context",
+      "meta_description": "Zeki (ذَكِي) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Zeki meaning, Zeki name meaning, Zeki origin, Zeki meaning in Urdu, Zeki pronunciation, Zeki Islamic name",
+      "description_paragraph": "Zeki is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Zeki meaning",
+        "Zeki name meaning",
+        "Zeki origin",
+        "Zeki meaning in Urdu",
+        "Zeki pronunciation",
+        "Zeki Islamic name"
+      ],
+      "focus_keyword": "Zeki meaning",
+      "secondary_keywords": [
+        "Zeki name meaning",
+        "Zeki origin",
+        "Zeki meaning in Urdu",
+        "Zeki pronunciation",
+        "Zeki Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/zeki",
+      "seo_score": 95,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Zeki, an Arabic-origin name used in Muslim communities.",
+      "body_summary": "Zeki is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Zeki",
+      "#ZekiMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 154,
+      "quality_score": 95,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form ذَكِي carries the sense “Intelligent, clever”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Zeki",
+          "description": "Zeki — an Arabic-origin given name meaning Intelligent, clever",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Zeki mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Zeki is an Arabic-origin name meaning “Intelligent, clever”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Zeki?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Zeki originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Zeki an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form ذَكِي is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Zeki?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is built on the root ذ ك و (dh-k-w)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Zeki an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Zeki is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Zeki a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Zeki is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Zeki mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written ذکی and carries the sense “ذکی، ذہین”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Zeki pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “ze-ki”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Zeki a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Zeki as a boy's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Zeki",
+              "item": "https://nameverse.site/names/islamic/zeki"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

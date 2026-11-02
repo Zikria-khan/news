@@ -270,7 +270,7 @@ export default function MuslimBabyNamesAmericaPage() {
         </h2>
         <div className="mt-5 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
           {[
-            { href: '/names/islamic', label: 'Islamic names hub', note: '3,480 published profiles' },
+            { href: '/names/islamic', label: 'Islamic names hub', note: '4,950 published profiles' },
             { href: '/blog/quranic-baby-names', label: 'Quranic baby names', note: 'Names that appear in the Quran' },
             { href: '/blog/prophet-names-for-baby-boys-islam', label: 'Prophet names for boys', note: 'The 25 prophets named in the Quran' },
             { href: '/blog/modern-muslim-baby-names', label: 'Modern Muslim names', note: 'Short names that travel well' },

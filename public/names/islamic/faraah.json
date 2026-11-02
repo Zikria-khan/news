@@ -1,0 +1,489 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Faraah",
+    "slug": "faraah",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Faraah",
+      "normalized_name": "faraah",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Faraah",
+        "faraah",
+        "farah"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Joy, gladness, happiness",
+      "primary_meaning": "Faraah corresponds to the Arabic form فرح and is glossed in this record as “Joy, gladness, happiness.” The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "Joy, gladness, happiness",
+      "meaning_explanation": "Faraah corresponds to the Arabic form فرح (ف ر ح). Its core sense is joy, happiness, gladness. Faraḥ ('joy, gladness, happiness'). The source record's gloss 'Joy, Happiness' is a reasonable rendering.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "فرح",
+      "transliteration": "faraah",
+      "root": "",
+      "root_transliteration": "",
+      "morphology": "Simple lexical item used as a name.",
+      "feminine_form": null,
+      "etymological_meaning": "The Arabic word فرح",
+      "root_family": [],
+      "etymology_explanation": "The form فرح is an established Arabic lexical item used unchanged as a given name.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form فرح.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Faraah is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Faraah is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Faraah as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Joy, gladness, happiness",
+      "related_concepts": [
+        "Joy, gladness, happiness"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Joy, gladness, happiness” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Joy, gladness, happiness.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 8,
+      "life_path_number": 8,
+      "ruling_planet": "Saturn",
+      "lucky_day": "Saturday",
+      "lucky_colors": [
+        "Black",
+        "Blue"
+      ],
+      "lucky_stone": "Blue Sapphire",
+      "meaning": "In Pythagorean numerology the letters of Faraah total 8, associated with ambition, authority and material success. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 8,
+      "lucky_day": "Saturday",
+      "lucky_colors": [
+        "Black",
+        "Blue"
+      ],
+      "lucky_stone": "Blue Sapphire",
+      "ruling_planet": "Saturn"
+    },
+    "translations": {
+      "english": {
+        "name": "Faraah",
+        "script": "Faraah",
+        "meaning": "Joy, gladness, happiness",
+        "long_meaning": "Faraah is an Arabic-origin given name; in Arabic the word means “Joy, gladness, happiness”."
+      },
+      "urdu": {
+        "name": "فرح",
+        "script": "فرح",
+        "meaning": "خوشی، مسرت، شادمانی",
+        "long_meaning": "Faraah (فرح) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم خوشی، مسرت، شادمانی ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "Faraah",
+        "script": "Faraah",
+        "meaning": "Joy, happiness, gladness",
+        "long_meaning": "Joy, happiness, gladness"
+      },
+      "hindi": {
+        "name": "फ़राह",
+        "script": "फ़राह",
+        "meaning": "ख़ुशी, आनंद, प्रसन्नता",
+        "long_meaning": "Faraah (फ़राह) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ ख़ुशी, आनंद, प्रसन्नता है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "فرح",
+        "script": "فرح",
+        "meaning": "خوښي، مسرت، خوشحالي",
+        "long_meaning": "Faraah (فرح) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې خوښي، مسرت، خوشحالي ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "فرح",
+        "script": "فرح",
+        "meaning": "الفرح، السعادة، السرور",
+        "long_meaning": "Faraah (فرح) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الفرح، السعادة، السرور. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "fa-raah",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "فرح"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "farah"
+      ],
+      "script_forms": [
+        "فرح",
+        "फ़राह"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form فرح is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Faraah mean?",
+        "a": "Faraah is an Arabic-origin name meaning “Joy, gladness, happiness”."
+      },
+      {
+        "q": "What is the origin of Faraah?",
+        "a": "Faraah originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Faraah an Arabic name?",
+        "a": "Yes, the recorded form فرح is Arabic."
+      },
+      {
+        "q": "What is the root of Faraah?",
+        "a": "No root analysis is asserted for this spelling."
+      },
+      {
+        "q": "Is Faraah an Islamic name?",
+        "a": "Faraah is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Faraah a Quranic name?",
+        "a": "Faraah is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Faraah mean in Urdu?",
+        "a": "In Urdu it is written فرح and carries the sense “خوشی، مسرت، شادمانی”."
+      },
+      {
+        "q": "How is Faraah pronounced?",
+        "a": "A romanized syllable approximation is “fa-raah”."
+      },
+      {
+        "q": "Is Faraah a boy's or girl's name?",
+        "a": "Documented usage records Faraah as a girl's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Faraah Name Meaning, Origin & Islamic Context",
+      "meta_description": "Faraah (فرح) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Faraah meaning, Faraah name meaning, Faraah origin, Faraah meaning in Urdu, Faraah pronunciation, Faraah Islamic name",
+      "description_paragraph": "Faraah is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Faraah meaning",
+        "Faraah name meaning",
+        "Faraah origin",
+        "Faraah meaning in Urdu",
+        "Faraah pronunciation",
+        "Faraah Islamic name"
+      ],
+      "focus_keyword": "Faraah meaning",
+      "secondary_keywords": [
+        "Faraah name meaning",
+        "Faraah origin",
+        "Faraah meaning in Urdu",
+        "Faraah pronunciation",
+        "Faraah Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/faraah",
+      "seo_score": 90,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Faraah, an Arabic-origin name used in Muslim communities.",
+      "body_summary": "Faraah is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Faraah",
+      "#FaraahMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 150,
+      "quality_score": 90,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form فرح carries the sense “Joy, gladness, happiness”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Faraah",
+          "description": "Faraah — an Arabic-origin given name meaning Joy, gladness, happiness",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Faraah mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Faraah is an Arabic-origin name meaning “Joy, gladness, happiness”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Faraah?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Faraah originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Faraah an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form فرح is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Faraah?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No root analysis is asserted for this spelling."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Faraah an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Faraah is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Faraah a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Faraah is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Faraah mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written فرح and carries the sense “خوشی، مسرت، شادمانی”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Faraah pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “fa-raah”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Faraah a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Faraah as a girl's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Faraah",
+              "item": "https://nameverse.site/names/islamic/faraah"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

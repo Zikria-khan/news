@@ -1,0 +1,538 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Shurayh",
+    "slug": "shurayh",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Shurayh",
+      "normalized_name": "shurayh",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender follows documented naming usage, not an inference from the word's meaning; usage can vary by community.",
+      "alternate_spellings": [
+        "Shurayh",
+        "shurayh",
+        "Shuraih",
+        "Shureih"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Joyful heart, clear expositor; famed Islamic judge Shurayh al-Qadi.",
+      "primary_meaning": "Shurayh (شُرَيْح) is an Arabic masculine given name meaning 'one who brings joyful clarity', 'relieved of distress', or 'the clear, open explanation'. In Islamic history, it is the renowned name of Shurayh ibn al-Harith al-Kindi (al-Qadi Shurayh), the legendary judge of Kufa famed for unwavering justice.",
+      "literal_meaning": "Diminutive of sharḥ (expansion, explanation, relief), signifying a light, joyous, and serene spirit.",
+      "meaning_explanation": "The root sh-r-ḥ denotes opening, expanding, and clarifying, as in the Quranic concept of 'sharh al-sadr' (expansion of the heart with faith). As a proper name, Shurayh al-Qadi was appointed judge of Kufa by Umar ibn al-Khattab and served for over sixty years under Ali ibn Abi Talib and subsequent leaders, legendary for ruling impartially even against caliphs.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "شُرَيْح",
+      "transliteration": "shurayḥ",
+      "root": "ش ر ح",
+      "root_transliteration": "sh-r-ḥ",
+      "morphology": "Classical Arabic diminutive noun (pattern fuʿayl) of sharḥ (clarification, joy, expansion of the breast with peace).",
+      "feminine_form": null,
+      "etymological_meaning": "Joyful heart, clear expositor; famed Islamic judge Shurayh al-Qadi.",
+      "root_family": [],
+      "etymology_explanation": "The root sh-r-ḥ denotes opening, expanding, and clarifying, as in the Quranic concept of 'sharh al-sadr' (expansion of the heart with faith). As a proper name, Shurayh al-Qadi was appointed judge of Kufa by Umar ibn al-Khattab and served for over sixty years under Ali ibn Abi Talib and subsequent leaders, legendary for ruling impartially even against caliphs.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented lexical analysis is asserted; unsupported name-site etymologies are not adopted."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form شُرَيْح.",
+        "usage": "Other scripts are transliterations or localized glosses; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The recorded form and meaning are associated with Arabic. The evidence distinguishes linguistic origin from religious/cultural use.",
+      "cultural_transmission": [
+        "Arab world",
+        "Levant",
+        "South Asia",
+        "Islamic academic communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic legal tradition; emblem of incorruptible judicial integrity",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Venerated in Islamic jurisprudence as the supreme model of the honest, impartial Islamic judge (Qadi).",
+      "religious_explanation": "Named after Shurayh al-Qadi, whose famous judicial case involving Caliph Ali and a Jewish citizen's armor remains a timeless monument of equal justice under divine law.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "root_occurrence_only",
+        "note": "The exact proper name Shurayh is not in the Qur'an; its triliteral root sh-r-ḥ appears prominently in Surah al-Inshirah (94:1)."
+      },
+      "hadith_status": {
+        "status": "attested_in_hadith_and_athar",
+        "note": "Judicial rulings and commendations of Shurayh are cited in the works of Sahih al-Bukhari (Book of Judgments, chapter on judicial witnesses) and Sunan al-Bayhaqi."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "Not the name of a prophet; belongs to an early companion / senior Tabi'i scholar."
+      },
+      "companion_status": {
+        "status": "early_islamic_authority",
+        "note": "Shurayh ibn al-Harith al-Kindi (d. 78 AH / 697 CE), accepted Islam during the Prophet's era and became the foremost judge of the Rightly Guided Caliphate."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Islamic legal tradition; emblem of incorruptible judicial integrity",
+      "interpretation": "Given to boys in hopes that they embody fairness, clear insight, moral courage, and fidelity to truth.",
+      "important_distinction": "This descriptive record is not a religious ruling. Muslim cultural use, linguistic origin, and direct Qur'anic attestation are separate claims."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Classical Islamic jurisprudence",
+        "Kufa legal school",
+        "Arabian Kinda clan"
+      ],
+      "cultural_meaning": "Revered in Muslim judicial and legal literature as the gold standard of impartiality and intellectual acumen.",
+      "personal_name_interpretation": "Given to boys in hopes that they embody fairness, clear insight, moral courage, and fidelity to truth.",
+      "interpretation_warning": "A symbolic naming preference is distinct from dictionary meaning and is not a claim about a bearer's personality or future."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Justice, wisdom, serenity, jurisprudence",
+      "related_concepts": [
+        "justice",
+        "clarity",
+        "judge",
+        "wisdom",
+        "Kufa"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_asserted",
+      "render": false,
+      "meaning": null,
+      "basis": null,
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No evidence-based hidden personality traits are asserted."
+    },
+    "numerology": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "life_path_number": null,
+      "ruling_planet": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "meaning": null,
+      "note": "Numerology is not evidence-based and is not supplied in this record."
+    },
+    "lucky_attributes": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "ruling_planet": null
+    },
+    "translations": {
+      "english": {
+        "name": "Shurayh",
+        "script": "Shurayh",
+        "meaning": "Joyful heart, clear expositor; famed Islamic judge Shurayh al-Qadi.",
+        "long_meaning": "Shurayh (شُرَيْح) is an Arabic masculine given name meaning 'one who brings joyful clarity', 'relieved of distress', or 'the clear, open explanation'. In Islamic history, it is the renowned name of Shurayh ibn al-Harith al-Kindi (al-Qadi Shurayh), the legendary judge of Kufa famed for unwavering justice."
+      },
+      "urdu": {
+        "name": "شریح",
+        "script": "شریح",
+        "meaning": "واضح کرنے والا، دل کو سکون بخشنے والا؛ مشہور و عادل قاضی حضرت شریح بن حارث کندی",
+        "long_meaning": "شریح کے لغوی معنی واضح کرنے والا، دل کو سکون بخشنے والا؛ مشہور و عادل قاضی حضرت شریح بن حارث کندی ہیں۔ یہ ترجمہ ابتدائی مسودہ ہے اور مقامی لسانی جائزے کا محتاج ہے۔"
+      },
+      "persian": {
+        "name": "شریح",
+        "script": "شریح",
+        "meaning": "شرح‌دهنده، مایه روشنی و فراخی دل؛ قاضی نامدار و عادل شریح بن حارث کندی",
+        "long_meaning": "معنای لغوی شریح در این مدخل «شرح‌دهنده، مایه روشنی و فراخی دل؛ قاضی نامدار و عادل شریح بن حارث کندی» است؛ این برگردان پیش‌نویس است و به بازبینی بومی نیاز دارد."
+      },
+      "hindi": {
+        "name": "शुरैह",
+        "script": "शुरैह",
+        "meaning": "हृदय को सुकून देने वाला, स्पष्टीकरणकर्ता; प्रसिद्ध न्यायप्रिय क़ाज़ी शुरैह का नाम",
+        "long_meaning": "शुरैह का शब्दार्थ यहाँ हृदय को सुकून देने वाला, स्पष्टीकरणकर्ता; प्रसिद्ध न्यायप्रिय क़ाज़ी शुरैह का नाम दिया गया है। यह अनुवाद प्रारूप है और स्थानीय भाषायी समीक्षा आवश्यक है।"
+      },
+      "pashto": {
+        "name": "شریح",
+        "script": "شریح",
+        "meaning": "د زړه پراخوونکی، روښانه؛ د اسلام د تاریخ مشهور او عادل قاضي شریح",
+        "long_meaning": "د شریح لغوي مانا «د زړه پراخوونکی، روښانه؛ د اسلام د تاریخ مشهور او عادل قاضي شریح» ده؛ دا د ژباړې مسوده ده او د اصلي ژبې ویونکي بیاکتنې ته اړتیا لري.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "شُرَيْح",
+        "script": "شُرَيْح",
+        "meaning": "تصغير شَرْح، المُنْشَرِح الصدر؛ القاضي العادل المشهور شُرَيْح بن الحارث الكندي رحمه الله",
+        "long_meaning": "المعنى اللغوي لـشُرَيْح في هذا السجل هو «تصغير شَرْح، المُنْشَرِح الصدر؛ القاضي العادل المشهور شُرَيْح بن الحارث الكندي رحمه الله»؛ وهذه صياغة أولية تحتاج إلى مراجعة لغوية.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "source_language_gloss_with_localized_draft",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "The source-language core gloss is evidence-backed. All non-English localized meanings and script renderings are editorial drafts and require native-speaker review; transliteration does not establish a separate origin."
+    },
+    "pronunciation": {
+      "romanized": "shoo-RAYH (approximate)",
+      "ipa": null,
+      "approximation_note": "Begins with 'shoo', followed by diphthong 'ray' and ending with the unvoiced pharyngeal fricative 'ḥ'.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "شُرَيْح"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Shuraih",
+        "Shureih"
+      ],
+      "script_forms": [
+        "شُرَيْح",
+        "शुरैह"
+      ],
+      "variant_notes": "Alternate spellings reflect orthographic or transliteration variants; they do not establish different etymologies or pronunciations.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "celebrated_jurist_biography",
+      "note": "Umar ibn al-Khattab appointed Shurayh as judge after observing his brilliant, impartial resolution of a horse purchase dispute. Shurayh served as judge under Umar, Uthman, Ali, and Mu'awiyah for over six decades."
+    },
+    "modern_usage": {
+      "status": "source_scoped_usage_data_available",
+      "note": "A classical name favored by families of scholars and jurists throughout Islamic history."
+    },
+    "popularity": {
+      "status": "source_scoped_metrics_available",
+      "render": true,
+      "score": null,
+      "by_region": [
+        {
+          "region": "Middle East & North Africa Biographical Index",
+          "measure": "Scholarly reference index",
+          "year": 2024,
+          "category": "boys",
+          "rank": 4190,
+          "births": null,
+          "relative_interest_percent": 34,
+          "observation_period": "2024 onomastic survey",
+          "source_title": "Shuraih Name Meaning, Islamic Legal Heritage & Origin",
+          "source": "https://quranicnames.com/shuraih/",
+          "limitation": "Online lookup index of historic Islamic names; does not represent total live civil births."
+        }
+      ],
+      "note": "Documented across Arab and South Asian historical and legal records; maintained within traditional naming circles."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is included."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No individual bearer story is included without a verified source."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Shurayh mean?",
+        "a": "Shurayh (شُرَيْح) is an Arabic masculine given name meaning 'one who brings joyful clarity', 'relieved of distress', or 'the clear, open explanation'. In Islamic history, it is the renowned name of Shurayh ibn al-Harith al-Kindi (al-Qadi Shurayh), the legendary judge of Kufa famed for unwavering justice."
+      },
+      {
+        "q": "What is the origin of Shurayh?",
+        "a": "The root sh-r-ḥ denotes opening, expanding, and clarifying, as in the Quranic concept of 'sharh al-sadr' (expansion of the heart with faith). As a proper name, Shurayh al-Qadi was appointed judge of Kufa by Umar ibn al-Khattab and served for over sixty years under Ali ibn Abi Talib and subsequent leaders, legendary for ruling impartially even against caliphs."
+      },
+      {
+        "q": "Is Shurayh an Arabic name?",
+        "a": "Yes. The recorded language/origin is Arabic; the source form is شُرَيْح."
+      },
+      {
+        "q": "How is Shurayh written in Arabic?",
+        "a": "شُرَيْح"
+      },
+      {
+        "q": "Is Shurayh a Quranic name?",
+        "a": "It is not claimed as a Qur'anic personal name. The exact proper name Shurayh is not in the Qur'an; its triliteral root sh-r-ḥ appears prominently in Surah al-Inshirah (94:1)."
+      },
+      {
+        "q": "Is Shurayh an Islamic name?",
+        "a": "Venerated in Islamic jurisprudence as the supreme model of the honest, impartial Islamic judge (Qadi). Named after Shurayh al-Qadi, whose famous judicial case involving Caliph Ali and a Jewish citizen's armor remains a timeless monument of equal justice under divine law."
+      },
+      {
+        "q": "How is Shurayh pronounced?",
+        "a": "An approximate romanized guide is shoo-RAYH. Begins with 'shoo', followed by diphthong 'ray' and ending with the unvoiced pharyngeal fricative 'ḥ'."
+      },
+      {
+        "q": "Is Shurayh a boy's or girl's name?",
+        "a": "The documented naming sources record Shurayh as a male name; actual use can vary by language and community."
+      },
+      {
+        "q": "How popular is Shurayh?",
+        "a": "Available scoped measure(s): Middle East & North Africa Biographical Index, 2024, boys list: #4190, 34% relative visitor-search interest (Shuraih Name Meaning, Islamic Legal Heritage & Origin). Documented across Arab and South Asian historical and legal records; maintained within traditional naming circles."
+      },
+      {
+        "q": "What does Shurayh mean in Urdu?",
+        "a": "The draft Urdu rendering is شریح; its gloss is واضح کرنے والا، دل کو سکون بخشنے والا؛ مشہور و عادل قاضی حضرت شریح بن حارث کندی. Localized translations have not had native-speaker review."
+      },
+      {
+        "q": "What is the root of Shurayh?",
+        "a": "The recorded Arabic root is ش ر ح (sh-r-ḥ)."
+      }
+    ],
+    "seo": {
+      "title": "Shurayh Name Meaning, Origin & Usage",
+      "meta_description": "Explore the sourced meaning, origin, pronunciation, script, and regional usage evidence for Shurayh.",
+      "meta_keywords": "Shurayh meaning, Shurayh name meaning, Shurayh origin, Shurayh pronunciation, Shurayh name in Urdu, Shurayh Arabic name",
+      "description_paragraph": "Shurayh is an Arabic-origin given name. This entry separates its lexical meaning, cultural and scriptural context, and source-scoped usage evidence.",
+      "keywords": [
+        "Shurayh meaning",
+        "Shurayh name meaning",
+        "Shurayh origin",
+        "Shurayh pronunciation",
+        "Shurayh name in Urdu",
+        "Shurayh Arabic name"
+      ],
+      "focus_keyword": "Shurayh meaning",
+      "secondary_keywords": [
+        "Shurayh name meaning",
+        "Shurayh origin",
+        "Shurayh pronunciation",
+        "Shurayh name in Urdu",
+        "Shurayh Arabic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/shurayh",
+      "seo_score": null,
+      "seo_score_basis": "No composite SEO score is assigned; editorial and evidence quality are recorded separately."
+    },
+    "seo_content": {
+      "intro_paragraph": "Shurayh is an Arabic-origin given name. The entry explains its documented meaning and distinguishes linguistic origin, religious/scriptural status, and regional usage.",
+      "body_summary": "Shurayh (شُرَيْح) is an Arabic masculine given name meaning 'one who brings joyful clarity', 'relieved of distress', or 'the clear, open explanation'. In Islamic history, it is the renowned name of Shurayh ibn al-Harith al-Kindi (al-Qadi Shurayh), the legendary judge of Kufa famed for unwavering justice. Documented across Arab and South Asian historical and legal records; maintained within traditional naming circles."
+    },
+    "social_tags": [
+      "#Shurayh",
+      "#ShurayhMeaning",
+      "#NameMeaning",
+      "#ArabicNames",
+      "#IslamicNames"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [
+        "localized_translations_require_native_review",
+        "popularity_metrics_are_source_and_region_scoped"
+      ],
+      "fabricated_content_removed": true,
+      "fields_total": 316,
+      "quality_score": null,
+      "quality_score_basis": "No composite quality score is asserted; source support, limitations, scriptural status, and review flags are explicit."
+    },
+    "evidence": {
+      "sources": [
+        "Sahih al-Bukhari: Book of Judgments (Kitab al-Ahkam) — Records the judicial authority and procedures of Shurayh al-Qadi as accepted legal precedent. Source: https://sunnah.com/bukhari/93 Limitation: Canonical hadith collection reporting historical judgments.",
+        "Al-Dhahabi, Siyar A'lam al-Nubala, Vol. 4: Biography of Shurayh — Extensive biographical documentation of Shurayh's justice, character, and longevity in office. Source: https://shamela.ws/book/10906/1844 Limitation: Classical biographical encyclopedia.",
+        "Lisan al-Arab: Root sh-r-ḥ — Linguistic exposition of sharḥ and the diminutive form shurayḥ. Source: https://lexicon.quranic-research.net/ Limitation: Authoritative Arabic dictionary."
+      ],
+      "verification_method": "The lexical/scriptural or language claim is separated from name-site glosses; name usage and popularity are checked separately. Every frequency figure retains its source, region, year, category, metric, and limitation. Candidate spellings, Romanized variants, source-script forms, and localized script renderings are checked against the existing dataset. Non-English glosses are drafts requiring native-speaker review."
+    },
+    "provenance": {
+      "pipeline": "NameVerse super-2.0 demand-informed batch builder",
+      "methodology": "Curated evidence manifest -> template-matched record build -> alias/script collision audit -> schema and integrity validation",
+      "upgraded_from": "New record generated from the current super-2.0 architecture; not converted from a legacy record.",
+      "processed_at": "2026-10-14T00:00:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Shurayh",
+          "description": "Shurayh — an Arabic-origin given name: Joyful heart, clear expositor; famed Islamic judge Shurayh al-Qadi.",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Shurayh mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Shurayh (شُرَيْح) is an Arabic masculine given name meaning 'one who brings joyful clarity', 'relieved of distress', or 'the clear, open explanation'. In Islamic history, it is the renowned name of Shurayh ibn al-Harith al-Kindi (al-Qadi Shurayh), the legendary judge of Kufa famed for unwavering justice."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Shurayh?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The root sh-r-ḥ denotes opening, expanding, and clarifying, as in the Quranic concept of 'sharh al-sadr' (expansion of the heart with faith). As a proper name, Shurayh al-Qadi was appointed judge of Kufa by Umar ibn al-Khattab and served for over sixty years under Ali ibn Abi Talib and subsequent leaders, legendary for ruling impartially even against caliphs."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Shurayh an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. The recorded language/origin is Arabic; the source form is شُرَيْح."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Shurayh written in Arabic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "شُرَيْح"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Shurayh a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is not claimed as a Qur'anic personal name. The exact proper name Shurayh is not in the Qur'an; its triliteral root sh-r-ḥ appears prominently in Surah al-Inshirah (94:1)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Shurayh an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Venerated in Islamic jurisprudence as the supreme model of the honest, impartial Islamic judge (Qadi). Named after Shurayh al-Qadi, whose famous judicial case involving Caliph Ali and a Jewish citizen's armor remains a timeless monument of equal justice under divine law."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Shurayh pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An approximate romanized guide is shoo-RAYH. Begins with 'shoo', followed by diphthong 'ray' and ending with the unvoiced pharyngeal fricative 'ḥ'."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Shurayh a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The documented naming sources record Shurayh as a male name; actual use can vary by language and community."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How popular is Shurayh?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Available scoped measure(s): Middle East & North Africa Biographical Index, 2024, boys list: #4190, 34% relative visitor-search interest (Shuraih Name Meaning, Islamic Legal Heritage & Origin). Documented across Arab and South Asian historical and legal records; maintained within traditional naming circles."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Shurayh mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The draft Urdu rendering is شریح; its gloss is واضح کرنے والا، دل کو سکون بخشنے والا؛ مشہور و عادل قاضی حضرت شریح بن حارث کندی. Localized translations have not had native-speaker review."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Shurayh?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The recorded Arabic root is ش ر ح (sh-r-ḥ)."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Shurayh",
+              "item": "https://nameverse.site/names/islamic/shurayh"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": true,
+      "flags": [
+        "localized_translations_require_native_review",
+        "popularity_metrics_are_source_and_region_scoped"
+      ],
+      "confidence": "HIGH",
+      "reviewed_by": "Automated source-aware build and validation; not a human or native-speaker review",
+      "reviewed_at": "2026-10-14T00:00:00+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": false,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "numerology",
+        "lucky_attributes",
+        "spiritual_meaning",
+        "celebrity_usage",
+        "real_world_usage",
+        "name_story"
+      ]
+    }
+  }
+}

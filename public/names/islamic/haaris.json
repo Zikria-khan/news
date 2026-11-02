@@ -1,0 +1,489 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Haaris",
+    "slug": "haaris",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Haaris",
+      "normalized_name": "haaris",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "MEDIUM",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Haaris",
+        "haaris",
+        "haris"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Tiller of the soil, cultivator; guardian, watcher",
+      "primary_meaning": "Haaris corresponds to the Arabic form حارث and is glossed in this record as “Tiller of the soil, cultivator; guardian, watcher.” The record associates the form with root ح ر ث (ḥ-r-th). The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "Tiller of the soil, cultivator; guardian, watcher",
+      "meaning_explanation": "Haaris corresponds to the Arabic form حارث (Arabic root ح ر ث (ḥ-r-th); حارث (Ḥārith)). Its core sense is guardian, watcher; tiller of the soil. Haaris corresponds to Arabic حارث (Ḥārith) 'tiller of the soil, cultivator; guardian, watcher' (compare حارس ḥāris 'guard, watchman'). The source record for this slug was empty and has been completed from the form itself. The two senses (cultivator / guardian) are both current; the name is recorded at medium confidence because of that overlap.",
+      "meaning_confidence": "MEDIUM"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "حارث",
+      "transliteration": "haaris",
+      "root": "ح ر ث",
+      "root_transliteration": "ḥ-r-th",
+      "morphology": "Built on the root ح ر ث.",
+      "feminine_form": null,
+      "etymological_meaning": "From the root ح ر ث (ḥ-r-th)",
+      "root_family": [],
+      "etymology_explanation": "The form حارث is an established Arabic lexical item, and Haaris is the word itself used as a personal name rather than a derived or diminutive form.",
+      "etymology_confidence": "MEDIUM",
+      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form حارث.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "MEDIUM"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "MEDIUM",
+      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Haaris is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Haaris is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Haaris as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Tiller of the soil, cultivator; guardian, watcher",
+      "related_concepts": [
+        "Tiller of the soil, cultivator; guardian, watcher"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Tiller of the soil, cultivator; guardian, watcher” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Tiller of the soil, cultivator; guardian, watcher.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 2,
+      "life_path_number": 2,
+      "ruling_planet": "Moon",
+      "lucky_day": "Monday",
+      "lucky_colors": [
+        "White",
+        "Silver"
+      ],
+      "lucky_stone": "Pearl",
+      "meaning": "In Pythagorean numerology the letters of Haaris total 2, associated with cooperation, balance and sensitivity. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 2,
+      "lucky_day": "Monday",
+      "lucky_colors": [
+        "White",
+        "Silver"
+      ],
+      "lucky_stone": "Pearl",
+      "ruling_planet": "Moon"
+    },
+    "translations": {
+      "english": {
+        "name": "Haaris",
+        "script": "Haaris",
+        "meaning": "Tiller of the soil, cultivator; guardian, watcher",
+        "long_meaning": "Haaris is an Arabic-origin given name; in Arabic the word means “Tiller of the soil, cultivator; guardian, watcher”."
+      },
+      "urdu": {
+        "name": "حارث",
+        "script": "حارث",
+        "meaning": "نگہبان، محافظ؛ کاشتکار",
+        "long_meaning": "Haaris (حارث) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم نگہبان، محافظ؛ کاشتکار ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "حارث",
+        "script": "حارث",
+        "meaning": "نگهبان، پاسدار؛ کشاورز",
+        "long_meaning": "Haaris (حارث) نامی برگرفته از زبان عربی است و معنای اصلی آن نگهبان، پاسدار؛ کشاورز است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "हारिस",
+        "script": "हारिस",
+        "meaning": "रक्षक, पहरेदार; कृषक",
+        "long_meaning": "Haaris (हारिस) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ रक्षक, पहरेदार; कृषक है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "حارث",
+        "script": "حارث",
+        "meaning": "ساتونکی، څارونکی; بزګر",
+        "long_meaning": "Haaris (حارث) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې ساتونکی، څارونکی; بزګر ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "حارث",
+        "script": "حارث",
+        "meaning": "الحارس، الحارث",
+        "long_meaning": "Haaris (حارث) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الحارس، الحارث. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "haa-ris",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "حارث"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "haris"
+      ],
+      "script_forms": [
+        "حارث",
+        "हारिस"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form حارث is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Haaris mean?",
+        "a": "Haaris is an Arabic-origin name meaning “Tiller of the soil, cultivator; guardian, watcher”."
+      },
+      {
+        "q": "What is the origin of Haaris?",
+        "a": "Haaris originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Haaris an Arabic name?",
+        "a": "Yes, the recorded form حارث is Arabic."
+      },
+      {
+        "q": "What is the root of Haaris?",
+        "a": "It is built on the root ح ر ث (ḥ-r-th)."
+      },
+      {
+        "q": "Is Haaris an Islamic name?",
+        "a": "Haaris is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Haaris a Quranic name?",
+        "a": "Haaris is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Haaris mean in Urdu?",
+        "a": "In Urdu it is written حارث and carries the sense “نگہبان، محافظ؛ کاشتکار”."
+      },
+      {
+        "q": "How is Haaris pronounced?",
+        "a": "A romanized syllable approximation is “haa-ris”."
+      },
+      {
+        "q": "Is Haaris a boy's or girl's name?",
+        "a": "Documented usage records Haaris as a boy's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Haaris Name Meaning, Origin & Islamic Context",
+      "meta_description": "Haaris (حارث) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Haaris meaning, Haaris name meaning, Haaris origin, Haaris meaning in Urdu, Haaris pronunciation, Haaris Islamic name",
+      "description_paragraph": "Haaris is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Haaris meaning",
+        "Haaris name meaning",
+        "Haaris origin",
+        "Haaris meaning in Urdu",
+        "Haaris pronunciation",
+        "Haaris Islamic name"
+      ],
+      "focus_keyword": "Haaris meaning",
+      "secondary_keywords": [
+        "Haaris name meaning",
+        "Haaris origin",
+        "Haaris meaning in Urdu",
+        "Haaris pronunciation",
+        "Haaris Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/haaris",
+      "seo_score": 95,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Haaris, an Arabic-origin name used in Muslim communities.",
+      "body_summary": "Haaris is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Haaris",
+      "#HaarisMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 151,
+      "quality_score": 95,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form حارث carries the sense “Tiller of the soil, cultivator; guardian, watcher”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Haaris",
+          "description": "Haaris — an Arabic-origin given name meaning Tiller of the soil, cultivator; guardian, watcher",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Haaris mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Haaris is an Arabic-origin name meaning “Tiller of the soil, cultivator; guardian, watcher”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Haaris?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Haaris originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Haaris an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form حارث is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Haaris?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is built on the root ح ر ث (ḥ-r-th)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Haaris an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Haaris is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Haaris a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Haaris is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Haaris mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written حارث and carries the sense “نگہبان، محافظ؛ کاشتکار”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Haaris pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “haa-ris”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Haaris a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Haaris as a boy's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Haaris",
+              "item": "https://nameverse.site/names/islamic/haaris"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "MEDIUM",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

@@ -1,0 +1,548 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Yaqut",
+    "slug": "yaqut",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Yaqut",
+      "normalized_name": "yaqut",
+      "name_type": "given_name",
+      "gender": "Unisex",
+      "gender_confidence": "MEDIUM",
+      "gender_note": "The source records this name for boys and girls; no population-level gender split is asserted.",
+      "alternate_spellings": [
+        "Yaqut",
+        "yaqut",
+        "Yaqoot",
+        "Yaqout",
+        "Yakut"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Ruby; a precious stone.",
+      "primary_meaning": "Yaqut (yāqūt) is the Arabic name of the ruby and other precious stones, used as a given name for both men and women in Muslim history; the word occurs in Qur'an 55:58, which supports the scriptural word occurrence but not a personal-name claim.",
+      "literal_meaning": "The form يَاقُوت occurs in Qur'an 55:58 ('ka-annahunna al-yāqūtu wa-l-marjān') describing the women of Paradise; the verse uses the word for the stone, not a person.",
+      "meaning_explanation": "The gem-name gloss is the standard lexical gloss recorded by name references; the record keeps the scriptural occurrence separate from name use and notes both documented male and female bearers instead of a single-gender claim.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "يَاقُوت",
+      "transliteration": "yāqūt",
+      "root": "",
+      "root_transliteration": "",
+      "morphology": "Established Arabic lexical form for a precious stone (ruby); a loanword into Arabic, so no Arabic triliteral root is asserted. Documented bearers include both men (e.g., the geographer Yaqut al-Hamawi) and women.",
+      "feminine_form": null,
+      "etymological_meaning": "Ruby; a precious stone.",
+      "root_family": [],
+      "etymology_explanation": "The gem-name gloss is the standard lexical gloss recorded by name references; the record keeps the scriptural occurrence separate from name use and notes both documented male and female bearers instead of a single-gender claim.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented lexical analysis is asserted; unsupported name-site etymologies are not adopted."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form يَاقُوت.",
+        "usage": "Other scripts are transliterations or localized glosses; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The recorded form and meaning are associated with Arabic. The evidence distinguishes linguistic origin from religious/cultural use.",
+      "cultural_transmission": [
+        "Arabic-speaking communities",
+        "Muslim naming communities in South Asia"
+      ]
+    },
+    "religion": {
+      "primary_association": "Arabic and Muslim-cultural naming usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "A lexical gem-name; not a prescribed religious formula.",
+      "religious_explanation": "The word's Qur'anic occurrence is a lexical usage describing a stone, not a named person or a religious ruling about naming.",
+      "quranic_status": {
+        "is_quranic": true,
+        "status": "lexical_form_directly_attested",
+        "note": "The word يَاقُوت occurs in Qur'an 55:58; the verse does not name a person Yaqut."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report establishing this name or a special virtue is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishing this as a prophet's personal name is cited."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion attribution is asserted without a verified source."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Arabic and Muslim-cultural naming usage",
+      "interpretation": "Families may value the precious-stone sense, but that is a naming preference rather than a prediction about the bearer.",
+      "important_distinction": "This descriptive record is not a religious ruling. Muslim cultural use, linguistic origin, and direct Qur'anic attestation are separate claims."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim naming communities"
+      ],
+      "cultural_meaning": "Recorded as a given name for girls in modern references and historically for men as well (e.g., Yaqut al-Hamawi); no population-level gender split is asserted.",
+      "personal_name_interpretation": "Families may value the precious-stone sense, but that is a naming preference rather than a prediction about the bearer.",
+      "interpretation_warning": "A symbolic naming preference is distinct from dictionary meaning and is not a claim about a bearer's personality or future."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Precious stones, ruby",
+      "related_concepts": [
+        "ruby",
+        "gemstone",
+        "coral"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_asserted",
+      "render": false,
+      "meaning": null,
+      "basis": null,
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No evidence-based hidden personality traits are asserted."
+    },
+    "numerology": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "life_path_number": null,
+      "ruling_planet": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "meaning": null,
+      "note": "Numerology is not evidence-based and is not supplied in this record."
+    },
+    "lucky_attributes": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "ruling_planet": null
+    },
+    "translations": {
+      "english": {
+        "name": "Yaqut",
+        "script": "Yaqut",
+        "meaning": "Ruby; a precious stone.",
+        "long_meaning": "Yaqut (yāqūt) is the Arabic name of the ruby and other precious stones, used as a given name for both men and women in Muslim history; the word occurs in Qur'an 55:58, which supports the scriptural word occurrence but not a personal-name claim."
+      },
+      "urdu": {
+        "name": "یاقوت",
+        "script": "یاقوت",
+        "meaning": "یاقوت؛ ایک قیمتی پتھر (روبی)",
+        "long_meaning": "یاقوت کے لغوی معنی یاقوت؛ ایک قیمتی پتھر (روبی) ہیں۔ یہ ترجمہ ابتدائی مسودہ ہے اور مقامی لسانی جائزے کا محتاج ہے۔"
+      },
+      "persian": {
+        "name": "یاقوت",
+        "script": "یاقوت",
+        "meaning": "یاقوت؛ گوهر قیمتی ( یاقوت سرخ )",
+        "long_meaning": "معنای لغوی یاقوت در این مدخل «یاقوت؛ گوهر قیمتی ( یاقوت سرخ )» است؛ این برگردان پیش‌نویس است و به بازبینی بومی نیاز دارد."
+      },
+      "hindi": {
+        "name": "याक़ूत",
+        "script": "याक़ूत",
+        "meaning": "याक़ूत; एक क़ीमती रत्न (रुबी)",
+        "long_meaning": "याक़ूत का शब्दार्थ यहाँ याक़ूत; एक क़ीमती रत्न (रुबी) दिया गया है। यह अनुवाद प्रारूप है और स्थानीय भाषायी समीक्षा आवश्यक है।"
+      },
+      "pashto": {
+        "name": "یاقوت",
+        "script": "یاقوت",
+        "meaning": "یاقوت؛ یو قیمتي ډبره",
+        "long_meaning": "د یاقوت لغوي مانا «یاقوت؛ یو قیمتي ډبره» ده؛ دا د ژباړې مسوده ده او د اصلي ژبې ویونکي بیاکتنې ته اړتیا لري.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "يَاقُوت",
+        "script": "يَاقُوت",
+        "meaning": "يَاقُوت؛ حجرٌ كريمٌ ثمين",
+        "long_meaning": "المعنى اللغوي لـيَاقُوت في هذا السجل هو «يَاقُوت؛ حجرٌ كريمٌ ثمين»؛ وهذه صياغة أولية تحتاج إلى مراجعة لغوية.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "source_language_gloss_with_localized_draft",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "The source-language core gloss is evidence-backed. All non-English localized meanings and script renderings are editorial drafts and require native-speaker review; transliteration does not establish a separate origin."
+    },
+    "pronunciation": {
+      "romanized": "YA-koot (approximate)",
+      "ipa": null,
+      "approximation_note": "Romanized pronunciation guide only; no IPA is asserted.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "يَاقُوت"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Yaqoot",
+        "Yaqout",
+        "Yakut"
+      ],
+      "script_forms": [
+        "يَاقُوت",
+        "याक़ूत"
+      ],
+      "variant_notes": "Alternate spellings reflect orthographic or transliteration variants; they do not establish different etymologies or pronunciations.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "lexical_scriptural_context_and_documented_bearers",
+      "note": "The word yāqūt occurs in Qur'an 55:58; the geographer Yaqut al-Hamawi (1179–1229 CE) is a documented male bearer, while modern directories list the name for girls."
+    },
+    "modern_usage": {
+      "status": "source_scoped_usage_data_available",
+      "note": "Site-computed global ranks exist for the Yaqout spelling; the name is most used in Arab-world countries per the same source."
+    },
+    "popularity": {
+      "status": "source_scoped_metrics_available",
+      "render": true,
+      "score": null,
+      "by_region": [
+        {
+          "region": "Global (site-computed rank)",
+          "measure": "Ask-Oracle aggregated global name rank",
+          "year": 2024,
+          "category": null,
+          "rank": 483000,
+          "births": null,
+          "relative_interest_percent": null,
+          "observation_period": "as displayed on the 2024-dated source page",
+          "source_title": "Yaqout - Islamic Boy Name Meaning and Pronunciation",
+          "source": "https://www.ask-oracle.com/baby-name/yaqout/",
+          "limitation": "Site-aggregated ranking of unclear methodology and coverage; not birth-registration data."
+        },
+        {
+          "region": "HamariWeb name directory (site-internal ranking)",
+          "measure": "HamariWeb popularity rank (Yaqoot spelling)",
+          "year": 2025,
+          "category": "girls",
+          "rank": 9169,
+          "births": null,
+          "relative_interest_percent": null,
+          "observation_period": "undated directory snapshot as displayed on the source page",
+          "source_title": "Yaqoot Name Meaning - Yaqoot Origin, Popularity & History",
+          "source": "https://hamariweb.com/names/muslim/arabic/girl/yaqoot-meaning_5621/",
+          "limitation": "Site-internal directory ranking over an unclear population; not birth-registration or survey data."
+        }
+      ],
+      "note": "Both metrics are site-computed or site-internal rankings, not birth registrations; they are kept separate and uncombined."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is included."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No individual bearer story is included without a verified source."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Yaqut mean?",
+        "a": "Yaqut (yāqūt) is the Arabic name of the ruby and other precious stones, used as a given name for both men and women in Muslim history; the word occurs in Qur'an 55:58, which supports the scriptural word occurrence but not a personal-name claim."
+      },
+      {
+        "q": "What is the origin of Yaqut?",
+        "a": "The gem-name gloss is the standard lexical gloss recorded by name references; the record keeps the scriptural occurrence separate from name use and notes both documented male and female bearers instead of a single-gender claim."
+      },
+      {
+        "q": "Is Yaqut an Arabic name?",
+        "a": "Yes. The recorded language/origin is Arabic; the source form is يَاقُوت."
+      },
+      {
+        "q": "How is Yaqut written in Arabic?",
+        "a": "يَاقُوت"
+      },
+      {
+        "q": "Is Yaqut a Quranic name?",
+        "a": "The lexical/scriptural form is directly attested, but not as a named person: The word يَاقُوت occurs in Qur'an 55:58; the verse does not name a person Yaqut."
+      },
+      {
+        "q": "Is Yaqut an Islamic name?",
+        "a": "A lexical gem-name; not a prescribed religious formula. The word's Qur'anic occurrence is a lexical usage describing a stone, not a named person or a religious ruling about naming."
+      },
+      {
+        "q": "How is Yaqut pronounced?",
+        "a": "An approximate romanized guide is YA-koot. Romanized pronunciation guide only; no IPA is asserted."
+      },
+      {
+        "q": "Is Yaqut a boy's or girl's name?",
+        "a": "The source records this name for boys and girls; a population-level gender split is not available."
+      },
+      {
+        "q": "How popular is Yaqut?",
+        "a": "Available scoped measure(s): Global (site-computed rank), 2024: #483000 (Yaqout - Islamic Boy Name Meaning and Pronunciation); HamariWeb name directory (site-internal ranking), 2025: #9169 among girls (Yaqoot Name Meaning - Yaqoot Origin, Popularity & History). Both metrics are site-computed or site-internal rankings, not birth registrations; they are kept separate and uncombined."
+      },
+      {
+        "q": "What does Yaqut mean in Urdu?",
+        "a": "The draft Urdu rendering is یاقوت; its gloss is یاقوت؛ ایک قیمتی پتھر (روبی). Localized translations have not had native-speaker review."
+      },
+      {
+        "q": "What is the root of Yaqut?",
+        "a": "No triliteral Arabic root is asserted for this name."
+      }
+    ],
+    "seo": {
+      "title": "Yaqut Name Meaning, Origin & Usage",
+      "meta_description": "Explore the sourced meaning, origin, pronunciation, script, and regional usage evidence for Yaqut.",
+      "meta_keywords": "Yaqut meaning, Yaqut name meaning, Yaqut origin, Yaqut pronunciation, Yaqut name in Urdu, Yaqut Arabic name",
+      "description_paragraph": "Yaqut is an Arabic-origin given name. This entry separates its lexical meaning, cultural and scriptural context, and source-scoped usage evidence.",
+      "keywords": [
+        "Yaqut meaning",
+        "Yaqut name meaning",
+        "Yaqut origin",
+        "Yaqut pronunciation",
+        "Yaqut name in Urdu",
+        "Yaqut Arabic name"
+      ],
+      "focus_keyword": "Yaqut meaning",
+      "secondary_keywords": [
+        "Yaqut name meaning",
+        "Yaqut origin",
+        "Yaqut pronunciation",
+        "Yaqut name in Urdu",
+        "Yaqut Arabic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/yaqut",
+      "seo_score": null,
+      "seo_score_basis": "No composite SEO score is assigned; editorial and evidence quality are recorded separately."
+    },
+    "seo_content": {
+      "intro_paragraph": "Yaqut is an Arabic-origin given name. The entry explains its documented meaning and distinguishes linguistic origin, religious/scriptural status, and regional usage.",
+      "body_summary": "Yaqut (yāqūt) is the Arabic name of the ruby and other precious stones, used as a given name for both men and women in Muslim history; the word occurs in Qur'an 55:58, which supports the scriptural word occurrence but not a personal-name claim. Both metrics are site-computed or site-internal rankings, not birth registrations; they are kept separate and uncombined."
+    },
+    "social_tags": [
+      "#Yaqut",
+      "#YaqutMeaning",
+      "#NameMeaning",
+      "#ArabicNames",
+      "#IslamicNames"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [
+        "localized_translations_require_native_review",
+        "popularity_metrics_are_source_and_region_scoped"
+      ],
+      "fabricated_content_removed": true,
+      "fields_total": 324,
+      "quality_score": null,
+      "quality_score_basis": "No composite quality score is asserted; source support, limitations, scriptural status, and review flags are explicit."
+    },
+    "evidence": {
+      "sources": [
+        "QuranicNames, Yaqoot — Original spelling يَاقُوْت; gloss 'ruby'; main entry classifies it as a non-Quranic name (variant pages differ). Source: https://quranicnames.com/yaqoot/ Limitation: Baby-name reference; the gem gloss is cross-checked against standard Arabic lexical understanding and the Qur'anic word occurrence is cited separately.",
+        "Quran.com, Surah Ar-Rahman, verse 58 — كَأَنَّهُنَّ الْيَاقُوتُ وَالْمَرْجَانُ — yāqūt occurs in Qur'an 55:58. Source: https://quran.com/en/ar-rahman/58 Limitation: The primary text supports the word occurrence, not personal-name use.",
+        "Ask-Oracle, Yaqout — Site-computed global rank 483,000 and country-level interest with Jordan most popular. Source: https://www.ask-oracle.com/baby-name/yaqout/ Limitation: Site-aggregated ranking of unclear methodology; also describes the name as masculine, showing the sources disagree on gender."
+      ],
+      "verification_method": "The lexical/scriptural or language claim is separated from name-site glosses; name usage and popularity are checked separately. Every frequency figure retains its source, region, year, category, metric, and limitation. Candidate spellings, Romanized variants, source-script forms, and localized script renderings are checked against the existing dataset. Non-English glosses are drafts requiring native-speaker review."
+    },
+    "provenance": {
+      "pipeline": "NameVerse super-2.0 demand-informed batch builder",
+      "methodology": "Curated evidence manifest -> template-matched record build -> alias/script collision audit -> schema and integrity validation",
+      "upgraded_from": "New record generated from the current super-2.0 architecture; not converted from a legacy record.",
+      "processed_at": "2026-10-13T00:00:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Yaqut",
+          "description": "Yaqut — an Arabic-origin given name: Ruby; a precious stone.",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Yaqut mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yaqut (yāqūt) is the Arabic name of the ruby and other precious stones, used as a given name for both men and women in Muslim history; the word occurs in Qur'an 55:58, which supports the scriptural word occurrence but not a personal-name claim."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Yaqut?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The gem-name gloss is the standard lexical gloss recorded by name references; the record keeps the scriptural occurrence separate from name use and notes both documented male and female bearers instead of a single-gender claim."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Yaqut an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. The recorded language/origin is Arabic; the source form is يَاقُوت."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Yaqut written in Arabic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "يَاقُوت"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Yaqut a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The lexical/scriptural form is directly attested, but not as a named person: The word يَاقُوت occurs in Qur'an 55:58; the verse does not name a person Yaqut."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Yaqut an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A lexical gem-name; not a prescribed religious formula. The word's Qur'anic occurrence is a lexical usage describing a stone, not a named person or a religious ruling about naming."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Yaqut pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An approximate romanized guide is YA-koot. Romanized pronunciation guide only; no IPA is asserted."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Yaqut a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The source records this name for boys and girls; a population-level gender split is not available."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How popular is Yaqut?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Available scoped measure(s): Global (site-computed rank), 2024: #483000 (Yaqout - Islamic Boy Name Meaning and Pronunciation); HamariWeb name directory (site-internal ranking), 2025: #9169 among girls (Yaqoot Name Meaning - Yaqoot Origin, Popularity & History). Both metrics are site-computed or site-internal rankings, not birth registrations; they are kept separate and uncombined."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Yaqut mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The draft Urdu rendering is یاقوت; its gloss is یاقوت؛ ایک قیمتی پتھر (روبی). Localized translations have not had native-speaker review."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Yaqut?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No triliteral Arabic root is asserted for this name."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Yaqut",
+              "item": "https://nameverse.site/names/islamic/yaqut"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": true,
+      "flags": [
+        "localized_translations_require_native_review",
+        "popularity_metrics_are_source_and_region_scoped"
+      ],
+      "confidence": "HIGH",
+      "reviewed_by": "Automated source-aware build and validation; not a human or native-speaker review",
+      "reviewed_at": "2026-10-13T00:00:00+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": false,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "numerology",
+        "lucky_attributes",
+        "spiritual_meaning",
+        "celebrity_usage",
+        "real_world_usage",
+        "name_story"
+      ]
+    }
+  }
+}

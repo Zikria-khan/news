@@ -1,0 +1,481 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Fudayl",
+    "slug": "fudayl",
+    "content_revision": "v9",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Fudayl",
+      "normalized_name": "fudayl",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "MEDIUM",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Fudayl",
+        "fudayl"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "A name associated with the Arabic word-family of virtue or excellence; exact personal-name gloss depends on morphology",
+      "primary_meaning": "Fudayl (فضيل) is an Arabic-origin personal name. A name associated with the Arabic word-family of virtue or excellence; exact personal-name gloss depends on morphology.",
+      "literal_meaning": "فضيل is an Arabic personal-name form related in usage and form to the semantic field of فضل (merit, favor, excellence). This is a cautious word-family association, not a claim of a single definitive gloss.",
+      "meaning_explanation": "فضيل is an Arabic personal-name form related in usage and form to the semantic field of فضل (merit, favor, excellence). This is a cautious word-family association, not a claim of a single definitive gloss.",
+      "meaning_confidence": "MEDIUM"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "فضيل",
+      "transliteration": "fudayl",
+      "root": "ف ض ل (word-family association)",
+      "root_transliteration": "f-ḍ-l",
+      "morphology": "فضيل is an Arabic personal-name form related in usage and form to the semantic field of فضل (merit, favor, excellence). This is a cautious word-family association, not a claim of a single definitive gloss.",
+      "feminine_form": null,
+      "etymological_meaning": "A name associated with the Arabic word-family of virtue or excellence; exact personal-name gloss depends on morphology",
+      "root_family": [],
+      "etymology_explanation": "فضيل is an Arabic personal-name form related in usage and form to the semantic field of فضل (merit, favor, excellence). This is a cautious word-family association, not a claim of a single definitive gloss.",
+      "etymology_confidence": "MEDIUM",
+      "false_etymology_warning": "Do not present an uncertain root or folk etymology as established fact."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "The recorded personal-name form is فضيل.",
+        "usage": "Other scripts are transliterations, not independent origins."
+      },
+      "language_confidence": "MEDIUM"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic and historical name usage",
+      "origin_confidence": "MEDIUM",
+      "origin_explanation": "فضيل is an Arabic personal-name form related in usage and form to the semantic field of فضل (merit, favor, excellence). This is a cautious word-family association, not a claim of a single definitive gloss.",
+      "cultural_transmission": [
+        "Arabic-speaking communities",
+        "Muslim naming communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Used in Muslim naming; no exclusive religious status asserted",
+      "religious_explanation": "Historical use in Muslim communities does not by itself establish that a name is Qur'anic or religiously prescribed.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "No claim that this is a Qur'anic personal name is made."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific hadith prescribing this name is claimed."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No claim that this is a prophet's name is made."
+      },
+      "companion_status": {
+        "status": "not_applicable_to_bearer_noted",
+        "note": "Fudayl ibn Iyad is a well-known early Muslim ascetic and scholar in later Islamic biographical tradition; he is not presented here as a Companion."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture",
+      "interpretation": "Historical or lexical name use may be relevant to families considering the name.",
+      "important_distinction": "Muslim use or historical bearer does not prove Qur'anic status or a religious recommendation."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim naming communities"
+      ],
+      "cultural_meaning": "A name associated with the Arabic word-family of virtue or excellence; exact personal-name gloss depends on morphology",
+      "personal_name_interpretation": "Interpretations beyond the documented lexical or historical evidence are not asserted.",
+      "interpretation_warning": "Distinguish a name's lexical history from modern symbolic interpretations."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "A name associated with the Arabic word-family of virtue or excellence; exact personal-name gloss depends on morphology",
+      "related_concepts": [
+        "A name associated with the Arabic word-family of virtue or excellence; exact personal-name gloss depends on morphology"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_verified",
+      "render": false,
+      "meaning": "",
+      "basis": "No distinct spiritual meaning is asserted beyond the documented lexical or historical information.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "life_path_number": null,
+      "ruling_planet": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "meaning": "No evidence-based personality or destiny claim is made.",
+      "note": "Numerology is omitted because it is not a factual property of a name."
+    },
+    "lucky_attributes": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "ruling_planet": null
+    },
+    "translations": {
+      "english": {
+        "name": "Fudayl",
+        "script": "Fudayl",
+        "meaning": "A name associated with the Arabic word-family of virtue or excellence; exact personal-name gloss depends on morphology",
+        "long_meaning": "Fudayl is an Arabic-origin personal name. A name associated with the Arabic word-family of virtue or excellence; exact personal-name gloss depends on morphology."
+      },
+      "urdu": {
+        "name": "فضيل",
+        "script": "فضيل",
+        "meaning": "عربی نام؛ مفہوم کی وضاحت اوپر درج ہے",
+        "long_meaning": "Fudayl (فضيل) عربی نام ہے۔ اس کے مفہوم کے بارے میں غیر یقینی تفصیلات کو قطعی معنی کے طور پر پیش نہیں کیا گیا۔"
+      },
+      "persian": {
+        "name": "فضيل",
+        "script": "فضيل",
+        "meaning": "نام عربی اصل رکھتا ہے",
+        "long_meaning": "Fudayl نامی با ریشه و کاربرد عربی ثبت شده است؛ معنی دقیق در صورت عدم اطمینان قطعی بیان نمی‌شود."
+      },
+      "hindi": {
+        "name": "Fudayl",
+        "script": "Fudayl",
+        "meaning": "अरबी मूल का नाम",
+        "long_meaning": "Fudayl अरबी मूल का व्यक्तिगत नाम है। अनिश्चित व्युत्पत्ति को निश्चित अर्थ के रूप में प्रस्तुत नहीं किया गया है।"
+      },
+      "pashto": {
+        "name": "فضيل",
+        "script": "فضيل",
+        "meaning": "عربي اصل نوم",
+        "long_meaning": "Fudayl د عربي اصل شخصي نوم دی؛ نامعلومې ريښې د قطعي مانا په توګه نه وړاندې کېږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "فضيل",
+        "script": "فضيل",
+        "meaning": "اسم شخصي عربي",
+        "long_meaning": "فضيل اسم شخصي عربي موثق؛ لا يُجزم باشتقاق أو معنى دقيق ما لم يثبت بمصدر معجمي متخصص.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "conservative_semantic_translation",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "Translations are cautious placeholders and require native-language review before publication."
+    },
+    "pronunciation": {
+      "romanized": "fu-dayl",
+      "ipa": null,
+      "approximation_note": "Romanized pronunciation is approximate; IPA has not been independently verified.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "فضيل"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [],
+      "script_forms": [
+        "فضيل"
+      ],
+      "variant_notes": "Spellings are transliteration variants; do not merge with unrelated names without evidence.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "partially_verified",
+      "note": "Fudayl ibn Iyad is a well-known early Muslim ascetic and scholar in later Islamic biographical tradition; he is not presented here as a Companion."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Modern popularity is not measured; historical attestation is not evidence of current frequency."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified registration or popularity dataset is supplied."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No personal story is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Fudayl mean?",
+        "a": "Fudayl (فضيل) is an Arabic-origin personal name. A name associated with the Arabic word-family of virtue or excellence; exact personal-name gloss depends on morphology."
+      },
+      {
+        "q": "What is the origin of Fudayl?",
+        "a": "The recorded form فضيل is treated here as Arabic in origin."
+      },
+      {
+        "q": "Is Fudayl an Arabic name?",
+        "a": "Yes, the name is recorded in Arabic script as فضيل."
+      },
+      {
+        "q": "Is Fudayl an Islamic name?",
+        "a": "It is found in Muslim naming or historical contexts, but that does not by itself establish Qur'anic status."
+      },
+      {
+        "q": "Is Fudayl mentioned in the Qur'an?",
+        "a": "This record does not claim that Fudayl is a Qur'anic personal name."
+      },
+      {
+        "q": "How is Fudayl written in Arabic?",
+        "a": "Fudayl is written فضيل."
+      },
+      {
+        "q": "How is Fudayl pronounced?",
+        "a": "A rough romanized guide is “fu-dayl”; pronunciation can vary by language and region."
+      },
+      {
+        "q": "Is Fudayl a boy's or girl's name?",
+        "a": "The historical naming usage recorded here is masculine; contemporary use can vary by community."
+      },
+      {
+        "q": "Is Fudayl a name of a Companion?",
+        "a": "Fudayl ibn Iyad is a well-known early Muslim ascetic and scholar in later Islamic biographical tradition; he is not presented here as a Companion."
+      }
+    ],
+    "seo": {
+      "title": "Fudayl Name Meaning, Arabic Origin & Islamic Context",
+      "meta_description": "Fudayl (فضيل) — cautious meaning, Arabic origin, pronunciation and historical naming context.",
+      "meta_keywords": "Fudayl meaning, Fudayl name origin, Fudayl in Arabic, Fudayl pronunciation",
+      "description_paragraph": "Explore the recorded Arabic form, cautious meaning, pronunciation and historical context of Fudayl.",
+      "keywords": [
+        "Fudayl meaning",
+        "Fudayl name origin",
+        "Fudayl in Arabic",
+        "Fudayl pronunciation"
+      ],
+      "focus_keyword": "Fudayl meaning",
+      "secondary_keywords": [
+        "Fudayl name origin",
+        "Fudayl in Arabic",
+        "Fudayl pronunciation"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/fudayl",
+      "seo_score": 80,
+      "seo_score_basis": "Conservative content; claims marked uncertain are not promoted to verified facts."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page documents the Arabic personal name Fudayl (فضيل) with cautious etymology and historical context.",
+      "body_summary": "Popularity and religious status are not inferred from historical attestation."
+    },
+    "social_tags": [
+      "#Fudayl",
+      "#FudaylMeaning",
+      "#ArabicNames",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": false,
+      "authenticity_flags": [
+        "manual_lexical_review_required",
+        "native_translation_review_required"
+      ],
+      "fabricated_content_removed": true,
+      "fields_total": 153,
+      "quality_score": 80,
+      "quality_score_basis": "Evidence-conscious draft; lexical detail and translations require specialist review."
+    },
+    "evidence": {
+      "sources": [
+        "The record uses the Arabic word-family association cautiously and does not claim Qur'anic status.",
+        "Historical use as a Muslim personal name is supported by biographical references to Fudayl ibn Iyad."
+      ],
+      "verification_method": "Historical bearer/source checked; lexical claims intentionally conservative. Verify dictionary morphology and translations before enabling publication."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v9",
+      "methodology": "Conservative record draft from documented historical/lexical evidence",
+      "upgraded_from": "v8 template",
+      "processed_at": "2026-10-14T00:00:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Fudayl",
+          "description": "Fudayl (فضيل) — Arabic-origin personal name; A name associated with the Arabic word-family of virtue or excellence; exact personal-name gloss depends on morphology",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Fudayl mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fudayl (فضيل) is an Arabic-origin personal name. A name associated with the Arabic word-family of virtue or excellence; exact personal-name gloss depends on morphology."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Fudayl?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The recorded form فضيل is treated here as Arabic in origin."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Fudayl an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the name is recorded in Arabic script as فضيل."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Fudayl an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is found in Muslim naming or historical contexts, but that does not by itself establish Qur'anic status."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Fudayl mentioned in the Qur'an?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "This record does not claim that Fudayl is a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Fudayl written in Arabic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fudayl is written فضيل."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Fudayl pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A rough romanized guide is “fu-dayl”; pronunciation can vary by language and region."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Fudayl a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The historical naming usage recorded here is masculine; contemporary use can vary by community."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Fudayl a name of a Companion?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Fudayl ibn Iyad is a well-known early Muslim ascetic and scholar in later Islamic biographical tradition; he is not presented here as a Companion."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Fudayl",
+              "item": "https://nameverse.site/names/islamic/fudayl"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": true,
+      "flags": [
+        "lexical_review",
+        "native_translation_review"
+      ],
+      "confidence": "MEDIUM",
+      "reviewed_by": "Automated draft; human review pending",
+      "reviewed_at": "2026-10-14T00:00:00+00:00"
+    },
+    "render_policy": {
+      "render_verified": false,
+      "render_interpretive": false,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

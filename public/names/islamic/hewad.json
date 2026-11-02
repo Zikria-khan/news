@@ -1,0 +1,491 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Hewad",
+    "slug": "hewad",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Hewad",
+      "normalized_name": "hewad",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "MEDIUM",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Hewad",
+        "hewad"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Homeland, native country",
+      "primary_meaning": "Hewad is a Pashto-origin name meaning “Homeland, native country”.",
+      "literal_meaning": "The name is the Pashto word itself, used unchanged as a given name rather than a derived or diminutive form.",
+      "meaning_explanation": "Hewad corresponds to the Pashto form هېواد (Pashto هېواد (hewād)). Its core sense is homeland, native country. Hewad is Pashto هېواد (hewād) 'homeland, native country'. MISLABELLED ORIGIN: the source recorded the name as Arabic and gave هود (that is the prophet Hud, a different name). The source gloss 'Gift' is unsupported and has been replaced with the Pashto lexical sense. Recorded at medium confidence because the word is primarily a common noun.",
+      "meaning_confidence": "MEDIUM"
+    },
+    "etymology": {
+      "primary_language": "Pashto",
+      "lexical_form": "هېواد",
+      "transliteration": "hewad",
+      "root": "",
+      "root_transliteration": "",
+      "morphology": "Simple lexical item used as a name.",
+      "feminine_form": null,
+      "etymological_meaning": "The Pashto word هېواد",
+      "root_family": [],
+      "etymology_explanation": "The form هېواد is an established Pashto lexical item used unchanged as a given name.",
+      "etymology_confidence": "MEDIUM",
+      "false_etymology_warning": "No derivation beyond the documented Pashto form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Pashto",
+      "associated_languages": [
+        "Pashto",
+        "Muslim South Asia"
+      ],
+      "language_notes": {
+        "primary": "Pashto is the language of the recorded form هېواد.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "MEDIUM"
+    },
+    "origin": {
+      "primary_origin": "Pashto",
+      "origin_type": "linguistic",
+      "origin_confidence": "MEDIUM",
+      "origin_explanation": "The name originates in Pashto and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Pashto",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Hewad is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Hewad is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Hewad as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Pashto",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Homeland, native country",
+      "related_concepts": [
+        "Homeland, native country"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Homeland, native country” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Homeland, native country.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 5,
+      "life_path_number": 5,
+      "ruling_planet": "Mercury",
+      "lucky_day": "Wednesday",
+      "lucky_colors": [
+        "Green",
+        "Turquoise"
+      ],
+      "lucky_stone": "Emerald",
+      "meaning": "In Pythagorean numerology the letters of Hewad total 5, associated with change, freedom and adaptability. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 5,
+      "lucky_day": "Wednesday",
+      "lucky_colors": [
+        "Green",
+        "Turquoise"
+      ],
+      "lucky_stone": "Emerald",
+      "ruling_planet": "Mercury"
+    },
+    "translations": {
+      "english": {
+        "name": "Hewad",
+        "script": "Hewad",
+        "meaning": "Homeland, native country",
+        "long_meaning": "Hewad is a Pashto-origin given name; in Pashto the word means “Homeland, native country”."
+      },
+      "urdu": {
+        "name": "ہیواد",
+        "script": "ہیواد",
+        "meaning": "وطن، آبائی ملک",
+        "long_meaning": "Hewad (ہیواد) نامعلوم زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم وطن، آبائی ملک ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "هیواد",
+        "script": "هیواد",
+        "meaning": "میهن، سرزمین مادری",
+        "long_meaning": "Hewad (هیواد) نامی برگرفته از زبان نامعلوم است و معنای اصلی آن میهن، سرزمین مادری است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "हेबाद",
+        "script": "हेबाद",
+        "meaning": "मातृभूमि, वतन",
+        "long_meaning": "Hewad (हेबाद) अज्ञात भाषा से लिया गया नाम है। इसका मुख्य अर्थ मातृभूमि, वतन है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "هېواد",
+        "script": "هېواد",
+        "meaning": "هېواد، پلرنی ټاټوبی",
+        "long_meaning": "Hewad (هېواد) د نامعلوم ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې هېواد، پلرنی ټاټوبی ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "هېواد",
+        "script": "هېواد",
+        "meaning": "الوطن، البلد الأم",
+        "long_meaning": "Hewad (هېواد) اسم مأخوذ من اللغة غير محددة، ومعناه الأساسي الوطن، البلد الأم. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "he-wad",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "هېواد"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Hewad"
+      ],
+      "script_forms": [
+        "هیواد",
+        "هېواد",
+        "ہیواد",
+        "हेबाद"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form هېواد is an established Pashto lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Hewad mean?",
+        "a": "Hewad is a Pashto-origin name meaning “Homeland, native country”."
+      },
+      {
+        "q": "What is the origin of Hewad?",
+        "a": "Hewad originates in Pashto and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Hewad an Arabic name?",
+        "a": "No — the recorded form هېواد is Pashto, not Arabic."
+      },
+      {
+        "q": "What is the root of Hewad?",
+        "a": "No root analysis is asserted for this spelling."
+      },
+      {
+        "q": "Is Hewad an Islamic name?",
+        "a": "Hewad is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Hewad a Quranic name?",
+        "a": "Hewad is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Hewad mean in Urdu?",
+        "a": "In Urdu it is written ہیواد and carries the sense “وطن، آبائی ملک”."
+      },
+      {
+        "q": "How is Hewad pronounced?",
+        "a": "A romanized syllable approximation is “he-wad”."
+      },
+      {
+        "q": "Is Hewad a boy's or girl's name?",
+        "a": "Documented usage records Hewad as a boy's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Hewad Name Meaning, Origin & Islamic Context",
+      "meta_description": "Hewad (هېواد) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Hewad meaning, Hewad name meaning, Hewad origin, Hewad meaning in Urdu, Hewad pronunciation, Hewad Islamic name",
+      "description_paragraph": "Hewad is a Pashto-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Hewad meaning",
+        "Hewad name meaning",
+        "Hewad origin",
+        "Hewad meaning in Urdu",
+        "Hewad pronunciation",
+        "Hewad Islamic name"
+      ],
+      "focus_keyword": "Hewad meaning",
+      "secondary_keywords": [
+        "Hewad name meaning",
+        "Hewad origin",
+        "Hewad meaning in Urdu",
+        "Hewad pronunciation",
+        "Hewad Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/hewad",
+      "seo_score": 90,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Hewad, a Pashto-origin name used in Muslim communities.",
+      "body_summary": "Hewad is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Hewad",
+      "#HewadMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 151,
+      "quality_score": 90,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Pashto form هېواد carries the sense “Homeland, native country”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Hewad",
+          "description": "Hewad — a Pashto-origin given name meaning Homeland, native country",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Hewad mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hewad is a Pashto-origin name meaning “Homeland, native country”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Hewad?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hewad originates in Pashto and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Hewad an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No — the recorded form هېواد is Pashto, not Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Hewad?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No root analysis is asserted for this spelling."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Hewad an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hewad is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Hewad a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hewad is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Hewad mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written ہیواد and carries the sense “وطن، آبائی ملک”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Hewad pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “he-wad”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Hewad a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Hewad as a boy's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Hewad",
+              "item": "https://nameverse.site/names/islamic/hewad"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "MEDIUM",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

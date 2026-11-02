@@ -1,0 +1,530 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Wajid",
+    "slug": "wajid",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Wajid",
+      "normalized_name": "wajid",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender follows documented naming usage, not an inference from the word's meaning; usage can vary by community.",
+      "alternate_spellings": [
+        "Wajid",
+        "wajid",
+        "Waajid"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "One who finds or perceives; finder.",
+      "primary_meaning": "Wajid (wājid) is an Arabic active-participle name meaning 'one who finds or obtains; one who perceives'; the related verbal noun wajd ('intense feeling, ecstasy') belongs to the same root but is a separate sense that this record keeps distinct.",
+      "literal_meaning": "The form وَاجِد is the standard Arabic participle of wajada; the verb family is common Arabic vocabulary and its Qur'anic occurrences are lexical, not the name.",
+      "meaning_explanation": "Name references record the gloss 'finder'; the record keeps the Sufi-technical sense of wajd ('ecstatic feeling') out of the name gloss to avoid conflating separate senses of the root.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "وَاجِد",
+      "transliteration": "wājid",
+      "root": "و ج د",
+      "root_transliteration": "w-j-d",
+      "morphology": "Active participle (fāʿil) of the Arabic verb wajada ('to find, to perceive'), established lexical form used as a masculine given name in Arabic and Urdu contexts.",
+      "feminine_form": null,
+      "etymological_meaning": "One who finds or perceives; finder.",
+      "root_family": [],
+      "etymology_explanation": "Name references record the gloss 'finder'; the record keeps the Sufi-technical sense of wajd ('ecstatic feeling') out of the name gloss to avoid conflating separate senses of the root.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented lexical analysis is asserted; unsupported name-site etymologies are not adopted."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form وَاجِد.",
+        "usage": "Other scripts are transliterations or localized glosses; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The recorded form and meaning are associated with Arabic. The evidence distinguishes linguistic origin from religious/cultural use.",
+      "cultural_transmission": [
+        "Arabic-speaking communities",
+        "Muslim naming communities in South Asia"
+      ]
+    },
+    "religion": {
+      "primary_association": "Arabic and Muslim-cultural naming usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "A lexical name; not a prescribed religious formula.",
+      "religious_explanation": "The name's Arabic vocabulary origin makes it compatible with Muslim naming traditions, but linguistic origin and a positive meaning are not a religious recommendation or ruling.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_claimed",
+        "note": "The verb family wajada ('to find') is common Qur'anic vocabulary, but the name form وَاجِد itself is not used in the Qur'an as a person's name."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report establishing this name or a special virtue is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishing this as a prophet's personal name is cited."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion attribution is asserted without a verified source."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Arabic and Muslim-cultural naming usage",
+      "interpretation": "Families may value the sense of resourcefulness, but that is a naming preference rather than a prediction about the bearer.",
+      "important_distinction": "This descriptive record is not a religious ruling. Muslim cultural use, linguistic origin, and direct Qur'anic attestation are separate claims."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim naming communities",
+        "Urdu-speaking communities"
+      ],
+      "cultural_meaning": "Recorded as a masculine given name especially in South Asian Muslim communities; this does not establish a single worldwide frequency.",
+      "personal_name_interpretation": "Families may value the sense of resourcefulness, but that is a naming preference rather than a prediction about the bearer.",
+      "interpretation_warning": "A symbolic naming preference is distinct from dictionary meaning and is not a claim about a bearer's personality or future."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Finding, perceiving",
+      "related_concepts": [
+        "finder",
+        "perceiver"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_asserted",
+      "render": false,
+      "meaning": null,
+      "basis": null,
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No evidence-based hidden personality traits are asserted."
+    },
+    "numerology": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "life_path_number": null,
+      "ruling_planet": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "meaning": null,
+      "note": "Numerology is not evidence-based and is not supplied in this record."
+    },
+    "lucky_attributes": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "ruling_planet": null
+    },
+    "translations": {
+      "english": {
+        "name": "Wajid",
+        "script": "Wajid",
+        "meaning": "One who finds or perceives; finder.",
+        "long_meaning": "Wajid (wājid) is an Arabic active-participle name meaning 'one who finds or obtains; one who perceives'; the related verbal noun wajd ('intense feeling, ecstasy') belongs to the same root but is a separate sense that this record keeps distinct."
+      },
+      "urdu": {
+        "name": "واجد",
+        "script": "واجد",
+        "meaning": "واجد؛ پا لینے والا، وجدان کرنے والا",
+        "long_meaning": "واجد کے لغوی معنی واجد؛ پا لینے والا، وجدان کرنے والا ہیں۔ یہ ترجمہ ابتدائی مسودہ ہے اور مقامی لسانی جائزے کا محتاج ہے۔"
+      },
+      "persian": {
+        "name": "واجد",
+        "script": "واجد",
+        "meaning": "واجد؛ یابنده",
+        "long_meaning": "معنای لغوی واجد در این مدخل «واجد؛ یابنده» است؛ این برگردان پیش‌نویس است و به بازبینی بومی نیاز دارد."
+      },
+      "hindi": {
+        "name": "वाजिद",
+        "script": "वाजिद",
+        "meaning": "वाजिद; पाने वाला, अनुभव करने वाला",
+        "long_meaning": "वाजिद का शब्दार्थ यहाँ वाजिद; पाने वाला, अनुभव करने वाला दिया गया है। यह अनुवाद प्रारूप है और स्थानीय भाषायी समीक्षा आवश्यक है।"
+      },
+      "pashto": {
+        "name": "واجد",
+        "script": "واجد",
+        "meaning": "واجد؛ موندونکی",
+        "long_meaning": "د واجد لغوي مانا «واجد؛ موندونکی» ده؛ دا د ژباړې مسوده ده او د اصلي ژبې ویونکي بیاکتنې ته اړتیا لري.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "وَاجِد",
+        "script": "وَاجِد",
+        "meaning": "وَاجِد؛ المُوجِد، الذي يَجِد",
+        "long_meaning": "المعنى اللغوي لـوَاجِد في هذا السجل هو «وَاجِد؛ المُوجِد، الذي يَجِد»؛ وهذه صياغة أولية تحتاج إلى مراجعة لغوية.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "source_language_gloss_with_localized_draft",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "The source-language core gloss is evidence-backed. All non-English localized meanings and script renderings are editorial drafts and require native-speaker review; transliteration does not establish a separate origin."
+    },
+    "pronunciation": {
+      "romanized": "WA-jid (approximate)",
+      "ipa": null,
+      "approximation_note": "Romanized pronunciation guide only; no IPA is asserted.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "وَاجِد"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Waajid"
+      ],
+      "script_forms": [
+        "وَاجِد",
+        "वाजिद"
+      ],
+      "variant_notes": "Alternate spellings reflect orthographic or transliteration variants; they do not establish different etymologies or pronunciations.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "lexical_context",
+      "note": "The name is a standard Arabic participle; no specific historical bearer is asserted by this record."
+    },
+    "modern_usage": {
+      "status": "source_scoped_usage_data_available",
+      "note": "U.S. data shows the name as rare; a site-internal directory ranking is the only collected metric."
+    },
+    "popularity": {
+      "status": "source_scoped_metrics_available",
+      "render": true,
+      "score": null,
+      "by_region": [
+        {
+          "region": "HamariWeb name directory (site-internal ranking)",
+          "measure": "HamariWeb popularity rank",
+          "year": 2025,
+          "category": "boys",
+          "rank": 1686,
+          "births": null,
+          "relative_interest_percent": null,
+          "observation_period": "undated directory snapshot as displayed on the source page",
+          "source_title": "Wajid Name Meaning - Wajid Origin, Popularity & History",
+          "source": "https://hamariweb.com/names/muslim/arabic/boy/wajid-meaning_3213/",
+          "limitation": "Site-internal directory ranking over an unclear population; not birth-registration or survey data."
+        }
+      ],
+      "note": "The only collected metric is a name-directory ranking; it measures a website's internal ordering, not births. BabyNames.com reports the name as not ranked in U.S. births."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is included."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No individual bearer story is included without a verified source."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Wajid mean?",
+        "a": "Wajid (wājid) is an Arabic active-participle name meaning 'one who finds or obtains; one who perceives'; the related verbal noun wajd ('intense feeling, ecstasy') belongs to the same root but is a separate sense that this record keeps distinct."
+      },
+      {
+        "q": "What is the origin of Wajid?",
+        "a": "Name references record the gloss 'finder'; the record keeps the Sufi-technical sense of wajd ('ecstatic feeling') out of the name gloss to avoid conflating separate senses of the root."
+      },
+      {
+        "q": "Is Wajid an Arabic name?",
+        "a": "Yes. The recorded language/origin is Arabic; the source form is وَاجِد."
+      },
+      {
+        "q": "How is Wajid written in Arabic?",
+        "a": "وَاجِد"
+      },
+      {
+        "q": "Is Wajid a Quranic name?",
+        "a": "It is not claimed as a Qur'anic personal name. The verb family wajada ('to find') is common Qur'anic vocabulary, but the name form وَاجِد itself is not used in the Qur'an as a person's name."
+      },
+      {
+        "q": "Is Wajid an Islamic name?",
+        "a": "A lexical name; not a prescribed religious formula. The name's Arabic vocabulary origin makes it compatible with Muslim naming traditions, but linguistic origin and a positive meaning are not a religious recommendation or ruling."
+      },
+      {
+        "q": "How is Wajid pronounced?",
+        "a": "An approximate romanized guide is WA-jid. Romanized pronunciation guide only; no IPA is asserted."
+      },
+      {
+        "q": "Is Wajid a boy's or girl's name?",
+        "a": "The documented naming sources record Wajid as a male name; actual use can vary by language and community."
+      },
+      {
+        "q": "How popular is Wajid?",
+        "a": "Available scoped measure(s): HamariWeb name directory (site-internal ranking), 2025: #1686 among boys (Wajid Name Meaning - Wajid Origin, Popularity & History). The only collected metric is a name-directory ranking; it measures a website's internal ordering, not births. BabyNames.com reports the name as not ranked in U.S. births."
+      },
+      {
+        "q": "What does Wajid mean in Urdu?",
+        "a": "The draft Urdu rendering is واجد; its gloss is واجد؛ پا لینے والا، وجدان کرنے والا. Localized translations have not had native-speaker review."
+      },
+      {
+        "q": "What is the root of Wajid?",
+        "a": "The recorded Arabic root is و ج د (w-j-d)."
+      }
+    ],
+    "seo": {
+      "title": "Wajid Name Meaning, Origin & Usage",
+      "meta_description": "Explore the sourced meaning, origin, pronunciation, script, and regional usage evidence for Wajid.",
+      "meta_keywords": "Wajid meaning, Wajid name meaning, Wajid origin, Wajid pronunciation, Wajid name in Urdu, Wajid Arabic name",
+      "description_paragraph": "Wajid is an Arabic-origin given name. This entry separates its lexical meaning, cultural and scriptural context, and source-scoped usage evidence.",
+      "keywords": [
+        "Wajid meaning",
+        "Wajid name meaning",
+        "Wajid origin",
+        "Wajid pronunciation",
+        "Wajid name in Urdu",
+        "Wajid Arabic name"
+      ],
+      "focus_keyword": "Wajid meaning",
+      "secondary_keywords": [
+        "Wajid name meaning",
+        "Wajid origin",
+        "Wajid pronunciation",
+        "Wajid name in Urdu",
+        "Wajid Arabic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/wajid",
+      "seo_score": null,
+      "seo_score_basis": "No composite SEO score is assigned; editorial and evidence quality are recorded separately."
+    },
+    "seo_content": {
+      "intro_paragraph": "Wajid is an Arabic-origin given name. The entry explains its documented meaning and distinguishes linguistic origin, religious/scriptural status, and regional usage.",
+      "body_summary": "Wajid (wājid) is an Arabic active-participle name meaning 'one who finds or obtains; one who perceives'; the related verbal noun wajd ('intense feeling, ecstasy') belongs to the same root but is a separate sense that this record keeps distinct. The only collected metric is a name-directory ranking; it measures a website's internal ordering, not births. BabyNames.com reports the name as not ranked in U.S. births."
+    },
+    "social_tags": [
+      "#Wajid",
+      "#WajidMeaning",
+      "#NameMeaning",
+      "#ArabicNames",
+      "#IslamicNames"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [
+        "localized_translations_require_native_review",
+        "popularity_metrics_are_source_and_region_scoped"
+      ],
+      "fabricated_content_removed": true,
+      "fields_total": 308,
+      "quality_score": null,
+      "quality_score_basis": "No composite quality score is asserted; source support, limitations, scriptural status, and review flags are explicit."
+    },
+    "evidence": {
+      "sources": [
+        "ItsAboutIslam, Wajid — Gloss 'finder'; Arabic root w-j-d; Arabic and Urdu origin description; boy name. Source: https://itsaboutislam.com/muslim-names/wajid/ Limitation: Baby-name reference; the root analysis is checked against standard Arabic participle morphology.",
+        "HamariWeb, Wajid — Gloss 'One Who Finds'; boy name; site-internal rank 1,686. Source: https://hamariweb.com/names/muslim/arabic/boy/wajid-meaning_3213/ Limitation: Directory entry with a site-internal, population-unclear ranking."
+      ],
+      "verification_method": "The lexical/scriptural or language claim is separated from name-site glosses; name usage and popularity are checked separately. Every frequency figure retains its source, region, year, category, metric, and limitation. Candidate spellings, Romanized variants, source-script forms, and localized script renderings are checked against the existing dataset. Non-English glosses are drafts requiring native-speaker review."
+    },
+    "provenance": {
+      "pipeline": "NameVerse super-2.0 demand-informed batch builder",
+      "methodology": "Curated evidence manifest -> template-matched record build -> alias/script collision audit -> schema and integrity validation",
+      "upgraded_from": "New record generated from the current super-2.0 architecture; not converted from a legacy record.",
+      "processed_at": "2026-10-13T00:00:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Wajid",
+          "description": "Wajid — an Arabic-origin given name: One who finds or perceives; finder.",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Wajid mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Wajid (wājid) is an Arabic active-participle name meaning 'one who finds or obtains; one who perceives'; the related verbal noun wajd ('intense feeling, ecstasy') belongs to the same root but is a separate sense that this record keeps distinct."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Wajid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Name references record the gloss 'finder'; the record keeps the Sufi-technical sense of wajd ('ecstatic feeling') out of the name gloss to avoid conflating separate senses of the root."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Wajid an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. The recorded language/origin is Arabic; the source form is وَاجِد."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Wajid written in Arabic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "وَاجِد"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Wajid a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is not claimed as a Qur'anic personal name. The verb family wajada ('to find') is common Qur'anic vocabulary, but the name form وَاجِد itself is not used in the Qur'an as a person's name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Wajid an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A lexical name; not a prescribed religious formula. The name's Arabic vocabulary origin makes it compatible with Muslim naming traditions, but linguistic origin and a positive meaning are not a religious recommendation or ruling."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Wajid pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An approximate romanized guide is WA-jid. Romanized pronunciation guide only; no IPA is asserted."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Wajid a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The documented naming sources record Wajid as a male name; actual use can vary by language and community."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How popular is Wajid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Available scoped measure(s): HamariWeb name directory (site-internal ranking), 2025: #1686 among boys (Wajid Name Meaning - Wajid Origin, Popularity & History). The only collected metric is a name-directory ranking; it measures a website's internal ordering, not births. BabyNames.com reports the name as not ranked in U.S. births."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Wajid mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The draft Urdu rendering is واجد; its gloss is واجد؛ پا لینے والا، وجدان کرنے والا. Localized translations have not had native-speaker review."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Wajid?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The recorded Arabic root is و ج د (w-j-d)."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Wajid",
+              "item": "https://nameverse.site/names/islamic/wajid"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": true,
+      "flags": [
+        "localized_translations_require_native_review",
+        "popularity_metrics_are_source_and_region_scoped"
+      ],
+      "confidence": "HIGH",
+      "reviewed_by": "Automated source-aware build and validation; not a human or native-speaker review",
+      "reviewed_at": "2026-10-13T00:00:00+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": false,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "numerology",
+        "lucky_attributes",
+        "spiritual_meaning",
+        "celebrity_usage",
+        "real_world_usage",
+        "name_story"
+      ]
+    }
+  }
+}

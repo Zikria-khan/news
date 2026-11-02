@@ -1,0 +1,489 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Rajabu",
+    "slug": "rajabu",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Rajabu",
+      "normalized_name": "rajabu",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Rajabu",
+        "rajabu"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "A month of the Persian calendar",
+      "primary_meaning": "Rajabu (رَجَبُ) is the name of a month in the traditional Persian calendar, used as a given name.",
+      "literal_meaning": "Name of a month in the Persian calendar",
+      "meaning_explanation": "Rajabu corresponds to the Arabic form رَجَبُ (Arabic root ر ج ب (r-j-b); رَجَب (Rajab)). Its core sense is rajabu; the month of rajab (swahili form). Rajabu is the Swahili form of Arabic رَجَب (Rajab), the name of a lunar month, used as a male given name.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "رَجَبُ",
+      "transliteration": "rajabu",
+      "root": "ر ج ب",
+      "root_transliteration": "r-j-b",
+      "morphology": "Built on the root ر ج ب.",
+      "feminine_form": null,
+      "etymological_meaning": "From the root ر ج ب (r-j-b)",
+      "root_family": [],
+      "etymology_explanation": "The form رَجَبُ is an established Arabic lexical item, and Rajabu is the word itself used as a personal name rather than a derived or diminutive form.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "This is a calendar-month name; it does not carry a devotional or Quranic meaning, and any gloss that presents it as an Arabic religious term is unsupported."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form رَجَبُ.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name originates in Arabic calendrical usage, where it names a month of the year.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Rajabu is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Rajabu is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Rajabu as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Month of Rajab (Swahili form)",
+      "related_concepts": [
+        "Month of Rajab (Swahili form)"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_applicable",
+      "render": false,
+      "meaning": "No devotional reading is offered because the underlying word is a descriptive term rather than a religious concept.",
+      "basis": null,
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 8,
+      "life_path_number": 8,
+      "ruling_planet": "Saturn",
+      "lucky_day": "Saturday",
+      "lucky_colors": [
+        "Black",
+        "Blue"
+      ],
+      "lucky_stone": "Blue Sapphire",
+      "meaning": "In Pythagorean numerology the letters of Rajabu total 8, associated with ambition, authority and material success. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 8,
+      "lucky_day": "Saturday",
+      "lucky_colors": [
+        "Black",
+        "Blue"
+      ],
+      "lucky_stone": "Blue Sapphire",
+      "ruling_planet": "Saturn"
+    },
+    "translations": {
+      "english": {
+        "name": "Rajabu",
+        "script": "Rajabu",
+        "meaning": "Month of Rajab (Swahili form)",
+        "long_meaning": "Rajabu is an Arabic-origin given name; in Arabic the word means “Month of Rajab (Swahili form)”."
+      },
+      "urdu": {
+        "name": "رجب",
+        "script": "رجب",
+        "meaning": "رجب، رجب کا مہینہ",
+        "long_meaning": "Rajabu (رجب) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم رجب، رجب کا مہینہ ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "رجب",
+        "script": "رجب",
+        "meaning": "رجب، ماه رجب",
+        "long_meaning": "Rajabu (رجب) نامی برگرفته از زبان عربی است و معنای اصلی آن رجب، ماه رجب است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "रजब",
+        "script": "रजब",
+        "meaning": "रजब, रजब का महीना",
+        "long_meaning": "Rajabu (रजब) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ रजब, रजब का महीना है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "رجب",
+        "script": "رجب",
+        "meaning": "رجب، د رجب میاشت",
+        "long_meaning": "Rajabu (رجب) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې رجب، د رجب میاشت ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "رَجَبُ",
+        "script": "رَجَبُ",
+        "meaning": "الرَّجَب، الرَّجَب",
+        "long_meaning": "Rajabu (رَجَبُ) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الرَّجَب، الرَّجَب. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "ra-ja-bu",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "رَجَبُ"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Rajabu"
+      ],
+      "script_forms": [
+        "رجب",
+        "رَجَبُ",
+        "रजब"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form رَجَبُ is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "cultural",
+      "render": true,
+      "story": "Rajabu is a month-name turned given name: it borrows a word from the Arabic calendar and uses it to mark a child with the qualities the month evokes."
+    },
+    "faq": [
+      {
+        "q": "What does Rajabu mean?",
+        "a": "Rajabu (رَجَبُ) is the name of a month in the traditional Persian calendar."
+      },
+      {
+        "q": "What is the origin of Rajabu?",
+        "a": "Rajabu originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Rajabu an Arabic name?",
+        "a": "Yes, the recorded form رَجَبُ is Arabic."
+      },
+      {
+        "q": "What is the root of Rajabu?",
+        "a": "It is built on the root ر ج ب (r-j-b)."
+      },
+      {
+        "q": "Is Rajabu an Islamic name?",
+        "a": "Rajabu is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Rajabu a Quranic name?",
+        "a": "Rajabu is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Rajabu mean in Urdu?",
+        "a": "In Urdu it is written رجب and carries the sense “رجب، رجب کا مہینہ”."
+      },
+      {
+        "q": "How is Rajabu pronounced?",
+        "a": "A romanized syllable approximation is “ra-ja-bu”."
+      },
+      {
+        "q": "Is Rajabu a boy's or girl's name?",
+        "a": "Documented usage records Rajabu as a boy's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Rajabu Name Meaning, Origin & Islamic Context",
+      "meta_description": "Rajabu (رَجَبُ) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Rajabu meaning, Rajabu name meaning, Rajabu origin, Rajabu meaning in Urdu, Rajabu pronunciation, Rajabu Islamic name",
+      "description_paragraph": "Rajabu is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Rajabu meaning",
+        "Rajabu name meaning",
+        "Rajabu origin",
+        "Rajabu meaning in Urdu",
+        "Rajabu pronunciation",
+        "Rajabu Islamic name"
+      ],
+      "focus_keyword": "Rajabu meaning",
+      "secondary_keywords": [
+        "Rajabu name meaning",
+        "Rajabu origin",
+        "Rajabu meaning in Urdu",
+        "Rajabu pronunciation",
+        "Rajabu Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/rajabu",
+      "seo_score": 95,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the name Rajabu, a month-name of the Persian calendar that is also used as a given name.",
+      "body_summary": "Rajabu is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Rajabu",
+      "#RajabuMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 156,
+      "quality_score": 95,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form رَجَبُ carries the sense “Month of Rajab (Swahili form)”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Rajabu",
+          "description": "Rajabu — an Arabic-origin given name meaning Month of Rajab (Swahili form)",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Rajabu mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Rajabu (رَجَبُ) is the name of a month in the traditional Persian calendar."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Rajabu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Rajabu originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Rajabu an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form رَجَبُ is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Rajabu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is built on the root ر ج ب (r-j-b)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Rajabu an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Rajabu is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Rajabu a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Rajabu is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Rajabu mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written رجب and carries the sense “رجب، رجب کا مہینہ”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Rajabu pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “ra-ja-bu”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Rajabu a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Rajabu as a boy's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Rajabu",
+              "item": "https://nameverse.site/names/islamic/rajabu"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

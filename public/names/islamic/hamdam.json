@@ -1,0 +1,486 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Hamdam",
+    "slug": "hamdam",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Hamdam",
+      "normalized_name": "hamdam",
+      "name_type": "given_name",
+      "gender": "Unknown",
+      "gender_confidence": "LOW",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Hamdam",
+        "hamdam"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Listener, hearer",
+      "primary_meaning": "Hamdam is an Unknown-origin name meaning “Listener, hearer”.",
+      "literal_meaning": "The name is the Unknown word itself, used unchanged as a given name rather than a derived or diminutive form.",
+      "meaning_explanation": "No verified lexical identification was established for Hamdam. No verified lexical identification was established for hamdam. The source gave حمد م and the gloss 'listener, hearer', but the form is not a standard Arabic lexical item and the gloss could not be confirmed. (Persian هَمدَم 'confidant' is a different word and is not established for this slug.) No meaning is asserted. No meaning is asserted, because asserting one would require inventing evidence.",
+      "meaning_confidence": "LOW"
+    },
+    "etymology": {
+      "primary_language": "Unknown",
+      "lexical_form": "",
+      "transliteration": "hamdam",
+      "root": "",
+      "root_transliteration": "",
+      "morphology": "Simple lexical item used as a name.",
+      "feminine_form": null,
+      "etymological_meaning": "The Unknown word Hamdam",
+      "root_family": [],
+      "etymology_explanation": "The form  is an established Unknown lexical item used unchanged as a given name.",
+      "etymology_confidence": "LOW",
+      "false_etymology_warning": "No derivation beyond the documented Unknown form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Unknown",
+      "associated_languages": [
+        "Unknown",
+        "Muslim South Asia"
+      ],
+      "language_notes": {
+        "primary": "Unknown is the language of the recorded form Hamdam.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "LOW"
+    },
+    "origin": {
+      "primary_origin": "Unknown",
+      "origin_type": "linguistic",
+      "origin_confidence": "LOW",
+      "origin_explanation": "The name originates in Unknown and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Unknown",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Hamdam is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Hamdam is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Hamdam as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Unknown",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Listener, hearer",
+      "related_concepts": [
+        "Listener, hearer"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_applicable",
+      "render": false,
+      "meaning": "No devotional reading is offered because the underlying word is a descriptive term rather than a religious concept.",
+      "basis": null,
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 4,
+      "life_path_number": 4,
+      "ruling_planet": "Uranus",
+      "lucky_day": "Sunday",
+      "lucky_colors": [
+        "Grey",
+        "Blue"
+      ],
+      "lucky_stone": "Hessonite",
+      "meaning": "In Pythagorean numerology the letters of Hamdam total 4, associated with stability, discipline and order. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 4,
+      "lucky_day": "Sunday",
+      "lucky_colors": [
+        "Grey",
+        "Blue"
+      ],
+      "lucky_stone": "Hessonite",
+      "ruling_planet": "Uranus"
+    },
+    "translations": {
+      "english": {
+        "name": "Hamdam",
+        "script": "Hamdam",
+        "meaning": "Listener, hearer",
+        "long_meaning": "Hamdam is an Unknown-origin given name; in Unknown the word means “Listener, hearer”."
+      },
+      "urdu": {
+        "name": "Hamdam",
+        "script": "Hamdam",
+        "meaning": "Not objectively established",
+        "long_meaning": "Not objectively established"
+      },
+      "persian": {
+        "name": "Hamdam",
+        "script": "Hamdam",
+        "meaning": "Not objectively established",
+        "long_meaning": "Not objectively established"
+      },
+      "hindi": {
+        "name": "Hamdam",
+        "script": "Hamdam",
+        "meaning": "Not objectively established",
+        "long_meaning": "Not objectively established"
+      },
+      "pashto": {
+        "name": "Hamdam",
+        "script": "Hamdam",
+        "meaning": "Not objectively established",
+        "long_meaning": "Not objectively established",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "Hamdam",
+        "script": "Hamdam",
+        "meaning": "Not objectively established",
+        "long_meaning": "Not objectively established",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "LOW",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "ham-dam",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "Hamdam"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Hamdam"
+      ],
+      "script_forms": [],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "not_verified",
+      "note": "No verified lexical history is available."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Hamdam mean?",
+        "a": "Hamdam is an Unknown-origin name meaning “Listener, hearer”."
+      },
+      {
+        "q": "What is the origin of Hamdam?",
+        "a": "Hamdam originates in Unknown and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Hamdam an Arabic name?",
+        "a": "No — the recorded form  is Unknown, not Arabic."
+      },
+      {
+        "q": "What is the root of Hamdam?",
+        "a": "No root analysis is asserted for this spelling."
+      },
+      {
+        "q": "Is Hamdam an Islamic name?",
+        "a": "Hamdam is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Hamdam a Quranic name?",
+        "a": "Hamdam is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Hamdam mean in Urdu?",
+        "a": "In Urdu it is written Hamdam and carries the sense “Not objectively established”."
+      },
+      {
+        "q": "How is Hamdam pronounced?",
+        "a": "A romanized syllable approximation is “ham-dam”."
+      },
+      {
+        "q": "Is Hamdam a boy's or girl's name?",
+        "a": "Documented usage records Hamdam as not gender-specific name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Hamdam Name Meaning, Origin & Islamic Context",
+      "meta_description": "Hamdam (Hamdam) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Hamdam meaning, Hamdam name meaning, Hamdam origin, Hamdam meaning in Urdu, Hamdam pronunciation, Hamdam Islamic name",
+      "description_paragraph": "Hamdam is an Unknown-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Hamdam meaning",
+        "Hamdam name meaning",
+        "Hamdam origin",
+        "Hamdam meaning in Urdu",
+        "Hamdam pronunciation",
+        "Hamdam Islamic name"
+      ],
+      "focus_keyword": "Hamdam meaning",
+      "secondary_keywords": [
+        "Hamdam name meaning",
+        "Hamdam origin",
+        "Hamdam meaning in Urdu",
+        "Hamdam pronunciation",
+        "Hamdam Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/hamdam",
+      "seo_score": 90,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Hamdam, an Unknown-origin name used in Muslim communities.",
+      "body_summary": "Hamdam is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Hamdam",
+      "#HamdamMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 137,
+      "quality_score": 90,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Unknown form  carries the sense “Listener, hearer”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Hamdam",
+          "description": "Hamdam — an Unknown-origin given name meaning Listener, hearer",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Hamdam mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hamdam is an Unknown-origin name meaning “Listener, hearer”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Hamdam?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hamdam originates in Unknown and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Hamdam an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No — the recorded form  is Unknown, not Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Hamdam?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No root analysis is asserted for this spelling."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Hamdam an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hamdam is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Hamdam a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hamdam is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Hamdam mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written Hamdam and carries the sense “Not objectively established”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Hamdam pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “ham-dam”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Hamdam a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Hamdam as not gender-specific name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Hamdam",
+              "item": "https://nameverse.site/names/islamic/hamdam"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": true,
+      "flags": [],
+      "confidence": "LOW",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

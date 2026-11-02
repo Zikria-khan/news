@@ -1,0 +1,526 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Shamsuddin",
+    "slug": "shamsuddin",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Shamsuddin",
+      "normalized_name": "shamsuddin",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "Shamsuddin is recorded as a masculine given name in the sources cited in this record; actual use can vary by community.",
+      "alternate_spellings": [
+        "Shamsuddin",
+        "Shamsudeen",
+        "Shamsudheen",
+        "Shams-Ud-Din"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Sun of the religion",
+      "primary_meaning": "Shamsuddin (شمس الدين) is a compound honorific name meaning “sun of the religion”. It is formed from shams (“sun”) and al-din (“the religion”) and was borne by numerous classical scholars, including the historian Shams al-Din al-Dhahabi (d. 748/1348). The name is not Qur'anic; it is a historical Muslim honorific.",
+      "literal_meaning": "Sun of the religion",
+      "meaning_explanation": "The compound joins two Arabic nouns in a genitive construction. Names of the form X al-Din were widespread among scholars and rulers from the medieval period. The record describes the construction and its historical bearers; it does not claim a Qur'anic origin.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "شَمْسُ الدِّين",
+      "transliteration": "shams al-dīn",
+      "root": "ش م س / د ي ن",
+      "root_transliteration": "sh-m-s / d-y-n",
+      "morphology": "Compound genitive: شمس (“sun”) + الدين (“the religion”).",
+      "feminine_form": null,
+      "etymological_meaning": "Sun of the religion",
+      "root_family": [],
+      "etymology_explanation": "The compound joins two Arabic nouns in a genitive construction. Names of the form X al-Din were widespread among scholars and rulers from the medieval period. The record describes the construction and its historical bearers; it does not claim a Qur'anic origin.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented lexical, scriptural or biographical evidence is asserted; unsupported name-site etymologies are not adopted."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form شَمْسُ الدِّين.",
+        "usage": "Other scripts in this record are transliterations or localized glosses; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The recorded form شَمْسُ الدِّين is Arabic, and its root is ش م س / د ي ن (sh-m-s / d-y-n). The evidence distinguishes linguistic origin from religious and cultural use.",
+      "cultural_transmission": [
+        "Arabic-speaking communities",
+        "Muslim naming communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic scholarly and honorific naming",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "A historical honorific name, not a Qur'anic or divine name.",
+      "religious_explanation": "The name combines two ordinary Arabic words and was used as an honorific by scholars. It carries no scriptural status as a name.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_in_Quran",
+        "note": "Shamsuddin is a historical compound honorific, not a Qur'anic name."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report establishing this name or a special virtue is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "Shamsuddin is not the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion attribution is asserted."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Islamic scholarly and honorific naming",
+      "interpretation": "This record describes documented usage; it is not a religious ruling on naming.",
+      "important_distinction": "This descriptive record is not a religious ruling. Muslim cultural use, linguistic origin, and direct Qur'anic attestation are separate claims."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim naming communities"
+      ],
+      "cultural_meaning": "The name is associated with the scholarly and administrative culture of the medieval Muslim world.",
+      "personal_name_interpretation": "Families may value the imagery of light and learning; this is a naming preference, not a claim about the bearer.",
+      "interpretation_warning": "A symbolic naming preference is distinct from dictionary meaning and is not a claim about a bearer's personality or future."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Islamic honorific names and scholarship",
+      "related_concepts": [
+        "honorific names",
+        "classical scholarship",
+        "al-Din compounds"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_asserted",
+      "render": false,
+      "meaning": null,
+      "basis": null,
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No evidence-based hidden personality traits are asserted."
+    },
+    "numerology": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "life_path_number": null,
+      "ruling_planet": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "meaning": null,
+      "note": "Numerology is not evidence-based and is not supplied in this batch."
+    },
+    "lucky_attributes": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "ruling_planet": null,
+      "note": "Lucky attributes are not evidence-based and are not supplied in this batch."
+    },
+    "translations": {
+      "english": {
+        "name": "Shamsuddin",
+        "script": "شَمْسُ الدِّين",
+        "meaning": "Sun of the religion",
+        "long_meaning": "Shamsuddin (شمس الدين) is a compound honorific name meaning “sun of the religion”. It is formed from shams (“sun”) and al-din (“the religion”) and was borne by numerous classical scholars, including the historian Shams al-Din al-Dhahabi (d. 748/1348). The name is not Qur'anic; it is a historical Muslim honorific."
+      },
+      "urdu": {
+        "name": "شمس الدین",
+        "script": "شمس الدین",
+        "meaning": "دین کا سورج",
+        "long_meaning": "شمس الدین کے لغوی معنی «دین کا سورج» ہیں۔ یہ اندراج دینی حوالے اور نام کے استعمال کو الگ الگ بیان کرتا ہے؛ یہ ترجمہ ابتدائی مسودہ ہے اور مقامی جائزے کا محتاج ہے۔"
+      },
+      "persian": {
+        "name": "شمس‌الدین",
+        "script": "شمس‌الدین",
+        "meaning": "خورشید دین",
+        "long_meaning": "معنای لغوی شمس‌الدین در این مدخل «خورشید دین» است. این مدخل مرجع دینی و کاربرد نام را جداگانه بیان می‌کند؛ این برگردان پیش‌نویس است و به بازبینی بومی نیاز دارد."
+      },
+      "hindi": {
+        "name": "शम्सुद्दीन",
+        "script": "शम्सुद्दीन",
+        "meaning": "धर्म का सूर्य",
+        "long_meaning": "शम्सुद्दीन का शब्दार्थ «धर्म का सूर्य» दिया गया है। यह प्रविष्टि धार्मिक संदर्भ और नाम-प्रयोग को अलग-अलग बताती है; यह अनुवाद प्रारूप है और स्थानीय भाषायी समीक्षा आवश्यक है।"
+      },
+      "pashto": {
+        "name": "شمس الدین",
+        "script": "شمس الدین",
+        "meaning": "د دین لمر",
+        "long_meaning": "د شمس الدین لغوي مانا «د دین لمر» دی. دا اندراج دیني حواله او د نوم کارونه بېل بېل بیانوي؛ دا ژباړه مسوده ده او د اصلي ژبې ویونکو بیاکتنې ته اړتیا لري.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "شمس الدين",
+        "script": "شمس الدين",
+        "meaning": "شمس الدين، اسم مركب بمعنى شمس الدين",
+        "long_meaning": "المعنى اللغوي لاسم شمس الدين في هذا السجل هو «شمس الدين، اسم مركب بمعنى شمس الدين»؛ ويفصل السجل بين المرجع الديني واستعمال الاسم، وهذه صياغة أولية تحتاج إلى مراجعة لغوية.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "source_language_gloss_with_localized_draft",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "The Arabic core gloss is evidence-backed. All non-English localized meanings and script renderings are editorial drafts requiring native-speaker review; transliteration does not establish a separate origin."
+    },
+    "pronunciation": {
+      "romanized": "shams-ud-DEEN",
+      "ipa": null,
+      "approximation_note": "Romanized pronunciation guide only; no IPA transcription is asserted.",
+      "common_mispronunciation": "shams-u-DEEN",
+      "scripts": {
+        "arabic": "شَمْسُ الدِّين"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Shamsudeen",
+        "Shamsudheen",
+        "Shams-Ud-Din"
+      ],
+      "script_forms": [
+        "شَمْسُ الدِّين",
+        "शम्सुद्दीन"
+      ],
+      "variant_notes": "Spelling variants reflect transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "documented_in_classical_sources",
+      "note": "Shams al-Din al-Dhahabi (d. 748/1348) and other scholars bore the name; biographical dictionaries record it widely."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Usage is attested as a Muslim given name, but no registration or frequency data is measured in this batch."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is measured in this batch; no estimate is asserted."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is included."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No individual bearer story is included without a verified source."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Shamsuddin mean?",
+        "a": "Shamsuddin (شمس الدين) is a compound honorific name meaning “sun of the religion”. It is formed from shams (“sun”) and al-din (“the religion”) and was borne by numerous classical scholars, including the historian Shams al-Din al-Dhahabi (d. 748/1348). The name is not Qur'anic; it is a historical Muslim honorific."
+      },
+      {
+        "q": "What is the origin of Shamsuddin?",
+        "a": "The compound joins two Arabic nouns in a genitive construction. Names of the form X al-Din were widespread among scholars and rulers from the medieval period. The record describes the construction and its historical bearers; it does not claim a Qur'anic origin."
+      },
+      {
+        "q": "Is Shamsuddin an Arabic name?",
+        "a": "Yes. The recorded form is شَمْسُ الدِّين; the name is associated with Arabic."
+      },
+      {
+        "q": "How is Shamsuddin written in Arabic?",
+        "a": "شَمْسُ الدِّين"
+      },
+      {
+        "q": "Is Shamsuddin a Quranic name?",
+        "a": "Shamsuddin is a historical compound honorific, not a Qur'anic name."
+      },
+      {
+        "q": "Is Shamsuddin an Islamic name?",
+        "a": "A historical honorific name, not a Qur'anic or divine name. The name combines two ordinary Arabic words and was used as an honorific by scholars. It carries no scriptural status as a name."
+      },
+      {
+        "q": "How is Shamsuddin pronounced?",
+        "a": "An approximate romanized guide is shams-ud-DEEN. Romanized pronunciation guide only; no IPA transcription is asserted."
+      },
+      {
+        "q": "Is Shamsuddin a boy's or girl's name?",
+        "a": "The sources cited record Shamsuddin as a masculine given name; actual use can vary by language and community."
+      },
+      {
+        "q": "What is the root of Shamsuddin?",
+        "a": "The recorded Arabic root is ش م س / د ي ن (sh-m-s / d-y-n)."
+      },
+      {
+        "q": "What should be checked before relying on this entry?",
+        "a": "The cited sources are listed with their scope and limitations but have not been independently rechecked in this pass. Non-English renderings are drafts pending native review, and no popularity figure is asserted."
+      }
+    ],
+    "seo": {
+      "title": "Shamsuddin Name Meaning, Origin & Islamic Context",
+      "meta_description": "Shamsuddin name meaning, Arabic origin, pronunciation and sourced Qur'anic-status notes.",
+      "meta_keywords": "Shamsuddin meaning, Shamsuddin name meaning, Shamsuddin Arabic name, Shamsuddin origin, Shamsuddin pronunciation, Shamsuddin Islamic name, Shamsuddin meaning in Urdu",
+      "description_paragraph": "Shamsuddin (شمس الدين) is a compound honorific name meaning “sun of the religion”. It is formed from shams (“sun”) and al-din (“the religion”) and was borne by numerous classical scholars, including the historian Shams al-Din al-Dhahabi (d. 748/1348). The name is not Qur'anic; it is a historical Muslim honorific.",
+      "keywords": [
+        "Shamsuddin meaning",
+        "Shamsuddin name meaning",
+        "Shamsuddin Arabic name",
+        "Shamsuddin origin",
+        "Shamsuddin pronunciation",
+        "Shamsuddin Islamic name",
+        "Shamsuddin meaning in Urdu"
+      ],
+      "focus_keyword": "Shamsuddin meaning",
+      "secondary_keywords": [
+        "Shamsuddin name meaning",
+        "Shamsuddin Arabic name",
+        "Shamsuddin origin",
+        "Shamsuddin pronunciation",
+        "Shamsuddin Islamic name",
+        "Shamsuddin meaning in Urdu"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/shamsuddin",
+      "seo_score": null,
+      "seo_score_basis": "Not numerically scored in this focused review; factual clarity prioritized over an unsupported score."
+    },
+    "seo_content": {
+      "intro_paragraph": "Shamsuddin is an Arabic given name. This entry separates its documented meaning, linguistic origin, religious or scriptural status, and modern usage.",
+      "body_summary": "Shamsuddin (شمس الدين) is a compound honorific name meaning “sun of the religion”. It is formed from shams (“sun”) and al-din (“the religion”) and was borne by numerous classical scholars, including the historian Shams al-Din al-Dhahabi (d. 748/1348). The name is not Qur'anic; it is a historical Muslim honorific."
+    },
+    "social_tags": [
+      "#Shamsuddin",
+      "#ShamsuddinMeaning",
+      "#NameMeaning",
+      "#ArabicNames",
+      "#IslamicNames"
+    ],
+    "content_quality": {
+      "tier1_verified": false,
+      "authenticity_flags": [
+        "compound_honorific_not_Quranic",
+        "localized_translations_require_native_review",
+        "popularity_not_measured_in_this_batch"
+      ],
+      "fabricated_content_removed": true,
+      "fields_total": 307,
+      "quality_score": null,
+      "quality_score_basis": "No composite quality score is asserted; source support, limitations, scriptural status and review flags are explicit. Tier-1 verification is false because the listed sources were not independently rechecked in this pass.",
+      "tier1_verified_scope": "Core meaning and associated claims were matched to the listed sources in this pass; independent re-verification, native translation review and usage-frequency evidence remain separate outstanding tasks, so tier1_verified is false."
+    },
+    "evidence": {
+      "sources": [
+        "Ibn Ḥajar, al-Durar al-Kāminah: Biographical dictionary covering Shams al-Din al-Dhahabi. Limitation: Classical reports are not independently rechecked in this pass.",
+        "Shams al-Dīn al-Dhahabī, Siyar Aʿlām al-Nubalāʾ: The historian's own major work, whose author carries the name. Limitation: This citation establishes the bearer, not a lexical meaning.",
+        "https://quran.com/91/1 — Qur'an 91:1: Qur'anic occurrence of شمس (sun), the first element of the compound. Limitation: The verse uses the word, not the compound name."
+      ],
+      "verification_method": "The lexical, scriptural or biographical claim was separated from name-site glosses and matched to a cited primary text, classical lexicon or biographical reference; the cited sources were not independently rechecked in this pass. Latin and Arabic-script forms were audited against every existing record before writing. No popularity figure is asserted without a source-scoped measurement.",
+      "claim_evidence": [
+        {
+          "claim": "Shams al-Din al-Dhahabi bore the name",
+          "source": "Ibn Ḥajar, al-Durar al-Kāminah",
+          "status": "classical_source_listed_not_rechecked"
+        },
+        {
+          "claim": "Shamsuddin is a compound honorific meaning sun of the religion",
+          "source": "Lane, An Arabic-English Lexicon",
+          "status": "lexical_source_listed_not_rechecked"
+        }
+      ],
+      "claim_evidence_status": "SOURCE_URLS_LISTED_NOT_INDEPENDENTLY_RECHECKED_IN_THIS_PASS"
+    },
+    "provenance": {
+      "pipeline": "NameVerse super-2.0 curated Qur'anic/Islamic supplement",
+      "methodology": "Curated evidence manifest -> template-parity build -> Latin and Arabic-script collision audit -> schema and key-path validation",
+      "upgraded_from": "New record generated from the current super-2.0 architecture; not converted from a legacy record.",
+      "processed_at": "2026-10-17T00:00:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Shamsuddin",
+          "description": "Shamsuddin (شَمْسُ الدِّين) — Sun of the religion",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Shamsuddin mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Shamsuddin (شمس الدين) is a compound honorific name meaning “sun of the religion”. It is formed from shams (“sun”) and al-din (“the religion”) and was borne by numerous classical scholars, including the historian Shams al-Din al-Dhahabi (d. 748/1348). The name is not Qur'anic; it is a historical Muslim honorific."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Shamsuddin?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The compound joins two Arabic nouns in a genitive construction. Names of the form X al-Din were widespread among scholars and rulers from the medieval period. The record describes the construction and its historical bearers; it does not claim a Qur'anic origin."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Shamsuddin an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. The recorded form is شَمْسُ الدِّين; the name is associated with Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Shamsuddin written in Arabic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "شَمْسُ الدِّين"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Shamsuddin a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Shamsuddin is a historical compound honorific, not a Qur'anic name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Shamsuddin an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A historical honorific name, not a Qur'anic or divine name. The name combines two ordinary Arabic words and was used as an honorific by scholars. It carries no scriptural status as a name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Shamsuddin pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An approximate romanized guide is shams-ud-DEEN. Romanized pronunciation guide only; no IPA transcription is asserted."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Shamsuddin a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The sources cited record Shamsuddin as a masculine given name; actual use can vary by language and community."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Shamsuddin?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The recorded Arabic root is ش م س / د ي ن (sh-m-s / d-y-n)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What should be checked before relying on this entry?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The cited sources are listed with their scope and limitations but have not been independently rechecked in this pass. Non-English renderings are drafts pending native review, and no popularity figure is asserted."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Shamsuddin",
+              "item": "https://nameverse.site/names/islamic/shamsuddin"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": true,
+      "flags": [
+        "compound_honorific_not_Quranic",
+        "localized_translations_require_native_review",
+        "popularity_not_measured_in_this_batch"
+      ],
+      "confidence": "HIGH",
+      "reviewed_by": "Automated source-aware build and collision audit; not a human or native-speaker review",
+      "reviewed_at": "2026-10-17"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": false,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

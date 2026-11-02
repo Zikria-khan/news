@@ -1,0 +1,489 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Mudrik",
+    "slug": "mudrik",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Mudrik",
+      "normalized_name": "mudrik",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Mudrik",
+        "mudrik"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Perceiver, one who grasps, attainder",
+      "primary_meaning": "Mudrik corresponds to the Arabic form مُدْرِك and is glossed in this record as “Perceiver, one who grasps, attainder.” The record associates the form with root د ر ك (d-r-k). The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "Perceiver, one who grasps, attainder",
+      "meaning_explanation": "Mudrik corresponds to the Arabic form مُدْرِك (Arabic root د ر ك (d-r-k); مُدْرِك (Mudrik)). Its core sense is perceiver, one who grasps, attainder. Mudrik is Arabic مُدْرِك (Mudrik) 'perceiver, one who grasps, attainder', from the root د ر ك (d-r-k). The source gloss 'Divine Blessing' is unsupported and has been replaced with the lexical sense.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "مُدْرِك",
+      "transliteration": "mudrik",
+      "root": "د ر ك",
+      "root_transliteration": "d-r-k",
+      "morphology": "Built on the root د ر ك.",
+      "feminine_form": null,
+      "etymological_meaning": "From the root د ر ك (d-r-k)",
+      "root_family": [],
+      "etymology_explanation": "The form مُدْرِك is an established Arabic lexical item, and Mudrik is the word itself used as a personal name rather than a derived or diminutive form.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form مُدْرِك.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Mudrik is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Mudrik is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Mudrik as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Perceiver, one who grasps, attainder",
+      "related_concepts": [
+        "Perceiver, one who grasps, attainder"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Perceiver, one who grasps, attainder” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Perceiver, one who grasps, attainder.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 4,
+      "life_path_number": 4,
+      "ruling_planet": "Uranus",
+      "lucky_day": "Sunday",
+      "lucky_colors": [
+        "Grey",
+        "Blue"
+      ],
+      "lucky_stone": "Hessonite",
+      "meaning": "In Pythagorean numerology the letters of Mudrik total 4, associated with stability, discipline and order. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 4,
+      "lucky_day": "Sunday",
+      "lucky_colors": [
+        "Grey",
+        "Blue"
+      ],
+      "lucky_stone": "Hessonite",
+      "ruling_planet": "Uranus"
+    },
+    "translations": {
+      "english": {
+        "name": "Mudrik",
+        "script": "Mudrik",
+        "meaning": "Perceiver, one who grasps, attainder",
+        "long_meaning": "Mudrik is an Arabic-origin given name; in Arabic the word means “Perceiver, one who grasps, attainder”."
+      },
+      "urdu": {
+        "name": "مدرک",
+        "script": "مدرک",
+        "meaning": "ادراک کرنے والا، سمجھنے والا",
+        "long_meaning": "Mudrik (مدرک) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم ادراک کرنے والا، سمجھنے والا ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "مدرک",
+        "script": "مدرک",
+        "meaning": "درک‌کننده، دریابنده",
+        "long_meaning": "Mudrik (مدرک) نامی برگرفته از زبان عربی است و معنای اصلی آن درک‌کننده، دریابنده است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "मुदरिक",
+        "script": "मुदरिक",
+        "meaning": "समझने वाला, ग्रहण करने वाला",
+        "long_meaning": "Mudrik (मुदरिक) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ समझने वाला, ग्रहण करने वाला है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "مدرک",
+        "script": "مدرک",
+        "meaning": "پوهېدونکی",
+        "long_meaning": "Mudrik (مدرک) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې پوهېدونکی ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "مُدْرِك",
+        "script": "مُدْرِك",
+        "meaning": "الْمُدْرِك، الْمُدْرِك",
+        "long_meaning": "Mudrik (مُدْرِك) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الْمُدْرِك، الْمُدْرِك. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "mud-rik",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "مُدْرِك"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Mudrik"
+      ],
+      "script_forms": [
+        "مدرک",
+        "مُدْرِك",
+        "मुदरिक"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form مُدْرِك is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Mudrik mean?",
+        "a": "Mudrik is an Arabic-origin name meaning “Perceiver, one who grasps, attainder”."
+      },
+      {
+        "q": "What is the origin of Mudrik?",
+        "a": "Mudrik originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Mudrik an Arabic name?",
+        "a": "Yes, the recorded form مُدْرِك is Arabic."
+      },
+      {
+        "q": "What is the root of Mudrik?",
+        "a": "It is built on the root د ر ك (d-r-k)."
+      },
+      {
+        "q": "Is Mudrik an Islamic name?",
+        "a": "Mudrik is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Mudrik a Quranic name?",
+        "a": "Mudrik is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Mudrik mean in Urdu?",
+        "a": "In Urdu it is written مدرک and carries the sense “ادراک کرنے والا، سمجھنے والا”."
+      },
+      {
+        "q": "How is Mudrik pronounced?",
+        "a": "A romanized syllable approximation is “mud-rik”."
+      },
+      {
+        "q": "Is Mudrik a boy's or girl's name?",
+        "a": "Documented usage records Mudrik as a boy's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Mudrik Name Meaning, Origin & Islamic Context",
+      "meta_description": "Mudrik (مُدْرِك) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Mudrik meaning, Mudrik name meaning, Mudrik origin, Mudrik meaning in Urdu, Mudrik pronunciation, Mudrik Islamic name",
+      "description_paragraph": "Mudrik is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Mudrik meaning",
+        "Mudrik name meaning",
+        "Mudrik origin",
+        "Mudrik meaning in Urdu",
+        "Mudrik pronunciation",
+        "Mudrik Islamic name"
+      ],
+      "focus_keyword": "Mudrik meaning",
+      "secondary_keywords": [
+        "Mudrik name meaning",
+        "Mudrik origin",
+        "Mudrik meaning in Urdu",
+        "Mudrik pronunciation",
+        "Mudrik Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/mudrik",
+      "seo_score": 95,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Mudrik, an Arabic-origin name used in Muslim communities.",
+      "body_summary": "Mudrik is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Mudrik",
+      "#MudrikMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 153,
+      "quality_score": 95,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form مُدْرِك carries the sense “Perceiver, one who grasps, attainder”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Mudrik",
+          "description": "Mudrik — an Arabic-origin given name meaning Perceiver, one who grasps, attainder",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Mudrik mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mudrik is an Arabic-origin name meaning “Perceiver, one who grasps, attainder”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Mudrik?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mudrik originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Mudrik an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form مُدْرِك is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Mudrik?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is built on the root د ر ك (d-r-k)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Mudrik an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mudrik is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Mudrik a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mudrik is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Mudrik mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written مدرک and carries the sense “ادراک کرنے والا، سمجھنے والا”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Mudrik pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “mud-rik”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Mudrik a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Mudrik as a boy's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Mudrik",
+              "item": "https://nameverse.site/names/islamic/mudrik"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

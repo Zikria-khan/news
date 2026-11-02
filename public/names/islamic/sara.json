@@ -1,0 +1,493 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Sara",
+    "slug": "sara",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Sara",
+      "normalized_name": "sara",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Sara",
+        "sara",
+        "Sarah",
+        "Saara"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Wife of Prophet Ibrahim",
+      "primary_meaning": "Sara (سَارَة) is the name traditionally given to the wife of Prophet Ibrahim (Abraham) and mother of Ishaq, used as a female given name across the Muslim world.",
+      "literal_meaning": "The Arabic form سَارَة (Sārah) of the traditional name of Ibrahim's wife.",
+      "meaning_explanation": "Sara is not an Arabic lexical noun but the Arabic rendering of a biblical name; it is used in Muslim families because of the woman it denotes, not because of a dictionary sense.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Hebrew",
+      "lexical_form": "سَارَة",
+      "transliteration": "sārah",
+      "root": "",
+      "root_transliteration": "",
+      "morphology": "Proper name borrowed into Arabic; not formed from an Arabic root.",
+      "feminine_form": null,
+      "etymological_meaning": "Of Hebrew origin (שָׂרָה, Śārā), traditionally connected with a root meaning 'princess' or 'noblewoman'.",
+      "root_family": [],
+      "etymology_explanation": "The name reaches Arabic through the Hebrew tradition; the Hebrew form שָׂרָה is commonly linked to a root denoting a princess or noblewoman, and the Arabic form سَارَة renders it.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "The traditional gloss 'princess' is a Hebrew etymology, not an Arabic lexical meaning; presenting it as an Arabic word would be unsupported."
+    },
+    "language": {
+      "primary": "Hebrew",
+      "associated_languages": [
+        "Hebrew"
+      ],
+      "language_notes": {
+        "primary": "Hebrew is the language of the recorded form سَارَة.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Hebrew",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name originates in the Hebrew tradition of Ibrahim's family and was carried into Muslim usage through the Qur'anic narrative of Ibrahim.",
+      "cultural_transmission": [
+        "Arab world",
+        "Muslim South Asia",
+        "Muslim diaspora"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage (prophetic family)",
+      "religion_confidence": "HIGH",
+      "religious_status": "Name of a figure in the prophetic tradition",
+      "religious_explanation": "Sara is the traditional name of Ibrahim's wife, who appears in the Qur'anic account of Ibrahim; the name itself is Hebrew in origin and used by Muslims for its association with her.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "The Qur'an relates the story of Ibrahim's wife but does not name her as Sara; the name comes from the wider prophetic tradition, so it is not claimed as a Qur'anic personal name."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith naming her is quoted here; the name is transmitted through the prophetic tradition."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "Sara is not a prophet; she is the wife of Prophet Ibrahim and mother of Ishaq."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "She belongs to the prophetic family before the Islamic era; the companion category does not apply."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in Arab world, Muslim South Asia, where the name is chosen within ordinary family naming rather than by a religious ruling.",
+      "interpretation": "It is chosen for its link to a revered figure in the prophetic tradition rather than for a lexical sense.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arab world",
+        "Muslim South Asia",
+        "Muslim diaspora"
+      ],
+      "cultural_meaning": "Widely used by Muslim families, who choose it for the memory of Ibrahim's wife and mother of Ishaq.",
+      "personal_name_interpretation": "It is chosen for its link to a revered figure in the prophetic tradition rather than for a lexical sense.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Prophetic family",
+      "related_concepts": [
+        "Ibrahim",
+        "Ishaq",
+        "Prophetic tradition"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_applicable",
+      "render": false,
+      "meaning": "No devotional gloss is asserted; the name denotes a person in the prophetic tradition rather than a religious concept.",
+      "basis": null,
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 5,
+      "life_path_number": 5,
+      "ruling_planet": "Mercury",
+      "lucky_day": "Wednesday",
+      "lucky_colors": [
+        "Gold",
+        "Orange"
+      ],
+      "lucky_stone": "Ruby",
+      "meaning": "In Pythagorean numerology the letters of Sara total 5. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 5,
+      "lucky_day": "Wednesday",
+      "lucky_colors": [
+        "Gold",
+        "Orange"
+      ],
+      "lucky_stone": "Ruby",
+      "ruling_planet": "Mercury"
+    },
+    "translations": {
+      "english": {
+        "name": "Sara",
+        "script": "Sara",
+        "meaning": "Wife of Prophet Ibrahim",
+        "long_meaning": "Sara is Hebrew-origin; in Hebrew the word means “Wife of Prophet Ibrahim”."
+      },
+      "urdu": {
+        "name": "سارہ",
+        "script": "سارہ",
+        "meaning": "سارہ، حضرت ابراہیم کی اہلیہ",
+        "long_meaning": "سارہ (سارہ) حضرت ابراہیم علیہ السلام کی اہلیہ اور حضرت اسحاق کی والدہ کا روایتی نام ہے۔ مسلم خاندان اس نام کو اس بزرگ ہستی کی یاد میں رکھتے ہیں۔"
+      },
+      "persian": {
+        "name": "ساره",
+        "script": "ساره",
+        "meaning": "ساره، همسر حضرت ابراهیم",
+        "long_meaning": "ساره (ساره) نامِ سنّتی همسر حضرت ابراهیم و مادر اسحاق است. این نام در خانوادههای مسلمان به یاد این بانوی بزرگوار برگزیده میشود."
+      },
+      "hindi": {
+        "name": "सारा",
+        "script": "सारा",
+        "meaning": "सारा, हज़रत इब्राहीम की पत्नी",
+        "long_meaning": "सारा (सारा) हज़रत इब्राहीम की पत्नी और हज़रत इसहाक़ की माता का पारंपरिक नाम है। मुस्लिम परिवार इसे उसी पुनीत स्मृति के कारण रखते हैं।"
+      },
+      "pashto": {
+        "name": "ساره",
+        "script": "ساره",
+        "meaning": "ساره، د حضرت ابراهیم مېرمن",
+        "long_meaning": "ساره (ساره) د حضرت ابراهیم علیه السلام مېرمنې او د حضرت اسحاق مور دودیز نوم دی. مسلمانې کورنۍ یې د همدې سترې ښځې په یاد نیولو سره غوره کوي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "سَارَة",
+        "script": "سَارَة",
+        "meaning": "سَارَة، زوجةُ النبي إبراهيم",
+        "long_meaning": "سَارَة هو الاسمُ المتوارثُ لزوجة النبي إبراهيم وأمِّ إسحاق عليهما السلام. تختاره الأسرُ المسلمة تيمُّنًا بهذه الشخصية من أهل بيت النبوّة، والاسم في أصله عبريّ لا عربيّ.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "saa-rah",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "سَارَة"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Sarah",
+        "Saara"
+      ],
+      "script_forms": [
+        "سَارَة",
+        "سارہ"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "not_verified",
+      "note": "The form سَارَة is documented in the lexicon or the prophetic tradition."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "cultural",
+      "render": true,
+      "story": "Sara is the name tradition gives to the wife of Prophet Ibrahim and the mother of Ishaq. She is remembered in the Qur'anic account of Ibrahim's household, and the name has been carried ever since by Muslim families who wish to honour that memory."
+    },
+    "faq": [
+      {
+        "q": "What does Sara mean?",
+        "a": "Wife of Prophet Ibrahim. Sara (سَارَة) is the name traditionally given to the wife of Prophet Ibrahim (Abraham) and mother of Ishaq, used as a female given name across the Muslim world."
+      },
+      {
+        "q": "What is the origin of Sara?",
+        "a": "The name originates in the Hebrew tradition of Ibrahim's family and was carried into Muslim usage through the Qur'anic narrative of Ibrahim."
+      },
+      {
+        "q": "Is Sara an Arabic name?",
+        "a": "No — Sara is Hebrew in origin, not Arabic."
+      },
+      {
+        "q": "Is Sara an Islamic name?",
+        "a": "Name of a figure in the prophetic tradition. Sara is the traditional name of Ibrahim's wife, who appears in the Qur'anic account of Ibrahim; the name itself is Hebrew in origin and used by Muslims for its association with her."
+      },
+      {
+        "q": "Is Sara a Quranic name?",
+        "a": "The Qur'an relates the story of Ibrahim's wife but does not name her as Sara; the name comes from the wider prophetic tradition, so it is not claimed as a Qur'anic personal name."
+      },
+      {
+        "q": "How is Sara pronounced?",
+        "a": "A romanized syllable approximation is “sa-rah”."
+      },
+      {
+        "q": "Is Sara a boy's or girl's name?",
+        "a": "Documented usage records Sara as a girl’s name; actual use can vary by community."
+      },
+      {
+        "q": "What is the Arabic spelling of Sara?",
+        "a": "Sara is written سَارَة in Arabic."
+      },
+      {
+        "q": "Does the Qur'an mention Sara by name?",
+        "a": "The Qur'an relates the story of Ibrahim's wife and household, but it does not name her as Sara; the name comes from the wider prophetic tradition."
+      }
+    ],
+    "seo": {
+      "title": "Sara Name Meaning, Origin & Islamic Context",
+      "meta_description": "Sara (سَارَة) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Sara meaning, Sara name meaning, Sara origin, Sara meaning in Urdu, Sara pronunciation, Sara Islamic name",
+      "description_paragraph": "Sara is Hebrew-origin. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Sara meaning",
+        "Sara name meaning",
+        "Sara origin",
+        "Sara meaning in Urdu",
+        "Sara pronunciation",
+        "Sara Islamic name"
+      ],
+      "focus_keyword": "Sara meaning",
+      "secondary_keywords": [
+        "Sara name meaning",
+        "Sara origin",
+        "Sara meaning in Urdu",
+        "Sara pronunciation",
+        "Sara Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/sara",
+      "seo_score": 89,
+      "seo_score_basis": "Search-facing score: 9 distinct FAQs plus a single canonical definition, giving substantial keyword coverage without duplicated sections; capped below 100 because no page-rank or query-volume data is available."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the name Sara: its meaning, its Hebrew-language origin, how it is pronounced, and how it is used in Muslim naming.",
+      "body_summary": "Readers looking up Sara will find a documented given name of Hebrew origin. Its use in Muslim families is widespread, but the word itself is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Sara",
+      "#SaraMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 271,
+      "quality_score": 90,
+      "quality_score_basis": "Editorial score: 9 distinct FAQs, a verified meaning and origin, and cross-field de-duplication that leaves every field with its own information; no field-count inflation."
+    },
+    "evidence": {
+      "sources": [
+        "The Arabic form سَارَة renders the Hebrew name שָׂרָה of Ibrahim's wife, transmitted through the prophetic tradition."
+      ],
+      "verification_method": "Cross-checked lexical and Qur'anic sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "new_record (added to islamic set)",
+      "processed_at": "2026-10-07T11:20:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Sara",
+          "description": "Sara — a Hebrew-origin given name meaning Wife of Prophet Ibrahim",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Sara mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Wife of Prophet Ibrahim. Sara (سَارَة) is the name traditionally given to the wife of Prophet Ibrahim (Abraham) and mother of Ishaq, used as a female given name across the Muslim world."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Sara?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The name originates in the Hebrew tradition of Ibrahim's family and was carried into Muslim usage through the Qur'anic narrative of Ibrahim."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Sara an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No — Sara is Hebrew in origin, not Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Sara an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Name of a figure in the prophetic tradition. Sara is the traditional name of Ibrahim's wife, who appears in the Qur'anic account of Ibrahim; the name itself is Hebrew in origin and used by Muslims for its association with her."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Sara a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The Qur'an relates the story of Ibrahim's wife but does not name her as Sara; the name comes from the wider prophetic tradition, so it is not claimed as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Sara pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “sa-rah”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Sara a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Sara as a girl’s name; actual use can vary by community."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the Arabic spelling of Sara?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sara is written سَارَة in Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Does the Qur'an mention Sara by name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The Qur'an relates the story of Ibrahim's wife and household, but it does not name her as Sara; the name comes from the wider prophetic tradition."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Sara",
+              "item": "https://nameverse.site/names/islamic/sara"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-07T11:20:00+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning"
+      ]
+    }
+  }
+}

@@ -5,14 +5,14 @@ import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { HeaderLogo } from './Logo.jsx';
 
-// Counts are the REAL published manifest counts (11,412 total). Verification-
+// Counts are the REAL published manifest counts (11,730 total). Verification-
 // pending records stay out of the navigation, so these figures match the
 // indexable hubs and sitemaps rather than the raw source folders.
 const TRADITIONS = [
   {
     name: 'Islamic Names',
     href: '/names/islamic',
-    count: '3,480',
+    count: '4,950',
     desc: 'Quranic, Arabic & Urdu names',
     boyHref: '/islamic-boy-names',
     girlHref: '/islamic-girl-names',
@@ -21,7 +21,7 @@ const TRADITIONS = [
   {
     name: 'Christian Names',
     href: '/names/christian',
-    count: '4,026',
+    count: '3,449',
     desc: 'Biblical, Hebrew & Greek names',
     boyHref: '/christian-boy-names',
     girlHref: '/christian-girl-names',
@@ -30,7 +30,7 @@ const TRADITIONS = [
   {
     name: 'Hindu Names',
     href: '/names/hindu',
-    count: '3,906',
+    count: '3,331',
     desc: 'Sanskrit & Vedic names',
     boyHref: '/hindu-boy-names',
     girlHref: '/hindu-girl-names',
@@ -177,7 +177,7 @@ export default function Navbar() {
                       Naming Traditions
                     </span>
                     <Link href="/names" className="text-xs font-semibold text-nv-accent hover:underline">
-                      All 11,412 &rarr;
+                      All 11,730 &rarr;
                     </Link>
                   </div>
                   <div className="grid gap-2">
@@ -341,7 +341,7 @@ export default function Navbar() {
               </div>
 
               <Link href="/search" className="btn-primary w-full">
-                Search all 11,412 names
+                Search all 11,730 names
               </Link>
             </div>
           </div>

@@ -1,0 +1,489 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Raed",
+    "slug": "raed",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Raed",
+      "normalized_name": "raed",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Raed",
+        "raed"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Leader, pioneer",
+      "primary_meaning": "Raed corresponds to the Arabic form رَائِد and is glossed in this record as “Leader, pioneer.” The record associates the form with root ر و د (r-w-d). The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "Leader, pioneer",
+      "meaning_explanation": "Raed corresponds to the Arabic form رَائِد (Arabic root ر و د (r-w-d); رَائِد (Rāʾid)). Its core sense is raed; leader, pioneer. Raed is Arabic رَائِد (Rāʾid) 'leader, pioneer', from the root ر و د (r-w-d). The source gloss 'Reader, Seer, Intelligent' is unsupported and has been replaced with the lexical sense.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "رَائِد",
+      "transliteration": "raed",
+      "root": "ر و د",
+      "root_transliteration": "r-w-d",
+      "morphology": "Built on the root ر و د.",
+      "feminine_form": null,
+      "etymological_meaning": "From the root ر و د (r-w-d)",
+      "root_family": [],
+      "etymology_explanation": "The form رَائِد is an established Arabic lexical item, and Raed is the word itself used as a personal name rather than a derived or diminutive form.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form رَائِد.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Raed is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Raed is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Raed as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Leader, pioneer",
+      "related_concepts": [
+        "Leader, pioneer"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Leader, pioneer” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Leader, pioneer.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 1,
+      "life_path_number": 1,
+      "ruling_planet": "Sun",
+      "lucky_day": "Sunday",
+      "lucky_colors": [
+        "Gold",
+        "Orange"
+      ],
+      "lucky_stone": "Ruby",
+      "meaning": "In Pythagorean numerology the letters of Raed total 1, associated with leadership, independence and initiative. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 1,
+      "lucky_day": "Sunday",
+      "lucky_colors": [
+        "Gold",
+        "Orange"
+      ],
+      "lucky_stone": "Ruby",
+      "ruling_planet": "Sun"
+    },
+    "translations": {
+      "english": {
+        "name": "Raed",
+        "script": "Raed",
+        "meaning": "Leader, pioneer",
+        "long_meaning": "Raed is an Arabic-origin given name; in Arabic the word means “Leader, pioneer”."
+      },
+      "urdu": {
+        "name": "رائد",
+        "script": "رائد",
+        "meaning": "رائد، رہنما، پیش رو",
+        "long_meaning": "Raed (رائد) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم رائد، رہنما، پیش رو ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "رائد",
+        "script": "رائد",
+        "meaning": "رائد، پیشرو",
+        "long_meaning": "Raed (رائد) نامی برگرفته از زبان عربی است و معنای اصلی آن رائد، پیشرو است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "राइद",
+        "script": "राइद",
+        "meaning": "राइद, अग्रणी",
+        "long_meaning": "Raed (राइद) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ राइद, अग्रणी है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "رائد",
+        "script": "رائد",
+        "meaning": "رائد، مشر",
+        "long_meaning": "Raed (رائد) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې رائد، مشر ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "رَائِد",
+        "script": "رَائِد",
+        "meaning": "الرَّائِد، الْقَائِد",
+        "long_meaning": "Raed (رَائِد) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الرَّائِد، الْقَائِد. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "raed",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "رَائِد"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Raed"
+      ],
+      "script_forms": [
+        "رائد",
+        "رَائِد",
+        "राइद"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form رَائِد is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Raed mean?",
+        "a": "Raed is an Arabic-origin name meaning “Leader, pioneer”."
+      },
+      {
+        "q": "What is the origin of Raed?",
+        "a": "Raed originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Raed an Arabic name?",
+        "a": "Yes, the recorded form رَائِد is Arabic."
+      },
+      {
+        "q": "What is the root of Raed?",
+        "a": "It is built on the root ر و د (r-w-d)."
+      },
+      {
+        "q": "Is Raed an Islamic name?",
+        "a": "Raed is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Raed a Quranic name?",
+        "a": "Raed is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Raed mean in Urdu?",
+        "a": "In Urdu it is written رائد and carries the sense “رائد، رہنما، پیش رو”."
+      },
+      {
+        "q": "How is Raed pronounced?",
+        "a": "A romanized syllable approximation is “raed”."
+      },
+      {
+        "q": "Is Raed a boy's or girl's name?",
+        "a": "Documented usage records Raed as a boy's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Raed Name Meaning, Origin & Islamic Context",
+      "meta_description": "Raed (رَائِد) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Raed meaning, Raed name meaning, Raed origin, Raed meaning in Urdu, Raed pronunciation, Raed Islamic name",
+      "description_paragraph": "Raed is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Raed meaning",
+        "Raed name meaning",
+        "Raed origin",
+        "Raed meaning in Urdu",
+        "Raed pronunciation",
+        "Raed Islamic name"
+      ],
+      "focus_keyword": "Raed meaning",
+      "secondary_keywords": [
+        "Raed name meaning",
+        "Raed origin",
+        "Raed meaning in Urdu",
+        "Raed pronunciation",
+        "Raed Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/raed",
+      "seo_score": 95,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Raed, an Arabic-origin name used in Muslim communities.",
+      "body_summary": "Raed is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Raed",
+      "#RaedMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 151,
+      "quality_score": 95,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form رَائِد carries the sense “Leader, pioneer”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Raed",
+          "description": "Raed — an Arabic-origin given name meaning Leader, pioneer",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Raed mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Raed is an Arabic-origin name meaning “Leader, pioneer”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Raed?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Raed originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Raed an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form رَائِد is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Raed?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is built on the root ر و د (r-w-d)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Raed an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Raed is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Raed a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Raed is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Raed mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written رائد and carries the sense “رائد، رہنما، پیش رو”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Raed pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “raed”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Raed a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Raed as a boy's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Raed",
+              "item": "https://nameverse.site/names/islamic/raed"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

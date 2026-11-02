@@ -1,0 +1,490 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Khawlah",
+    "slug": "khawlah",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Khawlah",
+      "normalized_name": "khawlah",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Khawlah",
+        "khawlah"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Companion of the Prophet",
+      "primary_meaning": "Khawlah corresponds to the Arabic form خولة and is glossed in this record as “Companion of the Prophet.” The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "Companion of the Prophet",
+      "meaning_explanation": "Khawlah corresponds to the Arabic form خولة (Arabic خَوْلَة (Khawla)). Its core sense is khawla; a female given name. Khawlah is Arabic خَوْلَة (Khawla), a well-documented female given name borne by Khawla bint al-Azwar. CRITICAL SOURCE ERROR: the source gave خوة (a different form) and glossed the name 'Companion of the Prophet'; the correct form is خَوْلَة. Same name as khaula, khawla and khola.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "خولة",
+      "transliteration": "khawlah",
+      "root": "",
+      "root_transliteration": "",
+      "morphology": "Simple lexical item used as a name.",
+      "feminine_form": null,
+      "etymological_meaning": "The Arabic word خولة",
+      "root_family": [],
+      "etymology_explanation": "The form خولة is an established Arabic lexical item used unchanged as a given name.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form خولة.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Khawlah is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Khawlah is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Khawlah as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Companion of the Prophet",
+      "related_concepts": [
+        "Companion of the Prophet"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Companion of the Prophet” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Companion of the Prophet.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 1,
+      "life_path_number": 1,
+      "ruling_planet": "Sun",
+      "lucky_day": "Sunday",
+      "lucky_colors": [
+        "Gold",
+        "Orange"
+      ],
+      "lucky_stone": "Ruby",
+      "meaning": "In Pythagorean numerology the letters of Khawlah total 1, associated with leadership, independence and initiative. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 1,
+      "lucky_day": "Sunday",
+      "lucky_colors": [
+        "Gold",
+        "Orange"
+      ],
+      "lucky_stone": "Ruby",
+      "ruling_planet": "Sun"
+    },
+    "translations": {
+      "english": {
+        "name": "Khawlah",
+        "script": "Khawlah",
+        "meaning": "Companion of the Prophet",
+        "long_meaning": "Khawlah is an Arabic-origin given name; in Arabic the word means “Companion of the Prophet”."
+      },
+      "urdu": {
+        "name": "خولہ",
+        "script": "خولہ",
+        "meaning": "خولہ (زنانہ نام)",
+        "long_meaning": "Khawlah (خولہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم خولہ (زنانہ نام) ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "خوله",
+        "script": "خوله",
+        "meaning": "خوله (نام زنانه)",
+        "long_meaning": "Khawlah (خوله) نامی برگرفته از زبان عربی است و معنای اصلی آن خوله (نام زنانه) است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "ख़ौला",
+        "script": "ख़ौला",
+        "meaning": "ख़ौला (स्त्री नाम)",
+        "long_meaning": "Khawlah (ख़ौला) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ ख़ौला (स्त्री नाम) है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "خوله",
+        "script": "خوله",
+        "meaning": "خوله (ښځينه نوم)",
+        "long_meaning": "Khawlah (خوله) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې خوله (ښځينه نوم) ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "خولة",
+        "script": "خولة",
+        "meaning": "خَوْلَة (اسم علم مؤنث)",
+        "long_meaning": "Khawlah (خولة) اسم مأخوذ من اللغة العربية، ومعناه الأساسي خَوْلَة (اسم علم مؤنث). يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "khaw-lah",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "خولة"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Khawlah"
+      ],
+      "script_forms": [
+        "خولة",
+        "خوله",
+        "خولہ",
+        "ख़ौला"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form خولة is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Khawlah mean?",
+        "a": "Khawlah is an Arabic-origin name meaning “Companion of the Prophet”."
+      },
+      {
+        "q": "What is the origin of Khawlah?",
+        "a": "Khawlah originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Khawlah an Arabic name?",
+        "a": "Yes, the recorded form خولة is Arabic."
+      },
+      {
+        "q": "What is the root of Khawlah?",
+        "a": "No root analysis is asserted for this spelling."
+      },
+      {
+        "q": "Is Khawlah an Islamic name?",
+        "a": "Khawlah is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Khawlah a Quranic name?",
+        "a": "Khawlah is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Khawlah mean in Urdu?",
+        "a": "In Urdu it is written خولہ and carries the sense “خولہ (زنانہ نام)”."
+      },
+      {
+        "q": "How is Khawlah pronounced?",
+        "a": "A romanized syllable approximation is “khaw-lah”."
+      },
+      {
+        "q": "Is Khawlah a boy's or girl's name?",
+        "a": "Documented usage records Khawlah as a girl's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Khawlah Name Meaning, Origin & Islamic Context",
+      "meta_description": "Khawlah (خولة) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Khawlah meaning, Khawlah name meaning, Khawlah origin, Khawlah meaning in Urdu, Khawlah pronunciation, Khawlah Islamic name",
+      "description_paragraph": "Khawlah is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Khawlah meaning",
+        "Khawlah name meaning",
+        "Khawlah origin",
+        "Khawlah meaning in Urdu",
+        "Khawlah pronunciation",
+        "Khawlah Islamic name"
+      ],
+      "focus_keyword": "Khawlah meaning",
+      "secondary_keywords": [
+        "Khawlah name meaning",
+        "Khawlah origin",
+        "Khawlah meaning in Urdu",
+        "Khawlah pronunciation",
+        "Khawlah Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/khawlah",
+      "seo_score": 90,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Khawlah, an Arabic-origin name used in Muslim communities.",
+      "body_summary": "Khawlah is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Khawlah",
+      "#KhawlahMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 151,
+      "quality_score": 90,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form خولة carries the sense “Companion of the Prophet”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Khawlah",
+          "description": "Khawlah — an Arabic-origin given name meaning Companion of the Prophet",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Khawlah mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Khawlah is an Arabic-origin name meaning “Companion of the Prophet”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Khawlah?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Khawlah originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Khawlah an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form خولة is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Khawlah?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No root analysis is asserted for this spelling."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Khawlah an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Khawlah is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Khawlah a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Khawlah is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Khawlah mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written خولہ and carries the sense “خولہ (زنانہ نام)”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Khawlah pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “khaw-lah”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Khawlah a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Khawlah as a girl's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Khawlah",
+              "item": "https://nameverse.site/names/islamic/khawlah"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

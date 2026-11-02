@@ -231,7 +231,7 @@ export default function BabyNamesByStatePage() {
             { href: '/trending-names', label: 'Fastest-rising names', note: 'Measured SSA risers' },
             { href: '/unique-baby-names', label: 'Unique baby names', note: 'Outside published lists' },
             { href: '/vintage-baby-names', label: 'Vintage baby names', note: 'Classics returning' },
-            { href: '/names', label: 'All 11,412 names', note: 'Full directory' },
+            { href: '/names', label: 'All 11,730 names', note: 'Full directory' },
             { href: '/names-by-origin', label: 'Names by origin', note: 'Browse by language' },
           ].map((l) => (
             <Link key={l.href} href={l.href} className="card card-hover p-4">

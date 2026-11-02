@@ -1,0 +1,489 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Nubayt",
+    "slug": "nubayt",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Nubayt",
+      "normalized_name": "nubayt",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender follows documented historical naming usage; usage may vary by community.",
+      "alternate_spellings": [
+        "Nubayt",
+        "Nubeit",
+        "Nabit"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Attested Arabic masculine personal name; a precise lexical meaning is not asserted here.",
+      "primary_meaning": "Nubayt (نُبَيْط) is an attested Arabic masculine personal name in Islamic-era biographical sources. This record does not assign a definitive lexical meaning without a verified lexicon entry for the exact form.",
+      "literal_meaning": "Not asserted without direct lexical verification.",
+      "meaning_explanation": "The historical sources support the name's attestation, but do not establish its lexical meaning. A similarly spelled word or a name-site gloss is not treated as proof of the name's etymology.",
+      "meaning_confidence": "LOW"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "نُبَيْط",
+      "transliteration": "nubayt",
+      "root": null,
+      "root_transliteration": null,
+      "morphology": "Not assigned pending direct verification in a classical Arabic lexicon.",
+      "feminine_form": null,
+      "etymological_meaning": "Unconfirmed.",
+      "root_family": [],
+      "etymology_explanation": "The historical sources support the name's attestation, but do not establish its lexical meaning. A similarly spelled word or a name-site gloss is not treated as proof of the name's etymology.",
+      "etymology_confidence": "LOW",
+      "false_etymology_warning": "Do not infer Quranic status, popularity, religious virtue, or a symbolic meaning from name-site repetition. Exact name meaning must be supported by a lexical entry for the correct form."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "The form نُبَيْط is attested as an Arabic personal name in Islamic-era biographical sources.",
+        "usage": "Transliterations and localized script forms are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic and historical attestation",
+      "origin_confidence": "MEDIUM",
+      "origin_explanation": "Historical personal-name attestation is distinguished from lexical etymology and modern popularity.",
+      "cultural_transmission": [
+        "Arabic-speaking communities",
+        "Muslim historical naming"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic historical usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Attested in Islamic-era personal-name history; not thereby established as a Quranic name.",
+      "religious_explanation": "Historical use by a Muslim or Companion does not itself make a name Quranic or establish a special religious virtue.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_claimed",
+        "note": "No claim that this personal name appears in the Quran is made."
+      },
+      "hadith_status": {
+        "status": "historical_attestation_only",
+        "note": "Hadith or biographical sources are used only for the specific historical bearer where cited."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No prophetic-name claim is made."
+      },
+      "companion_status": {
+        "status": "historical_attestation_cited",
+        "note": "Nubayt ibn Jabir al-Ansari and Nubayt ibn Sharit al-Ashja'i are listed in biographical/narrator sources; sources differ on identity and lineage, so they are not merged."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Arabic and Muslim historical naming",
+      "interpretation": "Historical use is evidence of attestation, not a promise of virtue or a religious prescription.",
+      "important_distinction": "Muslim usage is not equivalent to Quranic status."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim historical naming"
+      ],
+      "cultural_meaning": "A documented personal name in Arabic and Islamic-era contexts.",
+      "personal_name_interpretation": "No additional symbolic interpretation is asserted beyond documented evidence.",
+      "interpretation_warning": "Dictionary senses and personal-name intent are distinct claims."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Historical personal name; lexical meaning unconfirmed",
+      "related_concepts": [
+        "historical personal name"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_verified",
+      "render": false,
+      "meaning": "",
+      "basis": "No special spiritual meaning is asserted.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links a name to personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No hidden personality traits are inferred from a name."
+    },
+    "numerology": {
+      "status": "not_evidence_based",
+      "render": false,
+      "lucky_number": null,
+      "life_path_number": null,
+      "ruling_planet": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "meaning": "",
+      "note": "Numerology is not factual evidence and is suppressed."
+    },
+    "lucky_attributes": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "ruling_planet": null
+    },
+    "translations": {
+      "english": {
+        "name": "Nubayt",
+        "script": "Nubayt",
+        "meaning": "Attested Arabic masculine personal name; a precise lexical meaning is not asserted here.",
+        "long_meaning": "Nubayt (نُبَيْط) is an attested Arabic masculine personal name in Islamic-era biographical sources. This record does not assign a definitive lexical meaning without a verified lexicon entry for the exact form."
+      },
+      "urdu": {
+        "name": "نبیط",
+        "script": "نبیط",
+        "meaning": "لغوی معنی کی تصدیق باقی ہے",
+        "long_meaning": "Nubayt (نبیط) — لغوی معنی کی تصدیق باقی ہے"
+      },
+      "persian": {
+        "name": "نبیط",
+        "script": "نبیط",
+        "meaning": "معنای لغوی هنوز تأیید نشده است",
+        "long_meaning": "Nubayt (نبیط) — معنای لغوی هنوز تأیید نشده است"
+      },
+      "hindi": {
+        "name": "नुबैत",
+        "script": "नुबैत",
+        "meaning": "शब्दार्थ की पुष्टि बाकी है",
+        "long_meaning": "Nubayt — शब्दार्थ की पुष्टि बाकी है"
+      },
+      "pashto": {
+        "name": "نبیط",
+        "script": "نبیط",
+        "meaning": "د لغوي مانا تصدیق پاتې ده",
+        "long_meaning": "Nubayt (نبیط) — د لغوي مانا تصدیق پاتې ده",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "نُبَيْط",
+        "script": "نُبَيْط",
+        "meaning": "لم يُتحقق من المعنى المعجمي بعد",
+        "long_meaning": "Nubayt (نُبَيْط) — لم يُتحقق من المعنى المعجمي بعد",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "conservative_semantic_note",
+      "confidence": "LOW",
+      "native_review_required": true,
+      "note": "Localized glosses deliberately state that a definitive meaning has not been verified; all language renderings remain drafts requiring native-speaker review."
+    },
+    "pronunciation": {
+      "romanized": "Nubayt",
+      "ipa": null,
+      "approximation_note": "Pronunciation should be checked against a reliable Arabic pronunciation reference.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "نُبَيْط"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Nubeit",
+        "Nabit"
+      ],
+      "script_forms": [
+        "نُبَيْط",
+        "نبیط",
+        "नुबैत"
+      ],
+      "variant_notes": "Transliteration variants require alias-level review; no separate origin is inferred.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "historical_attestation_cited",
+      "note": "Nubayt is recorded in Islamic-era biographical sources. Sunnah.com has separate narrator profiles for Nubayt ibn Jabir al-Ansari and Nubayt ibn Sharit al-Ashja'i; sources discuss a possible identification, so this record does not merge their biographies."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "No reliable modern frequency data is supplied; historical attestation is not a popularity measure."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No source-scoped current popularity or registration data is supplied."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No modern personal story is published without a verified source."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Nubayt mean?",
+        "a": "Attested Arabic masculine personal name; precise lexical meaning not established here."
+      },
+      {
+        "q": "What is the origin of Nubayt?",
+        "a": "Nubayt is treated here as an Arabic personal name. No definitive etymology is asserted. The record treats Nubayt as a historically attested personal name rather than inventing a word-for-word gloss."
+      },
+      {
+        "q": "How is Nubayt written in Arabic?",
+        "a": "نُبَيْط"
+      },
+      {
+        "q": "Is Nubayt a Quranic name?",
+        "a": "This record does not claim that the personal name is mentioned in the Quran."
+      },
+      {
+        "q": "Is Nubayt an Islamic name?",
+        "a": "It is associated with Islamic-era personal-name history; this does not by itself establish Quranic status."
+      },
+      {
+        "q": "Is the meaning verified?",
+        "a": "A precise lexical meaning is not asserted because a direct entry for the exact name form has not been verified."
+      },
+      {
+        "q": "How is Nubayt pronounced?",
+        "a": "Use a reliable Arabic pronunciation source; this record does not invent an IPA transcription."
+      },
+      {
+        "q": "How popular is Nubayt?",
+        "a": "No reliable modern popularity measurement is supplied."
+      },
+      {
+        "q": "What are common spellings of Nubayt?",
+        "a": "Nubayt, Nubayt, Nubayt"
+      }
+    ],
+    "seo": {
+      "title": "Nubayt Name Meaning, Arabic Spelling & History | NameVerse",
+      "meta_description": "Explore Nubayt (نُبَيْط), its Arabic spelling and historical use, with unverified lexical claims clearly identified.",
+      "meta_keywords": "Nubayt meaning, Nubayt Arabic name, Nubayt origin",
+      "description_paragraph": "Nubayt is an attested Arabic personal name in Islamic-era biographical sources. Its precise lexical meaning remains unconfirmed in this record.",
+      "keywords": [
+        "Nubayt meaning",
+        "Nubayt Arabic name",
+        "Nubayt origin"
+      ],
+      "focus_keyword": "Nubayt name meaning",
+      "secondary_keywords": [
+        "Nubayt in Arabic",
+        "Nubayt origin"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/nubayt",
+      "seo_score": null,
+      "seo_score_basis": "No artificial SEO score assigned; lexical review is pending."
+    },
+    "seo_content": {
+      "intro_paragraph": "Nubayt is an attested Arabic personal name. This entry separates historical attestation from unverified lexical meaning.",
+      "body_summary": "Nubayt (نُبَيْط) is an attested Arabic masculine personal name in Islamic-era biographical sources. This record does not assign a definitive lexical meaning without a verified lexicon entry for the exact form."
+    },
+    "social_tags": [
+      "#Nubayt",
+      "#NubaytMeaning",
+      "#ArabicNames",
+      "#IslamicHistory",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": false,
+      "authenticity_flags": [
+        "historical_attestation_only",
+        "lexical_meaning_not_verified",
+        "multiple_historical_bearers_identity_distinction_required"
+      ],
+      "fabricated_content_removed": true,
+      "fields_total": 0,
+      "quality_score": null,
+      "quality_score_basis": "Not scored until the lexical and historical source review is complete."
+    },
+    "evidence": {
+      "sources": [
+        "Sunnah.com narrator profile for Nubayt ibn Jabir al-Ansari: https://sunnah.com/narrator/62507 — supports historical-name attestation.",
+        "Sunnah.com narrator profile for Nubayt ibn Sharit al-Ashja'i: https://sunnah.com/narrator/7870 — supports historical-name attestation; identity/lineage distinctions must be preserved."
+      ],
+      "verification_method": "Historical attestation is supported by narrator/biographical sources; no precise lexical meaning, Quranic status, popularity, or symbolic trait is claimed without separate evidence."
+    },
+    "provenance": {
+      "pipeline": "NameVerse evidence-first draft",
+      "methodology": "Template-preserving evidence-first candidate; historical sources reviewed; exact lexical meaning remains unverified.",
+      "upgraded_from": "new candidate record",
+      "processed_at": "2026-10-14T00:00:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Nubayt",
+          "description": "Nubayt (نُبَيْط) — attested Arabic personal name; lexical meaning not verified.",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Nubayt mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Attested Arabic masculine personal name; precise lexical meaning not established here."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Nubayt?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Nubayt is treated here as an Arabic personal name. No definitive etymology is asserted. The record treats Nubayt as a historically attested personal name rather than inventing a word-for-word gloss."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Nubayt written in Arabic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "نُبَيْط"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Nubayt a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "This record does not claim that the personal name is mentioned in the Quran."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Nubayt an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is associated with Islamic-era personal-name history; this does not by itself establish Quranic status."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is the meaning verified?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A precise lexical meaning is not asserted because a direct entry for the exact name form has not been verified."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Nubayt pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Use a reliable Arabic pronunciation source; this record does not invent an IPA transcription."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How popular is Nubayt?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No reliable modern popularity measurement is supplied."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are common spellings of Nubayt?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Nubayt, Nubayt, Nubayt"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Nubayt",
+              "item": "https://nameverse.site/names/islamic/nubayt"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": true,
+      "flags": [
+        "review_sources_before_publication",
+        "alias_collision_audit_required",
+        "lexical_meaning_not_verified"
+      ],
+      "confidence": "LOW",
+      "reviewed_by": "",
+      "reviewed_at": ""
+    },
+    "render_policy": {
+      "render_verified": false,
+      "render_interpretive": false,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "numerology",
+        "lucky_attributes",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

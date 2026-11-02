@@ -132,7 +132,7 @@ export default function AboutPage() {
           <section className="card p-6 sm:p-8">
             <h2 className="font-display text-xl font-bold text-nv-text">Our mission</h2>
             <p className="mt-3 text-sm leading-relaxed text-nv-text-secondary sm:text-base">
-              A name carries meaning, heritage and identity. NameVerse lets parents search 11,412 published name
+              A name carries meaning, heritage and identity. NameVerse lets parents search 11,730 published name
               profiles across Islamic, Christian and Hindu traditions &mdash; each with a recorded meaning and origin,
               plus pronunciation and script forms where the record holds them &mdash; in one fast, free,
               mobile-friendly place.

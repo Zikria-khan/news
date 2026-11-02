@@ -1,0 +1,490 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Nezha",
+    "slug": "nezha",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Nezha",
+      "normalized_name": "nezha",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Nezha",
+        "nezha"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Excursion, outing, promenade",
+      "primary_meaning": "Nezha corresponds to the Arabic form نُزْهَة and is glossed in this record as “Excursion, outing, promenade.” The record associates the form with root ن ز ه (n-z-h). The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "Excursion, outing, promenade",
+      "meaning_explanation": "Nezha corresponds to the Arabic form نُزْهَة (Arabic root ن ز ه (n-z-h); نُزْهَة (Nuzha)). Its core sense is nezha; a female given name. Nezha is Arabic نُزْهَة (Nuzha) 'excursion, outing, promenade', from the root ن ز ه (n-z-h). The source gloss 'Gleaming, Radiant' is unsupported and has been replaced with the lexical sense. Same name as nazha.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "نُزْهَة",
+      "transliteration": "nezha",
+      "root": "ن ز ه",
+      "root_transliteration": "n-z-h",
+      "morphology": "Built on the root ن ز ه.",
+      "feminine_form": null,
+      "etymological_meaning": "From the root ن ز ه (n-z-h)",
+      "root_family": [],
+      "etymology_explanation": "The form نُزْهَة is an established Arabic lexical item, and Nezha is the word itself used as a personal name rather than a derived or diminutive form.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form نُزْهَة.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Nezha is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Nezha is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Nezha as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Excursion, outing, promenade",
+      "related_concepts": [
+        "Excursion, outing, promenade"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Excursion, outing, promenade” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Excursion, outing, promenade.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 9,
+      "life_path_number": 9,
+      "ruling_planet": "Mars",
+      "lucky_day": "Tuesday",
+      "lucky_colors": [
+        "Red",
+        "Crimson"
+      ],
+      "lucky_stone": "Red Coral",
+      "meaning": "In Pythagorean numerology the letters of Nezha total 9, associated with compassion, idealism and completion. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 9,
+      "lucky_day": "Tuesday",
+      "lucky_colors": [
+        "Red",
+        "Crimson"
+      ],
+      "lucky_stone": "Red Coral",
+      "ruling_planet": "Mars"
+    },
+    "translations": {
+      "english": {
+        "name": "Nezha",
+        "script": "Nezha",
+        "meaning": "Excursion, outing, promenade",
+        "long_meaning": "Nezha is an Arabic-origin given name; in Arabic the word means “Excursion, outing, promenade”."
+      },
+      "urdu": {
+        "name": "نزہہ",
+        "script": "نزہہ",
+        "meaning": "نزہہ (زنانہ نام)",
+        "long_meaning": "Nezha (نزہہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم نزہہ (زنانہ نام) ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "نزهه",
+        "script": "نزهه",
+        "meaning": "نزهه (نام زنانه)",
+        "long_meaning": "Nezha (نزهه) نامی برگرفته از زبان عربی است و معنای اصلی آن نزهه (نام زنانه) است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "नेज़हा",
+        "script": "नेज़हा",
+        "meaning": "नेज़हा (स्त्री नाम)",
+        "long_meaning": "Nezha (नेज़हा) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ नेज़हा (स्त्री नाम) है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "نزهه",
+        "script": "نزهه",
+        "meaning": "نزهه (ښځينه نوم)",
+        "long_meaning": "Nezha (نزهه) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې نزهه (ښځينه نوم) ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "نُزْهَة",
+        "script": "نُزْهَة",
+        "meaning": "نُزْهَة (اسْم عَلَم مُؤَنَّث)",
+        "long_meaning": "Nezha (نُزْهَة) اسم مأخوذ من اللغة العربية، ومعناه الأساسي نُزْهَة (اسْم عَلَم مُؤَنَّث). يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "nez-ha",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "نُزْهَة"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Nezha"
+      ],
+      "script_forms": [
+        "نزهه",
+        "نزہہ",
+        "نُزْهَة",
+        "नेज़हा"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form نُزْهَة is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Nezha mean?",
+        "a": "Nezha is an Arabic-origin name meaning “Excursion, outing, promenade”."
+      },
+      {
+        "q": "What is the origin of Nezha?",
+        "a": "Nezha originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Nezha an Arabic name?",
+        "a": "Yes, the recorded form نُزْهَة is Arabic."
+      },
+      {
+        "q": "What is the root of Nezha?",
+        "a": "It is built on the root ن ز ه (n-z-h)."
+      },
+      {
+        "q": "Is Nezha an Islamic name?",
+        "a": "Nezha is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Nezha a Quranic name?",
+        "a": "Nezha is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Nezha mean in Urdu?",
+        "a": "In Urdu it is written نزہہ and carries the sense “نزہہ (زنانہ نام)”."
+      },
+      {
+        "q": "How is Nezha pronounced?",
+        "a": "A romanized syllable approximation is “nez-ha”."
+      },
+      {
+        "q": "Is Nezha a boy's or girl's name?",
+        "a": "Documented usage records Nezha as a girl's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Nezha Name Meaning, Origin & Islamic Context",
+      "meta_description": "Nezha (نُزْهَة) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Nezha meaning, Nezha name meaning, Nezha origin, Nezha meaning in Urdu, Nezha pronunciation, Nezha Islamic name",
+      "description_paragraph": "Nezha is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Nezha meaning",
+        "Nezha name meaning",
+        "Nezha origin",
+        "Nezha meaning in Urdu",
+        "Nezha pronunciation",
+        "Nezha Islamic name"
+      ],
+      "focus_keyword": "Nezha meaning",
+      "secondary_keywords": [
+        "Nezha name meaning",
+        "Nezha origin",
+        "Nezha meaning in Urdu",
+        "Nezha pronunciation",
+        "Nezha Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/nezha",
+      "seo_score": 95,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Nezha, an Arabic-origin name used in Muslim communities.",
+      "body_summary": "Nezha is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Nezha",
+      "#NezhaMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 154,
+      "quality_score": 95,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form نُزْهَة carries the sense “Excursion, outing, promenade”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Nezha",
+          "description": "Nezha — an Arabic-origin given name meaning Excursion, outing, promenade",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Nezha mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Nezha is an Arabic-origin name meaning “Excursion, outing, promenade”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Nezha?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Nezha originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Nezha an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form نُزْهَة is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Nezha?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is built on the root ن ز ه (n-z-h)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Nezha an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Nezha is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Nezha a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Nezha is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Nezha mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written نزہہ and carries the sense “نزہہ (زنانہ نام)”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Nezha pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “nez-ha”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Nezha a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Nezha as a girl's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Nezha",
+              "item": "https://nameverse.site/names/islamic/nezha"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

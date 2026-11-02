@@ -1,0 +1,527 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Sawda",
+    "slug": "sawda",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Sawda",
+      "normalized_name": "sawda",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "HIGH",
+      "gender_note": "Sawda is recorded as a feminine given name in the sources cited in this record; actual use can vary by community.",
+      "alternate_spellings": [
+        "Sawda",
+        "Sawdah",
+        "Sauda",
+        "Saudah"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Name of Sawda bint Zam'a, a wife of the Prophet",
+      "primary_meaning": "Sawda (سودة) is a feminine personal name derived from the Arabic colour term aswad (“black”), with the feminine ending. It is best known as the name of Sawda bint Zam'a, whom the Prophet Muhammad married after Khadija's death. The name is pre-Islamic in use and is not a Qur'anic term.",
+      "literal_meaning": "Feminine form of aswad (“black”)",
+      "meaning_explanation": "The root س و د gives aswad (“black”) and sawdāʾ (feminine). The name is a colour-derived proper name; its use does not imply a literal description of the bearer. Classical sources record Sawda bint Zam'a among the Mothers of the Believers.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "سَوْدَة",
+      "transliteration": "sawdah",
+      "root": "س و د",
+      "root_transliteration": "s-w-d",
+      "morphology": "Feminine form of the colour adjective aswad (“black”), used as a proper name.",
+      "feminine_form": null,
+      "etymological_meaning": "Feminine form of aswad (“black”)",
+      "root_family": [],
+      "etymology_explanation": "The root س و د gives aswad (“black”) and sawdāʾ (feminine). The name is a colour-derived proper name; its use does not imply a literal description of the bearer. Classical sources record Sawda bint Zam'a among the Mothers of the Believers.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented lexical, scriptural or biographical evidence is asserted; unsupported name-site etymologies are not adopted."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form سَوْدَة.",
+        "usage": "Other scripts in this record are transliterations or localized glosses; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The recorded form سَوْدَة is Arabic, and its root is س و د (s-w-d). The evidence distinguishes linguistic origin from religious and cultural use.",
+      "cultural_transmission": [
+        "Arabic-speaking communities",
+        "Muslim naming communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Prophetic biography",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "A historical female name from the Prophet's household; not a Qur'anic or divine name.",
+      "religious_explanation": "Sawda bint Zam'a is remembered as a wife of the Prophet. The name's significance is biographical, not scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_in_Quran",
+        "note": "Sawda is not a Qur'anic name; Sawda bint Zam'a is recorded in the Sirah and hadith literature."
+      },
+      "hadith_status": {
+        "status": "listed_only",
+        "note": "Reports in the hadith collections mention Sawda bint Zam'a; the specific wording and grading are not independently rechecked in this pass."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "Sawda is not the name of a prophet."
+      },
+      "companion_status": {
+        "status": "verified",
+        "note": "Sawda bint Zam'a is recorded among the wives of the Prophet in the Sirah and hadith literature."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Prophetic biography",
+      "interpretation": "This record describes documented usage; it is not a religious ruling on naming.",
+      "important_distinction": "This descriptive record is not a religious ruling. Muslim cultural use, linguistic origin, and direct Qur'anic attestation are separate claims."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim naming communities"
+      ],
+      "cultural_meaning": "The name is associated with the Prophet's household and the early Muslim community.",
+      "personal_name_interpretation": "Use of the name is commemorative; the record does not infer character from it.",
+      "interpretation_warning": "A symbolic naming preference is distinct from dictionary meaning and is not a claim about a bearer's personality or future."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Early Islamic biography and colour-derived naming",
+      "related_concepts": [
+        "Mothers of the Believers",
+        "early Islam",
+        "colour-derived names"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_asserted",
+      "render": false,
+      "meaning": null,
+      "basis": null,
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No evidence-based hidden personality traits are asserted."
+    },
+    "numerology": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "life_path_number": null,
+      "ruling_planet": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "meaning": null,
+      "note": "Numerology is not evidence-based and is not supplied in this batch."
+    },
+    "lucky_attributes": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "ruling_planet": null,
+      "note": "Lucky attributes are not evidence-based and are not supplied in this batch."
+    },
+    "translations": {
+      "english": {
+        "name": "Sawda",
+        "script": "سَوْدَة",
+        "meaning": "Name of Sawda bint Zam'a, a wife of the Prophet",
+        "long_meaning": "Sawda (سودة) is a feminine personal name derived from the Arabic colour term aswad (“black”), with the feminine ending. It is best known as the name of Sawda bint Zam'a, whom the Prophet Muhammad married after Khadija's death. The name is pre-Islamic in use and is not a Qur'anic term."
+      },
+      "urdu": {
+        "name": "سودہ",
+        "script": "سودہ",
+        "meaning": "نبی ﷺ کی زوجہ سودہ بنت زمعہ کا نام؛ سیاہی سے ماخوذ",
+        "long_meaning": "سودہ کے لغوی معنی «نبی ﷺ کی زوجہ سودہ بنت زمعہ کا نام؛ سیاہی سے ماخوذ» ہیں۔ یہ اندراج دینی حوالے اور نام کے استعمال کو الگ الگ بیان کرتا ہے؛ یہ ترجمہ ابتدائی مسودہ ہے اور مقامی جائزے کا محتاج ہے۔"
+      },
+      "persian": {
+        "name": "سوده",
+        "script": "سوده",
+        "meaning": "نام سوده دختر زمعه، همسر پیامبر؛ برگرفته از سیاهی",
+        "long_meaning": "معنای لغوی سوده در این مدخل «نام سوده دختر زمعه، همسر پیامبر؛ برگرفته از سیاهی» است. این مدخل مرجع دینی و کاربرد نام را جداگانه بیان می‌کند؛ این برگردان پیش‌نویس است و به بازبینی بومی نیاز دارد."
+      },
+      "hindi": {
+        "name": "सौदा",
+        "script": "सौदा",
+        "meaning": "पैग़ंबर की पत्नी सौदा बिन्त ज़म'आ का नाम; श्यामता से व्युत्पन्न",
+        "long_meaning": "सौदा का शब्दार्थ «पैग़ंबर की पत्नी सौदा बिन्त ज़म'आ का नाम; श्यामता से व्युत्पन्न» दिया गया है। यह प्रविष्टि धार्मिक संदर्भ और नाम-प्रयोग को अलग-अलग बताती है; यह अनुवाद प्रारूप है और स्थानीय भाषायी समीक्षा आवश्यक है।"
+      },
+      "pashto": {
+        "name": "سوده",
+        "script": "سوده",
+        "meaning": "د پیغمبر مېرمن سوده بنت زمعه نوم؛ د تور رنګ له معنا",
+        "long_meaning": "د سوده لغوي مانا «د پیغمبر مېرمن سوده بنت زمعه نوم؛ د تور رنګ له معنا» دی. دا اندراج دیني حواله او د نوم کارونه بېل بېل بیانوي؛ دا ژباړه مسوده ده او د اصلي ژبې ویونکو بیاکتنې ته اړتیا لري.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "سودة",
+        "script": "سودة",
+        "meaning": "اسم سودة بنت زمعة، زوجة النبي صلى الله عليه وسلم",
+        "long_meaning": "المعنى اللغوي لاسم سودة في هذا السجل هو «اسم سودة بنت زمعة، زوجة النبي صلى الله عليه وسلم»؛ ويفصل السجل بين المرجع الديني واستعمال الاسم، وهذه صياغة أولية تحتاج إلى مراجعة لغوية.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "source_language_gloss_with_localized_draft",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "The Arabic core gloss is evidence-backed. All non-English localized meanings and script renderings are editorial drafts requiring native-speaker review; transliteration does not establish a separate origin."
+    },
+    "pronunciation": {
+      "romanized": "SAW-da",
+      "ipa": null,
+      "approximation_note": "Romanized pronunciation guide only; no IPA transcription is asserted.",
+      "common_mispronunciation": "sow-da",
+      "scripts": {
+        "arabic": "سَوْدَة"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Sawdah",
+        "Sauda",
+        "Saudah"
+      ],
+      "script_forms": [
+        "سَوْدَة",
+        "सौदा"
+      ],
+      "variant_notes": "Spelling variants reflect transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "documented_in_classical_sources",
+      "note": "Ibn Hisham's Sirah and Ibn Sa'd's Tabaqat record Sawda bint Zam'a among the Mothers of the Believers."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Usage is attested as a Muslim given name, but no registration or frequency data is measured in this batch."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is measured in this batch; no estimate is asserted."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is included."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No individual bearer story is included without a verified source."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Sawda mean?",
+        "a": "Sawda (سودة) is a feminine personal name derived from the Arabic colour term aswad (“black”), with the feminine ending. It is best known as the name of Sawda bint Zam'a, whom the Prophet Muhammad married after Khadija's death. The name is pre-Islamic in use and is not a Qur'anic term."
+      },
+      {
+        "q": "What is the origin of Sawda?",
+        "a": "The root س و د gives aswad (“black”) and sawdāʾ (feminine). The name is a colour-derived proper name; its use does not imply a literal description of the bearer. Classical sources record Sawda bint Zam'a among the Mothers of the Believers."
+      },
+      {
+        "q": "Is Sawda an Arabic name?",
+        "a": "Yes. The recorded form is سَوْدَة; the name is associated with Arabic."
+      },
+      {
+        "q": "How is Sawda written in Arabic?",
+        "a": "سَوْدَة"
+      },
+      {
+        "q": "Is Sawda a Quranic name?",
+        "a": "Sawda is not a Qur'anic name; Sawda bint Zam'a is recorded in the Sirah and hadith literature."
+      },
+      {
+        "q": "Is Sawda an Islamic name?",
+        "a": "A historical female name from the Prophet's household; not a Qur'anic or divine name. Sawda bint Zam'a is remembered as a wife of the Prophet. The name's significance is biographical, not scriptural."
+      },
+      {
+        "q": "How is Sawda pronounced?",
+        "a": "An approximate romanized guide is SAW-da. Romanized pronunciation guide only; no IPA transcription is asserted."
+      },
+      {
+        "q": "Is Sawda a boy's or girl's name?",
+        "a": "The sources cited record Sawda as a feminine given name; actual use can vary by language and community."
+      },
+      {
+        "q": "What is the root of Sawda?",
+        "a": "The recorded Arabic root is س و د (s-w-d)."
+      },
+      {
+        "q": "What should be checked before relying on this entry?",
+        "a": "The cited sources are listed with their scope and limitations but have not been independently rechecked in this pass. Non-English renderings are drafts pending native review, and no popularity figure is asserted."
+      }
+    ],
+    "seo": {
+      "title": "Sawda Name Meaning, Origin & Islamic Context",
+      "meta_description": "Sawda name meaning, Arabic origin, pronunciation and sourced Qur'anic-status notes.",
+      "meta_keywords": "Sawda meaning, Sawda name meaning, Sawda Arabic name, Sawda origin, Sawda pronunciation, Sawda Islamic name, Sawda meaning in Urdu",
+      "description_paragraph": "Sawda (سودة) is a feminine personal name derived from the Arabic colour term aswad (“black”), with the feminine ending. It is best known as the name of Sawda bint Zam'a, whom the Prophet Muhammad married after Khadija's death. The name is pre-Islamic in use and is not a Qur'anic term.",
+      "keywords": [
+        "Sawda meaning",
+        "Sawda name meaning",
+        "Sawda Arabic name",
+        "Sawda origin",
+        "Sawda pronunciation",
+        "Sawda Islamic name",
+        "Sawda meaning in Urdu"
+      ],
+      "focus_keyword": "Sawda meaning",
+      "secondary_keywords": [
+        "Sawda name meaning",
+        "Sawda Arabic name",
+        "Sawda origin",
+        "Sawda pronunciation",
+        "Sawda Islamic name",
+        "Sawda meaning in Urdu"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/sawda",
+      "seo_score": null,
+      "seo_score_basis": "Not numerically scored in this focused review; factual clarity prioritized over an unsupported score."
+    },
+    "seo_content": {
+      "intro_paragraph": "Sawda is an Arabic given name. This entry separates its documented meaning, linguistic origin, religious or scriptural status, and modern usage.",
+      "body_summary": "Sawda (سودة) is a feminine personal name derived from the Arabic colour term aswad (“black”), with the feminine ending. It is best known as the name of Sawda bint Zam'a, whom the Prophet Muhammad married after Khadija's death. The name is pre-Islamic in use and is not a Qur'anic term."
+    },
+    "social_tags": [
+      "#Sawda",
+      "#SawdaMeaning",
+      "#NameMeaning",
+      "#ArabicNames",
+      "#IslamicNames"
+    ],
+    "content_quality": {
+      "tier1_verified": false,
+      "authenticity_flags": [
+        "historical_female_name_not_Quranic",
+        "colour_derived_name",
+        "localized_translations_require_native_review",
+        "popularity_not_measured_in_this_batch"
+      ],
+      "fabricated_content_removed": true,
+      "fields_total": 308,
+      "quality_score": null,
+      "quality_score_basis": "No composite quality score is asserted; source support, limitations, scriptural status and review flags are explicit. Tier-1 verification is false because the listed sources were not independently rechecked in this pass.",
+      "tier1_verified_scope": "Core meaning and associated claims were matched to the listed sources in this pass; independent re-verification, native translation review and usage-frequency evidence remain separate outstanding tasks, so tier1_verified is false."
+    },
+    "evidence": {
+      "sources": [
+        "Ibn Hishām, al-Sīrah al-Nabawiyyah: Account of Sawda bint Zam'a among the Prophet's wives. Limitation: Classical reports are not independently rechecked in this pass.",
+        "https://sunnah.com/bukhari — Ṣaḥīḥ al-Bukhārī: Reports referring to Sawda bint Zam'a. Limitation: Collection-level citation; the specific report and grading are not rechecked here."
+      ],
+      "verification_method": "The lexical, scriptural or biographical claim was separated from name-site glosses and matched to a cited primary text, classical lexicon or biographical reference; the cited sources were not independently rechecked in this pass. Latin and Arabic-script forms were audited against every existing record before writing. No popularity figure is asserted without a source-scoped measurement.",
+      "claim_evidence": [
+        {
+          "claim": "Sawda bint Zam'a was a wife of the Prophet",
+          "source": "Ibn Hishām, al-Sīrah al-Nabawiyyah",
+          "status": "classical_source_listed_not_rechecked"
+        },
+        {
+          "claim": "The name derives from the colour term aswad",
+          "source": "Lane, An Arabic-English Lexicon",
+          "status": "lexical_source_listed_not_rechecked"
+        }
+      ],
+      "claim_evidence_status": "SOURCE_URLS_LISTED_NOT_INDEPENDENTLY_RECHECKED_IN_THIS_PASS"
+    },
+    "provenance": {
+      "pipeline": "NameVerse super-2.0 curated Qur'anic/Islamic supplement",
+      "methodology": "Curated evidence manifest -> template-parity build -> Latin and Arabic-script collision audit -> schema and key-path validation",
+      "upgraded_from": "New record generated from the current super-2.0 architecture; not converted from a legacy record.",
+      "processed_at": "2026-10-17T00:00:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Sawda",
+          "description": "Sawda (سَوْدَة) — Name of Sawda bint Zam'a, a wife of the Prophet",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Sawda mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sawda (سودة) is a feminine personal name derived from the Arabic colour term aswad (“black”), with the feminine ending. It is best known as the name of Sawda bint Zam'a, whom the Prophet Muhammad married after Khadija's death. The name is pre-Islamic in use and is not a Qur'anic term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Sawda?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The root س و د gives aswad (“black”) and sawdāʾ (feminine). The name is a colour-derived proper name; its use does not imply a literal description of the bearer. Classical sources record Sawda bint Zam'a among the Mothers of the Believers."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Sawda an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. The recorded form is سَوْدَة; the name is associated with Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Sawda written in Arabic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "سَوْدَة"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Sawda a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sawda is not a Qur'anic name; Sawda bint Zam'a is recorded in the Sirah and hadith literature."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Sawda an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A historical female name from the Prophet's household; not a Qur'anic or divine name. Sawda bint Zam'a is remembered as a wife of the Prophet. The name's significance is biographical, not scriptural."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Sawda pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An approximate romanized guide is SAW-da. Romanized pronunciation guide only; no IPA transcription is asserted."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Sawda a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The sources cited record Sawda as a feminine given name; actual use can vary by language and community."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Sawda?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The recorded Arabic root is س و د (s-w-d)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What should be checked before relying on this entry?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The cited sources are listed with their scope and limitations but have not been independently rechecked in this pass. Non-English renderings are drafts pending native review, and no popularity figure is asserted."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Sawda",
+              "item": "https://nameverse.site/names/islamic/sawda"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": true,
+      "flags": [
+        "historical_female_name_not_Quranic",
+        "colour_derived_name",
+        "localized_translations_require_native_review",
+        "popularity_not_measured_in_this_batch"
+      ],
+      "confidence": "HIGH",
+      "reviewed_by": "Automated source-aware build and collision audit; not a human or native-speaker review",
+      "reviewed_at": "2026-10-17"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": false,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

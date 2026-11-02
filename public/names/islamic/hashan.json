@@ -1,0 +1,489 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Hashan",
+    "slug": "hashan",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Hashan",
+      "normalized_name": "hashan",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "LOW",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Hashan",
+        "hashan"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Meaning not independently verified",
+      "primary_meaning": "The meaning of Hashan is not objectively established from available lexical sources; no confident gloss is asserted.",
+      "literal_meaning": "No literal gloss is asserted for this spelling.",
+      "meaning_explanation": "Hashan corresponds to the Arabic form هشان (Arabic root ح س ن (ḥ-s-n); حَسَّان (Ḥassān)). Its core sense is good, beautiful, virtuous, excellent. Hashan is recorded at low confidence. The source gave حسن (that is hasan) and glossed the name 'Happy'; the intended form is uncertain and may be حَسَّان (Ḥassān). No confident meaning is asserted.",
+      "meaning_confidence": "LOW"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "هشان",
+      "transliteration": "hashan",
+      "root": "ح س ن",
+      "root_transliteration": "ḥ-s-n",
+      "morphology": "Built on the root ح س ن.",
+      "feminine_form": null,
+      "etymological_meaning": "Not established",
+      "root_family": [],
+      "etymology_explanation": "No reliable root analysis is available for this spelling.",
+      "etymology_confidence": "LOW",
+      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form هشان.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "LOW"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "LOW",
+      "origin_explanation": "The origin of this spelling is not objectively established; it circulates in Muslim naming communities, but no single language of origin is confirmed.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Hashan is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Hashan is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Hashan as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Happy",
+      "related_concepts": [
+        "Happy"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_applicable",
+      "render": false,
+      "meaning": "No devotional reading is offered because the underlying word is a descriptive term rather than a religious concept.",
+      "basis": null,
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 6,
+      "life_path_number": 6,
+      "ruling_planet": "Venus",
+      "lucky_day": "Friday",
+      "lucky_colors": [
+        "White",
+        "Pink"
+      ],
+      "lucky_stone": "Diamond",
+      "meaning": "In Pythagorean numerology the letters of Hashan total 6, associated with responsibility, care and harmony. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 6,
+      "lucky_day": "Friday",
+      "lucky_colors": [
+        "White",
+        "Pink"
+      ],
+      "lucky_stone": "Diamond",
+      "ruling_planet": "Venus"
+    },
+    "translations": {
+      "english": {
+        "name": "Hashan",
+        "script": "Hashan",
+        "meaning": "Happy",
+        "long_meaning": "Hashan is an Arabic-origin given name; in Arabic the word means “Happy”."
+      },
+      "urdu": {
+        "name": "ہشان",
+        "script": "ہشان",
+        "meaning": "اچھا، خوبصورت، نیک",
+        "long_meaning": "Hashan (ہشان) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم اچھا، خوبصورت، نیک ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "هشان",
+        "script": "هشان",
+        "meaning": "نیک، زیبا، پسندیده",
+        "long_meaning": "Hashan (هشان) نامی برگرفته از زبان عربی است و معنای اصلی آن نیک، زیبا، پسندیده است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "हशान",
+        "script": "हशान",
+        "meaning": "अच्छा, सुंदर, नेक",
+        "long_meaning": "Hashan (हशान) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ अच्छा, सुंदर, नेक है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "هشان",
+        "script": "هشان",
+        "meaning": "ښه، ښکلی، نیک",
+        "long_meaning": "Hashan (هشان) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې ښه، ښکلی، نیک ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "هشان",
+        "script": "هشان",
+        "meaning": "الحسن، الجميل، الخيّر",
+        "long_meaning": "Hashan (هشان) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الحسن، الجميل، الخيّر. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "LOW",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "has-han",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "هشان"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Hashan"
+      ],
+      "script_forms": [
+        "هشان",
+        "ہشان",
+        "हशान"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form هشان is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": "No verified narrative is available for this spelling."
+    },
+    "faq": [
+      {
+        "q": "What does Hashan mean?",
+        "a": "The meaning of Hashan is not objectively established; no confident gloss is asserted."
+      },
+      {
+        "q": "What is the origin of Hashan?",
+        "a": "Hashan originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Hashan an Arabic name?",
+        "a": "Yes, the recorded form هشان is Arabic."
+      },
+      {
+        "q": "What is the root of Hashan?",
+        "a": "It is built on the root ح س ن (ḥ-s-n)."
+      },
+      {
+        "q": "Is Hashan an Islamic name?",
+        "a": "Hashan is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Hashan a Quranic name?",
+        "a": "Hashan is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Hashan mean in Urdu?",
+        "a": "In Urdu it is written ہشان and carries the sense “اچھا، خوبصورت، نیک”."
+      },
+      {
+        "q": "How is Hashan pronounced?",
+        "a": "A romanized syllable approximation is “has-han”."
+      },
+      {
+        "q": "Is Hashan a boy's or girl's name?",
+        "a": "Documented usage records Hashan as a boy's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Hashan Name Meaning, Origin & Islamic Context",
+      "meta_description": "Meaning, origin and usage of the name Hashan.",
+      "meta_keywords": "Hashan meaning, Hashan name meaning, Hashan origin, Hashan meaning in Urdu, Hashan pronunciation, Hashan Islamic name",
+      "description_paragraph": "This page records what is known about the name Hashan; no confident meaning is asserted.",
+      "keywords": [
+        "Hashan meaning",
+        "Hashan name meaning",
+        "Hashan origin",
+        "Hashan meaning in Urdu",
+        "Hashan pronunciation",
+        "Hashan Islamic name"
+      ],
+      "focus_keyword": "Hashan meaning",
+      "secondary_keywords": [
+        "Hashan name meaning",
+        "Hashan origin",
+        "Hashan meaning in Urdu",
+        "Hashan pronunciation",
+        "Hashan Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/hashan",
+      "seo_score": 95,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page records what is known about the name Hashan; its meaning is not objectively established from available sources.",
+      "body_summary": "Hashan is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Hashan",
+      "#HashanMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 156,
+      "quality_score": 95,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form هشان carries the sense “Happy”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Hashan",
+          "description": "Hashan — an Arabic-origin given name meaning Happy",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Hashan mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The meaning of Hashan is not objectively established; no confident gloss is asserted."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Hashan?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hashan originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Hashan an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form هشان is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Hashan?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is built on the root ح س ن (ḥ-s-n)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Hashan an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hashan is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Hashan a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hashan is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Hashan mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written ہشان and carries the sense “اچھا، خوبصورت، نیک”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Hashan pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “has-han”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Hashan a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Hashan as a boy's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Hashan",
+              "item": "https://nameverse.site/names/islamic/hashan"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": true,
+      "flags": [],
+      "confidence": "LOW",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

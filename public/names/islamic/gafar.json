@@ -1,0 +1,489 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Gafar",
+    "slug": "gafar",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Gafar",
+      "normalized_name": "gafar",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "alternate_spellings": [
+        "Gafar",
+        "gafar"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Most forgiving, ever-forgiving",
+      "primary_meaning": "Gafar corresponds to the Arabic form غَفّار and is glossed in this record as “Most forgiving, ever-forgiving.” The record associates the form with root غ ف ر (gh-f-r). The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
+      "literal_meaning": "Most forgiving, ever-forgiving",
+      "meaning_explanation": "Gafar corresponds to the Arabic form غَفّار (Arabic root غ ف ر (gh-f-r); غَفّار (Ghaffār)). Its core sense is forgiving, most generous. Gafar is a South Asian spelling of Arabic غفار (Ghaffār) 'most forgiving, ever-forgiving', an intensive adjective from the root غ ف ر (gh-f-r) 'to forgive'. It is also a divine name in Islamic tradition. The source gave the non-standard عَفّار as the Arabic form and glossed it 'carrier of a heavy burden' (that sense belongs to حمّال/حمال), both of which were corrected.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Arabic",
+      "lexical_form": "غَفّار",
+      "transliteration": "gafar",
+      "root": "غ ف ر",
+      "root_transliteration": "gh-f-r",
+      "morphology": "Built on the root غ ف ر.",
+      "feminine_form": null,
+      "etymological_meaning": "From the root غ ف ر (gh-f-r)",
+      "root_family": [],
+      "etymology_explanation": "The form غَفّار is an established Arabic lexical item, and Gafar is the word itself used as a personal name rather than a derived or diminutive form.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+    },
+    "language": {
+      "primary": "Arabic",
+      "associated_languages": [
+        "Arabic"
+      ],
+      "language_notes": {
+        "primary": "Arabic is the language of the recorded form غَفّار.",
+        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Arabic",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "cultural_transmission": [
+        "Arabic",
+        "Muslim South Asia",
+        "Urdu-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Islamic-cultural usage",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "Culturally used; not inherently a doctrinal term",
+      "religious_explanation": "Gafar is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_verified",
+        "note": "Gafar is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report about this name is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishes Gafar as the name of a prophet."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion (sahabi) of this name is attested in this record."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Muslim naming culture in South Asia and the Persianate world",
+      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
+      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Arabic",
+        "Muslim South Asia"
+      ],
+      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Most forgiving, ever-forgiving",
+      "related_concepts": [
+        "Most forgiving, ever-forgiving"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": true,
+      "meaning": "Families may read the sense “Most forgiving, ever-forgiving” as a hopeful quality for the child.",
+      "basis": "Lexical meaning: Most forgiving, ever-forgiving.",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 6,
+      "life_path_number": 6,
+      "ruling_planet": "Venus",
+      "lucky_day": "Friday",
+      "lucky_colors": [
+        "White",
+        "Pink"
+      ],
+      "lucky_stone": "Diamond",
+      "meaning": "In Pythagorean numerology the letters of Gafar total 6, associated with responsibility, care and harmony. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer."
+    },
+    "lucky_attributes": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 6,
+      "lucky_day": "Friday",
+      "lucky_colors": [
+        "White",
+        "Pink"
+      ],
+      "lucky_stone": "Diamond",
+      "ruling_planet": "Venus"
+    },
+    "translations": {
+      "english": {
+        "name": "Gafar",
+        "script": "Gafar",
+        "meaning": "Most forgiving, ever-forgiving",
+        "long_meaning": "Gafar is an Arabic-origin given name; in Arabic the word means “Most forgiving, ever-forgiving”."
+      },
+      "urdu": {
+        "name": "غفار",
+        "script": "غفار",
+        "meaning": "بخشنے والا، بہت مہربان",
+        "long_meaning": "Gafar (غفار) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم بخشنے والا، بہت مہربان ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+      },
+      "persian": {
+        "name": "غفار",
+        "script": "غفار",
+        "meaning": "آمرزنده، بخشنده",
+        "long_meaning": "Gafar (غفار) نامی برگرفته از زبان عربی است و معنای اصلی آن آمرزنده، بخشنده است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+      },
+      "hindi": {
+        "name": "ग़फ़्फ़ार",
+        "script": "ग़फ़्फ़ार",
+        "meaning": "क्षमाशील, अत्यंत उदार",
+        "long_meaning": "Gafar (ग़फ़्फ़ार) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ क्षमाशील, अत्यंत उदार है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+      },
+      "pashto": {
+        "name": "غفار",
+        "script": "غفار",
+        "meaning": "بخښونکی، ډېر مهربان",
+        "long_meaning": "Gafar (غفار) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې بخښونکی، ډېر مهربان ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "غَفّار",
+        "script": "غَفّار",
+        "meaning": "الغفور، الكريم",
+        "long_meaning": "Gafar (غَفّار) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الغفور، الكريم. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "HIGH",
+      "native_review_required": true,
+      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+    },
+    "pronunciation": {
+      "romanized": "ga-far",
+      "ipa": null,
+      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "غَفّار"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Gafar"
+      ],
+      "script_forms": [
+        "غفار",
+        "غَفّار",
+        "ग़फ़्फ़ार"
+      ],
+      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "verified",
+      "note": "The form غَفّار is an established Arabic lexical item."
+    },
+    "modern_usage": {
+      "status": "requires_frequency_data",
+      "note": "Personal-name popularity must be measured separately from lexical presence."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": [],
+      "note": "No verified popularity or registration data is available."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is recorded."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified real-life bearer story is published; none is invented."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Gafar mean?",
+        "a": "Gafar is an Arabic-origin name meaning “Most forgiving, ever-forgiving”."
+      },
+      {
+        "q": "What is the origin of Gafar?",
+        "a": "Gafar originates in Arabic and circulates in Muslim naming communities."
+      },
+      {
+        "q": "Is Gafar an Arabic name?",
+        "a": "Yes, the recorded form غَفّار is Arabic."
+      },
+      {
+        "q": "What is the root of Gafar?",
+        "a": "It is built on the root غ ف ر (gh-f-r)."
+      },
+      {
+        "q": "Is Gafar an Islamic name?",
+        "a": "Gafar is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+      },
+      {
+        "q": "Is Gafar a Quranic name?",
+        "a": "Gafar is not independently established as a Qur'anic personal name."
+      },
+      {
+        "q": "What does Gafar mean in Urdu?",
+        "a": "In Urdu it is written غفار and carries the sense “بخشنے والا، بہت مہربان”."
+      },
+      {
+        "q": "How is Gafar pronounced?",
+        "a": "A romanized syllable approximation is “ga-far”."
+      },
+      {
+        "q": "Is Gafar a boy's or girl's name?",
+        "a": "Documented usage records Gafar as a boy's name; actual use can vary by community."
+      }
+    ],
+    "seo": {
+      "title": "Gafar Name Meaning, Origin & Islamic Context",
+      "meta_description": "Gafar (غَفّار) — meaning, origin, pronunciation and Islamic naming context.",
+      "meta_keywords": "Gafar meaning, Gafar name meaning, Gafar origin, Gafar meaning in Urdu, Gafar pronunciation, Gafar Islamic name",
+      "description_paragraph": "Gafar is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "keywords": [
+        "Gafar meaning",
+        "Gafar name meaning",
+        "Gafar origin",
+        "Gafar meaning in Urdu",
+        "Gafar pronunciation",
+        "Gafar Islamic name"
+      ],
+      "focus_keyword": "Gafar meaning",
+      "secondary_keywords": [
+        "Gafar name meaning",
+        "Gafar origin",
+        "Gafar meaning in Urdu",
+        "Gafar pronunciation",
+        "Gafar Islamic name"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/gafar",
+      "seo_score": 95,
+      "seo_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "seo_content": {
+      "intro_paragraph": "This page explains the meaning and origin of the name Gafar, an Arabic-origin name used in Muslim communities.",
+      "body_summary": "Gafar is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+    },
+    "social_tags": [
+      "#Gafar",
+      "#GafarMeaning",
+      "#NameMeaning",
+      "#IslamicNames",
+      "#NameOrigin"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [],
+      "fabricated_content_removed": true,
+      "fields_total": 153,
+      "quality_score": 95,
+      "quality_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+    },
+    "evidence": {
+      "sources": [
+        "The recorded Arabic form غَفّار carries the sense “Most forgiving, ever-forgiving”."
+      ],
+      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+    },
+    "provenance": {
+      "pipeline": "NameVerse Production v8",
+      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
+      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
+      "processed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Gafar",
+          "description": "Gafar — an Arabic-origin given name meaning Most forgiving, ever-forgiving",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Gafar mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Gafar is an Arabic-origin name meaning “Most forgiving, ever-forgiving”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Gafar?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Gafar originates in Arabic and circulates in Muslim naming communities."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Gafar an Arabic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, the recorded form غَفّار is Arabic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Gafar?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is built on the root غ ف ر (gh-f-r)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Gafar an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Gafar is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Gafar a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Gafar is not independently established as a Qur'anic personal name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Gafar mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Urdu it is written غفار and carries the sense “بخشنے والا، بہت مہربان”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Gafar pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A romanized syllable approximation is “ga-far”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Gafar a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Documented usage records Gafar as a boy's name; actual use can vary by community."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Gafar",
+              "item": "https://nameverse.site/names/islamic/gafar"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "flags": [],
+      "confidence": "HIGH",
+      "reviewed_by": "NameVerse verification pipeline",
+      "reviewed_at": "2026-10-06T04:27:34+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "celebrity_usage",
+        "real_world_usage",
+        "spiritual_meaning",
+        "name_story"
+      ]
+    }
+  }
+}

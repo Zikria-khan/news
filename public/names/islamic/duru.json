@@ -1,0 +1,540 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Duru",
+    "slug": "duru",
+    "content_revision": "v8",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Duru",
+      "normalized_name": "duru",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "HIGH",
+      "gender_note": "Gender follows documented naming usage, not an inference from the word's meaning; usage can vary by community.",
+      "alternate_spellings": [
+        "Duru",
+        "duru"
+      ],
+      "name_status": "attested"
+    },
+    "core_meaning": {
+      "short_meaning": "Clear, lucid, unclouded; by extension, pure.",
+      "primary_meaning": "Duru is a Turkish word-name meaning clear or lucid, especially of something limpid or unclouded; 'pure' is a related name gloss.",
+      "literal_meaning": "The name is the Turkish adjective duru used as a given name; no Arabic root or Qur'anic meaning is claimed.",
+      "meaning_explanation": "Behind the Name records Duru as a Turkish feminine name meaning 'clear, lucid'. Popular name references also give 'pure' or 'unclouded'; those are kept as associated glosses rather than a religious interpretation.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Turkish",
+      "lexical_form": "Duru",
+      "transliteration": "duru",
+      "root": "",
+      "root_transliteration": "",
+      "morphology": "Turkish adjective used as a feminine given name; not an Arabic derivation.",
+      "feminine_form": null,
+      "etymological_meaning": "Clear, lucid, unclouded; by extension, pure.",
+      "root_family": [],
+      "etymology_explanation": "Behind the Name records Duru as a Turkish feminine name meaning 'clear, lucid'. Popular name references also give 'pure' or 'unclouded'; those are kept as associated glosses rather than a religious interpretation.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "No derivation beyond the documented lexical analysis is asserted; unsupported name-site etymologies are not adopted."
+    },
+    "language": {
+      "primary": "Turkish",
+      "associated_languages": [
+        "Turkish"
+      ],
+      "language_notes": {
+        "primary": "Duru is recorded as a Turkish name in that language's own script/orthography.",
+        "usage": "Arabic, Urdu, Persian, Pashto, and Hindi forms in this record are transliterations or draft glosses, not evidence of another origin."
+      },
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Turkish",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "The recorded form and meaning are associated with Turkish. The evidence distinguishes linguistic origin from religious/cultural use.",
+      "cultural_transmission": [
+        "Turkish-speaking communities"
+      ]
+    },
+    "religion": {
+      "primary_association": "Turkish cultural usage; not specifically religious",
+      "religion_confidence": "MEDIUM",
+      "religious_status": "A Turkish-language name, not a Qur'anic or doctrinal term.",
+      "religious_explanation": "The name's origin and meaning are Turkish. Its use by Muslim families is cultural and should not be presented as a scriptural association or religious ruling.",
+      "quranic_status": {
+        "is_quranic": false,
+        "status": "not_quranic_turkish_name",
+        "note": "Duru is a Turkish lexical name; no Qur'anic occurrence or Islamic doctrinal meaning is claimed."
+      },
+      "hadith_status": {
+        "status": "not_verified",
+        "note": "No specific authentic hadith report establishing this name or a special virtue is cited; none is invented."
+      },
+      "prophetic_status": {
+        "status": "not_verified",
+        "note": "No verified source establishing this as a prophet's personal name is cited."
+      },
+      "companion_status": {
+        "status": "not_verified",
+        "note": "No companion attribution is asserted without a verified source."
+      }
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Turkish cultural usage; not specifically religious",
+      "interpretation": "Clarity/purity are dictionary associations, not a claim about a bearer’s personality.",
+      "important_distinction": "This descriptive record is not a religious ruling. Muslim cultural use, linguistic origin, and direct Qur'anic attestation are separate claims."
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Turkish",
+        "Türkiye"
+      ],
+      "cultural_meaning": "A feminine Turkish given name and an everyday Turkish adjective; recent Turkish birth lists document its use.",
+      "personal_name_interpretation": "Clarity/purity are dictionary associations, not a claim about a bearer’s personality.",
+      "interpretation_warning": "A symbolic naming preference is distinct from dictionary meaning and is not a claim about a bearer's personality or future."
+    },
+    "semantic_field": {
+      "primary_semantic_domain": "Clarity, lucidity, purity",
+      "related_concepts": [
+        "clear",
+        "lucid",
+        "unclouded",
+        "pure"
+      ]
+    },
+    "spiritual_meaning": {
+      "status": "not_asserted",
+      "render": false,
+      "meaning": null,
+      "basis": null,
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No verified basis links this name to specific personality traits."
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No evidence-based hidden personality traits are asserted."
+    },
+    "numerology": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "life_path_number": null,
+      "ruling_planet": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "meaning": null,
+      "note": "Numerology is not evidence-based and is not supplied in this record."
+    },
+    "lucky_attributes": {
+      "status": "not_verified",
+      "render": false,
+      "lucky_number": null,
+      "lucky_day": null,
+      "lucky_colors": [],
+      "lucky_stone": null,
+      "ruling_planet": null
+    },
+    "translations": {
+      "english": {
+        "name": "Duru",
+        "script": "Duru",
+        "meaning": "Clear, lucid, unclouded; by extension, pure.",
+        "long_meaning": "Duru is a Turkish word-name meaning clear or lucid, especially of something limpid or unclouded; 'pure' is a related name gloss."
+      },
+      "urdu": {
+        "name": "دورو",
+        "script": "دورو",
+        "meaning": "صاف، شفاف، پاکیزہ",
+        "long_meaning": "دورو کے لغوی معنی صاف، شفاف، پاکیزہ ہیں۔ یہ ترجمہ ابتدائی مسودہ ہے اور مقامی لسانی جائزے کا محتاج ہے۔"
+      },
+      "persian": {
+        "name": "دورو",
+        "script": "دورو",
+        "meaning": "شفاف، زلال، پاک",
+        "long_meaning": "معنای لغوی دورو در این مدخل «شفاف، زلال، پاک» است؛ این برگردان پیش‌نویس است و به بازبینی بومی نیاز دارد."
+      },
+      "hindi": {
+        "name": "दुरु",
+        "script": "दुरु",
+        "meaning": "स्वच्छ, निर्मल, साफ़",
+        "long_meaning": "दुरु का शब्दार्थ यहाँ स्वच्छ, निर्मल, साफ़ दिया गया है। यह अनुवाद प्रारूप है और स्थानीय भाषायी समीक्षा आवश्यक है।"
+      },
+      "pashto": {
+        "name": "دورو",
+        "script": "دورو",
+        "meaning": "روڼ، صاف، پاک",
+        "long_meaning": "د دورو لغوي مانا «روڼ، صاف، پاک» ده؛ دا د ژباړې مسوده ده او د اصلي ژبې ویونکي بیاکتنې ته اړتیا لري.",
+        "native_review_required": true
+      },
+      "arabic": {
+        "name": "دورو",
+        "script": "دورو",
+        "meaning": "صافٍ، واضح، نقيّ",
+        "long_meaning": "المعنى اللغوي لـدورو في هذا السجل هو «صافٍ، واضح، نقيّ»؛ وهذه صياغة أولية تحتاج إلى مراجعة لغوية.",
+        "native_review_required": true
+      }
+    },
+    "translation_quality": {
+      "strategy": "source_language_gloss_with_localized_draft",
+      "confidence": "MEDIUM",
+      "native_review_required": true,
+      "note": "The source-language core gloss is evidence-backed. All non-English localized meanings and script renderings are editorial drafts and require native-speaker review; transliteration does not establish a separate origin."
+    },
+    "pronunciation": {
+      "romanized": "doo-roo (approximate Turkish guide)",
+      "ipa": null,
+      "approximation_note": "Approximate pronunciation; no IPA is asserted.",
+      "common_mispronunciation": null,
+      "scripts": {
+        "arabic": "دورو"
+      }
+    },
+    "name_variants": {
+      "romanized_variants": [],
+      "script_forms": [
+        "Duru",
+        "दुरु"
+      ],
+      "variant_notes": "Alternate spellings reflect orthographic or transliteration variants; they do not establish different etymologies or pronunciations.",
+      "do_not_merge_with": []
+    },
+    "related_names": [],
+    "historical_context": {
+      "status": "modern_turkish_word_name",
+      "note": "The given-name use is modern Turkish usage; no ancient or Qur'anic history is asserted."
+    },
+    "modern_usage": {
+      "status": "source_scoped_usage_data_available",
+      "note": "A secondary report reproducing Türkiye's 2024 newborn ranking places Duru tenth among girls; a separate U.S. SSA-derived 2025 display records 13 births. The figures have different geographies and methods."
+    },
+    "popularity": {
+      "status": "source_scoped_metrics_available",
+      "render": true,
+      "score": null,
+      "by_region": [
+        {
+          "region": "Türkiye",
+          "measure": "reported official newborn-name ranking and count",
+          "year": 2024,
+          "category": "girls",
+          "rank": 10,
+          "births": 3389,
+          "relative_interest_percent": null,
+          "observation_period": null,
+          "source_title": "Popular baby names in Turkey, 2024",
+          "source": "https://www.nancy.cc/2025/07/31/popular-baby-names-turkey-2024/",
+          "limitation": "Secondary reproduction of Türkiye's 2024 official ranking; scoped to that country and year."
+        },
+        {
+          "region": "United States",
+          "measure": "SSA newborn-name rank and births, as displayed by Mom Loves Best",
+          "year": 2025,
+          "category": "girls",
+          "rank": 7998,
+          "births": 13,
+          "relative_interest_percent": null,
+          "observation_period": null,
+          "source_title": "100 Beautiful Turkish Girl Names and What They Mean",
+          "source": "https://momlovesbest.com/turkish-girl-names",
+          "limitation": "U.S. births only; secondary display of SSA data, not global popularity."
+        }
+      ],
+      "note": "The Turkish figure is a 2024 newborn ranking reprinted from official lists by a secondary source; the U.S. figure is SSA-derived 2025 data. They are country- and year-specific and must not be combined into a global popularity score."
+    },
+    "celebrity_usage": {
+      "status": "not_verified",
+      "render": false,
+      "items": [],
+      "note": "No verified celebrity usage is included."
+    },
+    "real_world_usage": {
+      "status": "not_verified",
+      "render": false,
+      "note": "No individual bearer story is included without a verified source."
+    },
+    "name_story": {
+      "status": "none",
+      "render": false,
+      "story": ""
+    },
+    "faq": [
+      {
+        "q": "What does Duru mean?",
+        "a": "Duru is a Turkish word-name meaning clear or lucid, especially of something limpid or unclouded; 'pure' is a related name gloss."
+      },
+      {
+        "q": "What is the origin of Duru?",
+        "a": "Behind the Name records Duru as a Turkish feminine name meaning 'clear, lucid'. Popular name references also give 'pure' or 'unclouded'; those are kept as associated glosses rather than a religious interpretation."
+      },
+      {
+        "q": "Is Duru a Turkish name?",
+        "a": "Yes. The recorded language/origin is Turkish; the source form is Duru."
+      },
+      {
+        "q": "How is Duru written in Turkish?",
+        "a": "Duru"
+      },
+      {
+        "q": "Is Duru a Quranic name?",
+        "a": "It is not claimed as a Qur'anic personal name. Duru is a Turkish lexical name; no Qur'anic occurrence or Islamic doctrinal meaning is claimed."
+      },
+      {
+        "q": "Is Duru an Islamic name?",
+        "a": "A Turkish-language name, not a Qur'anic or doctrinal term. The name's origin and meaning are Turkish. Its use by Muslim families is cultural and should not be presented as a scriptural association or religious ruling."
+      },
+      {
+        "q": "How is Duru pronounced?",
+        "a": "An approximate romanized guide is doo-roo. Approximate pronunciation; no IPA is asserted."
+      },
+      {
+        "q": "Is Duru a boy's or girl's name?",
+        "a": "The documented naming sources record Duru as a female name; actual use can vary by language and community."
+      },
+      {
+        "q": "How popular is Duru?",
+        "a": "Available scoped measure(s): Türkiye, 2024: #10 among girls, 3,389 births (Popular baby names in Turkey, 2024); United States, 2025: #7998 among girls, 13 births (100 Beautiful Turkish Girl Names and What They Mean). The Turkish figure is a 2024 newborn ranking reprinted from official lists by a secondary source; the U.S. figure is SSA-derived 2025 data. They are country- and year-specific and must not be combined into a global popularity score."
+      },
+      {
+        "q": "What does Duru mean in Urdu?",
+        "a": "The draft Urdu rendering is دورو; its gloss is صاف، شفاف، پاکیزہ. Localized translations have not had native-speaker review."
+      },
+      {
+        "q": "What is the root of Duru?",
+        "a": "No triliteral Arabic root is asserted for this name."
+      }
+    ],
+    "seo": {
+      "title": "Duru Name Meaning, Origin & Usage",
+      "meta_description": "Explore the sourced meaning, origin, pronunciation, script, and regional usage evidence for Duru.",
+      "meta_keywords": "Duru meaning, Duru name meaning, Duru origin, Duru pronunciation, Duru name in Urdu",
+      "description_paragraph": "Duru is a Turkish-origin given name. This entry separates its lexical meaning, cultural and scriptural context, and source-scoped usage evidence.",
+      "keywords": [
+        "Duru meaning",
+        "Duru name meaning",
+        "Duru origin",
+        "Duru pronunciation",
+        "Duru name in Urdu"
+      ],
+      "focus_keyword": "Duru meaning",
+      "secondary_keywords": [
+        "Duru name meaning",
+        "Duru origin",
+        "Duru pronunciation",
+        "Duru name in Urdu"
+      ],
+      "canonical_url": "https://nameverse.site/names/islamic/duru",
+      "seo_score": null,
+      "seo_score_basis": "No composite SEO score is assigned; editorial and evidence quality are recorded separately."
+    },
+    "seo_content": {
+      "intro_paragraph": "Duru is a Turkish-origin given name. The entry explains its documented meaning and distinguishes linguistic origin, religious/scriptural status, and regional usage.",
+      "body_summary": "Duru is a Turkish word-name meaning clear or lucid, especially of something limpid or unclouded; 'pure' is a related name gloss. The Turkish figure is a 2024 newborn ranking reprinted from official lists by a secondary source; the U.S. figure is SSA-derived 2025 data. They are country- and year-specific and must not be combined into a global popularity score."
+    },
+    "social_tags": [
+      "#Duru",
+      "#DuruMeaning",
+      "#NameMeaning",
+      "#TurkishNames"
+    ],
+    "content_quality": {
+      "tier1_verified": true,
+      "authenticity_flags": [
+        "Turkish_origin_not_Quranic_or_religiously_specific",
+        "localized_translations_require_native_review",
+        "popularity_metrics_are_source_and_region_scoped"
+      ],
+      "fabricated_content_removed": true,
+      "fields_total": 317,
+      "quality_score": null,
+      "quality_score_basis": "No composite quality score is asserted; source support, limitations, scriptural status, and review flags are explicit."
+    },
+    "evidence": {
+      "sources": [
+        "Behind the Name, Duru — Turkish feminine name and the meaning 'clear, lucid'. Source: https://www.behindthename.com/name/duru Limitation: Name reference; not a frequency source.",
+        "Popular baby names in Turkey, 2024 — Reproduces the 2024 Turkish newborn list with Duru at #10 and 3,389 births. Source: https://www.nancy.cc/2025/07/31/popular-baby-names-turkey-2024/ Limitation: Secondary source reproducing official data; country- and year-specific.",
+        "Mom Loves Best, Turkish girl names — Reports Duru's 2025 U.S. SSA-derived rank 7,998 and 13 births. Source: https://momlovesbest.com/turkish-girl-names Limitation: Secondary display of U.S. births; not global prevalence."
+      ],
+      "verification_method": "The lexical/scriptural or language claim is separated from name-site glosses; name usage and popularity are checked separately. Every frequency figure retains its source, region, year, category, metric, and limitation. Candidate spellings, Romanized variants, source-script forms, and localized script renderings are checked against the existing dataset. Non-English glosses are drafts requiring native-speaker review."
+    },
+    "provenance": {
+      "pipeline": "NameVerse super-2.0 demand-informed batch builder",
+      "methodology": "Curated evidence manifest -> template-matched record build -> alias/script collision audit -> schema and integrity validation",
+      "upgraded_from": "New record generated from the current super-2.0 architecture; not converted from a legacy record.",
+      "processed_at": "2026-10-13T00:00:00+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Duru",
+          "description": "Duru — a Turkish-origin given name: Clear, lucid, unclouded; by extension, pure.",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Islamic Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Duru mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Duru is a Turkish word-name meaning clear or lucid, especially of something limpid or unclouded; 'pure' is a related name gloss."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Duru?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Behind the Name records Duru as a Turkish feminine name meaning 'clear, lucid'. Popular name references also give 'pure' or 'unclouded'; those are kept as associated glosses rather than a religious interpretation."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Duru a Turkish name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. The recorded language/origin is Turkish; the source form is Duru."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Duru written in Turkish?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Duru"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Duru a Quranic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It is not claimed as a Qur'anic personal name. Duru is a Turkish lexical name; no Qur'anic occurrence or Islamic doctrinal meaning is claimed."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Duru an Islamic name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A Turkish-language name, not a Qur'anic or doctrinal term. The name's origin and meaning are Turkish. Its use by Muslim families is cultural and should not be presented as a scriptural association or religious ruling."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Duru pronounced?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "An approximate romanized guide is doo-roo. Approximate pronunciation; no IPA is asserted."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Duru a boy's or girl's name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The documented naming sources record Duru as a female name; actual use can vary by language and community."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How popular is Duru?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Available scoped measure(s): Türkiye, 2024: #10 among girls, 3,389 births (Popular baby names in Turkey, 2024); United States, 2025: #7998 among girls, 13 births (100 Beautiful Turkish Girl Names and What They Mean). The Turkish figure is a 2024 newborn ranking reprinted from official lists by a secondary source; the U.S. figure is SSA-derived 2025 data. They are country- and year-specific and must not be combined into a global popularity score."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What does Duru mean in Urdu?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The draft Urdu rendering is دورو; its gloss is صاف، شفاف، پاکیزہ. Localized translations have not had native-speaker review."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Duru?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No triliteral Arabic root is asserted for this name."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://nameverse.site/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Islamic Names",
+              "item": "https://nameverse.site/names/islamic"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Duru",
+              "item": "https://nameverse.site/names/islamic/duru"
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": true,
+      "flags": [
+        "Turkish_origin_not_Quranic_or_religiously_specific",
+        "localized_translations_require_native_review",
+        "popularity_metrics_are_source_and_region_scoped"
+      ],
+      "confidence": "HIGH",
+      "reviewed_by": "Automated source-aware build and validation; not a human or native-speaker review",
+      "reviewed_at": "2026-10-13T00:00:00+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": false,
+      "hide_unverified": true,
+      "single_definition_source": "core_meaning.primary_meaning",
+      "non_rendered_definition_fields": [
+        "core_meaning.short_meaning",
+        "core_meaning.literal_meaning",
+        "semantic_field",
+        "etymology.etymological_meaning"
+      ],
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "numerology",
+        "lucky_attributes",
+        "spiritual_meaning",
+        "celebrity_usage",
+        "real_world_usage",
+        "name_story"
+      ]
+    }
+  }
+}
