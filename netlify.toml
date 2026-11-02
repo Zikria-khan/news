@@ -26,7 +26,10 @@
   # No `publish` key: the Essential Next.js plugin sets it.
 
 [build.environment]
-  NODE_VERSION = "20"
+  # @netlify/plugin-nextjs requires Node 22. Pinning 20 made Netlify run the
+  # plugin under a different Node than the build (and emit a warning on every
+  # deploy). Use the same major version for both.
+  NODE_VERSION = "22"
   # Telemetry writes to disk and phones home on every build. Off.
   NEXT_TELEMETRY_DISABLED = "1"
   # Cap build workers. Each worker loads the 2.4 MB manifest, so on a many-core

@@ -26,9 +26,9 @@ The only things Netlify bills for are build minutes and bandwidth.
 ### `netlify.toml` (new)
 Build config, caching headers, security headers, and the two trivial redirects.
 
-- `NODE_VERSION = 20`, `NEXT_TELEMETRY_DISABLED = 1` (no telemetry writes or network calls during the build)
+- `NODE_VERSION = 22` (required by `@netlify/plugin-nextjs`), `NEXT_TELEMETRY_DISABLED = 1` (no telemetry writes or network calls during the build)
 - `NEXT_BUILD_CPUS = 4` — each worker loads the 2.4 MB manifest, so uncapped workers multiply memory and can OOM
-- `SKIP_CONTENT_VERIFIERS = 1` — see below
+- Content verifiers run on every deploy via `prebuild` (no skip flag is set)
 - `[[plugins]] package = "@netlify/plugin-nextjs"` — the official runtime; it sets `publish` itself, so `netlify.toml` deliberately has no `publish` key
 
 ### `middleware.js` — deleted
@@ -53,10 +53,8 @@ Safety:
 - refuses to run unless `.next/prerender-manifest.json` exists, so it can't delete the dataset after a failed build
 - the dataset stays in git — only the deployed payload is trimmed
 
-### Verifiers now skippable
-`verify-content.mjs` and `verify-uniqueness.mjs` cost ~0.8 s and ~10.7 s per build. They are development safety nets, not deploy gates — the gate that protects against the real failure mode is `verify-static.mjs`, which is never skipped.
-
-Both exit early when `SKIP_CONTENT_VERIFIERS=1` (set in `netlify.toml`). Run them locally with `npm run verify`.
+### Verifiers
+`verify-content.mjs` and `verify-uniqueness.mjs` cost ~0.8 s and ~17 s per build and gate every production deploy through `prebuild`. `verify-static.mjs` runs after `next build` and is never skipped. All three also run locally with `npm run verify` / `npm run build`. `SKIP_CONTENT_VERIFIERS=1` is an emergency local-only escape hatch; it is deliberately not set in `netlify.toml`.
 
 ### `public/nameverse_logo_emblem.png` — deleted
 223 KB, referenced nowhere. The 18 KB `.webp` is what the code uses.
