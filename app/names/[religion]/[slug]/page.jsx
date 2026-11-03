@@ -871,6 +871,23 @@ export default async function NameDetailPage({ params }) {
           </section>
         )}
 
+        {/* ── SOURCES (records rewritten against cited references) ── */}
+        {n.provenance.sources.length > 0 && (
+          <section className="card p-6 sm:p-8">
+            <span className="eyebrow">Sources</span>
+            <h2 className="section-title mt-1">Sources for {n.name}</h2>
+            <ol className="mt-4 list-decimal space-y-2 pl-5 text-sm text-nv-text-secondary">
+              {n.provenance.sources.map((s) => (
+                <li key={s.url}>
+                  <a href={s.url} target="_blank" rel="noopener noreferrer" className="font-semibold text-nv-accent hover:underline">
+                    {s.title}
+                  </a>
+                </li>
+              ))}
+            </ol>
+          </section>
+        )}
+
         {/* ── SIBLING NAVIGATION (upward + lateral internal links) ── */}
         <nav className="flex flex-wrap justify-center gap-2 pt-6" aria-label="Related pages">
           <Link href={`/names/${finalReligion}/letter/${letterSegment}`} className="btn-ghost text-xs">
