@@ -4,7 +4,7 @@
   "data": {
     "name": "Aisha",
     "slug": "aisha",
-    "content_revision": "v8",
+    "content_revision": "v9",
     "page_type": "name_meaning",
     "identity": {
       "display_name": "Aisha",
@@ -12,335 +12,311 @@
       "name_type": "given_name",
       "gender": "Female",
       "gender_confidence": "HIGH",
-      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "gender_note": "A feminine given name.",
       "alternate_spellings": [
-        "Aisha",
-        "aisha"
+        "Ayesha",
+        "Aishah",
+        "Ayşe",
+        "Aisyah",
+        "Aïcha",
+        "Aysha"
       ],
-      "name_status": "attested"
+      "name_status": "attested",
+      "search_variants": [
+        "aisha",
+        "aishah",
+        "aisyah",
+        "ayesha",
+        "aysha",
+        "ayşe",
+        "aïcha"
+      ]
     },
     "core_meaning": {
-      "short_meaning": "Alive, living",
-      "primary_meaning": "Aisha corresponds to the Arabic form عائشة and is glossed in this record as “Alive, living.” The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
-      "literal_meaning": "Alive, living",
-      "meaning_explanation": "Aisha corresponds to the Arabic form عائشة (ع ي ش). Its core sense is alive, living. Variant romanization of عائشة. The source record left this name with no origin and no script form.",
+      "short_meaning": "Living, alive",
+      "primary_meaning": "Aisha (Arabic عائشة, ʿĀʾishah) is an Arabic female name meaning “living” or “alive”. It is the name of Aisha bint Abi Bakr, the third wife of the Prophet Muhammad and one of the most important narrators of hadith, and it is very popular among Muslim women.",
+      "literal_meaning": "Living, alive",
+      "meaning_explanation": "ʿĀʾishah is the feminine active participle of the Arabic verb ʿāša, “to live”, so it literally means “she who lives” — “living, alive”.",
       "meaning_confidence": "HIGH"
     },
     "etymology": {
       "primary_language": "Arabic",
-      "lexical_form": "عائشة",
-      "transliteration": "aisha",
-      "root": "",
-      "root_transliteration": "",
-      "morphology": "Simple lexical item used as a name.",
-      "feminine_form": null,
-      "etymological_meaning": "The Arabic word عائشة",
-      "root_family": [],
-      "etymology_explanation": "The form عائشة is an established Arabic lexical item used unchanged as a given name.",
+      "lexical_form": "عَائِشَة",
+      "transliteration": "ʿĀʾishah",
+      "root": "ع ي ش",
+      "root_transliteration": "ʿ-y-š",
+      "morphology": "Feminine active participle (fāʿila) of ʿāša, “to live”.",
+      "etymological_meaning": [
+        "living",
+        "alive"
+      ],
+      "etymology_explanation": "From the root ع ي ش (ʿ-y-š), “to live”.",
       "etymology_confidence": "HIGH",
-      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+      "false_etymology_warning": ""
     },
     "language": {
       "primary": "Arabic",
       "associated_languages": [
-        "Arabic"
+        "Arabic",
+        "Urdu",
+        "Turkish",
+        "Persian",
+        "Swahili",
+        "Hausa"
       ],
-      "language_notes": {
-        "primary": "Arabic is the language of the recorded form عائشة.",
-        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
-      },
       "language_confidence": "HIGH"
     },
     "origin": {
       "primary_origin": "Arabic",
       "origin_type": "linguistic",
       "origin_confidence": "HIGH",
-      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "origin_explanation": "Arabic; spread across the Muslim world in honour of Aisha bint Abi Bakr, with many local spellings (Ayesha, Ayşe, Aisyah, Aïcha).",
       "cultural_transmission": [
-        "Arabic",
-        "Muslim South Asia",
-        "Urdu-speaking communities"
+        "Arab world",
+        "South Asia (Ayesha)",
+        "Turkey (Ayşe)",
+        "Indonesia and Malaysia (Aisyah)",
+        "West Africa and the Maghreb (Aïcha)"
       ]
     },
     "religion": {
-      "primary_association": "Islamic-cultural usage",
-      "religion_confidence": "MEDIUM",
-      "religious_status": "Culturally used; not inherently a doctrinal term",
-      "religious_explanation": "Aisha is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "primary_association": "Islamic — Aisha, wife of the Prophet",
+      "religion_confidence": "HIGH",
+      "religious_status": "Name of a wife of the Prophet Muhammad (a Mother of the Believers)",
+      "religious_explanation": "Aisha bint Abi Bakr (c. 614–678) was the third and youngest wife of the Prophet Muhammad and daughter of Abu Bakr, the first caliph. She is credited with narrating over 2,000 hadiths and remained active in the Muslim community for 44 years after the Prophet's death.",
       "quranic_status": {
-        "is_quranic": false,
-        "status": "not_verified",
-        "note": "Aisha is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
-      },
-      "hadith_status": {
-        "status": "not_verified",
-        "note": "No specific authentic hadith report about this name is cited; none is invented."
+        "is_quranic_name": false,
+        "quranic_reference": "",
+        "note": ""
       },
       "prophetic_status": {
-        "status": "not_verified",
-        "note": "No verified source establishes Aisha as the name of a prophet."
+        "prophet_association": true,
+        "reference": "Aisha bint Abi Bakr, wife of the Prophet Muhammad"
       },
       "companion_status": {
-        "status": "verified",
-        "note": "Aisha is the name of Aisha bint Abi Bakr, a wife of the Prophet."
+        "known_companion_association": false,
+        "reference": ""
       }
-    },
-    "islamic_naming_context": {
-      "can_be_used_by_muslims": true,
-      "context": "Muslim naming culture in South Asia and the Persianate world",
-      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
-      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
     },
     "cultural_context": {
       "primary_cultural_associations": [
-        "Arabic",
-        "Muslim South Asia"
+        "Arab",
+        "South Asian",
+        "Turkish",
+        "African",
+        "Malay"
       ],
-      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
-      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
-      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
-    },
-    "semantic_field": {
-      "primary_semantic_domain": "Alive, living",
-      "related_concepts": [
-        "Alive, living"
-      ]
+      "cultural_meaning": "In Sunni tradition Aisha is remembered as intelligent and scholarly, praised by early scholars for her knowledge of poetry, medicine and jurisprudence.",
+      "impact": "The spelling Ayesha was briefly popular among English speakers after it appeared in H. Rider Haggard's novel She."
     },
     "spiritual_meaning": {
       "status": "interpretive",
-      "render": true,
-      "meaning": "Families may read the sense “Alive, living” as a hopeful quality for the child.",
-      "basis": "Lexical meaning: Alive, living.",
+      "render": false,
+      "meaning": "",
       "is_direct_religious_definition": false
     },
     "personality_associations": {
       "status": "not_verified",
-      "render": false,
-      "note": "No verified basis links this name to specific personality traits."
+      "render": false
     },
     "hidden_personality_traits": {
       "status": "not_verified",
-      "render": false,
-      "note": "No verified basis."
-    },
-    "numerology": {
-      "status": "interpretive",
-      "render": true,
-      "lucky_number": 2,
-      "life_path_number": 2,
-      "ruling_planet": "Moon",
-      "lucky_day": "Monday",
-      "lucky_colors": [
-        "White",
-        "Silver"
-      ],
-      "lucky_stone": "Pearl",
-      "meaning": "In Pythagorean numerology the letters of Aisha total 2, associated with cooperation, balance and sensitivity. This is an interpretive tradition, not a factual claim.",
-      "note": "Numerology is an optional interpretive layer."
-    },
-    "lucky_attributes": {
-      "status": "interpretive",
-      "render": true,
-      "lucky_number": 2,
-      "lucky_day": "Monday",
-      "lucky_colors": [
-        "White",
-        "Silver"
-      ],
-      "lucky_stone": "Pearl",
-      "ruling_planet": "Moon"
+      "render": false
     },
     "translations": {
       "english": {
         "name": "Aisha",
         "script": "Aisha",
-        "meaning": "Alive, living",
-        "long_meaning": "Aisha is an Arabic-origin given name; in Arabic the word means “Alive, living”."
-      },
-      "urdu": {
-        "name": "عائشہ",
-        "script": "عائشہ",
-        "meaning": "زندہ، جیتی",
-        "long_meaning": "Aisha (عائشہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم زندہ، جیتی ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
-      },
-      "persian": {
-        "name": "Aisha",
-        "script": "Aisha",
-        "meaning": "Alive, living",
-        "long_meaning": "Alive, living"
-      },
-      "hindi": {
-        "name": "आइशा",
-        "script": "आइशा",
-        "meaning": "जीवित, जीवंत",
-        "long_meaning": "Aisha (आइशा) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ जीवित, जीवंत है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
-      },
-      "pashto": {
-        "name": "عايشه",
-        "script": "عايشه",
-        "meaning": "ژوندې، پاتې",
-        "long_meaning": "Aisha (عايشه) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې ژوندې، پاتې ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
-        "native_review_required": true
+        "meaning": "Living, alive",
+        "long_meaning": ""
       },
       "arabic": {
         "name": "عائشة",
         "script": "عائشة",
-        "meaning": "عائشة، حية",
-        "long_meaning": "Aisha (عائشة) اسم مأخوذ من اللغة العربية، ومعناه الأساسي عائشة، حية. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
-        "native_review_required": true
+        "meaning": "الحيّة، التي تعيش",
+        "long_meaning": ""
+      },
+      "urdu": {
+        "name": "عائشہ",
+        "script": "عائشہ",
+        "meaning": "زندہ، جیتی جاگتی",
+        "long_meaning": ""
+      },
+      "persian": {
+        "name": "عایشه",
+        "script": "عایشه",
+        "meaning": "زنده",
+        "long_meaning": ""
+      },
+      "hindi": {
+        "name": "आयशा",
+        "script": "आयशा",
+        "meaning": "जीवित, जीवंत",
+        "long_meaning": ""
       }
     },
     "translation_quality": {
       "strategy": "semantic_translation",
-      "confidence": "HIGH",
-      "native_review_required": true,
-      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+      "confidence": "MEDIUM",
+      "native_review_required": true
     },
     "pronunciation": {
-      "romanized": "ais-ha",
-      "ipa": null,
-      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
-      "common_mispronunciation": null,
-      "scripts": {
-        "arabic": "عائشة"
-      }
+      "english": "AH-ee-sha / eye-EE-sha",
+      "ipa": "/ˈʕaːʔiʃa/",
+      "note": "In South Asia usually AA-ee-sha; Turkish Ayşe is AY-sheh."
     },
     "name_variants": {
       "romanized_variants": [
-        "Aisha"
+        "Ayesha",
+        "Aishah",
+        "Ayşe",
+        "Aisyah",
+        "Aïcha",
+        "Aysha"
       ],
-      "script_forms": [
-        "عائشة",
-        "عائشہ",
-        "عايشه",
-        "आइशा"
+      "script_variants": [
+        "عائشة (Arabic)",
+        "عائشہ (Urdu)",
+        "आयशा (Devanagari)"
       ],
-      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
-      "do_not_merge_with": []
+      "variant_notes": "Ayesha (South Asia, English), Ayşe (Turkish), Aisyah (Indonesian/Malay), Aïcha (French/Maghreb)."
     },
-    "related_names": [],
+    "related_names": [
+      "Khadija",
+      "Fatima",
+      "Hafsa",
+      "Asma",
+      "Zainab"
+    ],
     "historical_context": {
       "status": "verified",
-      "note": "The form عائشة is an established Arabic lexical item."
+      "known_linguistic_history": [
+        "Aisha bint Abi Bakr lived c. 614–678 CE and was politically active during the Rashidun Caliphate.",
+        "The 1990 US Census ranked Aisha 2,020th of 4,275 female names."
+      ],
+      "historical_person_association": "Aisha bint Abi Bakr (c. 614–678), wife of the Prophet Muhammad.",
+      "historical_event_association": "",
+      "historical_claim_confidence": "HIGH"
     },
     "modern_usage": {
-      "status": "requires_frequency_data",
-      "note": "Personal-name popularity must be measured separately from lexical presence."
+      "status": "qualitative",
+      "modern_context": "Very popular among Muslim women; Ayesha and Aisha are both common spellings, and Ayşe is one of the most common Turkish female names."
     },
     "popularity": {
       "status": "not_measured",
       "render": false,
       "score": null,
-      "by_region": [],
-      "note": "No verified popularity or registration data is available."
+      "by_region": []
     },
     "celebrity_usage": {
-      "status": "not_verified",
-      "render": false,
-      "items": [],
-      "note": "No verified celebrity usage is recorded."
-    },
-    "real_world_usage": {
-      "status": "not_verified",
-      "render": false,
-      "note": "No verified real-life bearer story is published; none is invented."
-    },
-    "name_story": {
       "status": "none",
-      "render": false,
-      "story": ""
+      "verified": [],
+      "note": ""
     },
     "faq": [
       {
         "q": "What does Aisha mean?",
-        "a": "Aisha is an Arabic-origin name meaning “Alive, living”."
+        "a": "“Living” or “alive”, from the Arabic root ʿ-y-š, “to live”."
       },
       {
-        "q": "What is the origin of Aisha?",
-        "a": "Aisha originates in Arabic and circulates in Muslim naming communities."
+        "q": "Who was Aisha in Islam?",
+        "a": "Aisha bint Abi Bakr (c. 614–678), the third and youngest wife of the Prophet Muhammad and daughter of Abu Bakr."
       },
       {
-        "q": "Is Aisha an Arabic name?",
-        "a": "Yes, the recorded form عائشة is Arabic."
+        "q": "Why is Aisha important in hadith?",
+        "a": "She is credited with narrating over 2,000 hadiths on the Prophet's life, law, ritual and theology."
       },
       {
-        "q": "What is the root of Aisha?",
-        "a": "No root analysis is asserted for this spelling."
+        "q": "Aisha or Ayesha — which is correct?",
+        "a": "Both transliterate عائشة; Ayesha is common in South Asia and English."
       },
       {
-        "q": "Is Aisha an Islamic name?",
-        "a": "Aisha is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
-      },
-      {
-        "q": "Is Aisha a Quranic name?",
-        "a": "Aisha is not independently established as a Qur'anic personal name."
-      },
-      {
-        "q": "What does Aisha mean in Urdu?",
-        "a": "In Urdu it is written عائشہ and carries the sense “زندہ، جیتی”."
-      },
-      {
-        "q": "How is Aisha pronounced?",
-        "a": "A romanized syllable approximation is “ais-ha”."
-      },
-      {
-        "q": "Is Aisha a boy's or girl's name?",
-        "a": "Documented usage records Aisha as a girl's name; actual use can vary by community."
+        "q": "What is Aisha in Turkish?",
+        "a": "Ayşe."
       }
     ],
     "seo": {
-      "title": "Aisha Name Meaning, Origin & Islamic Context",
-      "meta_description": "Aisha (عائشة) — meaning, origin, pronunciation and Islamic naming context.",
-      "meta_keywords": "Aisha meaning, Aisha name meaning, Aisha origin, Aisha meaning in Urdu, Aisha pronunciation, Aisha Islamic name",
-      "description_paragraph": "Aisha is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "title": "Aisha Name Meaning: “Living, Alive” — Arabic Origin, Aisha bint Abi Bakr",
+      "meta_description": "Aisha (عائشة) is an Arabic girl's name meaning living or alive, the name of Aisha bint Abi Bakr, wife of the Prophet and narrator of 2,000+ hadiths. Variants Ayesha, Ayşe.",
       "keywords": [
         "Aisha meaning",
         "Aisha name meaning",
-        "Aisha origin",
-        "Aisha meaning in Urdu",
-        "Aisha pronunciation",
-        "Aisha Islamic name"
+        "Ayesha meaning",
+        "Aisha in Islam",
+        "Aisha meaning in Urdu"
       ],
-      "focus_keyword": "Aisha meaning",
-      "secondary_keywords": [
-        "Aisha name meaning",
-        "Aisha origin",
-        "Aisha meaning in Urdu",
-        "Aisha pronunciation",
-        "Aisha Islamic name"
-      ],
-      "canonical_url": "https://nameverse.site/names/islamic/aisha",
-      "seo_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+      "description_paragraph": "Aisha (Arabic عائشة, ʿĀʾishah) is an Arabic female name meaning “living” or “alive”. It is the name of Aisha bint Abi Bakr, the third wife of the Prophet Muhammad and one of the most important narrators of hadith, and it is very popular among Muslim women."
     },
-    "seo_content": {
-      "intro_paragraph": "This page explains the meaning and origin of the name Aisha, an Arabic-origin name used in Muslim communities.",
-      "body_summary": "Aisha is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
-    },
-    "social_tags": [
-      "#Aisha",
-      "#AishaMeaning",
-      "#NameMeaning",
-      "#IslamicNames",
-      "#NameOrigin"
-    ],
     "content_quality": {
-      "tier1_verified": true,
-      "authenticity_flags": [],
+      "overall_status": "source-checked",
       "fabricated_content_removed": true,
-      "fields_total": 149,
-      "quality_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+      "meaning_authenticity": "Each core claim checked against a cited source page"
     },
     "evidence": {
       "sources": [
-        "The recorded Arabic form عائشة carries the sense “Alive, living”."
+        {
+          "id": "wiki-name",
+          "title": "Aisha (given name) — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Aisha_(given_name)",
+          "supports": [
+            "meaning",
+            "variants",
+            "usage"
+          ]
+        },
+        {
+          "id": "wiki-aisha",
+          "title": "Aisha — Wikipedia (Aisha bint Abi Bakr)",
+          "url": "https://en.wikipedia.org/wiki/Aisha",
+          "supports": [
+            "religion",
+            "history"
+          ]
+        }
       ],
-      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+      "core_claims": [
+        {
+          "claim": "Aisha means 'living' or 'alive' and is an Arabic female given name.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Spellings include Ayesha, Aishah, Ayşe and Aisyah.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Ranked 2,020 of 4,275 female names in the 1990 US Census.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Ayesha was briefly popular in English after Rider Haggard's She.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Aisha bint Abi Bakr was the third and youngest wife of Muhammad.",
+          "evidence_type": "wiki-aisha",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "She is credited with narrating over 2,000 hadiths and was active for 44 years after his death.",
+          "evidence_type": "wiki-aisha",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Early scholars praised her knowledge of poetry, medicine and jurisprudence.",
+          "evidence_type": "wiki-aisha",
+          "confidence": "HIGH"
+        }
+      ],
+      "verification_method": "v9_upgrade.py: every claim's key terms located in the cited source text"
     },
     "provenance": {
-      "pipeline": "NameVerse Production v8",
-      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
-      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
-      "processed_at": "2026-10-06T04:27:34+00:00"
+      "pipeline": "NameVerse v9 source-checked upgrade",
+      "upgraded_from": "v8",
+      "processed_at": "2026-11-03T03:07:17+00:00"
     },
     "structured_data": {
       "@context": "https://schema.org",
@@ -348,7 +324,7 @@
         {
           "@type": "DefinedTerm",
           "name": "Aisha",
-          "description": "Aisha — an Arabic-origin given name meaning Alive, living",
+          "description": "Aisha — Living, alive",
           "inDefinedTermSet": {
             "@type": "DefinedTermSet",
             "name": "NameVerse Islamic Names"
@@ -362,95 +338,40 @@
               "name": "What does Aisha mean?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Aisha is an Arabic-origin name meaning “Alive, living”."
+                "text": "“Living” or “alive”, from the Arabic root ʿ-y-š, “to live”."
               }
             },
             {
               "@type": "Question",
-              "name": "What is the origin of Aisha?",
+              "name": "Who was Aisha in Islam?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Aisha originates in Arabic and circulates in Muslim naming communities."
+                "text": "Aisha bint Abi Bakr (c. 614–678), the third and youngest wife of the Prophet Muhammad and daughter of Abu Bakr."
               }
             },
             {
               "@type": "Question",
-              "name": "Is Aisha an Arabic name?",
+              "name": "Why is Aisha important in hadith?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Yes, the recorded form عائشة is Arabic."
+                "text": "She is credited with narrating over 2,000 hadiths on the Prophet's life, law, ritual and theology."
               }
             },
             {
               "@type": "Question",
-              "name": "What is the root of Aisha?",
+              "name": "Aisha or Ayesha — which is correct?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "No root analysis is asserted for this spelling."
+                "text": "Both transliterate عائشة; Ayesha is common in South Asia and English."
               }
             },
             {
               "@type": "Question",
-              "name": "Is Aisha an Islamic name?",
+              "name": "What is Aisha in Turkish?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Aisha is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+                "text": "Ayşe."
               }
-            },
-            {
-              "@type": "Question",
-              "name": "Is Aisha a Quranic name?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Aisha is not independently established as a Qur'anic personal name."
-              }
-            },
-            {
-              "@type": "Question",
-              "name": "What does Aisha mean in Urdu?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "In Urdu it is written عائشہ and carries the sense “زندہ، جیتی”."
-              }
-            },
-            {
-              "@type": "Question",
-              "name": "How is Aisha pronounced?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "A romanized syllable approximation is “ais-ha”."
-              }
-            },
-            {
-              "@type": "Question",
-              "name": "Is Aisha a boy's or girl's name?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Documented usage records Aisha as a girl's name; actual use can vary by community."
-              }
-            }
-          ]
-        },
-        {
-          "@type": "BreadcrumbList",
-          "itemListElement": [
-            {
-              "@type": "ListItem",
-              "position": 1,
-              "name": "Home",
-              "item": "https://nameverse.site/"
-            },
-            {
-              "@type": "ListItem",
-              "position": 2,
-              "name": "Islamic Names",
-              "item": "https://nameverse.site/names/islamic"
-            },
-            {
-              "@type": "ListItem",
-              "position": 3,
-              "name": "Aisha",
-              "item": "https://nameverse.site/names/islamic/aisha"
             }
           ]
         }
@@ -458,31 +379,54 @@
     },
     "editorial_validation": {
       "needs_manual_verification": false,
-      "flags": [],
       "confidence": "HIGH",
-      "reviewed_by": "NameVerse verification pipeline",
-      "reviewed_at": "2026-10-06T04:27:34+00:00"
+      "flags": [
+        "translations pending native-speaker review"
+      ],
+      "reviewed_at": "2026-11-03T03:07:17+00:00"
     },
     "render_policy": {
       "render_verified": true,
       "render_interpretive": true,
-      "hide_unverified": true,
-      "single_definition_source": "core_meaning.primary_meaning",
-      "non_rendered_definition_fields": [
-        "core_meaning.short_meaning",
-        "core_meaning.literal_meaning",
-        "semantic_field",
-        "etymology.etymological_meaning"
-      ],
+      "hide_unverified": false,
       "hidden_sections": [
         "personality_associations",
         "hidden_personality_traits",
         "popularity",
-        "celebrity_usage",
         "real_world_usage",
-        "spiritual_meaning",
-        "name_story"
-      ]
+        "name_story",
+        "spiritual_meaning"
+      ],
+      "source_checked": true
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Given across the Muslim world in honour of Aisha bint Abi Bakr.",
+      "interpretation": "Chosen for its link with Aisha and for its meaning, “living”.",
+      "important_distinction": "The meaning “living” is lexical; the name's religious standing comes from Aisha bint Abi Bakr."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 2,
+      "life_path_number": 2,
+      "lucky_day": "Monday",
+      "lucky_colors": [
+        "White",
+        "Silver"
+      ],
+      "lucky_stone": "Pearl",
+      "meaning": "In Pythagorean numerology the letters of Aisha total 2, associated with cooperation, balance and sensitivity. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer, not a linguistic fact."
+    },
+    "lucky_attributes": {
+      "lucky_number": 2,
+      "lucky_day": "Monday",
+      "lucky_colors": [
+        "White",
+        "Silver"
+      ],
+      "lucky_stone": "Pearl"
     }
   }
 }
