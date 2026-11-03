@@ -83,38 +83,6 @@
       "Dhaarmik"
     ],
     "popularity_score": 60,
-    "popularity_by_region": [
-      {
-        "region": "Bali (Indonesia)",
-        "country_code": "ID",
-        "score": 46,
-        "year": 2024
-      },
-      {
-        "region": "Mauritius",
-        "country_code": "MU",
-        "score": 59,
-        "year": 2024
-      },
-      {
-        "region": "Karnataka",
-        "country_code": "IN",
-        "score": 49,
-        "year": 2024
-      },
-      {
-        "region": "Nepal",
-        "country_code": "NP",
-        "score": 62,
-        "year": 2024
-      },
-      {
-        "region": "Tamil Nadu",
-        "country_code": "IN",
-        "score": 44,
-        "year": 2024
-      }
-    ],
     "vedic_reference": {
       "is_vedic": false,
       "root_origin": "धर्म + िक",

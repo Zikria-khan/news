@@ -66,32 +66,6 @@
       "Denison"
     ],
     "popularity_score": 50,
-    "popularity_by_region": [
-      {
-        "region": "France",
-        "country_code": "FR",
-        "score": 64,
-        "year": 2024
-      },
-      {
-        "region": "Germany",
-        "country_code": "DE",
-        "score": 64,
-        "year": 2024
-      },
-      {
-        "region": "Poland",
-        "country_code": "PL",
-        "score": 55,
-        "year": 2024
-      },
-      {
-        "region": "United States",
-        "country_code": "US",
-        "score": 67,
-        "year": 2024
-      }
-    ],
     "biblical_reference": {
       "is_biblical": false,
       "origin_scripture": "",

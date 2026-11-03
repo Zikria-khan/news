@@ -4,7 +4,7 @@
   "data": {
     "name": "Umar",
     "slug": "umar",
-    "content_revision": "v8",
+    "content_revision": "v9",
     "page_type": "name_meaning",
     "identity": {
       "display_name": "Umar",
@@ -12,336 +12,309 @@
       "name_type": "given_name",
       "gender": "Male",
       "gender_confidence": "HIGH",
-      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "gender_note": "A masculine given name.",
       "alternate_spellings": [
-        "Umar",
-        "umar"
+        "Omar",
+        "Ömer",
+        "Omer",
+        "Oumar",
+        "Umer"
       ],
-      "name_status": "attested"
+      "name_status": "attested",
+      "search_variants": [
+        "omar",
+        "omer",
+        "oumar",
+        "umar",
+        "umer",
+        "ömer"
+      ]
     },
     "core_meaning": {
-      "short_meaning": "Flourishing, populated",
-      "primary_meaning": "Umar corresponds to the Arabic form عُمَر and is glossed in this record as “Flourishing, populated.” The record associates the form with root ع م ر (ʿ-m-r). The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
-      "literal_meaning": "Flourishing, populated",
-      "meaning_explanation": "Umar corresponds to the Arabic form عُمَر (Arabic root ع م ر (ʿ-m-r); عُمَر (ʿUmar)). Its core sense is umar; flourishing, populated. Umar is Arabic عُمَر (ʿUmar), associated with the sense 'flourishing, populated'. It was borne by the second caliph.",
+      "short_meaning": "Flourishing, long-lived",
+      "primary_meaning": "Umar (Arabic عمر, ʿUmar), also written Omar, is an Arabic male name meaning “flourishing” or “long-lived”. Among Muslims it chiefly honours Umar ibn al-Khattab, companion of the Prophet Muhammad and the second Rashidun caliph, known by the title al-Fārūq, “the Distinguisher”.",
+      "literal_meaning": "Flourishing, long-lived",
+      "meaning_explanation": "The name is linked to the Arabic root ʿ-m-r, associated with life and lifespan (ʿumr, “life”) and with flourishing, inhabited land.",
       "meaning_confidence": "HIGH"
     },
     "etymology": {
       "primary_language": "Arabic",
       "lexical_form": "عُمَر",
-      "transliteration": "umar",
+      "transliteration": "ʿUmar",
       "root": "ع م ر",
       "root_transliteration": "ʿ-m-r",
-      "morphology": "Built on the root ع م ر.",
-      "feminine_form": null,
-      "etymological_meaning": "From the root ع م ر (ʿ-m-r)",
-      "root_family": [],
-      "etymology_explanation": "The form عُمَر is an established Arabic lexical item, and Umar is the word itself used as a personal name rather than a derived or diminutive form.",
+      "morphology": "Personal name of the fuʿal pattern from ʿ-m-r.",
+      "etymological_meaning": [
+        "flourishing",
+        "long-lived"
+      ],
+      "etymology_explanation": "From the Arabic root ع م ر, “to live long; to flourish”.",
       "etymology_confidence": "HIGH",
-      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+      "false_etymology_warning": "Hebrew omer (“sheaf”) and Germanic Ómar/Ottomar are unrelated names that happen to look alike."
     },
     "language": {
       "primary": "Arabic",
       "associated_languages": [
-        "Arabic"
+        "Arabic",
+        "Urdu",
+        "Persian",
+        "Turkish",
+        "Bosnian"
       ],
-      "language_notes": {
-        "primary": "Arabic is the language of the recorded form عُمَر.",
-        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
-      },
       "language_confidence": "HIGH"
     },
     "origin": {
       "primary_origin": "Arabic",
       "origin_type": "linguistic",
       "origin_confidence": "HIGH",
-      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "origin_explanation": "Arabic; spread through the Muslim world. The Turkish form is Ömer and the Bosnian Omer.",
       "cultural_transmission": [
-        "Arabic",
-        "Muslim South Asia",
-        "Urdu-speaking communities"
+        "Arab world",
+        "Turkey (Ömer)",
+        "Bosnia (Omer)",
+        "South Asia (Umar)",
+        "West Africa (Oumar)"
       ]
     },
     "religion": {
-      "primary_association": "Islamic-cultural usage",
-      "religion_confidence": "MEDIUM",
-      "religious_status": "Culturally used; not inherently a doctrinal term",
-      "religious_explanation": "Umar is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "primary_association": "Islamic — Umar ibn al-Khattab",
+      "religion_confidence": "HIGH",
+      "religious_status": "Name of the second Rashidun caliph",
+      "religious_explanation": "Umar ibn al-Khattab (c. 584–644) at first opposed Muhammad, converted to Islam in 616 and became the first Muslim to pray openly at the Kaaba. Muhammad gave him the title al-Fārūq, “the Distinguisher”. He succeeded Abu Bakr as caliph in 634 and ruled until his assassination in 644; he was also the father of Hafsa, a wife of the Prophet.",
       "quranic_status": {
-        "is_quranic": false,
-        "status": "not_verified",
-        "note": "Umar is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
-      },
-      "hadith_status": {
-        "status": "not_verified",
-        "note": "No specific authentic hadith report about this name is cited; none is invented."
+        "is_quranic_name": false,
+        "quranic_reference": "",
+        "note": ""
       },
       "prophetic_status": {
-        "status": "not_verified",
-        "note": "No verified source establishes Umar as the name of a prophet."
+        "prophet_association": true,
+        "reference": "Umar ibn al-Khattab, companion and father-in-law of the Prophet"
       },
       "companion_status": {
-        "status": "verified",
-        "note": "Umar is the name of Umar ibn al-Khattab, a companion and second caliph."
+        "known_companion_association": false,
+        "reference": ""
       }
-    },
-    "islamic_naming_context": {
-      "can_be_used_by_muslims": true,
-      "context": "Muslim naming culture in South Asia and the Persianate world",
-      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
-      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
     },
     "cultural_context": {
       "primary_cultural_associations": [
-        "Arabic",
-        "Muslim South Asia"
+        "Arab",
+        "Turkish",
+        "South Asian",
+        "African"
       ],
-      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
-      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
-      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
-    },
-    "semantic_field": {
-      "primary_semantic_domain": "Flourishing, populated",
-      "related_concepts": [
-        "Flourishing, populated"
-      ]
+      "cultural_meaning": "In Sunni tradition Umar is a model of justice and firm judgement — the sense of his title al-Fārūq.",
+      "impact": ""
     },
     "spiritual_meaning": {
       "status": "interpretive",
-      "render": true,
-      "meaning": "Families may read the sense “Flourishing, populated” as a hopeful quality for the child.",
-      "basis": "Lexical meaning: Flourishing, populated.",
+      "render": false,
+      "meaning": "",
       "is_direct_religious_definition": false
     },
     "personality_associations": {
       "status": "not_verified",
-      "render": false,
-      "note": "No verified basis links this name to specific personality traits."
+      "render": false
     },
     "hidden_personality_traits": {
       "status": "not_verified",
-      "render": false,
-      "note": "No verified basis."
-    },
-    "numerology": {
-      "status": "interpretive",
-      "render": true,
-      "lucky_number": 8,
-      "life_path_number": 8,
-      "ruling_planet": "Saturn",
-      "lucky_day": "Saturday",
-      "lucky_colors": [
-        "Black",
-        "Blue"
-      ],
-      "lucky_stone": "Blue Sapphire",
-      "meaning": "In Pythagorean numerology the letters of Umar total 8, associated with ambition, authority and material success. This is an interpretive tradition, not a factual claim.",
-      "note": "Numerology is an optional interpretive layer."
-    },
-    "lucky_attributes": {
-      "status": "interpretive",
-      "render": true,
-      "lucky_number": 8,
-      "lucky_day": "Saturday",
-      "lucky_colors": [
-        "Black",
-        "Blue"
-      ],
-      "lucky_stone": "Blue Sapphire",
-      "ruling_planet": "Saturn"
+      "render": false
     },
     "translations": {
       "english": {
         "name": "Umar",
         "script": "Umar",
-        "meaning": "Flourishing, populated",
-        "long_meaning": "Umar is an Arabic-origin given name; in Arabic the word means “Flourishing, populated”."
+        "meaning": "Flourishing, long-lived",
+        "long_meaning": ""
+      },
+      "arabic": {
+        "name": "عمر",
+        "script": "عمر",
+        "meaning": "المزدهر، طويل العمر",
+        "long_meaning": ""
       },
       "urdu": {
         "name": "عمر",
         "script": "عمر",
-        "meaning": "عمر، آباد",
-        "long_meaning": "Umar (عمر) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم عمر، آباد ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+        "meaning": "لمبی عمر والا، آباد",
+        "long_meaning": ""
       },
       "persian": {
         "name": "عمر",
         "script": "عمر",
-        "meaning": "عمر، آباد",
-        "long_meaning": "Umar (عمر) نامی برگرفته از زبان عربی است و معنای اصلی آن عمر، آباد است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+        "meaning": "دیرزی، شکوفا",
+        "long_meaning": ""
       },
       "hindi": {
         "name": "उमर",
         "script": "उमर",
-        "meaning": "उमर, बसा हुआ",
-        "long_meaning": "Umar (उमर) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ उमर, बसा हुआ है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
-      },
-      "pashto": {
-        "name": "عمر",
-        "script": "عمر",
-        "meaning": "عمر، آباد",
-        "long_meaning": "Umar (عمر) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې عمر، آباد ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
-        "native_review_required": true
-      },
-      "arabic": {
-        "name": "عُمَر",
-        "script": "عُمَر",
-        "meaning": "عُمَر، الْعَامِر",
-        "long_meaning": "Umar (عُمَر) اسم مأخوذ من اللغة العربية، ومعناه الأساسي عُمَر، الْعَامِر. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
-        "native_review_required": true
+        "meaning": "दीर्घायु, फलता-फूलता",
+        "long_meaning": ""
       }
     },
     "translation_quality": {
       "strategy": "semantic_translation",
-      "confidence": "HIGH",
-      "native_review_required": true,
-      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+      "confidence": "MEDIUM",
+      "native_review_required": true
     },
     "pronunciation": {
-      "romanized": "u-mar",
-      "ipa": null,
-      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
-      "common_mispronunciation": null,
-      "scripts": {
-        "arabic": "عُمَر"
-      }
+      "english": "OO-mar",
+      "ipa": "/ˈʕumar/",
+      "note": "Often said OH-mar in English; Turkish Ömer."
     },
     "name_variants": {
       "romanized_variants": [
-        "Umar"
+        "Omar",
+        "Ömer",
+        "Omer",
+        "Oumar",
+        "Umer"
       ],
-      "script_forms": [
-        "عمر",
-        "عُمَر",
-        "उमर"
+      "script_variants": [
+        "عمر (Arabic/Urdu)",
+        "उमर (Devanagari)"
       ],
-      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
-      "do_not_merge_with": []
+      "variant_notes": "Omar (English/Spanish), Ömer (Turkish), Omer (Bosnian), Oumar (West Africa), Umer (South Asia)."
     },
-    "related_names": [],
+    "related_names": [
+      "Abu Bakr",
+      "Uthman",
+      "Ali",
+      "Hafsa",
+      "Farooq"
+    ],
     "historical_context": {
       "status": "verified",
-      "note": "The form عُمَر is an established Arabic lexical item."
+      "known_linguistic_history": [
+        "Umar I ruled as caliph 634–644 and drove much of the early Muslim conquests.",
+        "Umar ibn Abd al-Aziz (Umar II) was Umayyad caliph 717–720."
+      ],
+      "historical_person_association": "Umar ibn al-Khattab (c. 584–644), second Rashidun caliph.",
+      "historical_event_association": "",
+      "historical_claim_confidence": "HIGH"
     },
     "modern_usage": {
-      "status": "requires_frequency_data",
-      "note": "Personal-name popularity must be measured separately from lexical presence."
+      "status": "qualitative",
+      "modern_context": "Common across the Muslim world; Omar is the usual English and Spanish spelling."
     },
     "popularity": {
       "status": "not_measured",
       "render": false,
       "score": null,
-      "by_region": [],
-      "note": "No verified popularity or registration data is available."
+      "by_region": []
     },
     "celebrity_usage": {
-      "status": "not_verified",
-      "render": false,
-      "items": [],
-      "note": "No verified celebrity usage is recorded."
-    },
-    "real_world_usage": {
-      "status": "not_verified",
-      "render": false,
-      "note": "No verified real-life bearer story is published; none is invented."
-    },
-    "name_story": {
       "status": "none",
-      "render": false,
-      "story": ""
+      "verified": [],
+      "note": ""
     },
     "faq": [
       {
         "q": "What does Umar mean?",
-        "a": "Umar is an Arabic-origin name meaning “Flourishing, populated”."
+        "a": "“Flourishing” or “long-lived”, from the Arabic root ʿ-m-r."
       },
       {
-        "q": "What is the origin of Umar?",
-        "a": "Umar originates in Arabic and circulates in Muslim naming communities."
+        "q": "Who was Umar ibn al-Khattab?",
+        "a": "The second Rashidun caliph (r. 634–644), a senior companion and father-in-law of the Prophet Muhammad."
       },
       {
-        "q": "Is Umar an Arabic name?",
-        "a": "Yes, the recorded form عُمَر is Arabic."
+        "q": "What does al-Faruq mean?",
+        "a": "“The Distinguisher” — the title Muhammad gave Umar for his sound judgement."
       },
       {
-        "q": "What is the root of Umar?",
-        "a": "It is built on the root ع م ر (ʿ-m-r)."
+        "q": "Is Umar the same as Omar?",
+        "a": "Yes, both transliterate عمر. Ömer is the Turkish form."
       },
       {
-        "q": "Is Umar an Islamic name?",
-        "a": "Umar is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
-      },
-      {
-        "q": "Is Umar a Quranic name?",
-        "a": "Umar is not independently established as a Qur'anic personal name."
-      },
-      {
-        "q": "What does Umar mean in Urdu?",
-        "a": "In Urdu it is written عمر and carries the sense “عمر، آباد”."
-      },
-      {
-        "q": "How is Umar pronounced?",
-        "a": "A romanized syllable approximation is “u-mar”."
-      },
-      {
-        "q": "Is Umar a boy's or girl's name?",
-        "a": "Documented usage records Umar as a boy's name; actual use can vary by community."
+        "q": "Is Hebrew Omer related?",
+        "a": "No. Hebrew omer means “sheaf” and is a separate word."
       }
     ],
     "seo": {
-      "title": "Umar Name Meaning, Origin & Islamic Context",
-      "meta_description": "Umar (عُمَر) — meaning, origin, pronunciation and Islamic naming context.",
-      "meta_keywords": "Umar meaning, Umar name meaning, Umar origin, Umar meaning in Urdu, Umar pronunciation, Umar Islamic name",
-      "description_paragraph": "Umar is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "title": "Umar Name Meaning: “Flourishing, Long-Lived” — Umar ibn al-Khattab",
+      "meta_description": "Umar (عمر, Omar) is an Arabic boy's name meaning flourishing or long-lived, the name of Umar ibn al-Khattab, second caliph, called al-Faruq. Variants Omar, Ömer.",
       "keywords": [
         "Umar meaning",
         "Umar name meaning",
-        "Umar origin",
-        "Umar meaning in Urdu",
-        "Umar pronunciation",
-        "Umar Islamic name"
+        "Omar meaning",
+        "Umar ibn al-Khattab",
+        "Umar meaning in Urdu"
       ],
-      "focus_keyword": "Umar meaning",
-      "secondary_keywords": [
-        "Umar name meaning",
-        "Umar origin",
-        "Umar meaning in Urdu",
-        "Umar pronunciation",
-        "Umar Islamic name"
-      ],
-      "canonical_url": "https://nameverse.site/names/islamic/umar",
-      "seo_score": 95,
-      "seo_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+      "description_paragraph": "Umar (Arabic عمر, ʿUmar), also written Omar, is an Arabic male name meaning “flourishing” or “long-lived”. Among Muslims it chiefly honours Umar ibn al-Khattab, companion of the Prophet Muhammad and the second Rashidun caliph, known by the title al-Fārūq, “the Distinguisher”."
     },
-    "seo_content": {
-      "intro_paragraph": "This page explains the meaning and origin of the name Umar, an Arabic-origin name used in Muslim communities.",
-      "body_summary": "Umar is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
-    },
-    "social_tags": [
-      "#Umar",
-      "#UmarMeaning",
-      "#NameMeaning",
-      "#IslamicNames",
-      "#NameOrigin"
-    ],
     "content_quality": {
-      "tier1_verified": true,
-      "authenticity_flags": [],
+      "overall_status": "source-checked",
       "fabricated_content_removed": true,
-      "fields_total": 151,
-      "quality_score": 95,
-      "quality_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+      "meaning_authenticity": "Each core claim checked against a cited source page"
     },
     "evidence": {
       "sources": [
-        "The recorded Arabic form عُمَر carries the sense “Flourishing, populated”."
+        {
+          "id": "wiki-name",
+          "title": "Omar (name) — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Omar_(name)",
+          "supports": [
+            "meaning",
+            "variants"
+          ]
+        },
+        {
+          "id": "wiki-umar",
+          "title": "Umar — Wikipedia (Umar ibn al-Khattab)",
+          "url": "https://en.wikipedia.org/wiki/Umar",
+          "supports": [
+            "religion",
+            "history"
+          ]
+        }
       ],
-      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+      "core_claims": [
+        {
+          "claim": "Arabic Omar/Umar means 'flourishing' or 'long-lived'.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Among Muslims it chiefly refers to Umar ibn al-Khattab, second Rashidun caliph.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "The Turkish form is Ömer and the Bosnian Omer.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Hebrew omer means 'sheaf'; Germanic Ómar/Ottomar is separate.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Umar ibn Abd al-Aziz (Umar II) was Umayyad caliph 717–720.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Umar converted in 616 and was first Muslim to pray openly in the Kaaba.",
+          "evidence_type": "wiki-umar",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Muhammad gave him the title al-Faruq, 'the Distinguisher'.",
+          "evidence_type": "wiki-umar",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "He ruled from 634 until his assassination in 644.",
+          "evidence_type": "wiki-umar",
+          "confidence": "HIGH"
+        }
+      ],
+      "verification_method": "v9_upgrade.py: every claim's key terms located in the cited source text"
     },
     "provenance": {
-      "pipeline": "NameVerse Production v8",
-      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
-      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
-      "processed_at": "2026-10-06T04:27:34+00:00"
+      "pipeline": "NameVerse v9 source-checked upgrade",
+      "upgraded_from": "v8",
+      "processed_at": "2026-11-03T03:07:17+00:00"
     },
     "structured_data": {
       "@context": "https://schema.org",
@@ -349,7 +322,7 @@
         {
           "@type": "DefinedTerm",
           "name": "Umar",
-          "description": "Umar — an Arabic-origin given name meaning Flourishing, populated",
+          "description": "Umar — Flourishing, long-lived",
           "inDefinedTermSet": {
             "@type": "DefinedTermSet",
             "name": "NameVerse Islamic Names"
@@ -363,95 +336,40 @@
               "name": "What does Umar mean?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Umar is an Arabic-origin name meaning “Flourishing, populated”."
+                "text": "“Flourishing” or “long-lived”, from the Arabic root ʿ-m-r."
               }
             },
             {
               "@type": "Question",
-              "name": "What is the origin of Umar?",
+              "name": "Who was Umar ibn al-Khattab?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Umar originates in Arabic and circulates in Muslim naming communities."
+                "text": "The second Rashidun caliph (r. 634–644), a senior companion and father-in-law of the Prophet Muhammad."
               }
             },
             {
               "@type": "Question",
-              "name": "Is Umar an Arabic name?",
+              "name": "What does al-Faruq mean?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Yes, the recorded form عُمَر is Arabic."
+                "text": "“The Distinguisher” — the title Muhammad gave Umar for his sound judgement."
               }
             },
             {
               "@type": "Question",
-              "name": "What is the root of Umar?",
+              "name": "Is Umar the same as Omar?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "It is built on the root ع م ر (ʿ-m-r)."
+                "text": "Yes, both transliterate عمر. Ömer is the Turkish form."
               }
             },
             {
               "@type": "Question",
-              "name": "Is Umar an Islamic name?",
+              "name": "Is Hebrew Omer related?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Umar is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+                "text": "No. Hebrew omer means “sheaf” and is a separate word."
               }
-            },
-            {
-              "@type": "Question",
-              "name": "Is Umar a Quranic name?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Umar is not independently established as a Qur'anic personal name."
-              }
-            },
-            {
-              "@type": "Question",
-              "name": "What does Umar mean in Urdu?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "In Urdu it is written عمر and carries the sense “عمر، آباد”."
-              }
-            },
-            {
-              "@type": "Question",
-              "name": "How is Umar pronounced?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "A romanized syllable approximation is “u-mar”."
-              }
-            },
-            {
-              "@type": "Question",
-              "name": "Is Umar a boy's or girl's name?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Documented usage records Umar as a boy's name; actual use can vary by community."
-              }
-            }
-          ]
-        },
-        {
-          "@type": "BreadcrumbList",
-          "itemListElement": [
-            {
-              "@type": "ListItem",
-              "position": 1,
-              "name": "Home",
-              "item": "https://nameverse.site/"
-            },
-            {
-              "@type": "ListItem",
-              "position": 2,
-              "name": "Islamic Names",
-              "item": "https://nameverse.site/names/islamic"
-            },
-            {
-              "@type": "ListItem",
-              "position": 3,
-              "name": "Umar",
-              "item": "https://nameverse.site/names/islamic/umar"
             }
           ]
         }
@@ -459,31 +377,54 @@
     },
     "editorial_validation": {
       "needs_manual_verification": false,
-      "flags": [],
       "confidence": "HIGH",
-      "reviewed_by": "NameVerse verification pipeline",
-      "reviewed_at": "2026-10-06T04:27:34+00:00"
+      "flags": [
+        "translations pending native-speaker review"
+      ],
+      "reviewed_at": "2026-11-03T03:07:17+00:00"
     },
     "render_policy": {
       "render_verified": true,
       "render_interpretive": true,
-      "hide_unverified": true,
-      "single_definition_source": "core_meaning.primary_meaning",
-      "non_rendered_definition_fields": [
-        "core_meaning.short_meaning",
-        "core_meaning.literal_meaning",
-        "semantic_field",
-        "etymology.etymological_meaning"
-      ],
+      "hide_unverified": false,
       "hidden_sections": [
         "personality_associations",
         "hidden_personality_traits",
         "popularity",
-        "celebrity_usage",
         "real_world_usage",
-        "spiritual_meaning",
-        "name_story"
-      ]
+        "name_story",
+        "spiritual_meaning"
+      ],
+      "source_checked": true
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Given in honour of Umar ibn al-Khattab; Umar ibn Abd al-Aziz (Umar II), the Umayyad caliph, is another celebrated bearer.",
+      "interpretation": "Chosen for the companion's example of justice and for the meaning “long-lived”.",
+      "important_distinction": "Lexical meaning and the honour of the companion are separate reasons for the name."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 8,
+      "life_path_number": 8,
+      "lucky_day": "Saturday",
+      "lucky_colors": [
+        "Black",
+        "Blue"
+      ],
+      "lucky_stone": "Blue Sapphire",
+      "meaning": "In Pythagorean numerology the letters of Umar total 8, associated with ambition, authority and material success. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer, not a linguistic fact."
+    },
+    "lucky_attributes": {
+      "lucky_number": 8,
+      "lucky_day": "Saturday",
+      "lucky_colors": [
+        "Black",
+        "Blue"
+      ],
+      "lucky_stone": "Blue Sapphire"
     }
   }
 }

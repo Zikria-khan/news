@@ -77,26 +77,6 @@
       "Klaretta"
     ],
     "popularity_score": 50,
-    "popularity_by_region": [
-      {
-        "region": "United States",
-        "country_code": "US",
-        "score": 31,
-        "year": 2024
-      },
-      {
-        "region": "Germany",
-        "country_code": "DE",
-        "score": 33,
-        "year": 2024
-      },
-      {
-        "region": "Poland",
-        "country_code": "PL",
-        "score": 47,
-        "year": 2024
-      }
-    ],
     "biblical_reference": {
       "is_biblical": false,
       "origin_scripture": "not applicable",

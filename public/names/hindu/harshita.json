@@ -81,26 +81,6 @@
       "Harsita"
     ],
     "popularity_score": 60,
-    "popularity_by_region": [
-      {
-        "region": "Gujarat",
-        "country_code": "IN",
-        "score": 72,
-        "year": 2024
-      },
-      {
-        "region": "Karnataka",
-        "country_code": "IN",
-        "score": 48,
-        "year": 2024
-      },
-      {
-        "region": "Maharashtra",
-        "country_code": "IN",
-        "score": 43,
-        "year": 2024
-      }
-    ],
     "vedic_reference": {
       "is_vedic": false,
       "root_origin": "Sanskrit root हर् (Har) meaning to move, to flow"

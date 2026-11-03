@@ -72,32 +72,6 @@
       "Gai"
     ],
     "popularity_score": 80,
-    "popularity_by_region": [
-      {
-        "region": "United Kingdom",
-        "country_code": "UK",
-        "score": 76,
-        "year": 2024
-      },
-      {
-        "region": "France",
-        "country_code": "FR",
-        "score": 98,
-        "year": 2024
-      },
-      {
-        "region": "Italy",
-        "country_code": "IT",
-        "score": 80,
-        "year": 2024
-      },
-      {
-        "region": "Poland",
-        "country_code": "PL",
-        "score": 75,
-        "year": 2024
-      }
-    ],
     "biblical_reference": {
       "is_biblical": true,
       "origin_scripture": "New Testament",

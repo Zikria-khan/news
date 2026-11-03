@@ -66,20 +66,6 @@
     ],
     "name_variations": [],
     "popularity_score": 70,
-    "popularity_by_region": [
-      {
-        "region": "Spain",
-        "country_code": "ES",
-        "score": 81,
-        "year": 2024
-      },
-      {
-        "region": "United States",
-        "country_code": "US",
-        "score": 65,
-        "year": 2024
-      }
-    ],
     "biblical_reference": {
       "is_biblical": true,
       "origin_scripture": "Hebrew Bible",

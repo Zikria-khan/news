@@ -1,0 +1,419 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "John",
+    "slug": "john",
+    "content_revision": "v9",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "John",
+      "normalized_name": "john",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "A masculine given name.",
+      "alternate_spellings": [
+        "Jack",
+        "Johnny",
+        "Jon",
+        "Ian",
+        "Sean",
+        "Juan",
+        "Jean",
+        "Johannes",
+        "Giovanni",
+        "Ivan"
+      ],
+      "name_status": "attested",
+      "search_variants": [
+        "giovanni",
+        "ian",
+        "ivan",
+        "jack",
+        "jean",
+        "johannes",
+        "john",
+        "johnny",
+        "jon",
+        "juan",
+        "sean"
+      ]
+    },
+    "core_meaning": {
+      "short_meaning": "God has been gracious",
+      "primary_meaning": "John is a masculine name of Hebrew origin, from Yôḥānān (יוֹחָנָן), meaning “God has been gracious”. It owes its popularity to two saints — John the Baptist and the apostle John — and for centuries was the most common male name in the English-speaking world.",
+      "literal_meaning": "God has been gracious (Yah + ḥānan)",
+      "meaning_explanation": "Yôḥānān is a theophoric name: Yô- is a short form of God's name and ḥānan means “to be gracious”. It passed into Greek as Iōannēs, Latin Ioannes/Johannes, Old French Jehan and Middle English Iohn/John.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Hebrew",
+      "lexical_form": "יוֹחָנָן",
+      "transliteration": "Yôḥānān",
+      "root": "ח־נ־ן",
+      "root_transliteration": "ḥ-n-n",
+      "morphology": "Theophoric compound: Yô (God) + ḥānan, “has been gracious”; long form Yəhôḥānān.",
+      "etymological_meaning": [
+        "God has been gracious"
+      ],
+      "etymology_explanation": "From Hebrew Yôḥānān / Yəhôḥānān via Greek Ἰωάννης and Latin Ioannes, Johannes.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "Jonathan (Yonatan, “given by God”) is a different name and not related to John."
+    },
+    "language": {
+      "primary": "Hebrew",
+      "associated_languages": [
+        "Hebrew",
+        "Greek",
+        "Latin",
+        "French",
+        "English"
+      ],
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Hebrew",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "Hebrew, through Greek and Latin. It was a favourite among the Greeks and spread across Europe after the First Crusade; Middle English had Iohn, Ihon, Jan by the 12th century.",
+      "cultural_transmission": [
+        "Hebrew (Yôḥānān)",
+        "Greek (Iōannēs)",
+        "Latin (Ioannes, Johannes)",
+        "Old French (Jehan, Jean)",
+        "English (John)"
+      ]
+    },
+    "religion": {
+      "primary_association": "Christian — John the Baptist and John the Apostle",
+      "religion_confidence": "HIGH",
+      "religious_status": "New Testament name of two major saints",
+      "religious_explanation": "John the Baptist baptised Jesus; John the Apostle is traditionally regarded as the author of the Gospel of John. The name was also taken by many popes, patriarchs, emperors and kings.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": "",
+        "note": ""
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": ""
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": ""
+      }
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "English",
+        "Christian",
+        "European"
+      ],
+      "cultural_meaning": "Jack began as a nickname for John and is now a name in its own right.",
+      "impact": "In the Second Temple period Yohanan was the fifth most popular male name among Jews in Judaea."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": false,
+      "meaning": "",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false
+    },
+    "translations": {
+      "english": {
+        "name": "John",
+        "script": "John",
+        "meaning": "God has been gracious",
+        "long_meaning": ""
+      },
+      "hebrew": {
+        "name": "יוֹחָנָן",
+        "script": "יוֹחָנָן",
+        "meaning": "ה׳ חנן",
+        "long_meaning": ""
+      },
+      "greek": {
+        "name": "Ἰωάννης",
+        "script": "Ἰωάννης",
+        "meaning": "Ο Θεός έδειξε χάρη",
+        "long_meaning": ""
+      },
+      "latin": {
+        "name": "Ioannes",
+        "script": "Ioannes",
+        "meaning": "Deus gratiosus fuit",
+        "long_meaning": ""
+      },
+      "arabic": {
+        "name": "يوحنا",
+        "script": "يوحنا",
+        "meaning": "الله تحنّن",
+        "long_meaning": ""
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "MEDIUM",
+      "native_review_required": true
+    },
+    "pronunciation": {
+      "english": "JON",
+      "ipa": "/dʒɒn/",
+      "note": "US /dʒɑːn/."
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Jack",
+        "Johnny",
+        "Jon",
+        "Ian",
+        "Sean",
+        "Juan",
+        "Jean",
+        "Johannes",
+        "Giovanni",
+        "Ivan"
+      ],
+      "script_variants": [
+        "יוֹחָנָן (Hebrew)",
+        "Ἰωάννης (Greek)",
+        "يوحنا (Arabic)"
+      ],
+      "variant_notes": "Ian (Scottish), Sean (Irish), Juan (Spanish), Jean (French), Giovanni (Italian), Johannes (German, Latin), Ivan (Slavic); Jack and Johnny are English pet forms."
+    },
+    "related_names": [
+      "Jonathan",
+      "Joanna",
+      "Jane",
+      "Joan",
+      "Yahya"
+    ],
+    "historical_context": {
+      "status": "verified",
+      "known_linguistic_history": [
+        "Borne by the high priest Johanan (fl. 407 BC) and King John Hyrcanus (d. 104 BC).",
+        "Spread through Europe after the First Crusade."
+      ],
+      "historical_person_association": "John the Baptist and John the Apostle (1st century).",
+      "historical_event_association": "",
+      "historical_claim_confidence": "HIGH"
+    },
+    "modern_usage": {
+      "status": "qualitative",
+      "modern_context": "John was the most popular name for baby boys in the United States until 1924 and was still 20th in 2006; by 2004 it had left the top 50 in England and Wales."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": []
+    },
+    "celebrity_usage": {
+      "status": "none",
+      "verified": [],
+      "note": ""
+    },
+    "faq": [
+      {
+        "q": "What does John mean?",
+        "a": "“God has been gracious”, from the Hebrew Yôḥānān."
+      },
+      {
+        "q": "Is John in the Bible?",
+        "a": "Yes — John the Baptist and John the Apostle in the New Testament, plus minor Old Testament figures."
+      },
+      {
+        "q": "Are John and Jonathan the same name?",
+        "a": "No. Jonathan comes from Yonatan, “given by God”, and is not etymologically related."
+      },
+      {
+        "q": "Why is Jack a nickname for John?",
+        "a": "Jack developed in Middle English as a pet form of John and is now an independent name."
+      },
+      {
+        "q": "What is John in other languages?",
+        "a": "Juan (Spanish), Jean (French), Giovanni (Italian), Johannes (German), Ivan (Russian), Sean (Irish), Ian (Scottish)."
+      }
+    ],
+    "seo": {
+      "title": "John Name Meaning: “God Has Been Gracious” — Hebrew Origin & Saints",
+      "meta_description": "John is a Hebrew boy's name (Yôḥānān) meaning God has been gracious, the name of John the Baptist and the apostle John. Origin, history, variants Juan, Jean, Ian, Sean.",
+      "keywords": [
+        "John meaning",
+        "John name meaning",
+        "John in the Bible",
+        "John Hebrew meaning",
+        "John name origin"
+      ],
+      "description_paragraph": "John is a masculine name of Hebrew origin, from Yôḥānān (יוֹחָנָן), meaning “God has been gracious”. It owes its popularity to two saints — John the Baptist and the apostle John — and for centuries was the most common male name in the English-speaking world."
+    },
+    "content_quality": {
+      "overall_status": "source-checked",
+      "fabricated_content_removed": true,
+      "meaning_authenticity": "Each core claim checked against a cited source page"
+    },
+    "evidence": {
+      "sources": [
+        {
+          "id": "wiki-name",
+          "title": "John (given name) — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/John_(given_name)",
+          "supports": [
+            "meaning",
+            "history",
+            "usage",
+            "variants"
+          ]
+        }
+      ],
+      "core_claims": [
+        {
+          "claim": "John comes from Hebrew Yôḥānān, 'God has been gracious'.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Popular because of John the Baptist and the apostle John.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Increased in use across Europe after the First Crusade.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Jonathan derives from Yonatan and is not etymologically related.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Borne by the high priest Johanan and John Hyrcanus; fifth most popular male name among Jews in Judaea.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Medieval Latin Johannes from Late Latin Ioannes, from Greek; Old French Jehan.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Most popular US boys' name until 1924, still 20th in 2006.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Jack was a nickname for John.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        }
+      ],
+      "verification_method": "v9_upgrade.py: every claim's key terms located in the cited source text"
+    },
+    "provenance": {
+      "pipeline": "NameVerse v9 source-checked upgrade",
+      "upgraded_from": "new",
+      "processed_at": "2026-11-03T03:07:17+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "John",
+          "description": "John — God has been gracious",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Christian Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does John mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "“God has been gracious”, from the Hebrew Yôḥānān."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is John in the Bible?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — John the Baptist and John the Apostle in the New Testament, plus minor Old Testament figures."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Are John and Jonathan the same name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No. Jonathan comes from Yonatan, “given by God”, and is not etymologically related."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Why is Jack a nickname for John?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Jack developed in Middle English as a pet form of John and is now an independent name."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is John in other languages?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Juan (Spanish), Jean (French), Giovanni (Italian), Johannes (German), Ivan (Russian), Sean (Irish), Ian (Scottish)."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "confidence": "HIGH",
+      "flags": [
+        "translations pending native-speaker review"
+      ],
+      "reviewed_at": "2026-11-03T03:07:17+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": false,
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "real_world_usage",
+        "name_story",
+        "spiritual_meaning"
+      ],
+      "source_checked": true
+    },
+    "biblical_reference": {
+      "is_biblical": true,
+      "origin_scripture": "New Testament — Gospels",
+      "verse_reference": "Gospel of John; Matthew 3 (John the Baptist)",
+      "note": "Also borne by minor figures in the Old Testament."
+    },
+    "saint_reference": {
+      "is_saint_name": true,
+      "saint_name": "Saint John the Baptist; Saint John the Apostle",
+      "note": "Two of the most venerated saints in Christianity."
+    }
+  }
+}

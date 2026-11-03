@@ -74,26 +74,6 @@
       "Gianine"
     ],
     "popularity_score": 60,
-    "popularity_by_region": [
-      {
-        "region": "United States",
-        "country_code": "US",
-        "score": 68,
-        "year": 2024
-      },
-      {
-        "region": "Spain",
-        "country_code": "ES",
-        "score": 55,
-        "year": 2024
-      },
-      {
-        "region": "Poland",
-        "country_code": "PL",
-        "score": 52,
-        "year": 2024
-      }
-    ],
     "biblical_reference": {
       "is_biblical": false,
       "origin_scripture": "Not applicable",

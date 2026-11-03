@@ -84,38 +84,6 @@
       "Dhaaraa"
     ],
     "popularity_score": 70,
-    "popularity_by_region": [
-      {
-        "region": "Maharashtra",
-        "country_code": "IN",
-        "score": 76,
-        "year": 2024
-      },
-      {
-        "region": "India (Overall)",
-        "country_code": "IN",
-        "score": 84,
-        "year": 2024
-      },
-      {
-        "region": "Mauritius",
-        "country_code": "MU",
-        "score": 58,
-        "year": 2024
-      },
-      {
-        "region": "Karnataka",
-        "country_code": "IN",
-        "score": 89,
-        "year": 2024
-      },
-      {
-        "region": "Nepal",
-        "country_code": "NP",
-        "score": 54,
-        "year": 2024
-      }
-    ],
     "vedic_reference": {
       "is_vedic": true,
       "root_origin": "Sanskrit/Mythology/Vedic",

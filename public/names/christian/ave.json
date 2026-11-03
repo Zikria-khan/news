@@ -67,20 +67,6 @@
     ],
     "name_variations": [],
     "popularity_score": 80,
-    "popularity_by_region": [
-      {
-        "region": "United Kingdom",
-        "country_code": "UK",
-        "score": 85,
-        "year": 2024
-      },
-      {
-        "region": "Spain",
-        "country_code": "ES",
-        "score": 73,
-        "year": 2024
-      }
-    ],
     "biblical_reference": {
       "is_biblical": true,
       "origin_scripture": "Luke",

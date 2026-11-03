@@ -69,32 +69,6 @@
     ],
     "name_variations": [],
     "popularity_score": 70,
-    "popularity_by_region": [
-      {
-        "region": "United States",
-        "country_code": "US",
-        "score": 55,
-        "year": 2024
-      },
-      {
-        "region": "France",
-        "country_code": "FR",
-        "score": 85,
-        "year": 2024
-      },
-      {
-        "region": "United Kingdom",
-        "country_code": "UK",
-        "score": 51,
-        "year": 2024
-      },
-      {
-        "region": "Brazil",
-        "country_code": "BR",
-        "score": 57,
-        "year": 2024
-      }
-    ],
     "biblical_reference": {
       "is_biblical": true,
       "origin_scripture": "Genesis, Exodus, Leviticus, Numbers, Deuteronomy, Joshua, Judges, Ruth, Nehemiah, Ezekiel, Hosea, Daniel, Ezra, Esther, 1 Chronicles, 2 Chronicles, Nehemiah, Job, Psalms, Proverbs, Isaiah, Jeremiah, Lamentations, Daniel, Malachi",

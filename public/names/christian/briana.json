@@ -73,20 +73,6 @@
       "Briane"
     ],
     "popularity_score": 50,
-    "popularity_by_region": [
-      {
-        "region": "France",
-        "country_code": "FR",
-        "score": 61,
-        "year": 2024
-      },
-      {
-        "region": "Poland",
-        "country_code": "PL",
-        "score": 56,
-        "year": 2024
-      }
-    ],
     "biblical_reference": {
       "is_biblical": false,
       "origin_scripture": "",

@@ -78,32 +78,6 @@
       "Dhawal"
     ],
     "popularity_score": 65,
-    "popularity_by_region": [
-      {
-        "region": "Maharashtra",
-        "country_code": "IN",
-        "score": 71,
-        "year": 2024
-      },
-      {
-        "region": "Bali (Indonesia)",
-        "country_code": "ID",
-        "score": 67,
-        "year": 2024
-      },
-      {
-        "region": "Karnataka",
-        "country_code": "IN",
-        "score": 54,
-        "year": 2024
-      },
-      {
-        "region": "Nepal",
-        "country_code": "NP",
-        "score": 61,
-        "year": 2024
-      }
-    ],
     "vedic_reference": {
       "is_vedic": true,
       "root_origin": "Sanskrit/Mythology/Vedic",

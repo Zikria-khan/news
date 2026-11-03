@@ -70,26 +70,6 @@
     ],
     "name_variations": [],
     "popularity_score": 60,
-    "popularity_by_region": [
-      {
-        "region": "United Kingdom",
-        "country_code": "UK",
-        "score": 62,
-        "year": 2024
-      },
-      {
-        "region": "Poland",
-        "country_code": "PL",
-        "score": 78,
-        "year": 2024
-      },
-      {
-        "region": "Brazil",
-        "country_code": "BR",
-        "score": 63,
-        "year": 2024
-      }
-    ],
     "biblical_reference": {
       "is_biblical": false,
       "origin_scripture": "",

@@ -66,32 +66,6 @@
     ],
     "name_variations": [],
     "popularity_score": 75,
-    "popularity_by_region": [
-      {
-        "region": "United Kingdom",
-        "country_code": "UK",
-        "score": 88,
-        "year": 2024
-      },
-      {
-        "region": "France",
-        "country_code": "FR",
-        "score": 64,
-        "year": 2024
-      },
-      {
-        "region": "United States",
-        "country_code": "US",
-        "score": 56,
-        "year": 2024
-      },
-      {
-        "region": "Brazil",
-        "country_code": "BR",
-        "score": 71,
-        "year": 2024
-      }
-    ],
     "biblical_reference": {
       "is_biblical": true,
       "origin_scripture": "New Testament, Epistle to Philemon",

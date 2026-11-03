@@ -79,38 +79,6 @@
       "Easan"
     ],
     "popularity_score": 65,
-    "popularity_by_region": [
-      {
-        "region": "Tamil Nadu",
-        "country_code": "IN",
-        "score": 73,
-        "year": 2024
-      },
-      {
-        "region": "Mauritius",
-        "country_code": "MU",
-        "score": 70,
-        "year": 2024
-      },
-      {
-        "region": "Bali (Indonesia)",
-        "country_code": "ID",
-        "score": 46,
-        "year": 2024
-      },
-      {
-        "region": "Karnataka",
-        "country_code": "IN",
-        "score": 81,
-        "year": 2024
-      },
-      {
-        "region": "West Bengal",
-        "country_code": "IN",
-        "score": 75,
-        "year": 2024
-      }
-    ],
     "vedic_reference": {
       "is_vedic": true,
       "root_origin": "Sanskrit/Mythology/Vedic",

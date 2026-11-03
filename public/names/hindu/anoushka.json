@@ -80,32 +80,6 @@
       "Anouska"
     ],
     "popularity_score": 50,
-    "popularity_by_region": [
-      {
-        "region": "Gujarat",
-        "country_code": "IN",
-        "score": 48,
-        "year": 2024
-      },
-      {
-        "region": "Uttar Pradesh",
-        "country_code": "IN",
-        "score": 46,
-        "year": 2024
-      },
-      {
-        "region": "India (Overall)",
-        "country_code": "IN",
-        "score": 43,
-        "year": 2024
-      },
-      {
-        "region": "Nepal",
-        "country_code": "NP",
-        "score": 67,
-        "year": 2024
-      }
-    ],
     "vedic_reference": {
       "is_vedic": false,
       "root_origin": null,

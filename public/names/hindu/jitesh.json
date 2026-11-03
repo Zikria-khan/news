@@ -78,26 +78,6 @@
       "Jites"
     ],
     "popularity_score": 75,
-    "popularity_by_region": [
-      {
-        "region": "Tamil Nadu",
-        "country_code": "IN",
-        "score": 73,
-        "year": 2024
-      },
-      {
-        "region": "Karnataka",
-        "country_code": "IN",
-        "score": 61,
-        "year": 2024
-      },
-      {
-        "region": "Uttar Pradesh",
-        "country_code": "IN",
-        "score": 70,
-        "year": 2024
-      }
-    ],
     "vedic_reference": {
       "is_vedic": true,
       "root_origin": "Sanskrit/Mythology/Vedic",

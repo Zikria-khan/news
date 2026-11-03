@@ -81,32 +81,6 @@
       "Amriti"
     ],
     "popularity_score": 75,
-    "popularity_by_region": [
-      {
-        "region": "India (Overall)",
-        "country_code": "IN",
-        "score": 57,
-        "year": 2024
-      },
-      {
-        "region": "Bali (Indonesia)",
-        "country_code": "ID",
-        "score": 73,
-        "year": 2024
-      },
-      {
-        "region": "Mauritius",
-        "country_code": "MU",
-        "score": 82,
-        "year": 2024
-      },
-      {
-        "region": "Nepal",
-        "country_code": "NP",
-        "score": 58,
-        "year": 2024
-      }
-    ],
     "vedic_reference": {
       "is_vedic": true,
       "root_origin": "Amrita, the nectar of immortality from Hindu mythology, is mentioned in various Hindu scriptures like the Rigveda, Mahabharata, and Ramayana.",

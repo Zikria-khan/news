@@ -4,7 +4,7 @@
   "data": {
     "name": "Ahmad",
     "slug": "ahmad",
-    "content_revision": "v8.2",
+    "content_revision": "v9",
     "page_type": "name_meaning",
     "identity": {
       "display_name": "Ahmad",
@@ -12,336 +12,299 @@
       "name_type": "given_name",
       "gender": "Male",
       "gender_confidence": "HIGH",
-      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "gender_note": "A masculine given name; also used as a surname.",
       "alternate_spellings": [
-        "Ahmad",
-        "ahmad"
+        "Ahmed",
+        "Ahmet",
+        "Ahmmad",
+        "Achmad",
+        "Akhmad"
       ],
-      "name_status": "attested"
+      "name_status": "attested",
+      "search_variants": [
+        "achmad",
+        "ahmad",
+        "ahmed",
+        "ahmet",
+        "ahmmad",
+        "akhmad"
+      ]
     },
     "core_meaning": {
-      "short_meaning": "Most praiseworthy",
-      "primary_meaning": "Ahmad corresponds to the Arabic form أحمد and is glossed in this record as “Most praiseworthy.” The record associates the form with root ح م د (ḥ-m-d). The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
-      "literal_meaning": "Most praiseworthy",
-      "meaning_explanation": "Ahmad corresponds to the Arabic form أحمد (Arabic root ح م د (ḥ-m-d); أَحْمَد (ʾaḥmad)). Its core sense is most praiseworthy. Ahmad is Arabic أَحْمَد (ʾaḥmad) 'Most praiseworthy', the elative of praise built on the root ح م د (ḥ-m-d).",
+      "short_meaning": "Most praised, most praiseworthy",
+      "primary_meaning": "Ahmad (Arabic أحمد, ʾAḥmad) is an Arabic male name from the root ḥ-m-d, “to praise”. It means “most praised” or “most praiseworthy” and is one of the best-known names of the Prophet Muhammad, which is why it is common across the Muslim world.",
+      "literal_meaning": "More/most praised (elative of ḥ-m-d)",
+      "meaning_explanation": "Ahmad comes from the verb ḥamida, “to thank, to praise”. It shares its root with Muhammad, Mahmud, Hamid and Hamad. In the Qur'an (61:6) Isa (Jesus) foretells a messenger named Ahmad, which most Muslim scholars understand as Muhammad.",
       "meaning_confidence": "HIGH"
     },
     "etymology": {
       "primary_language": "Arabic",
-      "lexical_form": "أحمد",
-      "transliteration": "ahmad",
+      "lexical_form": "أَحْمَد",
+      "transliteration": "ʾAḥmad",
       "root": "ح م د",
       "root_transliteration": "ḥ-m-d",
-      "morphology": "Elative adjective (afʿal pattern) of حَمِدَ (ḥamida, 'to praise'), built on the root ح م د.",
-      "feminine_form": null,
-      "etymological_meaning": "From the root ح م د (ḥ-m-d)",
-      "root_family": [],
-      "etymology_explanation": "The form أحمد is an established Arabic lexical item — the elative of the root ح م د — and Ahmad is the word itself used as a personal name rather than a derived or diminutive form.",
+      "morphology": "Elative (afʿal) form of the root ḥ-m-d.",
+      "etymological_meaning": [
+        "most praised",
+        "most praiseworthy"
+      ],
+      "etymology_explanation": "From the root ح م د (ḥ-m-d), verb ḥamida “to thank or to praise”.",
       "etymology_confidence": "HIGH",
-      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+      "false_etymology_warning": ""
     },
     "language": {
       "primary": "Arabic",
       "associated_languages": [
-        "Arabic"
+        "Arabic",
+        "Urdu",
+        "Persian",
+        "Turkish",
+        "Malay"
       ],
-      "language_notes": {
-        "primary": "Arabic is the language of the recorded form أحمد.",
-        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
-      },
       "language_confidence": "HIGH"
     },
     "origin": {
       "primary_origin": "Arabic",
       "origin_type": "linguistic",
       "origin_confidence": "HIGH",
-      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "origin_explanation": "Arabic, spread with Islam. Its transliteration has one of the largest numbers of spelling variants of any name (Ahmed, Ahmet, Akhmad, Achmad…).",
       "cultural_transmission": [
-        "Arabic",
-        "Muslim South Asia",
-        "Urdu-speaking communities"
+        "Arabic world",
+        "Turkey (Ahmet)",
+        "Iran and South Asia (Ahmad)",
+        "Central Asia (Akhmad)",
+        "Indonesia (Achmad)"
       ]
     },
     "religion": {
-      "primary_association": "Islamic-cultural usage",
-      "religion_confidence": "MEDIUM",
-      "religious_status": "Culturally used; not inherently a doctrinal term",
-      "religious_explanation": "Ahmad is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "primary_association": "Islamic — a name of the Prophet Muhammad",
+      "religion_confidence": "HIGH",
+      "religious_status": "Qur'anic name of the Prophet (61:6)",
+      "religious_explanation": "In Surah al-Saff (61:6) Isa (Jesus) announces a messenger to come “whose name is Ahmad”; most Muslim scholars take this to mean Muhammad. Hadith in Sahih al-Bukhari report Muhammad naming himself Ahmad. Some Western scholars, such as W. Montgomery Watt, argued that Ahmad was not used as a proper name for Muhammad until the second Islamic century.",
       "quranic_status": {
-        "is_quranic": false,
-        "status": "not_verified",
-        "note": "Ahmad is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
-      },
-      "hadith_status": {
-        "status": "not_verified",
-        "note": "No specific authentic hadith report about this name is cited; none is invented."
+        "is_quranic_name": true,
+        "quranic_reference": "Qur'an 61:6",
+        "note": "Prophecy attributed to Isa of a messenger named Ahmad."
       },
       "prophetic_status": {
-        "status": "not_verified",
-        "note": "No verified source establishes Ahmad as the name of a prophet."
+        "prophet_association": true,
+        "reference": "The Prophet Muhammad"
       },
       "companion_status": {
-        "status": "not_verified",
-        "note": "No companion (sahabi) of this name is attested in this record."
+        "known_companion_association": false,
+        "reference": ""
       }
-    },
-    "islamic_naming_context": {
-      "can_be_used_by_muslims": true,
-      "context": "Muslim naming culture in South Asia and the Persianate world",
-      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
-      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
     },
     "cultural_context": {
       "primary_cultural_associations": [
-        "Arabic",
-        "Muslim South Asia"
+        "Arab",
+        "Turkish",
+        "Persian",
+        "South Asian",
+        "Malay"
       ],
-      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
-      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
-      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
-    },
-    "semantic_field": {
-      "primary_semantic_domain": "Most praiseworthy",
-      "related_concepts": [
-        "Most praiseworthy"
-      ]
+      "cultural_meaning": "Some traditions regard Ahmad as the Prophet's more esoteric name; some Muslim scholars also compared it with the biblical “Paraclete”, a view that is not universal.",
+      "impact": ""
     },
     "spiritual_meaning": {
       "status": "interpretive",
-      "render": true,
-      "meaning": "Families may read the sense “Most praiseworthy” as a hopeful quality for the child.",
-      "basis": "Lexical meaning: Most praiseworthy.",
+      "render": false,
+      "meaning": "",
       "is_direct_religious_definition": false
     },
     "personality_associations": {
       "status": "not_verified",
-      "render": false,
-      "note": "No verified basis links this name to specific personality traits."
+      "render": false
     },
     "hidden_personality_traits": {
       "status": "not_verified",
-      "render": false,
-      "note": "No verified basis."
-    },
-    "numerology": {
-      "status": "interpretive",
-      "render": true,
-      "lucky_number": 9,
-      "life_path_number": 9,
-      "ruling_planet": "Mars",
-      "lucky_day": "Tuesday",
-      "lucky_colors": [
-        "Red",
-        "Crimson"
-      ],
-      "lucky_stone": "Red Coral",
-      "meaning": "In Pythagorean numerology the letters of Ahmad total 9, associated with compassion, idealism and completion. This is an interpretive tradition, not a factual claim.",
-      "note": "Numerology is an optional interpretive layer."
-    },
-    "lucky_attributes": {
-      "status": "interpretive",
-      "render": true,
-      "lucky_number": 9,
-      "lucky_day": "Tuesday",
-      "lucky_colors": [
-        "Red",
-        "Crimson"
-      ],
-      "lucky_stone": "Red Coral",
-      "ruling_planet": "Mars"
+      "render": false
     },
     "translations": {
       "english": {
         "name": "Ahmad",
         "script": "Ahmad",
-        "meaning": "Most praiseworthy",
-        "long_meaning": "Ahmad is an Arabic-origin given name; in Arabic the word means “Most praiseworthy”."
-      },
-      "urdu": {
-        "name": "احمد",
-        "script": "احمد",
-        "meaning": "بہت تعریف کیا ہوا، احمد",
-        "long_meaning": "Ahmad (احمد) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم بہت تعریف کیا ہوا، احمد ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
-      },
-      "persian": {
-        "name": "أحمد",
-        "script": "أحمد",
-        "meaning": "بسیار ستوده، احمد، محمود",
-        "long_meaning": "Ahmad (أحمد) نامی برگرفته از زبان عربی است و معنای اصلی آن بسیار ستوده، احمد، محمود است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
-      },
-      "hindi": {
-        "name": "अहमद",
-        "script": "अहमद",
-        "meaning": "अत्यंत प्रशंसनीय, अहमद",
-        "long_meaning": "Ahmad (अहमद) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ अत्यंत प्रशंसनीय, अहमद है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
-      },
-      "pashto": {
-        "name": "احمد",
-        "script": "احمد",
-        "meaning": "ډېر ستایل شوی، احمد",
-        "long_meaning": "Ahmad (احمد) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې ډېر ستایل شوی، احمد ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
-        "native_review_required": true
+        "meaning": "Most praised",
+        "long_meaning": ""
       },
       "arabic": {
         "name": "أحمد",
         "script": "أحمد",
-        "meaning": "أحمد، محمود، حميد",
-        "long_meaning": "Ahmad (أحمد) اسم مأخوذ من اللغة العربية، ومعناه الأساسي أحمد، محمود، حميد. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
-        "native_review_required": true
+        "meaning": "الأكثر حمداً",
+        "long_meaning": ""
+      },
+      "urdu": {
+        "name": "احمد",
+        "script": "احمد",
+        "meaning": "سب سے زیادہ تعریف کیا گیا",
+        "long_meaning": ""
+      },
+      "persian": {
+        "name": "احمد",
+        "script": "احمد",
+        "meaning": "ستوده‌ترین",
+        "long_meaning": ""
+      },
+      "hindi": {
+        "name": "अहमद",
+        "script": "अहमद",
+        "meaning": "सबसे अधिक प्रशंसित",
+        "long_meaning": ""
       }
     },
     "translation_quality": {
       "strategy": "semantic_translation",
-      "confidence": "HIGH",
-      "native_review_required": true,
-      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+      "confidence": "MEDIUM",
+      "native_review_required": true
     },
     "pronunciation": {
-      "romanized": "ah-mad",
-      "ipa": null,
-      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
-      "common_mispronunciation": null,
-      "scripts": {
-        "arabic": "أحمد"
-      }
+      "english": "AH-mad",
+      "ipa": "/ˈʔaħmad/",
+      "note": "Egyptian Arabic and Turkish say Ah-med / Ah-met."
     },
     "name_variants": {
       "romanized_variants": [
-        "Ahmad"
+        "Ahmed",
+        "Ahmet",
+        "Ahmmad",
+        "Achmad",
+        "Akhmad"
       ],
-      "script_forms": [
-        "أحمد",
-        "احمد",
-        "अहमद"
+      "script_variants": [
+        "أحمد (Arabic)",
+        "احمد (Urdu/Persian)",
+        "अहमद (Devanagari)"
       ],
-      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
-      "do_not_merge_with": []
+      "variant_notes": "Ahmed (Egypt, English), Ahmet (Turkish), Achmad (Indonesian), Akhmad (Central Asian/Russian transliteration)."
     },
-    "related_names": [],
+    "related_names": [
+      "Muhammad",
+      "Mahmud",
+      "Hamid",
+      "Hamad",
+      "Hamza"
+    ],
     "historical_context": {
       "status": "verified",
-      "note": "The form أحمد is an established Arabic lexical item."
+      "known_linguistic_history": [
+        "Ahmad is linked to the Qur'anic prophecy in 61:6.",
+        "Used as a personal name throughout Islamic history, e.g. Ahmad ibn Hanbal (founder of the Hanbali school)."
+      ],
+      "historical_person_association": "The Prophet Muhammad, called Ahmad in Qur'an 61:6.",
+      "historical_event_association": "",
+      "historical_claim_confidence": "HIGH"
     },
     "modern_usage": {
-      "status": "requires_frequency_data",
-      "note": "Personal-name popularity must be measured separately from lexical presence."
+      "status": "qualitative",
+      "modern_context": "Common throughout the Muslim world; Ahmed is the usual Egyptian/English spelling and Ahmet the Turkish one."
     },
     "popularity": {
       "status": "not_measured",
       "render": false,
       "score": null,
-      "by_region": [],
-      "note": "No verified popularity or registration data is available."
+      "by_region": []
     },
     "celebrity_usage": {
-      "status": "not_verified",
-      "render": false,
-      "items": [],
-      "note": "No verified celebrity usage is recorded."
-    },
-    "real_world_usage": {
-      "status": "not_verified",
-      "render": false,
-      "note": "No verified real-life bearer story is published; none is invented."
-    },
-    "name_story": {
       "status": "none",
-      "render": false,
-      "story": ""
+      "verified": [],
+      "note": ""
     },
     "faq": [
       {
         "q": "What does Ahmad mean?",
-        "a": "Ahmad is an Arabic-origin name meaning “Most praiseworthy”."
+        "a": "“Most praised” or “most praiseworthy”, from the Arabic root ḥ-m-d, “to praise”."
       },
       {
-        "q": "What is the origin of Ahmad?",
-        "a": "Ahmad originates in Arabic and circulates in Muslim naming communities."
+        "q": "Is Ahmad mentioned in the Qur'an?",
+        "a": "Yes. In Qur'an 61:6 Isa (Jesus) foretells a messenger “whose name is Ahmad”, understood by most Muslim scholars as Muhammad."
       },
       {
-        "q": "Is Ahmad an Arabic name?",
-        "a": "Yes, the recorded form أحمد is Arabic."
+        "q": "Is Ahmad the same as Muhammad?",
+        "a": "They are different names from the same root, ḥ-m-d. Ahmad is considered one of the names of the Prophet Muhammad."
       },
       {
-        "q": "What is the root of Ahmad?",
-        "a": "It is built on the root ح م د (ḥ-m-d)."
+        "q": "Ahmad or Ahmed — which is correct?",
+        "a": "Both. They transliterate the same Arabic أحمد; Ahmed reflects Egyptian and Turkish pronunciation."
       },
       {
-        "q": "Is Ahmad an Islamic name?",
-        "a": "Ahmad is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
-      },
-      {
-        "q": "Is Ahmad a Quranic name?",
-        "a": "Ahmad is not independently established as a Qur'anic personal name."
-      },
-      {
-        "q": "What does Ahmad mean in Urdu?",
-        "a": "In Urdu it is written احمد and carries the sense “بہت تعریف کیا ہوا، احمد”."
-      },
-      {
-        "q": "How is Ahmad pronounced?",
-        "a": "A romanized syllable approximation is “ah-mad”."
-      },
-      {
-        "q": "Is Ahmad a boy's or girl's name?",
-        "a": "Documented usage records Ahmad as a boy's name; actual use can vary by community."
+        "q": "Which names share Ahmad's root?",
+        "a": "Muhammad, Mahmud, Hamid and Hamad all come from ḥ-m-d."
       }
     ],
     "seo": {
-      "title": "Ahmad Name Meaning, Origin & Islamic Context",
-      "meta_description": "Ahmad (أحمد) — meaning, origin, pronunciation and Islamic naming context.",
-      "meta_keywords": "Ahmad meaning, Ahmad name meaning, Ahmad origin, Ahmad meaning in Urdu, Ahmad pronunciation, Ahmad Islamic name",
-      "description_paragraph": "Ahmad is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "title": "Ahmad Name Meaning: “Most Praised” — Arabic Root, Qur'an 61:6",
+      "meta_description": "Ahmad (أحمد) is an Arabic boy's name meaning most praised, from the root ḥ-m-d. A name of the Prophet Muhammad in Qur'an 61:6. Variants Ahmed, Ahmet.",
       "keywords": [
         "Ahmad meaning",
         "Ahmad name meaning",
-        "Ahmad origin",
+        "Ahmad in Quran",
         "Ahmad meaning in Urdu",
-        "Ahmad pronunciation",
-        "Ahmad Islamic name"
+        "Ahmed meaning"
       ],
-      "focus_keyword": "Ahmad meaning",
-      "secondary_keywords": [
-        "Ahmad name meaning",
-        "Ahmad origin",
-        "Ahmad meaning in Urdu",
-        "Ahmad pronunciation",
-        "Ahmad Islamic name"
-      ],
-      "canonical_url": "https://nameverse.site/names/islamic/ahmad",
-      "seo_score": 95,
-      "seo_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+      "description_paragraph": "Ahmad (Arabic أحمد, ʾAḥmad) is an Arabic male name from the root ḥ-m-d, “to praise”. It means “most praised” or “most praiseworthy” and is one of the best-known names of the Prophet Muhammad, which is why it is common across the Muslim world."
     },
-    "seo_content": {
-      "intro_paragraph": "This page explains the meaning and origin of the name Ahmad, an Arabic-origin name used in Muslim communities.",
-      "body_summary": "Ahmad is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
-    },
-    "social_tags": [
-      "#Ahmad",
-      "#AhmadMeaning",
-      "#NameMeaning",
-      "#IslamicNames",
-      "#NameOrigin"
-    ],
     "content_quality": {
-      "tier1_verified": true,
-      "authenticity_flags": [],
+      "overall_status": "source-checked",
       "fabricated_content_removed": true,
-      "fields_total": 150,
-      "quality_score": 95,
-      "quality_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+      "meaning_authenticity": "Each core claim checked against a cited source page"
     },
     "evidence": {
       "sources": [
-        "The recorded Arabic form أحمد (elative form, root ح م د) carries the sense “Most praiseworthy”."
+        {
+          "id": "wiki-name",
+          "title": "Ahmad (name) — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ahmad_(name)",
+          "supports": [
+            "meaning",
+            "root",
+            "religion",
+            "variants"
+          ]
+        }
       ],
-      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+      "core_claims": [
+        {
+          "claim": "Ahmad is an Arabic male given name, one of the well-known names of the Prophet Muhammad.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "It derives from the root ḥ-m-d, verb ḥamida, 'to thank or to praise'.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "It is tied to the prophecy attributed to Isa in Qur'an 61:6.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "It shares its root with Mahmud, Muhammad, Hamed and Hamad.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Hadith collections such as Sahih al-Bukhari report Muhammad calling himself Ahmad.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "W. Montgomery Watt argued it was not used as a proper name for Muhammad until the second Islamic century.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Some scholars compared the name with the biblical Paraclete, a view that is not universal.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        }
+      ],
+      "verification_method": "v9_upgrade.py: every claim's key terms located in the cited source text"
     },
     "provenance": {
-      "pipeline": "NameVerse Production v8.2 (one-by-one HIGH curation)",
-      "methodology": "Single-name deep curation -> root verification -> rebuild distinct fields -> validate",
-      "upgraded_from": "v8",
-      "processed_at": "2026-10-09T04:33:06Z"
+      "pipeline": "NameVerse v9 source-checked upgrade",
+      "upgraded_from": "v8.2",
+      "processed_at": "2026-11-03T03:07:17+00:00"
     },
     "structured_data": {
       "@context": "https://schema.org",
@@ -349,7 +312,7 @@
         {
           "@type": "DefinedTerm",
           "name": "Ahmad",
-          "description": "Ahmad — an Arabic-origin given name meaning Most praiseworthy",
+          "description": "Ahmad — Most praised, most praiseworthy",
           "inDefinedTermSet": {
             "@type": "DefinedTermSet",
             "name": "NameVerse Islamic Names"
@@ -363,95 +326,40 @@
               "name": "What does Ahmad mean?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Ahmad is an Arabic-origin name meaning “Most praiseworthy”."
+                "text": "“Most praised” or “most praiseworthy”, from the Arabic root ḥ-m-d, “to praise”."
               }
             },
             {
               "@type": "Question",
-              "name": "What is the origin of Ahmad?",
+              "name": "Is Ahmad mentioned in the Qur'an?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Ahmad originates in Arabic and circulates in Muslim naming communities."
+                "text": "Yes. In Qur'an 61:6 Isa (Jesus) foretells a messenger “whose name is Ahmad”, understood by most Muslim scholars as Muhammad."
               }
             },
             {
               "@type": "Question",
-              "name": "Is Ahmad an Arabic name?",
+              "name": "Is Ahmad the same as Muhammad?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Yes, the recorded form أحمد is Arabic."
+                "text": "They are different names from the same root, ḥ-m-d. Ahmad is considered one of the names of the Prophet Muhammad."
               }
             },
             {
               "@type": "Question",
-              "name": "What is the root of Ahmad?",
+              "name": "Ahmad or Ahmed — which is correct?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "It is built on the root ح م د (ḥ-m-d)."
+                "text": "Both. They transliterate the same Arabic أحمد; Ahmed reflects Egyptian and Turkish pronunciation."
               }
             },
             {
               "@type": "Question",
-              "name": "Is Ahmad an Islamic name?",
+              "name": "Which names share Ahmad's root?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Ahmad is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+                "text": "Muhammad, Mahmud, Hamid and Hamad all come from ḥ-m-d."
               }
-            },
-            {
-              "@type": "Question",
-              "name": "Is Ahmad a Quranic name?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Ahmad is not independently established as a Qur'anic personal name."
-              }
-            },
-            {
-              "@type": "Question",
-              "name": "What does Ahmad mean in Urdu?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "In Urdu it is written احمد and carries the sense “بہت تعریف کیا ہوا، احمد”."
-              }
-            },
-            {
-              "@type": "Question",
-              "name": "How is Ahmad pronounced?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "A romanized syllable approximation is “ah-mad”."
-              }
-            },
-            {
-              "@type": "Question",
-              "name": "Is Ahmad a boy's or girl's name?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Documented usage records Ahmad as a boy's name; actual use can vary by community."
-              }
-            }
-          ]
-        },
-        {
-          "@type": "BreadcrumbList",
-          "itemListElement": [
-            {
-              "@type": "ListItem",
-              "position": 1,
-              "name": "Home",
-              "item": "https://nameverse.site/"
-            },
-            {
-              "@type": "ListItem",
-              "position": 2,
-              "name": "Islamic Names",
-              "item": "https://nameverse.site/names/islamic"
-            },
-            {
-              "@type": "ListItem",
-              "position": 3,
-              "name": "Ahmad",
-              "item": "https://nameverse.site/names/islamic/ahmad"
             }
           ]
         }
@@ -459,31 +367,54 @@
     },
     "editorial_validation": {
       "needs_manual_verification": false,
-      "flags": [],
       "confidence": "HIGH",
-      "reviewed_by": "NameVerse one-by-one HIGH curation",
-      "reviewed_at": "2026-10-09T04:33:06Z"
+      "flags": [
+        "translations pending native-speaker review"
+      ],
+      "reviewed_at": "2026-11-03T03:07:17+00:00"
     },
     "render_policy": {
       "render_verified": true,
       "render_interpretive": true,
-      "hide_unverified": true,
-      "single_definition_source": "core_meaning.primary_meaning",
-      "non_rendered_definition_fields": [
-        "core_meaning.short_meaning",
-        "core_meaning.literal_meaning",
-        "semantic_field",
-        "etymology.etymological_meaning"
-      ],
+      "hide_unverified": false,
       "hidden_sections": [
         "personality_associations",
         "hidden_personality_traits",
         "popularity",
-        "celebrity_usage",
         "real_world_usage",
-        "spiritual_meaning",
-        "name_story"
-      ]
+        "name_story",
+        "spiritual_meaning"
+      ],
+      "source_checked": true
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Given in honour of the Prophet, often as the first element of compound names (Ahmad Ali, Ahmad Raza).",
+      "interpretation": "Chosen for its link with the Prophet and its meaning “most praised”.",
+      "important_distinction": "The meaning comes from Arabic grammar; its religious weight comes from the Qur'anic verse and the Prophet."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 9,
+      "life_path_number": 9,
+      "lucky_day": "Tuesday",
+      "lucky_colors": [
+        "Red",
+        "Crimson"
+      ],
+      "lucky_stone": "Red Coral",
+      "meaning": "In Pythagorean numerology the letters of Ahmad total 9, associated with compassion, idealism and completion. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer, not a linguistic fact."
+    },
+    "lucky_attributes": {
+      "lucky_number": 9,
+      "lucky_day": "Tuesday",
+      "lucky_colors": [
+        "Red",
+        "Crimson"
+      ],
+      "lucky_stone": "Red Coral"
     }
   }
 }

@@ -84,38 +84,6 @@
       "Harsavardhan"
     ],
     "popularity_score": 75,
-    "popularity_by_region": [
-      {
-        "region": "Nepal",
-        "country_code": "NP",
-        "score": 59,
-        "year": 2024
-      },
-      {
-        "region": "Gujarat",
-        "country_code": "IN",
-        "score": 60,
-        "year": 2024
-      },
-      {
-        "region": "Bali (Indonesia)",
-        "country_code": "ID",
-        "score": 82,
-        "year": 2024
-      },
-      {
-        "region": "Mauritius",
-        "country_code": "MU",
-        "score": 66,
-        "year": 2024
-      },
-      {
-        "region": "Karnataka",
-        "country_code": "IN",
-        "score": 92,
-        "year": 2024
-      }
-    ],
     "vedic_reference": {
       "is_vedic": true,
       "root_origin": "Vardhan is a form of Lord Vishnu",

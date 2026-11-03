@@ -80,26 +80,6 @@
       "Geetiki"
     ],
     "popularity_score": 75,
-    "popularity_by_region": [
-      {
-        "region": "Maharashtra",
-        "country_code": "IN",
-        "score": 95,
-        "year": 2024
-      },
-      {
-        "region": "Uttar Pradesh",
-        "country_code": "IN",
-        "score": 78,
-        "year": 2024
-      },
-      {
-        "region": "Nepal",
-        "country_code": "NP",
-        "score": 87,
-        "year": 2024
-      }
-    ],
     "vedic_reference": {
       "is_vedic": true,
       "root_origin": "Sanskrit/Mythology/Vedic",

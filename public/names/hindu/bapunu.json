@@ -74,26 +74,6 @@
       "Baapunu"
     ],
     "popularity_score": 50,
-    "popularity_by_region": [
-      {
-        "region": "India (Overall)",
-        "country_code": "IN",
-        "score": 62,
-        "year": 2024
-      },
-      {
-        "region": "West Bengal",
-        "country_code": "IN",
-        "score": 54,
-        "year": 2024
-      },
-      {
-        "region": "Bali (Indonesia)",
-        "country_code": "ID",
-        "score": 54,
-        "year": 2024
-      }
-    ],
     "vedic_reference": null,
     "cultural_impact": "",
     "spiritual_significance": "",

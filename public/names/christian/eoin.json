@@ -69,26 +69,6 @@
     ],
     "name_variations": [],
     "popularity_score": 70,
-    "popularity_by_region": [
-      {
-        "region": "Brazil",
-        "country_code": "BR",
-        "score": 66,
-        "year": 2024
-      },
-      {
-        "region": "Germany",
-        "country_code": "DE",
-        "score": 67,
-        "year": 2024
-      },
-      {
-        "region": "Spain",
-        "country_code": "ES",
-        "score": 86,
-        "year": 2024
-      }
-    ],
     "biblical_reference": {
       "is_biblical": true,
       "origin_scripture": "Old Testament",

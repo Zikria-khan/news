@@ -79,38 +79,6 @@
       "Gaagaan"
     ],
     "popularity_score": 70,
-    "popularity_by_region": [
-      {
-        "region": "Nepal",
-        "country_code": "NP",
-        "score": 80,
-        "year": 2024
-      },
-      {
-        "region": "Uttar Pradesh",
-        "country_code": "IN",
-        "score": 67,
-        "year": 2024
-      },
-      {
-        "region": "Bali (Indonesia)",
-        "country_code": "ID",
-        "score": 51,
-        "year": 2024
-      },
-      {
-        "region": "Mauritius",
-        "country_code": "MU",
-        "score": 73,
-        "year": 2024
-      },
-      {
-        "region": "Karnataka",
-        "country_code": "IN",
-        "score": 78,
-        "year": 2024
-      }
-    ],
     "vedic_reference": {
       "is_vedic": true,
       "root_origin": "Sanskrit/Mythology/Vedic",

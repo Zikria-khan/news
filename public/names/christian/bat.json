@@ -69,26 +69,6 @@
     ],
     "name_variations": [],
     "popularity_score": 55,
-    "popularity_by_region": [
-      {
-        "region": "United Kingdom",
-        "country_code": "UK",
-        "score": 40,
-        "year": 2024
-      },
-      {
-        "region": "France",
-        "country_code": "FR",
-        "score": 67,
-        "year": 2024
-      },
-      {
-        "region": "United States",
-        "country_code": "US",
-        "score": 50,
-        "year": 2024
-      }
-    ],
     "biblical_reference": {
       "is_biblical": false,
       "note": "Not a direct biblical name, but derived from Hebrew 'Chat'"

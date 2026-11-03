@@ -71,26 +71,6 @@
       "Augustine"
     ],
     "popularity_score": 60,
-    "popularity_by_region": [
-      {
-        "region": "Germany",
-        "country_code": "DE",
-        "score": 49,
-        "year": 2024
-      },
-      {
-        "region": "United States",
-        "country_code": "US",
-        "score": 77,
-        "year": 2024
-      },
-      {
-        "region": "Poland",
-        "country_code": "PL",
-        "score": 67,
-        "year": 2024
-      }
-    ],
     "biblical_reference": {
       "is_biblical": false,
       "note": "Name has Christian roots, not directly from Bible"

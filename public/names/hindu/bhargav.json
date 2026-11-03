@@ -83,38 +83,6 @@
       "Bhargaw"
     ],
     "popularity_score": 75,
-    "popularity_by_region": [
-      {
-        "region": "Tamil Nadu",
-        "country_code": "IN",
-        "score": 88,
-        "year": 2024
-      },
-      {
-        "region": "Maharashtra",
-        "country_code": "IN",
-        "score": 64,
-        "year": 2024
-      },
-      {
-        "region": "Karnataka",
-        "country_code": "IN",
-        "score": 86,
-        "year": 2024
-      },
-      {
-        "region": "Nepal",
-        "country_code": "NP",
-        "score": 67,
-        "year": 2024
-      },
-      {
-        "region": "Mauritius",
-        "country_code": "MU",
-        "score": 56,
-        "year": 2024
-      }
-    ],
     "vedic_reference": {
       "is_vedic": true,
       "root_origin": "Vedic origin",

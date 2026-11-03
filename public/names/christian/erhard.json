@@ -72,26 +72,6 @@
     ],
     "name_variations": [],
     "popularity_score": 60,
-    "popularity_by_region": [
-      {
-        "region": "Italy",
-        "country_code": "IT",
-        "score": 79,
-        "year": 2024
-      },
-      {
-        "region": "Poland",
-        "country_code": "PL",
-        "score": 46,
-        "year": 2024
-      },
-      {
-        "region": "Germany",
-        "country_code": "DE",
-        "score": 65,
-        "year": 2024
-      }
-    ],
     "biblical_reference": {
       "is_biblical": false,
       "origin_scripture": "",

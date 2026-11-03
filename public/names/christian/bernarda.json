@@ -75,26 +75,6 @@
       "Bernarde"
     ],
     "popularity_score": 60,
-    "popularity_by_region": [
-      {
-        "region": "Brazil",
-        "country_code": "BR",
-        "score": 79,
-        "year": 2024
-      },
-      {
-        "region": "Spain",
-        "country_code": "ES",
-        "score": 70,
-        "year": 2024
-      },
-      {
-        "region": "United Kingdom",
-        "country_code": "UK",
-        "score": 51,
-        "year": 2024
-      }
-    ],
     "biblical_reference": {
       "is_biblical": false,
       "origin_scripture": "",

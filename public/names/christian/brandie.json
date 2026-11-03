@@ -66,26 +66,6 @@
     ],
     "name_variations": [],
     "popularity_score": 75,
-    "popularity_by_region": [
-      {
-        "region": "Brazil",
-        "country_code": "BR",
-        "score": 56,
-        "year": 2024
-      },
-      {
-        "region": "Poland",
-        "country_code": "PL",
-        "score": 81,
-        "year": 2024
-      },
-      {
-        "region": "United States",
-        "country_code": "US",
-        "score": 68,
-        "year": 2024
-      }
-    ],
     "biblical_reference": {
       "is_biblical": true,
       "origin_scripture": "Isaiah 60:1",

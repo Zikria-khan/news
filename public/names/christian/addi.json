@@ -72,32 +72,6 @@
     ],
     "name_variations": [],
     "popularity_score": 70,
-    "popularity_by_region": [
-      {
-        "region": "Brazil",
-        "country_code": "BR",
-        "score": 57,
-        "year": 2024
-      },
-      {
-        "region": "Germany",
-        "country_code": "DE",
-        "score": 74,
-        "year": 2024
-      },
-      {
-        "region": "France",
-        "country_code": "FR",
-        "score": 83,
-        "year": 2024
-      },
-      {
-        "region": "United Kingdom",
-        "country_code": "UK",
-        "score": 60,
-        "year": 2024
-      }
-    ],
     "biblical_reference": {
       "is_biblical": true,
       "origin_scripture": "1 Chronicles",

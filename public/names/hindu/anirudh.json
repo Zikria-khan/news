@@ -84,32 +84,6 @@
     ],
     "name_variations": [],
     "popularity_score": 75,
-    "popularity_by_region": [
-      {
-        "region": "Mauritius",
-        "country_code": "MU",
-        "score": 92,
-        "year": 2024
-      },
-      {
-        "region": "West Bengal",
-        "country_code": "IN",
-        "score": 86,
-        "year": 2024
-      },
-      {
-        "region": "Maharashtra",
-        "country_code": "IN",
-        "score": 69,
-        "year": 2024
-      },
-      {
-        "region": "Nepal",
-        "country_code": "NP",
-        "score": 64,
-        "year": 2024
-      }
-    ],
     "vedic_reference": {
       "is_vedic": true,
       "root_origin": "Sanskrit root रुध् (rudh) - to check, control",

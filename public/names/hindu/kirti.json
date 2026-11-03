@@ -82,26 +82,6 @@
       "Kirty"
     ],
     "popularity_score": 65,
-    "popularity_by_region": [
-      {
-        "region": "India (Overall)",
-        "country_code": "IN",
-        "score": 78,
-        "year": 2024
-      },
-      {
-        "region": "Nepal",
-        "country_code": "NP",
-        "score": 59,
-        "year": 2024
-      },
-      {
-        "region": "Mauritius",
-        "country_code": "MU",
-        "score": 81,
-        "year": 2024
-      }
-    ],
     "vedic_reference": {
       "is_vedic": false,
       "root_origin": "Sanskrit",

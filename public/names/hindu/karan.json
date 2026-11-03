@@ -80,38 +80,6 @@
       "Kaaraan"
     ],
     "popularity_score": 70,
-    "popularity_by_region": [
-      {
-        "region": "Nepal",
-        "country_code": "NP",
-        "score": 85,
-        "year": 2024
-      },
-      {
-        "region": "Mauritius",
-        "country_code": "MU",
-        "score": 80,
-        "year": 2024
-      },
-      {
-        "region": "Tamil Nadu",
-        "country_code": "IN",
-        "score": 62,
-        "year": 2024
-      },
-      {
-        "region": "West Bengal",
-        "country_code": "IN",
-        "score": 50,
-        "year": 2024
-      },
-      {
-        "region": "Gujarat",
-        "country_code": "IN",
-        "score": 60,
-        "year": 2024
-      }
-    ],
     "vedic_reference": {
       "is_vedic": true,
       "root_origin": "Sanskrit/Mythology/Vedic",

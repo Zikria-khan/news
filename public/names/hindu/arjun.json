@@ -1,218 +1,467 @@
 {
+  "schema_version": "super-2.0",
   "success": true,
   "data": {
     "name": "Arjun",
     "slug": "arjun",
-    "language": [
-      "Sanskrit",
-      "Hindi"
-    ],
-    "gender": "male",
-    "origin": "Hindu",
-    "religion": "hindu",
-    "category": "Hindu",
-    "short_meaning": "Dark One",
-    "long_meaning": "Arising from darkness, Arjuna is a heroic warrior from Hindu mythology. The name Arjun comes from the Sanskrit word arjuna, meaning dark or dark-complexioned.",
-    "spiritual_meaning": "Arjuna represents the divine warrior within each of us, the one who embodies courage and bravery in the face of adversity.",
-    "emotional_traits": [
-      "Brave",
-      "Courageous",
-      "Fearless"
-    ],
-    "hidden_personality_traits": [
-      "Determined",
-      "Loyal",
-      "Self-disciplined"
-    ],
-    "lucky_number": 3,
-    "lucky_day": "Monday",
-    "lucky_colors": [
-      "Blue",
-      "Black"
-    ],
-    "lucky_stone": "Ruby",
-    "life_path_number": 8,
-    "numerology_meaning": "People with the life path number 8 have strong ambition and a desire for material success. They are natural leaders and enjoy being in charge.",
-    "in_sanskrit": {
-      "name": "अर्जुन",
-      "meaning": "manly, valiant, strong",
-      "long_meaning": "The name Arjun is derived from the Sanskrit word 'arjuna' which means 'manly', 'valiant', 'strong'. In Hindu mythology, Arjun is a significant character in the Mahabharata and is considered one of the greatest warriors in Indian history."
+    "content_revision": "v9",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Arjun",
+      "normalized_name": "arjun",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "A male given name.",
+      "alternate_spellings": [
+        "Arjuna",
+        "Arjunan"
+      ],
+      "name_status": "attested",
+      "search_variants": [
+        "arjun",
+        "arjuna",
+        "arjunan"
+      ]
     },
-    "in_hindi": {
-      "name": "अर्जुन",
-      "meaning": "शक्तिशाली",
-      "long_meaning": "The name Arjun in Hindi translates to 'shaktishali', which means 'strong-willed' or 'powerful'."
+    "core_meaning": {
+      "short_meaning": "White, bright, clear; silver",
+      "primary_meaning": "Arjun (Sanskrit अर्जुन, Arjuna) is a male name meaning “white, bright, clear” or “silver”. It is the name of Arjuna, the great archer-hero of the Mahabharata, third of the five Pandava brothers and the friend and disciple of Krishna in the Bhagavad Gita.",
+      "literal_meaning": "White, clear, bright (Sanskrit árjuna); as a noun, silver",
+      "meaning_explanation": "Sanskrit árjuna is an adjective meaning “white; clear; bright” and, as a neuter noun, “silver”. It goes back to the Proto-Indo-European root *h₂erǵ-, “white, shining”, the same root as Latin argentum, “silver”. Monier-Williams gives the meaning of Arjuna as white, clear or silver. The tree Terminalia arjuna also bears the name.",
+      "meaning_confidence": "HIGH"
     },
-    "in_tamil": {
-      "name": "அர்ஜுன்",
-      "meaning": "அரியம் அவர்",
-      "long_meaning": "The Tamil name Arjun translates to 'arijan', which means 'belonging to the Aryans' or 'noble'."
+    "etymology": {
+      "primary_language": "Sanskrit",
+      "lexical_form": "अर्जुन",
+      "transliteration": "Arjuna",
+      "root": "*h₂erǵ- (Proto-Indo-European)",
+      "root_transliteration": "",
+      "morphology": "Sanskrit adjective árjuna, “white, bright”; Hindi Arjun drops the final short a.",
+      "etymological_meaning": [
+        "white",
+        "clear",
+        "bright",
+        "silver"
+      ],
+      "etymology_explanation": "From Sanskrit árjuna, inherited from Proto-Indo-European *h₂erǵ-, “white, shining; silver”; cognate with Latin argentum.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": "Arjun does not mean “dark one”; the Sanskrit word means the opposite — white or bright."
     },
-    "in_telugu": {
-      "name": "అర్జుణ",
-      "meaning": "శక్తిశాలి",
-      "long_meaning": "The Telugu name Arjun translates to 'shaktishali', which means 'strong-willed' or 'powerful'."
+    "language": {
+      "primary": "Sanskrit",
+      "associated_languages": [
+        "Sanskrit",
+        "Hindi",
+        "Marathi",
+        "Bengali",
+        "Tamil",
+        "Telugu"
+      ],
+      "language_confidence": "HIGH"
     },
-    "in_marathi": {
-      "name": "Arjun",
-      "meaning": "हिंदू नाव म्हणजे Dark One",
-      "long_meaning": "Arjun हे एक हिंदू नाव आहे जे भारतीय संस्कृतीत खोल आध्यात्मिक महत्त्व ठेवते। Arising from darkness, Arjuna is a heroic warrior from Hindu mythology. The name Arjun comes from the Sanskrit word arjuna, meaning dark or dark-complexioned."
+    "origin": {
+      "primary_origin": "Sanskrit",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "Sanskrit, from the Mahabharata; Arjun is the modern Hindi and Marathi form of the epic name. Arjuna also appears in Indonesian (Javanese and Balinese) tradition.",
+      "cultural_transmission": [
+        "India",
+        "Nepal",
+        "Indonesia (Java, Bali)"
+      ]
     },
-    "in_bengali": {
-      "name": "Arjun",
-      "meaning": "হিন্দু নাম যার অর্থ Dark One",
-      "long_meaning": "Arjun একটি হিন্দু নাম যা ভারতীয় সংস্কৃতিতে গভীর আধ্যাত্মিক তাৎপর্য রাখে। Arising from darkness, Arjuna is a heroic warrior from Hindu mythology. The name Arjun comes from the Sanskrit word arjuna, meaning dark or dark-complexioned."
+    "religion": {
+      "primary_association": "Hindu — Arjuna of the Mahabharata",
+      "religion_confidence": "HIGH",
+      "religious_status": "Name of the hero of the Mahabharata and the Bhagavad Gita",
+      "religious_explanation": "Arjuna is the third of the five Pandava brothers, son of Kunti and the god Indra. Before the Kurukshetra war Krishna, acting as his charioteer, gives him the teaching recorded in the Bhagavad Gita.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": "",
+        "note": ""
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": ""
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": ""
+      }
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Hindu",
+        "Indian",
+        "Indonesian"
+      ],
+      "cultural_meaning": "Arjuna is the model of skill, discipline and devotion — the archer who won Draupadi at her swayamvara.",
+      "impact": "Arjuna is known by many epithets that are also names, such as Dhananjaya (“conqueror of wealth”), Gudakesha (“conqueror of sleep”), Vijaya (“victorious”) and Partha."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": false,
+      "meaning": "",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false
+    },
+    "translations": {
+      "english": {
+        "name": "Arjun",
+        "script": "Arjun",
+        "meaning": "White, bright; silver",
+        "long_meaning": ""
+      },
+      "sanskrit": {
+        "name": "अर्जुन",
+        "script": "अर्जुन",
+        "meaning": "श्वेत, उज्ज्वल; रजत",
+        "long_meaning": ""
+      },
+      "hindi": {
+        "name": "अर्जुन",
+        "script": "अर्जुन",
+        "meaning": "उजला, उज्ज्वल, सफ़ेद",
+        "long_meaning": ""
+      },
+      "bengali": {
+        "name": "অর্জুন",
+        "script": "অর্জুন",
+        "meaning": "উজ্জ্বল, শুভ্র",
+        "long_meaning": ""
+      },
+      "tamil": {
+        "name": "அர்ஜுன்",
+        "script": "அர்ஜுன்",
+        "meaning": "வெண்மை, ஒளிமிக்க",
+        "long_meaning": ""
+      },
+      "telugu": {
+        "name": "అర్జున్",
+        "script": "అర్జున్",
+        "meaning": "తెల్లని, ప్రకాశవంతమైన",
+        "long_meaning": ""
+      },
+      "marathi": {
+        "name": "अर्जुन",
+        "script": "अर्जुन",
+        "meaning": "शुभ्र, तेजस्वी",
+        "long_meaning": ""
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "MEDIUM",
+      "native_review_required": true
     },
     "pronunciation": {
-      "english": "ar-jun",
+      "english": "AR-joon",
+      "ipa": "/ˈər.dʒʊn/",
       "hindi": "अर्जुन",
-      "ipa": "/ˈɑːr dʒuːn/"
+      "note": "Sanskrit Arjuna has a final short a and Vedic accent on the first syllable (árjuna)."
     },
-    "celebrity_usage": [
-      "Arjun Rampal",
-      "Arjun Bijlani",
-      "Arjun Reddy"
-    ],
-    "social_tags": [
-      "#Arjun",
-      "#HinduName",
-      "#MythologyName"
-    ],
-    "name_variations": [],
-    "popularity_score": 100,
-    "popularity_by_region": [
-      {
-        "region": "Mauritius",
-        "country_code": "MU",
-        "score": 90,
-        "year": 2024
-      },
-      {
-        "region": "West Bengal",
-        "country_code": "IN",
-        "score": 83,
-        "year": 2024
-      },
-      {
-        "region": "India (Overall)",
-        "country_code": "IN",
-        "score": 100,
-        "year": 2024
-      }
-    ],
-    "vedic_reference": {
-      "is_vedic": true,
-      "root_origin": "Sanskrit/Mythology/Vedic",
-      "note": "Arjun is a significant character in Hindu mythology and is considered one of the greatest warriors in Indian history. He is a central character in the Mahabharata."
+    "name_variants": {
+      "romanized_variants": [
+        "Arjuna",
+        "Arjunan"
+      ],
+      "script_variants": [
+        "अर्जुन (Devanagari)",
+        "অর্জুন (Bengali)",
+        "அர்ஜுன் (Tamil)",
+        "అర్జున్ (Telugu)"
+      ],
+      "variant_notes": "Arjuna is the Sanskrit and epic form; Arjunan is a South Indian form."
     },
-    "cultural_impact": "Arjuna, famously known as the great warrior from the Hindu epic Mahabharata, is considered one of the most revered characters in Indian history. His unwavering loyalty, courage, and dedication to duty have shaped the cultural fabric of India, inspiring generations of leaders and warriors. He is also remembered for his storied mentorship under the sage Bhagavad Gita, thus imparting significant moral values to both the Indian society and culture.",
-    "spiritual_significance": "Arjuna, as a spiritual figure, holds great significance in Hinduism as he was the eternal student of Lord Krishna. The Bhagavad Gita, a central text in Hinduism, illustrates their profound mentor-student relationship. Through Krishna’s teachings, Arjuna learned the art of selfless action and ultimate surrender to God. The recurring themes of duty (dharma), detachment, and transcendence resonate with millions of devotees and continue to inspire personal spiritual growth.",
-    "historical_references": [
-      {
-        "reference": "Historical records show that Arjun is a famous character in the Mahabharata, an ancient Indian epic. The name Arjun carried significant spiritual weight in that era.",
-        "time_period": "Ancient India, around 4th century BCE",
-        "context": "Arjun is a central character in the Mahabharata, a great warrior and a devotee of Lord Krishna."
-      }
+    "related_names": [
+      "Partha",
+      "Dhananjay",
+      "Vijay",
+      "Krishna",
+      "Abhimanyu"
     ],
+    "historical_context": {
+      "status": "verified",
+      "known_linguistic_history": [
+        "The name of the central hero of the Mahabharata, composed over centuries in ancient India.",
+        "Also attested in Old Javanese, where arjuna means “white”."
+      ],
+      "historical_person_association": "Arjuna, third of the Pandava brothers in the Mahabharata.",
+      "historical_event_association": "Kurukshetra war and the Bhagavad Gita",
+      "historical_claim_confidence": "HIGH"
+    },
     "modern_usage": {
-      "trends": [
-        "Arjun is a common name for boys in India.",
-        "Arjun is a popular name in Hindu communities worldwide."
-      ],
-      "platforms": [
-        "Social media, baby name websites"
-      ],
-      "modern_context": "The name Arjun remains relevant in modern Hindu society, representing a bridge between traditional Vedic values and contemporary life. It is widely discussed on digital platforms and continues to be a popular choice for families seeking meaningful Hindu names."
+      "status": "qualitative",
+      "modern_context": "A widely used boy's name in India and the Indian diaspora."
     },
-    "name_in_real_life": {
-      "person_name": "Maya Arjun",
-      "location": "Delhi, India",
-      "story": "A devoted individual named Maya Arjun in Delhi, India attributes much of their spiritual journey to their name Arjun, which means \"Dark One\". They believe their name has guided them on the path of righteousness."
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": []
     },
-    "spiritual_symbolism": "Arjun, meaning 'white, bright or pure', symbolizes the purity of intention and the radiance of devotion in one's spiritual journey. It is the name of the great warrior-prince in Mahabharata, embodying detachment, devotion to duty, and unwavering focus on Dharma.",
-    "seo": {
-      "seo": {
-        "title": "Arjun - Dark One, Hindu Hero",
-        "meta_description": "Arjun is a Hindu name meaning Dark One. Learn about the origin, cultural usage, and appeal of this powerful and revered name.",
-        "description_paragraph": "Arjun is a Hindu name with rich cultural and religious significance. Derived from the Sanskrit word arjuna, meaning dark or dark-complexioned, this name has been borne by a revered hero in Hindu mythology – Arjuna, the great warrior of the Mahabharata.",
-        "keywords": [
-          "Arjun",
-          "Hindu",
-          "mythology",
-          "warrior",
-          "Mahabharata"
-        ],
-        "faq": [
-          {
-            "q": "What does Arjun mean?",
-            "a": "Arjun is a Hindu name meaning Dark One."
-          },
-          {
-            "q": "Is Arjun a Hindu name?",
-            "a": "Yes, Arjun is a Hindu name."
-          },
-          {
-            "q": "How to pronounce Arjun?",
-            "a": "Aar-jun"
-          },
-          {
-            "q": "Is Arjun popular today?",
-            "a": "Yes, Arjun is a popular Hindu name."
-          },
-          {
-            "q": "What is the origin of Arjun?",
-            "a": "Arjun is a Hindu name derived from the Sanskrit word arjuna, meaning dark or dark-complexioned."
-          }
-        ]
+    "celebrity_usage": {
+      "status": "none",
+      "verified": [],
+      "note": ""
+    },
+    "faq": [
+      {
+        "q": "What does Arjun mean?",
+        "a": "Arjun comes from Sanskrit árjuna, meaning “white, bright, clear” or “silver”."
       },
-      "title": "Arjun Name Meaning in Hindu | Hindu",
-      "meta_description": "Discover the meaning of Arjun, a beautiful Hindu name meaning \"Dark One\". Learn about its Vedic origin, spiritual significance, and cultural importance in Hindu tradition.",
-      "description_paragraph": "Arjun is a meaningful Hindu name of Hindu origin that means \"Dark One\". Arising from darkness, Arjuna is a heroic warrior from Hindu mythology. The name Arjun comes from the Sanskrit word arjuna, meaning dark or dark-complexioned. Parents choosing this name for their child seek to bestow blessings and positive attributes upon them.",
+      {
+        "q": "Does Arjun mean “dark”?",
+        "a": "No. The Sanskrit word means white or bright; “dark” is a common error."
+      },
+      {
+        "q": "Who is Arjuna in the Mahabharata?",
+        "a": "The third of the five Pandava brothers, son of Kunti and Indra, the greatest archer of the epic and Krishna's friend."
+      },
+      {
+        "q": "What is Arjun's connection to the Bhagavad Gita?",
+        "a": "The Gita is Krishna's teaching to Arjuna on the battlefield of Kurukshetra, with Krishna serving as his charioteer."
+      },
+      {
+        "q": "What are other names of Arjuna?",
+        "a": "Dhananjaya, Gudakesha, Vijaya, Partha, Savyasachi and Kiriti are among his epithets."
+      },
+      {
+        "q": "What is the root of Arjun?",
+        "a": "The Proto-Indo-European root *h₂erǵ-, “white, shining”, also found in Latin argentum, “silver”."
+      }
+    ],
+    "seo": {
+      "title": "Arjun Name Meaning: “Bright, White” — Sanskrit Origin & Arjuna of the Mahabharata",
+      "meta_description": "Arjun (अर्जुन) is a Sanskrit boy's name meaning white, bright or silver — not “dark”. Name of Arjuna, the Pandava archer of the Mahabharata and Bhagavad Gita. Origin, epithets, pronunciation.",
       "keywords": [
-        "Arjun",
-        "Hindu name",
-        "Hindu origin",
-        "Arjun meaning"
+        "Arjun meaning",
+        "Arjun name meaning",
+        "Arjun meaning in Hindi",
+        "Arjuna Mahabharata",
+        "Arjun name origin"
       ],
-      "faq": [
+      "description_paragraph": "Arjun (Sanskrit अर्जुन, Arjuna) is a male name meaning “white, bright, clear” or “silver”. It is the name of Arjuna, the great archer-hero of the Mahabharata, third of the five Pandava brothers and the friend and disciple of Krishna in the Bhagavad Gita."
+    },
+    "content_quality": {
+      "overall_status": "source-checked",
+      "fabricated_content_removed": true,
+      "meaning_authenticity": "Each core claim checked against a cited source page"
+    },
+    "evidence": {
+      "sources": [
         {
-          "q": "What does Arjun mean?",
-          "a": "Arjun means \"Dark One\" and is a popular Hindu name with deep spiritual significance."
+          "id": "wikt-sa",
+          "title": "अर्जुन — Wiktionary (Sanskrit árjuna: white, clear, bright; silver)",
+          "url": "https://en.wiktionary.org/wiki/%E0%A4%85%E0%A4%B0%E0%A5%8D%E0%A4%9C%E0%A5%81%E0%A4%A8",
+          "supports": [
+            "meaning",
+            "etymology",
+            "vedic"
+          ]
         },
         {
-          "q": "Is Arjun a good Hindu name?",
-          "a": "Yes, Arjun is a beautiful Hindu name that carries positive meaning and is widely used in Hindu communities around the world."
+          "id": "wiki-arjuna",
+          "title": "Arjuna — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Arjuna",
+          "supports": [
+            "epic",
+            "epithets",
+            "meaning"
+          ]
         },
         {
-          "q": "What is the origin of the name Arjun?",
-          "a": "Arjun has Hindu origins and is rooted in Hindu tradition and culture."
+          "id": "wikt-old-jav",
+          "title": "arjuna — Wiktionary (Old Javanese 'white'; Terminalia arjuna)",
+          "url": "https://en.wiktionary.org/wiki/arjuna",
+          "supports": [
+            "history"
+          ]
+        }
+      ],
+      "core_claims": [
+        {
+          "claim": "Sanskrit árjuna means white, clear, bright; as a noun, silver.",
+          "evidence_type": "wikt-sa",
+          "confidence": "HIGH"
         },
         {
-          "q": "Is Arjun mentioned in the Vedas?",
-          "a": "Arjun is a name with Vedic connections and carries significance in Hindu scripture and tradition."
+          "claim": "It comes from Proto-Indo-European *h₂erǵ-, cognate with Latin argentum.",
+          "evidence_type": "wikt-sa",
+          "confidence": "HIGH"
         },
         {
-          "q": "What are the spiritual benefits of naming a child Arjun?",
-          "a": "Naming a child Arjun is believed to bring blessings and embodies the beautiful meaning of \"Dark One\", which can inspire positive character traits."
+          "claim": "Arjun is a Hindi/Marathi male given name from Sanskrit.",
+          "evidence_type": "wikt-sa",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "The word occurs in the Rigveda 6.9.1.",
+          "evidence_type": "wikt-sa",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Monier-Williams: Arjuna means white, clear or silver.",
+          "evidence_type": "wiki-arjuna",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Arjuna is the third of the five Pandava brothers, son of Indra and Kunti.",
+          "evidence_type": "wiki-arjuna",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Epithets include Dhananjaya, Gudakesha and Vijaya.",
+          "evidence_type": "wiki-arjuna",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Krishna is his cousin, mentor and charioteer; the Bhagavad Gita is his teaching to Arjuna.",
+          "evidence_type": "wiki-arjuna",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "He won Draupadi at her swayamvara.",
+          "evidence_type": "wiki-arjuna",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Old Javanese arjuna means 'white'.",
+          "evidence_type": "wikt-old-jav",
+          "confidence": "HIGH"
+        }
+      ],
+      "verification_method": "v9_upgrade.py: every claim's key terms located in the cited source text"
+    },
+    "provenance": {
+      "pipeline": "NameVerse v9 source-checked upgrade",
+      "upgraded_from": "flat",
+      "processed_at": "2026-11-03T03:04:28+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Arjun",
+          "description": "Arjun — White, bright, clear; silver",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Hindu Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Arjun mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Arjun comes from Sanskrit árjuna, meaning “white, bright, clear” or “silver”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Does Arjun mean “dark”?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No. The Sanskrit word means white or bright; “dark” is a common error."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Who is Arjuna in the Mahabharata?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The third of the five Pandava brothers, son of Kunti and Indra, the greatest archer of the epic and Krishna's friend."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is Arjun's connection to the Bhagavad Gita?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The Gita is Krishna's teaching to Arjuna on the battlefield of Kurukshetra, with Krishna serving as his charioteer."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are other names of Arjuna?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Dhananjaya, Gudakesha, Vijaya, Partha, Savyasachi and Kiriti are among his epithets."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the root of Arjun?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The Proto-Indo-European root *h₂erǵ-, “white, shining”, also found in Latin argentum, “silver”."
+              }
+            }
+          ]
         }
       ]
     },
-    "monetization": {
-      "price": 9.99,
-      "currency": "USD"
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "confidence": "HIGH",
+      "flags": [
+        "translations pending native-speaker review"
+      ],
+      "reviewed_at": "2026-11-03T03:04:28+00:00"
     },
-    "updated_at": "2025-12-23T06:38:15.200Z",
-    "similar_sounding_names": [
-      "sagar",
-      "nikhil",
-      "saurav",
-      "vikas",
-      "sunil",
-      "neeraj",
-      "rajiv",
-      "sharad",
-      "mahesh",
-      "hardik"
-    ]
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": false,
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "real_world_usage",
+        "name_story",
+        "spiritual_meaning"
+      ],
+      "source_checked": true
+    },
+    "vedic_reference": {
+      "is_vedic": true,
+      "reference": "Sanskrit árjuna, “bright”, occurs in the Rigveda (6.9.1)."
+    },
+    "popularity_score": 100,
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 3,
+      "life_path_number": 8,
+      "lucky_day": "Monday",
+      "lucky_colors": [
+        "Blue",
+        "Black"
+      ],
+      "lucky_stone": "Ruby",
+      "meaning": "People with the life path number 8 have strong ambition and a desire for material success. They are natural leaders and enjoy being in charge.",
+      "note": "Numerology is an optional interpretive layer, not a linguistic fact."
+    },
+    "lucky_attributes": {
+      "lucky_number": 3,
+      "lucky_day": "Monday",
+      "lucky_colors": [
+        "Blue",
+        "Black"
+      ],
+      "lucky_stone": "Ruby"
+    }
   }
 }

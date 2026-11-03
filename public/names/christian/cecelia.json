@@ -74,26 +74,6 @@
       "Kecelia"
     ],
     "popularity_score": 60,
-    "popularity_by_region": [
-      {
-        "region": "Italy",
-        "country_code": "IT",
-        "score": 73,
-        "year": 2024
-      },
-      {
-        "region": "Germany",
-        "country_code": "DE",
-        "score": 63,
-        "year": 2024
-      },
-      {
-        "region": "Poland",
-        "country_code": "PL",
-        "score": 70,
-        "year": 2024
-      }
-    ],
     "biblical_reference": {
       "is_biblical": false,
       "origin_scripture": "",

@@ -82,26 +82,6 @@
       "Jignasa"
     ],
     "popularity_score": 50,
-    "popularity_by_region": [
-      {
-        "region": "Uttar Pradesh",
-        "country_code": "IN",
-        "score": 55,
-        "year": 2024
-      },
-      {
-        "region": "India (Overall)",
-        "country_code": "IN",
-        "score": 30,
-        "year": 2024
-      },
-      {
-        "region": "Bali (Indonesia)",
-        "country_code": "ID",
-        "score": 65,
-        "year": 2024
-      }
-    ],
     "vedic_reference": {
       "is_vedic": false,
       "root_origin": "",

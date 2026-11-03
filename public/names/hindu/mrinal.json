@@ -76,26 +76,6 @@
       "Mrinaal"
     ],
     "popularity_score": 65,
-    "popularity_by_region": [
-      {
-        "region": "Mauritius",
-        "country_code": "MU",
-        "score": 74,
-        "year": 2024
-      },
-      {
-        "region": "India (Overall)",
-        "country_code": "IN",
-        "score": 82,
-        "year": 2024
-      },
-      {
-        "region": "Nepal",
-        "country_code": "NP",
-        "score": 72,
-        "year": 2024
-      }
-    ],
     "vedic_reference": {
       "is_vedic": true,
       "root_origin": "Sanskrit/Mythology/Vedic",

@@ -66,26 +66,6 @@
     ],
     "name_variations": [],
     "popularity_score": 65,
-    "popularity_by_region": [
-      {
-        "region": "Italy",
-        "country_code": "IT",
-        "score": 72,
-        "year": 2024
-      },
-      {
-        "region": "Brazil",
-        "country_code": "BR",
-        "score": 78,
-        "year": 2024
-      },
-      {
-        "region": "United States",
-        "country_code": "US",
-        "score": 54,
-        "year": 2024
-      }
-    ],
     "biblical_reference": {
       "is_biblical": false,
       "origin_scripture": "",

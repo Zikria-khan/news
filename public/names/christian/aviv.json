@@ -65,32 +65,6 @@
     ],
     "name_variations": [],
     "popularity_score": 70,
-    "popularity_by_region": [
-      {
-        "region": "Italy",
-        "country_code": "IT",
-        "score": 86,
-        "year": 2024
-      },
-      {
-        "region": "Spain",
-        "country_code": "ES",
-        "score": 64,
-        "year": 2024
-      },
-      {
-        "region": "United Kingdom",
-        "country_code": "UK",
-        "score": 50,
-        "year": 2024
-      },
-      {
-        "region": "France",
-        "country_code": "FR",
-        "score": 52,
-        "year": 2024
-      }
-    ],
     "biblical_reference": {
       "is_biblical": true,
       "origin_scripture": "Hebrew Bible",

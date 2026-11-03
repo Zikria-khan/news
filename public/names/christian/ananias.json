@@ -70,20 +70,6 @@
     ],
     "name_variations": [],
     "popularity_score": 75,
-    "popularity_by_region": [
-      {
-        "region": "France",
-        "country_code": "FR",
-        "score": 82,
-        "year": 2024
-      },
-      {
-        "region": "Italy",
-        "country_code": "IT",
-        "score": 87,
-        "year": 2024
-      }
-    ],
     "biblical_reference": {
       "is_biblical": true,
       "origin_scripture": "Acts of the Apostles",

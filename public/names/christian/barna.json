@@ -60,32 +60,6 @@
     ],
     "name_variations": [],
     "popularity_score": 70,
-    "popularity_by_region": [
-      {
-        "region": "Germany",
-        "country_code": "DE",
-        "score": 81,
-        "year": 2024
-      },
-      {
-        "region": "Brazil",
-        "country_code": "BR",
-        "score": 76,
-        "year": 2024
-      },
-      {
-        "region": "United Kingdom",
-        "country_code": "UK",
-        "score": 73,
-        "year": 2024
-      },
-      {
-        "region": "United States",
-        "country_code": "US",
-        "score": 53,
-        "year": 2024
-      }
-    ],
     "biblical_reference": {
       "is_biblical": true,
       "origin_scripture": "Acts of the Apostles",

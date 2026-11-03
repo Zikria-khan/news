@@ -81,26 +81,6 @@
       "Ili"
     ],
     "popularity_score": 80,
-    "popularity_by_region": [
-      {
-        "region": "Maharashtra",
-        "country_code": "IN",
-        "score": 82,
-        "year": 2024
-      },
-      {
-        "region": "Tamil Nadu",
-        "country_code": "IN",
-        "score": 73,
-        "year": 2024
-      },
-      {
-        "region": "Nepal",
-        "country_code": "NP",
-        "score": 82,
-        "year": 2024
-      }
-    ],
     "vedic_reference": {
       "is_vedic": true,
       "root_origin": "Sanskrit/Mythology/Vedic",

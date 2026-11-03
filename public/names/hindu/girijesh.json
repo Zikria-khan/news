@@ -82,38 +82,6 @@
       "Girijes"
     ],
     "popularity_score": 50,
-    "popularity_by_region": [
-      {
-        "region": "Bali (Indonesia)",
-        "country_code": "ID",
-        "score": 32,
-        "year": 2024
-      },
-      {
-        "region": "Karnataka",
-        "country_code": "IN",
-        "score": 51,
-        "year": 2024
-      },
-      {
-        "region": "Tamil Nadu",
-        "country_code": "IN",
-        "score": 67,
-        "year": 2024
-      },
-      {
-        "region": "Maharashtra",
-        "country_code": "IN",
-        "score": 64,
-        "year": 2024
-      },
-      {
-        "region": "West Bengal",
-        "country_code": "IN",
-        "score": 55,
-        "year": 2024
-      }
-    ],
     "vedic_reference": {
       "is_vedic": false,
       "root_origin": "Sanskrit Girija (daughter of the mountain) and Isha (Lord)",

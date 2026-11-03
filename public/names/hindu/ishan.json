@@ -76,26 +76,6 @@
       "Isan"
     ],
     "popularity_score": 70,
-    "popularity_by_region": [
-      {
-        "region": "Mauritius",
-        "country_code": "MU",
-        "score": 73,
-        "year": 2024
-      },
-      {
-        "region": "Gujarat",
-        "country_code": "IN",
-        "score": 85,
-        "year": 2024
-      },
-      {
-        "region": "Nepal",
-        "country_code": "NP",
-        "score": 64,
-        "year": 2024
-      }
-    ],
     "vedic_reference": {
       "is_vedic": true,
       "root_origin": "Sanskrit/Mythology/Vedic",

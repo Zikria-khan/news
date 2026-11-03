@@ -69,32 +69,6 @@
       "Bryne"
     ],
     "popularity_score": 50,
-    "popularity_by_region": [
-      {
-        "region": "Spain",
-        "country_code": "ES",
-        "score": 60,
-        "year": 2024
-      },
-      {
-        "region": "Germany",
-        "country_code": "DE",
-        "score": 56,
-        "year": 2024
-      },
-      {
-        "region": "United States",
-        "country_code": "US",
-        "score": 33,
-        "year": 2024
-      },
-      {
-        "region": "United Kingdom",
-        "country_code": "UK",
-        "score": 32,
-        "year": 2024
-      }
-    ],
     "biblical_reference": {
       "is_biblical": false,
       "origin_scripture": "",

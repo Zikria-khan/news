@@ -73,26 +73,6 @@
       "Gilberte"
     ],
     "popularity_score": 50,
-    "popularity_by_region": [
-      {
-        "region": "Italy",
-        "country_code": "IT",
-        "score": 49,
-        "year": 2024
-      },
-      {
-        "region": "United Kingdom",
-        "country_code": "UK",
-        "score": 40,
-        "year": 2024
-      },
-      {
-        "region": "Germany",
-        "country_code": "DE",
-        "score": 53,
-        "year": 2024
-      }
-    ],
     "biblical_reference": {
       "is_biblical": false,
       "origin_scripture": "",

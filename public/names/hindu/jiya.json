@@ -78,32 +78,6 @@
       "Jiyi"
     ],
     "popularity_score": 65,
-    "popularity_by_region": [
-      {
-        "region": "West Bengal",
-        "country_code": "IN",
-        "score": 58,
-        "year": 2024
-      },
-      {
-        "region": "India (Overall)",
-        "country_code": "IN",
-        "score": 62,
-        "year": 2024
-      },
-      {
-        "region": "Tamil Nadu",
-        "country_code": "IN",
-        "score": 80,
-        "year": 2024
-      },
-      {
-        "region": "Nepal",
-        "country_code": "NP",
-        "score": 73,
-        "year": 2024
-      }
-    ],
     "vedic_reference": {
       "is_vedic": false,
       "root_origin": "",

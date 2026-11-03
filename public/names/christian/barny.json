@@ -66,32 +66,6 @@
     ],
     "name_variations": [],
     "popularity_score": 80,
-    "popularity_by_region": [
-      {
-        "region": "Spain",
-        "country_code": "ES",
-        "score": 90,
-        "year": 2024
-      },
-      {
-        "region": "Italy",
-        "country_code": "IT",
-        "score": 82,
-        "year": 2024
-      },
-      {
-        "region": "United States",
-        "country_code": "US",
-        "score": 70,
-        "year": 2024
-      },
-      {
-        "region": "France",
-        "country_code": "FR",
-        "score": 80,
-        "year": 2024
-      }
-    ],
     "biblical_reference": {
       "is_biblical": true,
       "origin_scripture": "Acts",

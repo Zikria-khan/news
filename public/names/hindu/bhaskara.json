@@ -77,32 +77,6 @@
       "Bhaaskaaraa"
     ],
     "popularity_score": 75,
-    "popularity_by_region": [
-      {
-        "region": "Tamil Nadu",
-        "country_code": "IN",
-        "score": 68,
-        "year": 2024
-      },
-      {
-        "region": "Bali (Indonesia)",
-        "country_code": "ID",
-        "score": 66,
-        "year": 2024
-      },
-      {
-        "region": "Gujarat",
-        "country_code": "IN",
-        "score": 64,
-        "year": 2024
-      },
-      {
-        "region": "Mauritius",
-        "country_code": "MU",
-        "score": 74,
-        "year": 2024
-      }
-    ],
     "vedic_reference": {
       "is_vedic": true,
       "root_origin": "Sanskrit/Mythology/Vedic",

@@ -88,32 +88,6 @@
       "Bhuvanes"
     ],
     "popularity_score": 65,
-    "popularity_by_region": [
-      {
-        "region": "Tamil Nadu",
-        "country_code": "IN",
-        "score": 64,
-        "year": 2024
-      },
-      {
-        "region": "Karnataka",
-        "country_code": "IN",
-        "score": 68,
-        "year": 2024
-      },
-      {
-        "region": "Gujarat",
-        "country_code": "IN",
-        "score": 70,
-        "year": 2024
-      },
-      {
-        "region": "India (Overall)",
-        "country_code": "IN",
-        "score": 83,
-        "year": 2024
-      }
-    ],
     "vedic_reference": {
       "is_vedic": true,
       "root_origin": "भुवन (Bhuvan)",

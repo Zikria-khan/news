@@ -75,38 +75,6 @@
       "Iles"
     ],
     "popularity_score": 55,
-    "popularity_by_region": [
-      {
-        "region": "Karnataka",
-        "country_code": "IN",
-        "score": 44,
-        "year": 2024
-      },
-      {
-        "region": "India (Overall)",
-        "country_code": "IN",
-        "score": 55,
-        "year": 2024
-      },
-      {
-        "region": "Maharashtra",
-        "country_code": "IN",
-        "score": 55,
-        "year": 2024
-      },
-      {
-        "region": "Mauritius",
-        "country_code": "MU",
-        "score": 50,
-        "year": 2024
-      },
-      {
-        "region": "Nepal",
-        "country_code": "NP",
-        "score": 57,
-        "year": 2024
-      }
-    ],
     "vedic_reference": {
       "is_vedic": false,
       "root_origin": "",

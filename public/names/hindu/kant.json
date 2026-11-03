@@ -81,26 +81,6 @@
       "Kaant"
     ],
     "popularity_score": 55,
-    "popularity_by_region": [
-      {
-        "region": "India (Overall)",
-        "country_code": "IN",
-        "score": 49,
-        "year": 2024
-      },
-      {
-        "region": "Tamil Nadu",
-        "country_code": "IN",
-        "score": 53,
-        "year": 2024
-      },
-      {
-        "region": "Uttar Pradesh",
-        "country_code": "IN",
-        "score": 74,
-        "year": 2024
-      }
-    ],
     "vedic_reference": {
       "is_vedic": false,
       "root_origin": "Sanskrit",

@@ -72,32 +72,6 @@
     ],
     "name_variations": [],
     "popularity_score": 80,
-    "popularity_by_region": [
-      {
-        "region": "France",
-        "country_code": "FR",
-        "score": 83,
-        "year": 2024
-      },
-      {
-        "region": "Spain",
-        "country_code": "ES",
-        "score": 93,
-        "year": 2024
-      },
-      {
-        "region": "Poland",
-        "country_code": "PL",
-        "score": 78,
-        "year": 2024
-      },
-      {
-        "region": "Germany",
-        "country_code": "DE",
-        "score": 72,
-        "year": 2024
-      }
-    ],
     "biblical_reference": {
       "is_biblical": true,
       "origin_scripture": "Esther",

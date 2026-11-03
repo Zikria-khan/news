@@ -65,26 +65,6 @@
     ],
     "name_variations": [],
     "popularity_score": 50,
-    "popularity_by_region": [
-      {
-        "region": "France",
-        "country_code": "FR",
-        "score": 31,
-        "year": 2024
-      },
-      {
-        "region": "Germany",
-        "country_code": "DE",
-        "score": 37,
-        "year": 2024
-      },
-      {
-        "region": "Brazil",
-        "country_code": "BR",
-        "score": 32,
-        "year": 2024
-      }
-    ],
     "biblical_reference": {
       "is_biblical": false,
       "origin_scripture": "",

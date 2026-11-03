@@ -80,26 +80,6 @@
       "Kamles"
     ],
     "popularity_score": 75,
-    "popularity_by_region": [
-      {
-        "region": "West Bengal",
-        "country_code": "IN",
-        "score": 85,
-        "year": 2024
-      },
-      {
-        "region": "Tamil Nadu",
-        "country_code": "IN",
-        "score": 83,
-        "year": 2024
-      },
-      {
-        "region": "Maharashtra",
-        "country_code": "IN",
-        "score": 75,
-        "year": 2024
-      }
-    ],
     "vedic_reference": {
       "is_vedic": true,
       "root_origin": "Sanskrit/Mythology/Vedic",

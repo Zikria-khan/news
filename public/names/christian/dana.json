@@ -77,20 +77,6 @@
       "Dane"
     ],
     "popularity_score": 70,
-    "popularity_by_region": [
-      {
-        "region": "United States",
-        "country_code": "US",
-        "score": 85,
-        "year": 2024
-      },
-      {
-        "region": "Italy",
-        "country_code": "IT",
-        "score": 66,
-        "year": 2024
-      }
-    ],
     "biblical_reference": {
       "is_biblical": true,
       "origin_scripture": "Genesis",

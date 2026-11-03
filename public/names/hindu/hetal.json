@@ -79,26 +79,6 @@
       "Hetaal"
     ],
     "popularity_score": 65,
-    "popularity_by_region": [
-      {
-        "region": "Bali (Indonesia)",
-        "country_code": "ID",
-        "score": 47,
-        "year": 2024
-      },
-      {
-        "region": "Uttar Pradesh",
-        "country_code": "IN",
-        "score": 67,
-        "year": 2024
-      },
-      {
-        "region": "Maharashtra",
-        "country_code": "IN",
-        "score": 59,
-        "year": 2024
-      }
-    ],
     "vedic_reference": {
       "is_vedic": false,
       "root_origin": null,

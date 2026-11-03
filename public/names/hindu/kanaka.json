@@ -78,26 +78,6 @@
       "Kaanaakaa"
     ],
     "popularity_score": 75,
-    "popularity_by_region": [
-      {
-        "region": "Nepal",
-        "country_code": "NP",
-        "score": 72,
-        "year": 2024
-      },
-      {
-        "region": "Bali (Indonesia)",
-        "country_code": "ID",
-        "score": 75,
-        "year": 2024
-      },
-      {
-        "region": "India (Overall)",
-        "country_code": "IN",
-        "score": 88,
-        "year": 2024
-      }
-    ],
     "vedic_reference": {
       "is_vedic": true,
       "root_origin": "Sanskrit/Color/Yellow",

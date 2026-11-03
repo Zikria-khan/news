@@ -84,32 +84,6 @@
       "Kesav"
     ],
     "popularity_score": 65,
-    "popularity_by_region": [
-      {
-        "region": "Uttar Pradesh",
-        "country_code": "IN",
-        "score": 65,
-        "year": 2024
-      },
-      {
-        "region": "West Bengal",
-        "country_code": "IN",
-        "score": 78,
-        "year": 2024
-      },
-      {
-        "region": "Gujarat",
-        "country_code": "IN",
-        "score": 49,
-        "year": 2024
-      },
-      {
-        "region": "Tamil Nadu",
-        "country_code": "IN",
-        "score": 59,
-        "year": 2024
-      }
-    ],
     "vedic_reference": {
       "is_vedic": true,
       "root_origin": "Sanskrit/Mythology/Vedic",

@@ -73,20 +73,6 @@
       "Klotilde"
     ],
     "popularity_score": 60,
-    "popularity_by_region": [
-      {
-        "region": "Germany",
-        "country_code": "DE",
-        "score": 56,
-        "year": 2024
-      },
-      {
-        "region": "Poland",
-        "country_code": "PL",
-        "score": 72,
-        "year": 2024
-      }
-    ],
     "biblical_reference": {
       "is_biblical": false,
       "origin_scripture": "",

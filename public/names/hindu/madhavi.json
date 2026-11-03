@@ -85,26 +85,6 @@
       "Madhavy"
     ],
     "popularity_score": 75,
-    "popularity_by_region": [
-      {
-        "region": "India (Overall)",
-        "country_code": "IN",
-        "score": 62,
-        "year": 2024
-      },
-      {
-        "region": "Uttar Pradesh",
-        "country_code": "IN",
-        "score": 66,
-        "year": 2024
-      },
-      {
-        "region": "Nepal",
-        "country_code": "NP",
-        "score": 67,
-        "year": 2024
-      }
-    ],
     "vedic_reference": {
       "is_vedic": true,
       "root_origin": "Sanskrit, Goddess of wealth and mother of Lord Krishna",

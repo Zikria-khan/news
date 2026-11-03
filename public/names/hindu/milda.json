@@ -81,32 +81,6 @@
       "Mildaa"
     ],
     "popularity_score": 55,
-    "popularity_by_region": [
-      {
-        "region": "Bali (Indonesia)",
-        "country_code": "ID",
-        "score": 54,
-        "year": 2024
-      },
-      {
-        "region": "Uttar Pradesh",
-        "country_code": "IN",
-        "score": 58,
-        "year": 2024
-      },
-      {
-        "region": "Nepal",
-        "country_code": "NP",
-        "score": 45,
-        "year": 2024
-      },
-      {
-        "region": "Mauritius",
-        "country_code": "MU",
-        "score": 41,
-        "year": 2024
-      }
-    ],
     "vedic_reference": {
       "is_vedic": false,
       "root_origin": "",

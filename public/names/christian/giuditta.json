@@ -72,26 +72,6 @@
       "Giudita"
     ],
     "popularity_score": 50,
-    "popularity_by_region": [
-      {
-        "region": "France",
-        "country_code": "FR",
-        "score": 55,
-        "year": 2024
-      },
-      {
-        "region": "United Kingdom",
-        "country_code": "UK",
-        "score": 56,
-        "year": 2024
-      },
-      {
-        "region": "Spain",
-        "country_code": "ES",
-        "score": 32,
-        "year": 2024
-      }
-    ],
     "biblical_reference": {
       "is_biblical": false,
       "note": "not a direct biblical name, but influenced by the biblical heroine Judith"

@@ -152,6 +152,7 @@ for (const rel of VALID_RELIGIONS) {
       popularity_score:
         Number(data.popularity_score) || Number(popularity.overall_score) || 0,
       indexable,
+      _checked: data.render_policy?.source_checked === true,
       // Content fingerprint — used below to detect records that are the SAME
       // name under two spellings. The lexical (script) form is the decisive
       // signal: two records that resolve to the same Arabic/Sanskrit/Hebrew
@@ -182,8 +183,9 @@ for (const rel of VALID_RELIGIONS) {
 // sitemap. Both remain reachable, and the duplicate still passes link equity
 // to the canonical page.
 //
-// The canonical member of each group is the one with the higher popularity
-// score (ties broken by slug, so the choice is stable across builds).
+// The canonical member of each group is a source-checked record if there is
+// one, then the one with the higher popularity score (ties broken by slug, so
+// the choice is stable across builds).
 for (const rel of VALID_RELIGIONS) {
   const groups = new Map();
   for (const item of manifest[rel]) {
@@ -194,7 +196,10 @@ for (const rel of VALID_RELIGIONS) {
   for (const members of groups.values()) {
     if (members.length < 2) continue;
     const sorted = [...members].sort(
-      (a, b) => (b.popularity_score || 0) - (a.popularity_score || 0) || a.slug.localeCompare(b.slug)
+      (a, b) =>
+        b._checked - a._checked ||
+        (b.popularity_score || 0) - (a.popularity_score || 0) ||
+        a.slug.localeCompare(b.slug)
     );
     const canonical = sorted[0];
     for (const dup of sorted.slice(1)) {
@@ -206,7 +211,10 @@ for (const rel of VALID_RELIGIONS) {
 
 // The fingerprint is an internal build artefact — strip it before writing.
 for (const rel of VALID_RELIGIONS) {
-  for (const item of manifest[rel]) delete item._fp;
+  for (const item of manifest[rel]) {
+    delete item._fp;
+    delete item._checked;
+  }
 }
 
 fs.mkdirSync(path.dirname(MANIFEST_PATH), { recursive: true });

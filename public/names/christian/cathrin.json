@@ -70,20 +70,6 @@
       "Kathrin"
     ],
     "popularity_score": 60,
-    "popularity_by_region": [
-      {
-        "region": "Poland",
-        "country_code": "PL",
-        "score": 68,
-        "year": 2024
-      },
-      {
-        "region": "Brazil",
-        "country_code": "BR",
-        "score": 71,
-        "year": 2024
-      }
-    ],
     "biblical_reference": {
       "is_biblical": false,
       "origin_scripture": "",

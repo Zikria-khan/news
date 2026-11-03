@@ -76,32 +76,6 @@
       "Korrina"
     ],
     "popularity_score": 50,
-    "popularity_by_region": [
-      {
-        "region": "Poland",
-        "country_code": "PL",
-        "score": 36,
-        "year": 2024
-      },
-      {
-        "region": "United States",
-        "country_code": "US",
-        "score": 33,
-        "year": 2024
-      },
-      {
-        "region": "Brazil",
-        "country_code": "BR",
-        "score": 61,
-        "year": 2024
-      },
-      {
-        "region": "United Kingdom",
-        "country_code": "UK",
-        "score": 54,
-        "year": 2024
-      }
-    ],
     "biblical_reference": {
       "is_biblical": false,
       "origin_scripture": "",

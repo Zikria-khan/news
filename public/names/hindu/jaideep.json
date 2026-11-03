@@ -78,26 +78,6 @@
       "Jaaideep"
     ],
     "popularity_score": 75,
-    "popularity_by_region": [
-      {
-        "region": "Bali (Indonesia)",
-        "country_code": "ID",
-        "score": 81,
-        "year": 2024
-      },
-      {
-        "region": "Nepal",
-        "country_code": "NP",
-        "score": 55,
-        "year": 2024
-      },
-      {
-        "region": "India (Overall)",
-        "country_code": "IN",
-        "score": 79,
-        "year": 2024
-      }
-    ],
     "vedic_reference": {
       "is_vedic": true,
       "root_origin": "Sanskrit/Mythology/Vedic",

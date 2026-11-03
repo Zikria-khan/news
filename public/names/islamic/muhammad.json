@@ -4,7 +4,7 @@
   "data": {
     "name": "Muhammad",
     "slug": "muhammad",
-    "content_revision": "v8",
+    "content_revision": "v9",
     "page_type": "name_meaning",
     "identity": {
       "display_name": "Muhammad",
@@ -12,335 +12,323 @@
       "name_type": "given_name",
       "gender": "Male",
       "gender_confidence": "HIGH",
-      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "gender_note": "Recorded as an Arabic male given name.",
       "alternate_spellings": [
-        "Muhammad",
-        "muhammad"
+        "Mohammed",
+        "Mohammad",
+        "Muhammed",
+        "Mohamed",
+        "Mehmet",
+        "Mamadou",
+        "Magomed"
       ],
-      "name_status": "attested"
+      "name_status": "attested",
+      "search_variants": [
+        "magomed",
+        "mamadou",
+        "mehmet",
+        "mohamed",
+        "mohammad",
+        "mohammed",
+        "muhammad",
+        "muhammed"
+      ]
     },
     "core_meaning": {
-      "short_meaning": "The praised one",
-      "primary_meaning": "Muhammad corresponds to the Arabic form محمد and is glossed in this record as “The praised one.” The record associates the form with root ح م د (ḥ-m-d). The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
-      "literal_meaning": "The praised one",
-      "meaning_explanation": "Muhammad corresponds to the Arabic form محمد (Arabic root ح م د (ḥ-m-d); مُحَمَّد (Muḥammad)). Its core sense is muhammad; the praised one. Muhammad is Arabic مُحَمَّد (Muḥammad) 'the praised one', from the root ح م د (ḥ-m-d); it is the name of the Prophet of Islam. CRITICAL SOURCE ERROR: the source record was an empty stub with no data; the form and sense have been established from the lexical root. Same name as muhammed.",
+      "short_meaning": "Praiseworthy, praised",
+      "primary_meaning": "Muhammad (Arabic مُحَمَّد, Muḥammad) is an Arabic male given name meaning “praiseworthy” or “praised”. It is the name of the Prophet of Islam, and is believed to be the most common given name in the world.",
+      "literal_meaning": "Praised, praiseworthy (passive participle of ḥammada, “to praise”)",
+      "meaning_explanation": "The name is the passive participle of the Arabic verb ḥammada (حَمَّدَ), “to praise”, from the Semitic root Ḥ-M-D. A passive participle names the one who receives the action, so the sense is “the one who is praised” — hence “praiseworthy”. Other Arabic names built on the same root include Ahmad, Mahmud, Hamid and Tahmid.",
       "meaning_confidence": "HIGH"
     },
     "etymology": {
       "primary_language": "Arabic",
       "lexical_form": "محمد",
-      "transliteration": "muhammad",
+      "transliteration": "Muḥammad",
       "root": "ح م د",
       "root_transliteration": "ḥ-m-d",
-      "morphology": "Built on the root ح م د.",
-      "feminine_form": null,
-      "etymological_meaning": "From the root ح م د (ḥ-m-d)",
-      "root_family": [],
-      "etymology_explanation": "The form محمد is an established Arabic lexical item, and Muhammad is the word itself used as a personal name rather than a derived or diminutive form.",
+      "morphology": "Passive participle (mufaʿʿal pattern) of the form-II verb ḥammada, “to praise”.",
+      "etymological_meaning": [
+        "praised",
+        "praiseworthy"
+      ],
+      "etymology_explanation": "From the passive participle of ḥammada (حَمَّدَ), “to praise”, on the triconsonantal Semitic root Ḥ-M-D.",
       "etymology_confidence": "HIGH",
-      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+      "false_etymology_warning": ""
     },
     "language": {
       "primary": "Arabic",
       "associated_languages": [
-        "Arabic"
+        "Arabic",
+        "Urdu",
+        "Persian",
+        "Turkish"
       ],
-      "language_notes": {
-        "primary": "Arabic is the language of the recorded form محمد.",
-        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
-      },
       "language_confidence": "HIGH"
     },
     "origin": {
       "primary_origin": "Arabic",
       "origin_type": "linguistic",
       "origin_confidence": "HIGH",
-      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "origin_explanation": "Arabic in origin. It spread wherever Islam spread, producing many local forms — Mehmet/Mehmed in Turkish, Mamadou in West Africa, Magomed in the Caucasus, Maxamed in Somali.",
       "cultural_transmission": [
-        "Arabic",
-        "Muslim South Asia",
-        "Urdu-speaking communities"
+        "Arab world",
+        "Turkey (Mehmet)",
+        "West Africa (Mamadou)",
+        "North Caucasus (Magomed)",
+        "Somalia (Maxamed)",
+        "South Asia"
       ]
     },
     "religion": {
-      "primary_association": "Islamic-cultural usage",
-      "religion_confidence": "MEDIUM",
-      "religious_status": "Culturally used; not inherently a doctrinal term",
-      "religious_explanation": "Muhammad is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "primary_association": "Islamic — name of the Prophet Muhammad",
+      "religion_confidence": "HIGH",
+      "religious_status": "Name of the Prophet of Islam; occurs in the Qur'an",
+      "religious_explanation": "Muhammad is the name of the Prophet of Islam, and the name itself occurs in the Qur'an (for example Surah Muhammad, 47:2). Muslim families give it in his honour, often as the first element of a compound name.",
       "quranic_status": {
-        "is_quranic": true,
-        "status": "verified",
-        "note": "Muhammad is a Qur'anic name: it is the name of the Prophet of Islam, mentioned in the Qur'an."
-      },
-      "hadith_status": {
-        "status": "not_verified",
-        "note": "No specific authentic hadith report about this name is cited; none is invented."
+        "is_quranic_name": true,
+        "quranic_reference": "Qur'an 3:144, 33:40, 47:2, 48:29",
+        "note": "The name Muhammad occurs four times in the Qur'an."
       },
       "prophetic_status": {
-        "status": "verified",
-        "note": "Muhammad is the name of the Prophet of Islam, so it is used with prophetic association."
+        "prophet_association": true,
+        "reference": "The Prophet Muhammad (c. 570–632)"
       },
       "companion_status": {
-        "status": "not_verified",
-        "note": "No companion (sahabi) of this name is attested in this record."
+        "known_companion_association": false,
+        "reference": ""
       }
-    },
-    "islamic_naming_context": {
-      "can_be_used_by_muslims": true,
-      "context": "Muslim naming culture in South Asia and the Persianate world",
-      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
-      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
     },
     "cultural_context": {
       "primary_cultural_associations": [
         "Arabic",
-        "Muslim South Asia"
+        "Turkish",
+        "Persian",
+        "Urdu",
+        "Malay",
+        "Somali",
+        "Hausa"
       ],
-      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
-      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
-      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
-    },
-    "semantic_field": {
-      "primary_semantic_domain": "The praised one",
-      "related_concepts": [
-        "The praised one"
-      ]
+      "cultural_meaning": "Its popularity is so broad that the name has one of the largest numbers of English spelling variants in the world.",
+      "impact": "The Independent reported in 2014 that more than 150 million men and boys bear the name, which would make it the most popular name in the world."
     },
     "spiritual_meaning": {
       "status": "interpretive",
-      "render": true,
-      "meaning": "Families may read the sense “The praised one” as a hopeful quality for the child.",
-      "basis": "Lexical meaning: The praised one.",
+      "render": false,
+      "meaning": "",
       "is_direct_religious_definition": false
     },
     "personality_associations": {
       "status": "not_verified",
-      "render": false,
-      "note": "No verified basis links this name to specific personality traits."
+      "render": false
     },
     "hidden_personality_traits": {
       "status": "not_verified",
-      "render": false,
-      "note": "No verified basis."
-    },
-    "numerology": {
-      "status": "interpretive",
-      "render": true,
-      "lucky_number": 2,
-      "life_path_number": 2,
-      "ruling_planet": "Moon",
-      "lucky_day": "Monday",
-      "lucky_colors": [
-        "White",
-        "Silver"
-      ],
-      "lucky_stone": "Pearl",
-      "meaning": "In Pythagorean numerology the letters of Muhammad total 2, associated with cooperation, balance and sensitivity. This is an interpretive tradition, not a factual claim.",
-      "note": "Numerology is an optional interpretive layer."
-    },
-    "lucky_attributes": {
-      "status": "interpretive",
-      "render": true,
-      "lucky_number": 2,
-      "lucky_day": "Monday",
-      "lucky_colors": [
-        "White",
-        "Silver"
-      ],
-      "lucky_stone": "Pearl",
-      "ruling_planet": "Moon"
+      "render": false
     },
     "translations": {
       "english": {
         "name": "Muhammad",
         "script": "Muhammad",
-        "meaning": "The praised one",
-        "long_meaning": "Muhammad is an Arabic-origin given name; in Arabic the word means “The praised one”."
+        "meaning": "Praiseworthy, praised",
+        "long_meaning": ""
+      },
+      "arabic": {
+        "name": "مُحَمَّد",
+        "script": "مُحَمَّد",
+        "meaning": "المحمود، الذي يُحمَد كثيراً",
+        "long_meaning": ""
       },
       "urdu": {
         "name": "محمد",
         "script": "محمد",
-        "meaning": "محمد، بہت تعریف کیا گیا",
-        "long_meaning": "Muhammad (محمد) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم محمد، بہت تعریف کیا گیا ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+        "meaning": "تعریف کیا گیا، قابلِ تعریف",
+        "long_meaning": ""
       },
       "persian": {
         "name": "محمد",
         "script": "محمد",
-        "meaning": "محمد، بسیار ستوده",
-        "long_meaning": "Muhammad (محمد) نامی برگرفته از زبان عربی است و معنای اصلی آن محمد، بسیار ستوده است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+        "meaning": "ستوده، ستایش‌شده",
+        "long_meaning": ""
       },
       "hindi": {
         "name": "मुहम्मद",
         "script": "मुहम्मद",
-        "meaning": "मुहम्मद, अत्यंत प्रशंसित",
-        "long_meaning": "Muhammad (मुहम्मद) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ मुहम्मद, अत्यंत प्रशंसित है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
-      },
-      "pashto": {
-        "name": "محمد",
-        "script": "محمد",
-        "meaning": "محمد، ډېر ستایل شوی",
-        "long_meaning": "Muhammad (محمد) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې محمد، ډېر ستایل شوی ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
-        "native_review_required": true
-      },
-      "arabic": {
-        "name": "محمد",
-        "script": "محمد",
-        "meaning": "مُحَمَّد، الْكَثِير الْحَمْد",
-        "long_meaning": "Muhammad (محمد) اسم مأخوذ من اللغة العربية، ومعناه الأساسي مُحَمَّد، الْكَثِير الْحَمْد. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
-        "native_review_required": true
+        "meaning": "प्रशंसित, प्रशंसनीय",
+        "long_meaning": ""
       }
     },
     "translation_quality": {
       "strategy": "semantic_translation",
-      "confidence": "HIGH",
-      "native_review_required": true,
-      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+      "confidence": "MEDIUM",
+      "native_review_required": true
     },
     "pronunciation": {
-      "romanized": "mu-ham-mad",
-      "ipa": null,
-      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
-      "common_mispronunciation": null,
-      "scripts": {
-        "arabic": "محمد"
-      }
+      "english": "moo-HAM-mad",
+      "ipa": "/muˈħammad/",
+      "note": "Egyptian Arabic says [mæˈħæmːæd]; the double m is held. Urdu and Persian speakers use a plain h."
     },
     "name_variants": {
       "romanized_variants": [
-        "Muhammad"
+        "Mohammed",
+        "Mohammad",
+        "Muhammed",
+        "Mohamed",
+        "Mehmet",
+        "Mamadou",
+        "Magomed"
       ],
-      "script_forms": [
-        "محمد",
-        "मुहम्मद"
+      "script_variants": [
+        "مُحَمَّد (Arabic)",
+        "محمد (Urdu/Persian)",
+        "मुहम्मद (Hindi)"
       ],
-      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
-      "do_not_merge_with": []
+      "variant_notes": "Mehmet/Mehmed are the Turkish forms, Mamadou is common in West Africa, Magomed in the North Caucasus and Maxamed in Somali."
     },
-    "related_names": [],
+    "related_names": [
+      "Ahmad",
+      "Mahmud",
+      "Hamid",
+      "Hamd",
+      "Tahmid"
+    ],
     "historical_context": {
       "status": "verified",
-      "note": "The form محمد is an established Arabic lexical item."
+      "known_linguistic_history": [
+        "Arabic passive participle used as a personal name; borne by the Prophet Muhammad in 7th-century Mecca and Medina.",
+        "Spread with Islam into Turkish (Mehmed), Persian, Urdu, African and Caucasian naming traditions."
+      ],
+      "historical_person_association": "The Prophet Muhammad (c. 570–632), founder of Islam.",
+      "historical_event_association": "",
+      "historical_claim_confidence": "HIGH"
     },
     "modern_usage": {
-      "status": "requires_frequency_data",
-      "note": "Personal-name popularity must be measured separately from lexical presence."
+      "status": "qualitative",
+      "modern_context": "Usually listed as the most common given name in the world when its spellings are counted together; the name has been banned for newborns in China's Xinjiang region since 2017."
     },
     "popularity": {
       "status": "not_measured",
       "render": false,
       "score": null,
-      "by_region": [],
-      "note": "No verified popularity or registration data is available."
+      "by_region": []
     },
     "celebrity_usage": {
-      "status": "not_verified",
-      "render": false,
-      "items": [],
-      "note": "No verified celebrity usage is recorded."
-    },
-    "real_world_usage": {
-      "status": "not_verified",
-      "render": false,
-      "note": "No verified real-life bearer story is published; none is invented."
-    },
-    "name_story": {
       "status": "none",
-      "render": false,
-      "story": ""
+      "verified": [],
+      "note": ""
     },
     "faq": [
       {
         "q": "What does Muhammad mean?",
-        "a": "Muhammad is an Arabic-origin name meaning “The praised one”."
+        "a": "Muhammad is Arabic for “praised” or “praiseworthy”. It is the passive participle of ḥammada, “to praise”."
       },
       {
-        "q": "What is the origin of Muhammad?",
-        "a": "Muhammad originates in Arabic and circulates in Muslim naming communities."
-      },
-      {
-        "q": "Is Muhammad an Arabic name?",
-        "a": "Yes, the recorded form محمد is Arabic."
+        "q": "Is Muhammad in the Qur'an?",
+        "a": "Yes. The name Muhammad occurs four times in the Qur'an (3:144, 33:40, 47:2 and 48:29), and Surah 47 is named after him."
       },
       {
         "q": "What is the root of Muhammad?",
-        "a": "It is built on the root ح م د (ḥ-m-d)."
+        "a": "The triconsonantal root Ḥ-M-D (ح م د), “praise”. Ahmad, Mahmud and Hamid share the same root."
       },
       {
-        "q": "Is Muhammad an Islamic name?",
-        "a": "Muhammad is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+        "q": "How many people are named Muhammad?",
+        "a": "The Independent reported in 2014 that more than 150 million men and boys bear the name, which would make it the most popular given name in the world."
       },
       {
-        "q": "Is Muhammad a Quranic name?",
-        "a": "Yes, Muhammad is a Qur'anic name (see the religion section)."
+        "q": "What are other spellings of Muhammad?",
+        "a": "Mohammed, Mohammad, Muhammed, Mohamed, Mehmet (Turkish), Mamadou (West Africa), Magomed (Caucasus) and many more."
       },
       {
-        "q": "What does Muhammad mean in Urdu?",
-        "a": "In Urdu it is written محمد and carries the sense “محمد، بہت تعریف کیا گیا”."
+        "q": "How do you pronounce Muhammad?",
+        "a": "moo-HAM-mad, with a breathy Arabic ḥ and a doubled m: /muˈħammad/."
       },
       {
-        "q": "How is Muhammad pronounced?",
-        "a": "A romanized syllable approximation is “mu-ham-mad”."
-      },
-      {
-        "q": "Is Muhammad a boy's or girl's name?",
-        "a": "Documented usage records Muhammad as a boy's name; actual use can vary by community."
+        "q": "What does Md. or Mohd. mean before a name?",
+        "a": "They are common written abbreviations of Muhammad, especially in South Asia and Malaysia."
       }
     ],
     "seo": {
-      "title": "Muhammad Name Meaning, Origin & Islamic Context",
-      "meta_description": "Muhammad (محمد) — meaning, origin, pronunciation and Islamic naming context.",
-      "meta_keywords": "Muhammad meaning, Muhammad name meaning, Muhammad origin, Muhammad meaning in Urdu, Muhammad pronunciation, Muhammad Islamic name",
-      "description_paragraph": "Muhammad is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "title": "Muhammad Name Meaning: “Praiseworthy” — Origin, Root Ḥ-M-D & Spellings",
+      "meta_description": "Muhammad (مُحَمَّد) is an Arabic boy's name meaning praised or praiseworthy, from the root Ḥ-M-D. The Prophet's name, in the Qur'an, with spellings Mohammed, Mehmet, Mamadou.",
       "keywords": [
         "Muhammad meaning",
         "Muhammad name meaning",
-        "Muhammad origin",
         "Muhammad meaning in Urdu",
-        "Muhammad pronunciation",
-        "Muhammad Islamic name"
+        "Mohammed meaning",
+        "Muhammad in Quran"
       ],
-      "focus_keyword": "Muhammad meaning",
-      "secondary_keywords": [
-        "Muhammad name meaning",
-        "Muhammad origin",
-        "Muhammad meaning in Urdu",
-        "Muhammad pronunciation",
-        "Muhammad Islamic name"
-      ],
-      "canonical_url": "https://nameverse.site/names/islamic/muhammad",
-      "seo_score": 96,
-      "seo_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+      "description_paragraph": "Muhammad (Arabic مُحَمَّد, Muḥammad) is an Arabic male given name meaning “praiseworthy” or “praised”. It is the name of the Prophet of Islam, and is believed to be the most common given name in the world."
     },
-    "seo_content": {
-      "intro_paragraph": "This page explains the meaning and origin of the name Muhammad, an Arabic-origin name used in Muslim communities.",
-      "body_summary": "Muhammad is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
-    },
-    "social_tags": [
-      "#Muhammad",
-      "#MuhammadMeaning",
-      "#NameMeaning",
-      "#IslamicNames",
-      "#NameOrigin"
-    ],
     "content_quality": {
-      "tier1_verified": true,
-      "authenticity_flags": [],
+      "overall_status": "source-checked",
       "fabricated_content_removed": true,
-      "fields_total": 151,
-      "quality_score": 96,
-      "quality_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+      "meaning_authenticity": "Each core claim checked against a cited source page"
     },
     "evidence": {
       "sources": [
-        "The recorded Arabic form محمد carries the sense “The praised one”."
+        {
+          "id": "wiki-name",
+          "title": "Muhammad (name) — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Muhammad_(name)",
+          "supports": [
+            "meaning",
+            "root",
+            "variants",
+            "statistics"
+          ]
+        },
+        {
+          "id": "wiki-quran",
+          "title": "Muhammad in the Quran — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Muhammad_in_the_Quran",
+          "supports": [
+            "quranic"
+          ]
+        }
       ],
-      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+      "core_claims": [
+        {
+          "claim": "Muhammad is an Arabic male given name meaning “praiseworthy”.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "It is the passive participle of ḥammada, “to praise”, from the root Ḥ-M-D.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Mahmud, Ahmed and Hamid come from the same root.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "More than 150 million men and boys bear the name (The Independent, 2014).",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Spellings include Mehmet, Mamadou, Magomed and Maxamed.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Banned for newborns in Xinjiang since 2017.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "The name Muhammad is mentioned four times in the Qur'an, and Surah 47 is called “Muhammad”.",
+          "evidence_type": "wiki-quran",
+          "confidence": "HIGH"
+        }
+      ],
+      "verification_method": "v9_upgrade.py: every claim's key terms located in the cited source text"
     },
     "provenance": {
-      "pipeline": "NameVerse Production v8",
-      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
-      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
-      "processed_at": "2026-10-06T04:27:34+00:00"
+      "pipeline": "NameVerse v9 source-checked upgrade",
+      "upgraded_from": "v8",
+      "processed_at": "2026-11-03T03:04:28+00:00"
     },
     "structured_data": {
       "@context": "https://schema.org",
@@ -348,7 +336,7 @@
         {
           "@type": "DefinedTerm",
           "name": "Muhammad",
-          "description": "Muhammad — an Arabic-origin given name meaning The praised one",
+          "description": "Muhammad — Praiseworthy, praised",
           "inDefinedTermSet": {
             "@type": "DefinedTermSet",
             "name": "NameVerse Islamic Names"
@@ -362,23 +350,15 @@
               "name": "What does Muhammad mean?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Muhammad is an Arabic-origin name meaning “The praised one”."
+                "text": "Muhammad is Arabic for “praised” or “praiseworthy”. It is the passive participle of ḥammada, “to praise”."
               }
             },
             {
               "@type": "Question",
-              "name": "What is the origin of Muhammad?",
+              "name": "Is Muhammad in the Qur'an?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Muhammad originates in Arabic and circulates in Muslim naming communities."
-              }
-            },
-            {
-              "@type": "Question",
-              "name": "Is Muhammad an Arabic name?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Yes, the recorded form محمد is Arabic."
+                "text": "Yes. The name Muhammad occurs four times in the Qur'an (3:144, 33:40, 47:2 and 48:29), and Surah 47 is named after him."
               }
             },
             {
@@ -386,71 +366,40 @@
               "name": "What is the root of Muhammad?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "It is built on the root ح م د (ḥ-m-d)."
+                "text": "The triconsonantal root Ḥ-M-D (ح م د), “praise”. Ahmad, Mahmud and Hamid share the same root."
               }
             },
             {
               "@type": "Question",
-              "name": "Is Muhammad an Islamic name?",
+              "name": "How many people are named Muhammad?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Muhammad is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+                "text": "The Independent reported in 2014 that more than 150 million men and boys bear the name, which would make it the most popular given name in the world."
               }
             },
             {
               "@type": "Question",
-              "name": "Is Muhammad a Quranic name?",
+              "name": "What are other spellings of Muhammad?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Yes, Muhammad is a Qur'anic name (see the religion section)."
+                "text": "Mohammed, Mohammad, Muhammed, Mohamed, Mehmet (Turkish), Mamadou (West Africa), Magomed (Caucasus) and many more."
               }
             },
             {
               "@type": "Question",
-              "name": "What does Muhammad mean in Urdu?",
+              "name": "How do you pronounce Muhammad?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "In Urdu it is written محمد and carries the sense “محمد، بہت تعریف کیا گیا”."
+                "text": "moo-HAM-mad, with a breathy Arabic ḥ and a doubled m: /muˈħammad/."
               }
             },
             {
               "@type": "Question",
-              "name": "How is Muhammad pronounced?",
+              "name": "What does Md. or Mohd. mean before a name?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "A romanized syllable approximation is “mu-ham-mad”."
+                "text": "They are common written abbreviations of Muhammad, especially in South Asia and Malaysia."
               }
-            },
-            {
-              "@type": "Question",
-              "name": "Is Muhammad a boy's or girl's name?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Documented usage records Muhammad as a boy's name; actual use can vary by community."
-              }
-            }
-          ]
-        },
-        {
-          "@type": "BreadcrumbList",
-          "itemListElement": [
-            {
-              "@type": "ListItem",
-              "position": 1,
-              "name": "Home",
-              "item": "https://nameverse.site/"
-            },
-            {
-              "@type": "ListItem",
-              "position": 2,
-              "name": "Islamic Names",
-              "item": "https://nameverse.site/names/islamic"
-            },
-            {
-              "@type": "ListItem",
-              "position": 3,
-              "name": "Muhammad",
-              "item": "https://nameverse.site/names/islamic/muhammad"
             }
           ]
         }
@@ -458,31 +407,54 @@
     },
     "editorial_validation": {
       "needs_manual_verification": false,
-      "flags": [],
       "confidence": "HIGH",
-      "reviewed_by": "NameVerse verification pipeline",
-      "reviewed_at": "2026-10-06T04:27:34+00:00"
+      "flags": [
+        "translations pending native-speaker review"
+      ],
+      "reviewed_at": "2026-11-03T03:04:28+00:00"
     },
     "render_policy": {
       "render_verified": true,
       "render_interpretive": true,
-      "hide_unverified": true,
-      "single_definition_source": "core_meaning.primary_meaning",
-      "non_rendered_definition_fields": [
-        "core_meaning.short_meaning",
-        "core_meaning.literal_meaning",
-        "semantic_field",
-        "etymology.etymological_meaning"
-      ],
+      "hide_unverified": false,
       "hidden_sections": [
         "personality_associations",
         "hidden_personality_traits",
         "popularity",
-        "celebrity_usage",
         "real_world_usage",
-        "spiritual_meaning",
-        "name_story"
-      ]
+        "name_story",
+        "spiritual_meaning"
+      ],
+      "source_checked": true
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "Given across the Muslim world in honour of the Prophet; in South Asia it is often written in shortened form (Md., Mohd.) before a second name.",
+      "interpretation": "Chosen first of all for its association with the Prophet, and secondly for its meaning, “praised”.",
+      "important_distinction": "The meaning “praised” comes from Arabic grammar; the name's religious weight comes from the Prophet who bore it."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 2,
+      "life_path_number": 2,
+      "lucky_day": "Monday",
+      "lucky_colors": [
+        "White",
+        "Silver"
+      ],
+      "lucky_stone": "Pearl",
+      "meaning": "In Pythagorean numerology the letters of Muhammad total 2, associated with cooperation, balance and sensitivity. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer, not a linguistic fact."
+    },
+    "lucky_attributes": {
+      "lucky_number": 2,
+      "lucky_day": "Monday",
+      "lucky_colors": [
+        "White",
+        "Silver"
+      ],
+      "lucky_stone": "Pearl"
     }
   }
 }

@@ -1,0 +1,421 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Krishna",
+    "slug": "krishna",
+    "content_revision": "v9",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Krishna",
+      "normalized_name": "krishna",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "A male given name; the feminine Krishnaa is a separate name.",
+      "alternate_spellings": [
+        "Krishan",
+        "Kishan",
+        "Kanha",
+        "Kannan",
+        "Krushna"
+      ],
+      "name_status": "attested",
+      "search_variants": [
+        "kanha",
+        "kannan",
+        "kishan",
+        "krishan",
+        "krishna",
+        "krushna"
+      ]
+    },
+    "core_meaning": {
+      "short_meaning": "Black, dark, dark blue",
+      "primary_meaning": "Krishna (Sanskrit कृष्ण, Kṛṣṇa) is a male name meaning “black”, “dark” or “dark blue”. It is the name of Krishna, a major deity in Hinduism, worshipped as the eighth avatar of Vishnu and as the Supreme God in his own right.",
+      "literal_meaning": "Black, dark, dark blue",
+      "meaning_explanation": "Sanskrit kṛṣṇá is an adjective meaning “black, dark, dark-blue”, already used in the Rigveda. It goes back to Proto-Indo-European *kr̥snós, “black”, related to Lithuanian kirsnas and the Slavic word for black (Russian чёрный). Krishna is therefore often shown with dark or blue skin; the waning half of the lunar month is called Krishna Paksha, “the dark fortnight”.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Sanskrit",
+      "lexical_form": "कृष्ण",
+      "transliteration": "Kṛṣṇa",
+      "root": "*kr̥snós (Proto-Indo-European)",
+      "root_transliteration": "",
+      "morphology": "Sanskrit adjective kṛṣṇá, “black, dark”, used as a proper name.",
+      "etymological_meaning": [
+        "black",
+        "dark",
+        "dark blue"
+      ],
+      "etymology_explanation": "From Proto-Indo-Iranian *kr̥šnás, from Proto-Indo-European *kr̥snós, “black”.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": ""
+    },
+    "language": {
+      "primary": "Sanskrit",
+      "associated_languages": [
+        "Sanskrit",
+        "Hindi",
+        "Bengali",
+        "Marathi",
+        "Gujarati",
+        "Tamil",
+        "Telugu"
+      ],
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Sanskrit",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "Sanskrit; the name of the deity is used as a given name across India and Nepal and in the diaspora.",
+      "cultural_transmission": [
+        "India",
+        "Nepal",
+        "Global Hindu diaspora"
+      ]
+    },
+    "religion": {
+      "primary_association": "Hindu — Lord Krishna",
+      "religion_confidence": "HIGH",
+      "religious_status": "Name of a principal Hindu deity",
+      "religious_explanation": "Krishna is worshipped as the eighth avatar of Vishnu and, in several traditions, as the Supreme God. He is the speaker of the Bhagavad Gita and is known by many names, including Govinda, Madhava and Gopala. His birth is celebrated each year as Krishna Janmashtami, in late August or early September.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": "",
+        "note": ""
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": ""
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": ""
+      }
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Hindu",
+        "Indian",
+        "Nepali"
+      ],
+      "cultural_meaning": "As a name of Vishnu, Krishna is the 57th name in the Vishnu Sahasranama.",
+      "impact": "His many epithets — Govinda, Gopala, Madhava, Hari, Ghanashyam (“dark like a rain cloud”) — are themselves popular given names."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": false,
+      "meaning": "",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false
+    },
+    "translations": {
+      "english": {
+        "name": "Krishna",
+        "script": "Krishna",
+        "meaning": "Dark, dark blue",
+        "long_meaning": ""
+      },
+      "sanskrit": {
+        "name": "कृष्ण",
+        "script": "कृष्ण",
+        "meaning": "श्याम, कृष्णवर्ण",
+        "long_meaning": ""
+      },
+      "hindi": {
+        "name": "कृष्ण",
+        "script": "कृष्ण",
+        "meaning": "श्याम, साँवला",
+        "long_meaning": ""
+      },
+      "bengali": {
+        "name": "কৃষ্ণ",
+        "script": "কৃষ্ণ",
+        "meaning": "কালো, শ্যামল",
+        "long_meaning": ""
+      },
+      "tamil": {
+        "name": "கிருஷ்ணா",
+        "script": "கிருஷ்ணா",
+        "meaning": "கருமை",
+        "long_meaning": ""
+      },
+      "telugu": {
+        "name": "కృష్ణ",
+        "script": "కృష్ణ",
+        "meaning": "నల్లని",
+        "long_meaning": ""
+      },
+      "marathi": {
+        "name": "कृष्ण",
+        "script": "कृष्ण",
+        "meaning": "सावळा, काळा",
+        "long_meaning": ""
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "MEDIUM",
+      "native_review_required": true
+    },
+    "pronunciation": {
+      "english": "KRISH-na",
+      "ipa": "/ˈkr̩ʂɳɐ/",
+      "hindi": "कृष्ण",
+      "note": "Hindi speakers often say KRISH-an; the Sanskrit ṛ is a syllabic r."
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Krishan",
+        "Kishan",
+        "Kanha",
+        "Kannan",
+        "Krushna"
+      ],
+      "script_variants": [
+        "कृष्ण (Devanagari)",
+        "কৃষ্ণ (Bengali)",
+        "கிருஷ்ணா (Tamil)",
+        "కృష్ణ (Telugu)"
+      ],
+      "variant_notes": "Krishan and Kishan are North Indian forms, Kanha a pet form, Kannan the Tamil form, Krushna Odia."
+    },
+    "related_names": [
+      "Govinda",
+      "Gopal",
+      "Madhav",
+      "Hari",
+      "Radha"
+    ],
+    "historical_context": {
+      "status": "verified",
+      "known_linguistic_history": [
+        "The adjective kṛṣṇá appears in the Rigveda.",
+        "The life of Krishna is narrated in the Mahabharata, the Harivamsa and the Bhagavata Purana."
+      ],
+      "historical_person_association": "Lord Krishna, eighth avatar of Vishnu.",
+      "historical_event_association": "Krishna Janmashtami",
+      "historical_claim_confidence": "HIGH"
+    },
+    "modern_usage": {
+      "status": "qualitative",
+      "modern_context": "A widely used boy's name among Hindus in India, Nepal and the diaspora."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": []
+    },
+    "celebrity_usage": {
+      "status": "none",
+      "verified": [],
+      "note": ""
+    },
+    "faq": [
+      {
+        "q": "What does Krishna mean?",
+        "a": "“Black”, “dark” or “dark blue”, from Sanskrit kṛṣṇá."
+      },
+      {
+        "q": "Why is Krishna shown with blue skin?",
+        "a": "Because his name means dark or dark blue; murtis often depict him with black or blue skin."
+      },
+      {
+        "q": "Who is Krishna in Hinduism?",
+        "a": "A major deity, worshipped as the eighth avatar of Vishnu and as the Supreme God in his own right."
+      },
+      {
+        "q": "What are other names of Krishna?",
+        "a": "Govinda, Gopala, Madhava, Hari, Achyuta, Damodara and Ghanashyam, among many others."
+      },
+      {
+        "q": "When is Krishna's birthday celebrated?",
+        "a": "On Krishna Janmashtami, which falls in late August or early September."
+      }
+    ],
+    "seo": {
+      "title": "Krishna Name Meaning: “Dark, Dark Blue” — Sanskrit Origin & Lord Krishna",
+      "meta_description": "Krishna (कृष्ण) is a Sanskrit boy's name meaning black, dark or dark blue, the name of Lord Krishna, eighth avatar of Vishnu. Origin, Rigveda, epithets Govinda, Gopala.",
+      "keywords": [
+        "Krishna meaning",
+        "Krishna name meaning",
+        "Krishna meaning in Hindi",
+        "Krishna name origin",
+        "Lord Krishna names"
+      ],
+      "description_paragraph": "Krishna (Sanskrit कृष्ण, Kṛṣṇa) is a male name meaning “black”, “dark” or “dark blue”. It is the name of Krishna, a major deity in Hinduism, worshipped as the eighth avatar of Vishnu and as the Supreme God in his own right."
+    },
+    "content_quality": {
+      "overall_status": "source-checked",
+      "fabricated_content_removed": true,
+      "meaning_authenticity": "Each core claim checked against a cited source page"
+    },
+    "evidence": {
+      "sources": [
+        {
+          "id": "wiki-krishna",
+          "title": "Krishna — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Krishna",
+          "supports": [
+            "meaning",
+            "religion",
+            "epithets"
+          ]
+        },
+        {
+          "id": "wikt-sa",
+          "title": "कृष्ण — Wiktionary (Sanskrit kṛṣṇá: black, dark, dark-blue)",
+          "url": "https://en.wiktionary.org/wiki/%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A3",
+          "supports": [
+            "etymology",
+            "vedic"
+          ]
+        }
+      ],
+      "core_claims": [
+        {
+          "claim": "Krishna originates from Sanskrit kṛṣṇa meaning black, dark or dark blue.",
+          "evidence_type": "wiki-krishna",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Worshipped as the eighth avatar of Vishnu and as Supreme God.",
+          "evidence_type": "wiki-krishna",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Krishna Janmashtami falls in late August or early September.",
+          "evidence_type": "wiki-krishna",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Associated with Krishna Paksha, the waning moon; murtis show dark or blue skin.",
+          "evidence_type": "wiki-krishna",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "57th name in the Vishnu Sahasranama.",
+          "evidence_type": "wiki-krishna",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Also known as Govinda, Madhava, Gopala.",
+          "evidence_type": "wiki-krishna",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Sanskrit kṛṣṇá: black, dark, dark-blue; attested in Rigveda 1.35.2.",
+          "evidence_type": "wikt-sa",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "From Proto-Indo-European *kr̥snós; cognate with Lithuanian kirsnas.",
+          "evidence_type": "wikt-sa",
+          "confidence": "HIGH"
+        }
+      ],
+      "verification_method": "v9_upgrade.py: every claim's key terms located in the cited source text"
+    },
+    "provenance": {
+      "pipeline": "NameVerse v9 source-checked upgrade",
+      "upgraded_from": "new",
+      "processed_at": "2026-11-03T03:07:17+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Krishna",
+          "description": "Krishna — Black, dark, dark blue",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Hindu Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Krishna mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "“Black”, “dark” or “dark blue”, from Sanskrit kṛṣṇá."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Why is Krishna shown with blue skin?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Because his name means dark or dark blue; murtis often depict him with black or blue skin."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Who is Krishna in Hinduism?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "A major deity, worshipped as the eighth avatar of Vishnu and as the Supreme God in his own right."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are other names of Krishna?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Govinda, Gopala, Madhava, Hari, Achyuta, Damodara and Ghanashyam, among many others."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "When is Krishna's birthday celebrated?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "On Krishna Janmashtami, which falls in late August or early September."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "confidence": "HIGH",
+      "flags": [
+        "translations pending native-speaker review"
+      ],
+      "reviewed_at": "2026-11-03T03:07:17+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": false,
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "real_world_usage",
+        "name_story",
+        "spiritual_meaning"
+      ],
+      "source_checked": true
+    },
+    "vedic_reference": {
+      "is_vedic": true,
+      "reference": "Sanskrit kṛṣṇá, “black, dark”, occurs in the Rigveda (1.35.2)."
+    }
+  }
+}

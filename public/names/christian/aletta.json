@@ -72,26 +72,6 @@
       "Aleta"
     ],
     "popularity_score": 50,
-    "popularity_by_region": [
-      {
-        "region": "Germany",
-        "country_code": "DE",
-        "score": 39,
-        "year": 2024
-      },
-      {
-        "region": "Poland",
-        "country_code": "PL",
-        "score": 50,
-        "year": 2024
-      },
-      {
-        "region": "Brazil",
-        "country_code": "BR",
-        "score": 62,
-        "year": 2024
-      }
-    ],
     "biblical_reference": {
       "is_biblical": false,
       "note": "No direct biblical reference found"

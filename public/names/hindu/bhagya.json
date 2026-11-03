@@ -79,26 +79,6 @@
       "Bhagyi"
     ],
     "popularity_score": 60,
-    "popularity_by_region": [
-      {
-        "region": "West Bengal",
-        "country_code": "IN",
-        "score": 73,
-        "year": 2024
-      },
-      {
-        "region": "Maharashtra",
-        "country_code": "IN",
-        "score": 66,
-        "year": 2024
-      },
-      {
-        "region": "Karnataka",
-        "country_code": "IN",
-        "score": 43,
-        "year": 2024
-      }
-    ],
     "vedic_reference": {
       "is_vedic": false,
       "root_origin": "",

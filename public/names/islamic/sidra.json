@@ -313,7 +313,6 @@
         "Sidra Islamic name"
       ],
       "canonical_url": "https://nameverse.site/names/islamic/sidra",
-      "seo_score": 92,
       "seo_score_basis": "Search-facing score: 9 distinct FAQs plus a single canonical definition, giving substantial keyword coverage without duplicated sections; capped below 100 because no page-rank or query-volume data is available."
     },
     "seo_content": {
@@ -332,7 +331,6 @@
       "authenticity_flags": [],
       "fabricated_content_removed": true,
       "fields_total": 272,
-      "quality_score": 93,
       "quality_score_basis": "Editorial score: 9 distinct FAQs, a verified meaning and origin, and cross-field de-duplication that leaves every field with its own information; no field-count inflation."
     },
     "evidence": {

@@ -78,26 +78,6 @@
       "Benedite"
     ],
     "popularity_score": 50,
-    "popularity_by_region": [
-      {
-        "region": "Spain",
-        "country_code": "ES",
-        "score": 42,
-        "year": 2024
-      },
-      {
-        "region": "United States",
-        "country_code": "US",
-        "score": 62,
-        "year": 2024
-      },
-      {
-        "region": "France",
-        "country_code": "FR",
-        "score": 61,
-        "year": 2024
-      }
-    ],
     "biblical_reference": {
       "is_biblical": false,
       "note": "This name does not have a direct biblical reference, but it is inspired by the Latin verb 'benedicere,' which is used in the Bible to mean 'to bless' or 'to praise.'"

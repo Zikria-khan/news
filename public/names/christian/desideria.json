@@ -76,20 +76,6 @@
       "Desiderya"
     ],
     "popularity_score": 50,
-    "popularity_by_region": [
-      {
-        "region": "Spain",
-        "country_code": "ES",
-        "score": 70,
-        "year": 2024
-      },
-      {
-        "region": "United Kingdom",
-        "country_code": "UK",
-        "score": 45,
-        "year": 2024
-      }
-    ],
     "biblical_reference": {
       "is_biblical": false,
       "note": "Not a direct biblical name, but inspired by Latin 'desiderium', meaning desire, longing."

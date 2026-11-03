@@ -1,0 +1,414 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Joseph",
+    "slug": "joseph",
+    "content_revision": "v9",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Joseph",
+      "normalized_name": "joseph",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "A masculine given name.",
+      "alternate_spellings": [
+        "Joe",
+        "Joey",
+        "José",
+        "Giuseppe",
+        "Josef",
+        "Yusuf",
+        "Yosef"
+      ],
+      "name_status": "attested",
+      "search_variants": [
+        "giuseppe",
+        "joe",
+        "joey",
+        "josef",
+        "joseph",
+        "josé",
+        "yosef",
+        "yusuf"
+      ]
+    },
+    "core_meaning": {
+      "short_meaning": "He will add (God will increase)",
+      "primary_meaning": "Joseph is a masculine name from the Hebrew Yosef (יוֹסֵף), explained in Genesis as “he will add”: Rachel names her son saying, “The LORD shall add to me another son.” It is the name of Joseph son of Jacob in Genesis and of Saint Joseph of Nazareth, husband of Mary.",
+      "literal_meaning": "He will add / may he add (Hebrew root y-s-p)",
+      "meaning_explanation": "Genesis gives two explanations: the word asaf, “taken away” (“God hath taken away my reproach”), and the root y-s-p, “add” (“The LORD shall add to me another son”). The Jewish Encyclopedia treats it as a theophoric name, written once in Psalms as Jehoseph.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Hebrew",
+      "lexical_form": "יוֹסֵף",
+      "transliteration": "Yosef",
+      "root": "י־ס־ף",
+      "root_transliteration": "y-s-p",
+      "morphology": "Imperfect verb form of y-s-p, “to add”, used as a name.",
+      "etymological_meaning": [
+        "he will add",
+        "may God add"
+      ],
+      "etymology_explanation": "From Hebrew Yosef; Genesis 30:23–24 plays on asaf (“taken away”) and y-s-p (“add”).",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": ""
+    },
+    "language": {
+      "primary": "Hebrew",
+      "associated_languages": [
+        "Hebrew",
+        "Greek",
+        "Latin",
+        "English",
+        "Arabic"
+      ],
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Hebrew",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "Biblical Hebrew; in the 1st century CE Yosef was the second most popular male name among Jews. The Qur'anic and Arabic form is Yūsuf.",
+      "cultural_transmission": [
+        "Hebrew (Yosef)",
+        "Greek (Iōsēph)",
+        "Latin (Ioseph)",
+        "English (Joseph)",
+        "Arabic (Yūsuf)",
+        "Spanish (José)",
+        "Italian (Giuseppe)"
+      ]
+    },
+    "religion": {
+      "primary_association": "Christian — Joseph of Genesis and Saint Joseph",
+      "religion_confidence": "HIGH",
+      "religious_status": "Biblical name in both Testaments",
+      "religious_explanation": "In Genesis Joseph is Jacob's eleventh son and Rachel's first. In the New Testament Joseph of Nazareth is the husband of Mary, mother of Jesus, and Joseph of Arimathea supplied the tomb in which Jesus was buried.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": "",
+        "note": ""
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": ""
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": ""
+      }
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Jewish",
+        "Christian",
+        "Italian",
+        "Hispanic"
+      ],
+      "cultural_meaning": "Giuseppe was the most common male name in 20th-century Italy; in Israel the name is often Yossi or Yossef.",
+      "impact": ""
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": false,
+      "meaning": "",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false
+    },
+    "translations": {
+      "english": {
+        "name": "Joseph",
+        "script": "Joseph",
+        "meaning": "He will add",
+        "long_meaning": ""
+      },
+      "hebrew": {
+        "name": "יוֹסֵף",
+        "script": "יוֹסֵף",
+        "meaning": "יוסיף",
+        "long_meaning": ""
+      },
+      "greek": {
+        "name": "Ἰωσήφ",
+        "script": "Ἰωσήφ",
+        "meaning": "Θα προσθέσει",
+        "long_meaning": ""
+      },
+      "latin": {
+        "name": "Ioseph",
+        "script": "Ioseph",
+        "meaning": "Addet",
+        "long_meaning": ""
+      },
+      "arabic": {
+        "name": "يوسف",
+        "script": "يوسف",
+        "meaning": "يزيد",
+        "long_meaning": ""
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "MEDIUM",
+      "native_review_required": true
+    },
+    "pronunciation": {
+      "english": "JOH-sef",
+      "ipa": "/ˈdʒoʊzɪf/",
+      "note": "Hebrew Yosef is yo-SEF."
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Joe",
+        "Joey",
+        "José",
+        "Giuseppe",
+        "Josef",
+        "Yusuf",
+        "Yosef"
+      ],
+      "script_variants": [
+        "יוֹסֵף (Hebrew)",
+        "Ἰωσήφ (Greek)",
+        "يوسف (Arabic)"
+      ],
+      "variant_notes": "José (Spanish/Portuguese), Giuseppe (Italian), Josef (German/Czech), Yusuf/Yūsuf (Arabic, Turkish), Yossi (Israeli pet form); Joe and Joey are English short forms."
+    },
+    "related_names": [
+      "Jacob",
+      "Rachel",
+      "Benjamin",
+      "Mary",
+      "Yusuf"
+    ],
+    "historical_context": {
+      "status": "verified",
+      "known_linguistic_history": [
+        "Yosef was the second most popular male name for Jews in the 1st century CE.",
+        "Joseph stayed in the US top 10 boys' names from 1925 to 1972."
+      ],
+      "historical_person_association": "Joseph son of Jacob; Saint Joseph of Nazareth.",
+      "historical_event_association": "",
+      "historical_claim_confidence": "HIGH"
+    },
+    "modern_usage": {
+      "status": "qualitative",
+      "modern_context": "Remained in the US top 10 boys' names from 1925 to 1972 (with Robert); common worldwide as José, Giuseppe, Josef and Yusuf."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": []
+    },
+    "celebrity_usage": {
+      "status": "none",
+      "verified": [],
+      "note": ""
+    },
+    "faq": [
+      {
+        "q": "What does Joseph mean?",
+        "a": "“He will add”, from the Hebrew root y-s-p; Genesis explains it as “The LORD shall add to me another son”."
+      },
+      {
+        "q": "Who is Joseph in the Bible?",
+        "a": "Jacob's eleventh son in Genesis, and in the New Testament Saint Joseph of Nazareth, husband of Mary, and Joseph of Arimathea."
+      },
+      {
+        "q": "What is Joseph in Arabic?",
+        "a": "Yūsuf (يوسف), also the Qur'anic form."
+      },
+      {
+        "q": "What is Joseph in Spanish and Italian?",
+        "a": "José in Spanish and Giuseppe in Italian."
+      },
+      {
+        "q": "Is Joseph a popular name?",
+        "a": "It stayed in the US top 10 boys' names from 1925 to 1972."
+      }
+    ],
+    "seo": {
+      "title": "Joseph Name Meaning: “He Will Add” — Hebrew Origin, Bible & Saint Joseph",
+      "meta_description": "Joseph (Yosef, יוֹסֵף) is a Hebrew boy's name meaning he will add. Joseph son of Jacob, Saint Joseph husband of Mary. Origin, Genesis 30:24, variants José, Giuseppe, Yusuf.",
+      "keywords": [
+        "Joseph meaning",
+        "Joseph name meaning",
+        "Joseph in the Bible",
+        "Joseph Hebrew meaning",
+        "Yosef meaning"
+      ],
+      "description_paragraph": "Joseph is a masculine name from the Hebrew Yosef (יוֹסֵף), explained in Genesis as “he will add”: Rachel names her son saying, “The LORD shall add to me another son.” It is the name of Joseph son of Jacob in Genesis and of Saint Joseph of Nazareth, husband of Mary."
+    },
+    "content_quality": {
+      "overall_status": "source-checked",
+      "fabricated_content_removed": true,
+      "meaning_authenticity": "Each core claim checked against a cited source page"
+    },
+    "evidence": {
+      "sources": [
+        {
+          "id": "wiki-name",
+          "title": "Joseph (given name) — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Joseph_(given_name)",
+          "supports": [
+            "meaning",
+            "religion",
+            "usage",
+            "variants"
+          ]
+        }
+      ],
+      "core_claims": [
+        {
+          "claim": "Joseph derives from Hebrew Yosef.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "The Bible links the name to asaf 'taken away' and the root ysp 'add'.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "The Jewish Encyclopedia calls it theophoric; spelled Jehoseph once in Psalms.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "In Genesis Joseph is Jacob's eleventh son and Rachel's first son.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "In the New Testament: Joseph of Nazareth and Joseph of Arimathea.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Arabic and Qur'anic form is Yūsuf; Spanish José; Italian Giuseppe.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "In the US top 10 from 1925 to 1972.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Yosef was the second most popular male name for Jews in the 1st century CE.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        }
+      ],
+      "verification_method": "v9_upgrade.py: every claim's key terms located in the cited source text"
+    },
+    "provenance": {
+      "pipeline": "NameVerse v9 source-checked upgrade",
+      "upgraded_from": "new",
+      "processed_at": "2026-11-03T03:07:17+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Joseph",
+          "description": "Joseph — He will add (God will increase)",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Christian Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Joseph mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "“He will add”, from the Hebrew root y-s-p; Genesis explains it as “The LORD shall add to me another son”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Who is Joseph in the Bible?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Jacob's eleventh son in Genesis, and in the New Testament Saint Joseph of Nazareth, husband of Mary, and Joseph of Arimathea."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is Joseph in Arabic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yūsuf (يوسف), also the Qur'anic form."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is Joseph in Spanish and Italian?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "José in Spanish and Giuseppe in Italian."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Joseph a popular name?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "It stayed in the US top 10 boys' names from 1925 to 1972."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "confidence": "HIGH",
+      "flags": [
+        "translations pending native-speaker review"
+      ],
+      "reviewed_at": "2026-11-03T03:07:17+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": false,
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "real_world_usage",
+        "name_story",
+        "spiritual_meaning"
+      ],
+      "source_checked": true
+    },
+    "biblical_reference": {
+      "is_biblical": true,
+      "origin_scripture": "Genesis 30–50; Gospels of Matthew and Luke",
+      "verse_reference": "Genesis 30:24",
+      "note": "Name explained as “The LORD shall add to me another son”."
+    },
+    "saint_reference": {
+      "is_saint_name": true,
+      "saint_name": "Saint Joseph",
+      "note": "Husband of Mary; Joseph of Arimathea is also venerated."
+    }
+  }
+}

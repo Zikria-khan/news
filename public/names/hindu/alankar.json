@@ -71,26 +71,6 @@
       "Alaankaar"
     ],
     "popularity_score": 50,
-    "popularity_by_region": [
-      {
-        "region": "Karnataka",
-        "country_code": "IN",
-        "score": 65,
-        "year": 2024
-      },
-      {
-        "region": "West Bengal",
-        "country_code": "IN",
-        "score": 37,
-        "year": 2024
-      },
-      {
-        "region": "Bali (Indonesia)",
-        "country_code": "ID",
-        "score": 56,
-        "year": 2024
-      }
-    ],
     "vedic_reference": {
       "is_vedic": false,
       "root_origin": "",

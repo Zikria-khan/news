@@ -4,7 +4,7 @@
   "data": {
     "name": "Fatima",
     "slug": "fatima",
-    "content_revision": "v8",
+    "content_revision": "v9",
     "page_type": "name_meaning",
     "identity": {
       "display_name": "Fatima",
@@ -12,337 +12,324 @@
       "name_type": "given_name",
       "gender": "Female",
       "gender_confidence": "HIGH",
-      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "gender_note": "A female given name.",
       "alternate_spellings": [
-        "Fatima",
-        "fatima"
+        "Fatimah",
+        "Fatma",
+        "Fatemeh",
+        "Fathima",
+        "Fotima",
+        "Fadime"
       ],
-      "name_status": "attested"
+      "name_status": "attested",
+      "search_variants": [
+        "fadime",
+        "fatemeh",
+        "fathima",
+        "fatima",
+        "fatimah",
+        "fatma",
+        "fotima"
+      ]
     },
     "core_meaning": {
-      "short_meaning": "To wean, abstain",
-      "primary_meaning": "Fatima corresponds to the Arabic form فاطمة and is glossed in this record as “To wean, abstain.” The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
-      "literal_meaning": "To wean, abstain",
-      "meaning_explanation": "Fatima corresponds to the Arabic form فاطمة (ف ط م). Its core sense is captivating, alluring, charming. Fāṭima, from f-ṭ-m ('to wean, abstain'), borne by the daughter of the Prophet Muhammad. The source record's gloss 'Captivating' is unsupported. The source record classified it as Unknown, which is incorrect.",
+      "short_meaning": "One who abstains, one who weans",
+      "primary_meaning": "Fatima (Arabic فَاطِمَة, Fāṭimah) is an Arabic female name whose literal meaning is “one who separates” or “one who abstains”, from the root F-Ṭ-M, “to wean, to separate”. It is borne most famously by Fatimah bint Muhammad, the daughter of the Prophet.",
+      "literal_meaning": "One who separates / abstains; one who weans (active participle of faṭama)",
+      "meaning_explanation": "Fāṭimah is a feminine active participle of the Arabic root F-Ṭ-M (ف ط م), “to separate, to cut one thing from another” — the ordinary word for weaning a child. Islamic tradition reads the name of the Prophet's daughter as “one kept separate from evil” or “from Hell”, an interpretation drawn from narrations rather than from the dictionary sense.",
       "meaning_confidence": "HIGH"
     },
     "etymology": {
       "primary_language": "Arabic",
       "lexical_form": "فاطمة",
-      "transliteration": "fatima",
-      "root": "",
-      "root_transliteration": "",
-      "morphology": "Simple lexical item used as a name.",
-      "feminine_form": null,
-      "etymological_meaning": "The Arabic word فاطمة",
-      "root_family": [],
-      "etymology_explanation": "The form فاطمة is an established Arabic lexical item used unchanged as a given name.",
+      "transliteration": "Fāṭimah",
+      "root": "ف ط م",
+      "root_transliteration": "f-ṭ-m",
+      "morphology": "Feminine active participle (fāʿila pattern) of faṭama, “to wean, to separate”.",
+      "etymological_meaning": [
+        "one who weans",
+        "one who separates",
+        "one who abstains"
+      ],
+      "etymology_explanation": "Derived from F-Ṭ-M, meaning “to separate, to cut something from another”.",
       "etymology_confidence": "HIGH",
-      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+      "false_etymology_warning": ""
     },
     "language": {
       "primary": "Arabic",
       "associated_languages": [
-        "Arabic"
+        "Arabic",
+        "Urdu",
+        "Persian",
+        "Turkish"
       ],
-      "language_notes": {
-        "primary": "Arabic is the language of the recorded form فاطمة.",
-        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
-      },
       "language_confidence": "HIGH"
     },
     "origin": {
       "primary_origin": "Arabic",
       "origin_type": "linguistic",
       "origin_confidence": "HIGH",
-      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "origin_explanation": "Arabic, used throughout the Muslim world. Spoken Levantine and Egyptian Arabic and Turkish shorten it to Fatma; Persian has Fatemeh, Tajik Fotima, Azerbaijani Fatimə and South India Fathima.",
       "cultural_transmission": [
-        "Arabic",
-        "Muslim South Asia",
-        "Urdu-speaking communities"
+        "Arab world (Fatma)",
+        "Turkey (Fatma)",
+        "Iran (Fatemeh)",
+        "South Asia (Fathima)",
+        "Central Asia (Fotima)"
       ]
     },
     "religion": {
-      "primary_association": "Islamic-cultural usage",
-      "religion_confidence": "MEDIUM",
-      "religious_status": "Culturally used; not inherently a doctrinal term",
-      "religious_explanation": "Fatima is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "primary_association": "Islamic — name of the Prophet's daughter",
+      "religion_confidence": "HIGH",
+      "religious_status": "Name of Fatimah bint Muhammad",
+      "religious_explanation": "Fatimah bint Muhammad was the daughter of the Prophet Muhammad, wife of Ali ibn Abi Talib and mother of Hasan and Husayn. She is honoured by all Muslims and is especially central in Shia devotion; she is known by titles such as al-Zahra (“the radiant”) and al-Batul.",
       "quranic_status": {
-        "is_quranic": false,
-        "status": "not_verified",
-        "note": "Fatima is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
-      },
-      "hadith_status": {
-        "status": "not_verified",
-        "note": "No specific authentic hadith report about this name is cited; none is invented."
+        "is_quranic_name": false,
+        "quranic_reference": "",
+        "note": ""
       },
       "prophetic_status": {
-        "status": "not_verified",
-        "note": "No verified source establishes Fatima as the name of a prophet."
+        "prophet_association": true,
+        "reference": "Daughter of the Prophet Muhammad"
       },
       "companion_status": {
-        "status": "verified",
-        "note": "Fatima is the name of Fatima, the Prophet's daughter."
+        "known_companion_association": false,
+        "reference": ""
       }
-    },
-    "islamic_naming_context": {
-      "can_be_used_by_muslims": true,
-      "context": "Muslim naming culture in South Asia and the Persianate world",
-      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
-      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
     },
     "cultural_context": {
       "primary_cultural_associations": [
         "Arabic",
-        "Muslim South Asia"
+        "Turkish",
+        "Persian",
+        "Urdu",
+        "Bengali",
+        "Malay"
       ],
-      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
-      "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
-      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
-    },
-    "semantic_field": {
-      "primary_semantic_domain": "To wean, abstain",
-      "related_concepts": [
-        "To wean, abstain"
-      ]
+      "cultural_meaning": "Her titles have become names in their own right — Zahra (“luminous, radiant”) and Batul (“ascetic”).",
+      "impact": "The Portuguese town of Fátima — and through it the Catholic shrine of Our Lady of Fátima — is named after a Moorish princess called Fatima."
     },
     "spiritual_meaning": {
       "status": "interpretive",
-      "render": true,
-      "meaning": "Families may read the sense “To wean, abstain” as a hopeful quality for the child.",
-      "basis": "Lexical meaning: To wean, abstain.",
+      "render": false,
+      "meaning": "",
       "is_direct_religious_definition": false
     },
     "personality_associations": {
       "status": "not_verified",
-      "render": false,
-      "note": "No verified basis links this name to specific personality traits."
+      "render": false
     },
     "hidden_personality_traits": {
       "status": "not_verified",
-      "render": false,
-      "note": "No verified basis."
-    },
-    "numerology": {
-      "status": "interpretive",
-      "render": true,
-      "lucky_number": 5,
-      "life_path_number": 5,
-      "ruling_planet": "Mercury",
-      "lucky_day": "Wednesday",
-      "lucky_colors": [
-        "Green",
-        "Turquoise"
-      ],
-      "lucky_stone": "Emerald",
-      "meaning": "In Pythagorean numerology the letters of Fatima total 5, associated with change, freedom and adaptability. This is an interpretive tradition, not a factual claim.",
-      "note": "Numerology is an optional interpretive layer."
-    },
-    "lucky_attributes": {
-      "status": "interpretive",
-      "render": true,
-      "lucky_number": 5,
-      "lucky_day": "Wednesday",
-      "lucky_colors": [
-        "Green",
-        "Turquoise"
-      ],
-      "lucky_stone": "Emerald",
-      "ruling_planet": "Mercury"
+      "render": false
     },
     "translations": {
       "english": {
         "name": "Fatima",
         "script": "Fatima",
-        "meaning": "To wean, abstain",
-        "long_meaning": "Fatima is an Arabic-origin given name; in Arabic the word means “To wean, abstain”."
+        "meaning": "One who abstains; one who weans",
+        "long_meaning": ""
+      },
+      "arabic": {
+        "name": "فَاطِمَة",
+        "script": "فَاطِمَة",
+        "meaning": "الفاطمة: التي تَفطِم، المنفصلة",
+        "long_meaning": ""
       },
       "urdu": {
         "name": "فاطمہ",
         "script": "فاطمہ",
-        "meaning": "دلکش، موہ لینے والی",
-        "long_meaning": "Fatima (فاطمہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم دلکش، موہ لینے والی ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+        "meaning": "دودھ چھڑانے والی، الگ رہنے والی",
+        "long_meaning": ""
       },
       "persian": {
-        "name": "Fatima",
-        "script": "Fatima",
-        "meaning": "Captivating, alluring, charming",
-        "long_meaning": "Captivating, alluring, charming"
+        "name": "فاطمه",
+        "script": "فاطمه",
+        "meaning": "بازدارنده، جداکننده",
+        "long_meaning": ""
       },
       "hindi": {
         "name": "फ़ातिमा",
         "script": "फ़ातिमा",
-        "meaning": "मोहक, आकर्षक",
-        "long_meaning": "Fatima (फ़ातिमा) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ मोहक, आकर्षक है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
-      },
-      "pashto": {
-        "name": "فاطمه",
-        "script": "فاطمه",
-        "meaning": "زړه ښکلوونکې، جذابه",
-        "long_meaning": "Fatima (فاطمه) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې زړه ښکلوونکې، جذابه ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
-        "native_review_required": true
-      },
-      "arabic": {
-        "name": "فاطمة",
-        "script": "فاطمة",
-        "meaning": "الفاتنة، الجذابة",
-        "long_meaning": "Fatima (فاطمة) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الفاتنة، الجذابة. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
-        "native_review_required": true
+        "meaning": "अलग रखने वाली, संयमी",
+        "long_meaning": ""
       }
     },
     "translation_quality": {
       "strategy": "semantic_translation",
-      "confidence": "HIGH",
-      "native_review_required": true,
-      "note": "Each language is rendered in its own idiom; Pashto and Arabic are flagged for native review."
+      "confidence": "MEDIUM",
+      "native_review_required": true
     },
     "pronunciation": {
-      "romanized": "fa-ti-ma",
-      "ipa": null,
-      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
-      "common_mispronunciation": null,
-      "scripts": {
-        "arabic": "فاطمة"
-      }
+      "english": "FAH-ti-mah",
+      "ipa": "/ˈfaːtˤima/",
+      "note": "The ṭ is an emphatic Arabic t; colloquial Arabic and Turkish drop the middle vowel (Fatma)."
     },
     "name_variants": {
       "romanized_variants": [
-        "Fatima"
+        "Fatimah",
+        "Fatma",
+        "Fatemeh",
+        "Fathima",
+        "Fotima",
+        "Fadime"
       ],
-      "script_forms": [
-        "فاطمة",
-        "فاطمه",
-        "فاطمہ",
-        "फ़ातिमा"
+      "script_variants": [
+        "فَاطِمَة (Arabic)",
+        "فاطمہ (Urdu)",
+        "فاطمه (Persian)",
+        "फ़ातिमा (Hindi)"
       ],
-      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
-      "do_not_merge_with": []
+      "variant_notes": "Fatma (Turkish/colloquial Arabic), Fatemeh (Persian), Fathima (South India), Fotima (Tajik)."
     },
-    "related_names": [],
+    "related_names": [
+      "Zahra",
+      "Batul",
+      "Zainab",
+      "Khadija",
+      "Ruqayya"
+    ],
     "historical_context": {
       "status": "verified",
-      "note": "The form فاطمة is an established Arabic lexical item."
+      "known_linguistic_history": [
+        "Borne by several relatives of the Prophet Muhammad, most famously his daughter Fatimah.",
+        "The Fatimid Caliphate (909–1171) took its name from her, claiming descent through her."
+      ],
+      "historical_person_association": "Fatimah bint Muhammad, daughter of the Prophet Muhammad.",
+      "historical_event_association": "",
+      "historical_claim_confidence": "HIGH"
     },
     "modern_usage": {
-      "status": "requires_frequency_data",
-      "note": "Personal-name popularity must be measured separately from lexical presence."
+      "status": "qualitative",
+      "modern_context": "Used across the whole Muslim world in many local spellings; Fatma is the usual Turkish form."
     },
     "popularity": {
       "status": "not_measured",
       "render": false,
       "score": null,
-      "by_region": [],
-      "note": "No verified popularity or registration data is available."
+      "by_region": []
     },
     "celebrity_usage": {
-      "status": "not_verified",
-      "render": false,
-      "items": [],
-      "note": "No verified celebrity usage is recorded."
-    },
-    "real_world_usage": {
-      "status": "not_verified",
-      "render": false,
-      "note": "No verified real-life bearer story is published; none is invented."
-    },
-    "name_story": {
       "status": "none",
-      "render": false,
-      "story": ""
+      "verified": [],
+      "note": ""
     },
     "faq": [
       {
         "q": "What does Fatima mean?",
-        "a": "Fatima is an Arabic-origin name meaning “To wean, abstain”."
+        "a": "Literally “one who separates” or “one who abstains”, from the Arabic root F-Ṭ-M, “to wean, to separate”."
       },
       {
-        "q": "What is the origin of Fatima?",
-        "a": "Fatima originates in Arabic and circulates in Muslim naming communities."
+        "q": "Who was Fatima in Islam?",
+        "a": "Fatimah bint Muhammad, the Prophet's daughter, wife of Ali ibn Abi Talib and mother of Hasan and Husayn."
       },
       {
-        "q": "Is Fatima an Arabic name?",
-        "a": "Yes, the recorded form فاطمة is Arabic."
+        "q": "Why is Fatima linked with being “kept from Hell”?",
+        "a": "Traditions narrate that she was named Fatimah because God separated her and her followers from the Fire; this is a religious interpretation of the name, beyond its dictionary sense."
       },
       {
-        "q": "What is the root of Fatima?",
-        "a": "No root analysis is asserted for this spelling."
+        "q": "What is the Turkish form of Fatima?",
+        "a": "Fatma, which also reflects the colloquial Arabic pronunciation. Fadime is a less common variant."
       },
       {
-        "q": "Is Fatima an Islamic name?",
-        "a": "Fatima is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+        "q": "What titles of Fatima are used as names?",
+        "a": "Zahra (“luminous, radiant”) and Batul (“ascetic”), often combined as Fatima Zahra."
       },
       {
-        "q": "Is Fatima a Quranic name?",
-        "a": "Fatima is not independently established as a Qur'anic personal name."
-      },
-      {
-        "q": "What does Fatima mean in Urdu?",
-        "a": "In Urdu it is written فاطمہ and carries the sense “دلکش، موہ لینے والی”."
-      },
-      {
-        "q": "How is Fatima pronounced?",
-        "a": "A romanized syllable approximation is “fa-ti-ma”."
-      },
-      {
-        "q": "Is Fatima a boy's or girl's name?",
-        "a": "Documented usage records Fatima as a girl's name; actual use can vary by community."
+        "q": "Why is there a town called Fátima in Portugal?",
+        "a": "The Portuguese town is named after a Moorish princess called Fatima; the Catholic shrine of Our Lady of Fátima takes its name from the town."
       }
     ],
     "seo": {
-      "title": "Fatima Name Meaning, Origin & Islamic Context",
-      "meta_description": "Fatima (فاطمة) — meaning, origin, pronunciation and Islamic naming context.",
-      "meta_keywords": "Fatima meaning, Fatima name meaning, Fatima origin, Fatima meaning in Urdu, Fatima pronunciation, Fatima Islamic name",
-      "description_paragraph": "Fatima is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "title": "Fatima Name Meaning: Arabic Origin, Root F-Ṭ-M & the Prophet's Daughter",
+      "meta_description": "Fatima (فَاطِمَة) is an Arabic girl's name meaning one who abstains or weans, from the root F-Ṭ-M, honouring Fatimah bint Muhammad. Spellings Fatma, Fatemeh, Fathima; Urdu meaning.",
       "keywords": [
         "Fatima meaning",
         "Fatima name meaning",
-        "Fatima origin",
         "Fatima meaning in Urdu",
-        "Fatima pronunciation",
-        "Fatima Islamic name"
+        "Fatima in Islam",
+        "Fatimah"
       ],
-      "focus_keyword": "Fatima meaning",
-      "secondary_keywords": [
-        "Fatima name meaning",
-        "Fatima origin",
-        "Fatima meaning in Urdu",
-        "Fatima pronunciation",
-        "Fatima Islamic name"
-      ],
-      "canonical_url": "https://nameverse.site/names/islamic/fatima",
-      "seo_score": 90,
-      "seo_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+      "description_paragraph": "Fatima (Arabic فَاطِمَة, Fāṭimah) is an Arabic female name whose literal meaning is “one who separates” or “one who abstains”, from the root F-Ṭ-M, “to wean, to separate”. It is borne most famously by Fatimah bint Muhammad, the daughter of the Prophet."
     },
-    "seo_content": {
-      "intro_paragraph": "This page explains the meaning and origin of the name Fatima, an Arabic-origin name used in Muslim communities.",
-      "body_summary": "Fatima is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
-    },
-    "social_tags": [
-      "#Fatima",
-      "#FatimaMeaning",
-      "#NameMeaning",
-      "#IslamicNames",
-      "#NameOrigin"
-    ],
     "content_quality": {
-      "tier1_verified": true,
-      "authenticity_flags": [],
+      "overall_status": "source-checked",
       "fabricated_content_removed": true,
-      "fields_total": 151,
-      "quality_score": 90,
-      "quality_score_basis": "9 distinct FAQs; gloss verified; root absent; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+      "meaning_authenticity": "Each core claim checked against a cited source page"
     },
     "evidence": {
       "sources": [
-        "The recorded Arabic form فاطمة carries the sense “To wean, abstain”."
+        {
+          "id": "wiki-name",
+          "title": "Fatima (given name) — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Fatima_(given_name)",
+          "supports": [
+            "meaning",
+            "root",
+            "variants",
+            "titles"
+          ]
+        },
+        {
+          "id": "wiki-fatimah",
+          "title": "Fatima — Wikipedia (Fatimah bint Muhammad)",
+          "url": "https://en.wikipedia.org/wiki/Fatima",
+          "supports": [
+            "history"
+          ]
+        },
+        {
+          "id": "wiki-fatima-pt",
+          "title": "Fátima, Portugal — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Fátima,_Portugal",
+          "supports": [
+            "cultural"
+          ]
+        }
       ],
-      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+      "core_claims": [
+        {
+          "claim": "The literal meaning of Fatima is one who separates or one who abstains.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "It derives from F-Ṭ-M, “to separate, to cut something from another”.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Fatma is the colloquial and Turkish form; Fatemeh Persian, Fathima South Asian, Fotima Tajik.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Her titles include Zahra (luminous; radiant) and Batul.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Fatimah was the daughter of Muhammad, wife of Ali and mother of Hasan and Husayn.",
+          "evidence_type": "wiki-fatimah",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "The Fatimid Caliphate claimed descent from her.",
+          "evidence_type": "wiki-fatimah",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "The Portuguese town of Fátima is named after a Moorish princess called Fatima.",
+          "evidence_type": "wiki-fatima-pt",
+          "confidence": "HIGH"
+        }
+      ],
+      "verification_method": "v9_upgrade.py: every claim's key terms located in the cited source text"
     },
     "provenance": {
-      "pipeline": "NameVerse Production v8",
-      "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
-      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
-      "processed_at": "2026-10-06T04:27:34+00:00"
+      "pipeline": "NameVerse v9 source-checked upgrade",
+      "upgraded_from": "v8",
+      "processed_at": "2026-11-03T03:04:28+00:00"
     },
     "structured_data": {
       "@context": "https://schema.org",
@@ -350,7 +337,7 @@
         {
           "@type": "DefinedTerm",
           "name": "Fatima",
-          "description": "Fatima — an Arabic-origin given name meaning To wean, abstain",
+          "description": "Fatima — One who abstains, one who weans",
           "inDefinedTermSet": {
             "@type": "DefinedTermSet",
             "name": "NameVerse Islamic Names"
@@ -364,95 +351,48 @@
               "name": "What does Fatima mean?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Fatima is an Arabic-origin name meaning “To wean, abstain”."
+                "text": "Literally “one who separates” or “one who abstains”, from the Arabic root F-Ṭ-M, “to wean, to separate”."
               }
             },
             {
               "@type": "Question",
-              "name": "What is the origin of Fatima?",
+              "name": "Who was Fatima in Islam?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Fatima originates in Arabic and circulates in Muslim naming communities."
+                "text": "Fatimah bint Muhammad, the Prophet's daughter, wife of Ali ibn Abi Talib and mother of Hasan and Husayn."
               }
             },
             {
               "@type": "Question",
-              "name": "Is Fatima an Arabic name?",
+              "name": "Why is Fatima linked with being “kept from Hell”?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Yes, the recorded form فاطمة is Arabic."
+                "text": "Traditions narrate that she was named Fatimah because God separated her and her followers from the Fire; this is a religious interpretation of the name, beyond its dictionary sense."
               }
             },
             {
               "@type": "Question",
-              "name": "What is the root of Fatima?",
+              "name": "What is the Turkish form of Fatima?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "No root analysis is asserted for this spelling."
+                "text": "Fatma, which also reflects the colloquial Arabic pronunciation. Fadime is a less common variant."
               }
             },
             {
               "@type": "Question",
-              "name": "Is Fatima an Islamic name?",
+              "name": "What titles of Fatima are used as names?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Fatima is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+                "text": "Zahra (“luminous, radiant”) and Batul (“ascetic”), often combined as Fatima Zahra."
               }
             },
             {
               "@type": "Question",
-              "name": "Is Fatima a Quranic name?",
+              "name": "Why is there a town called Fátima in Portugal?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Fatima is not independently established as a Qur'anic personal name."
+                "text": "The Portuguese town is named after a Moorish princess called Fatima; the Catholic shrine of Our Lady of Fátima takes its name from the town."
               }
-            },
-            {
-              "@type": "Question",
-              "name": "What does Fatima mean in Urdu?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "In Urdu it is written فاطمہ and carries the sense “دلکش، موہ لینے والی”."
-              }
-            },
-            {
-              "@type": "Question",
-              "name": "How is Fatima pronounced?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "A romanized syllable approximation is “fa-ti-ma”."
-              }
-            },
-            {
-              "@type": "Question",
-              "name": "Is Fatima a boy's or girl's name?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Documented usage records Fatima as a girl's name; actual use can vary by community."
-              }
-            }
-          ]
-        },
-        {
-          "@type": "BreadcrumbList",
-          "itemListElement": [
-            {
-              "@type": "ListItem",
-              "position": 1,
-              "name": "Home",
-              "item": "https://nameverse.site/"
-            },
-            {
-              "@type": "ListItem",
-              "position": 2,
-              "name": "Islamic Names",
-              "item": "https://nameverse.site/names/islamic"
-            },
-            {
-              "@type": "ListItem",
-              "position": 3,
-              "name": "Fatima",
-              "item": "https://nameverse.site/names/islamic/fatima"
             }
           ]
         }
@@ -460,31 +400,54 @@
     },
     "editorial_validation": {
       "needs_manual_verification": false,
-      "flags": [],
       "confidence": "HIGH",
-      "reviewed_by": "NameVerse verification pipeline",
-      "reviewed_at": "2026-10-06T04:27:34+00:00"
+      "flags": [
+        "translations pending native-speaker review"
+      ],
+      "reviewed_at": "2026-11-03T03:04:28+00:00"
     },
     "render_policy": {
       "render_verified": true,
       "render_interpretive": true,
-      "hide_unverified": true,
-      "single_definition_source": "core_meaning.primary_meaning",
-      "non_rendered_definition_fields": [
-        "core_meaning.short_meaning",
-        "core_meaning.literal_meaning",
-        "semantic_field",
-        "etymology.etymological_meaning"
-      ],
+      "hide_unverified": false,
       "hidden_sections": [
         "personality_associations",
         "hidden_personality_traits",
         "popularity",
-        "celebrity_usage",
         "real_world_usage",
-        "spiritual_meaning",
-        "name_story"
-      ]
+        "name_story",
+        "spiritual_meaning"
+      ],
+      "source_checked": true
+    },
+    "islamic_naming_context": {
+      "can_be_used_by_muslims": true,
+      "context": "One of the most common female names in the Muslim world, often paired with her titles — Fatima Zahra, Fatima Batool.",
+      "interpretation": "Parents choose it to honour the Prophet's daughter.",
+      "important_distinction": "The reading “separated from Hell” comes from traditions about why she was given the name; the literal dictionary sense is “one who weans/separates”."
+    },
+    "numerology": {
+      "status": "interpretive",
+      "render": true,
+      "lucky_number": 5,
+      "life_path_number": 5,
+      "lucky_day": "Wednesday",
+      "lucky_colors": [
+        "Green",
+        "Turquoise"
+      ],
+      "lucky_stone": "Emerald",
+      "meaning": "In Pythagorean numerology the letters of Fatima total 5, associated with change, freedom and adaptability. This is an interpretive tradition, not a factual claim.",
+      "note": "Numerology is an optional interpretive layer, not a linguistic fact."
+    },
+    "lucky_attributes": {
+      "lucky_number": 5,
+      "lucky_day": "Wednesday",
+      "lucky_colors": [
+        "Green",
+        "Turquoise"
+      ],
+      "lucky_stone": "Emerald"
     }
   }
 }
