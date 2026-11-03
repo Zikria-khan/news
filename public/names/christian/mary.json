@@ -1,0 +1,435 @@
+{
+  "schema_version": "super-2.0",
+  "success": true,
+  "data": {
+    "name": "Mary",
+    "slug": "mary",
+    "content_revision": "v9",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "Mary",
+      "normalized_name": "mary",
+      "name_type": "given_name",
+      "gender": "Female",
+      "gender_confidence": "HIGH",
+      "gender_note": "A feminine given name.",
+      "alternate_spellings": [
+        "Maria",
+        "Marie",
+        "Miriam",
+        "Maryam",
+        "Mariam",
+        "Molly",
+        "Polly"
+      ],
+      "name_status": "attested",
+      "search_variants": [
+        "maria",
+        "mariam",
+        "marie",
+        "mary",
+        "maryam",
+        "miriam",
+        "molly",
+        "polly"
+      ]
+    },
+    "core_meaning": {
+      "short_meaning": "English form of Miriam; meaning uncertain, perhaps “beloved”",
+      "primary_meaning": "Mary is a feminine name, the English form of Maria, from Greek Μαρία/Μαριάμ, which reflects the Hebrew name Miryam (מרים). It is the name of Mary, the mother of Jesus. Its original meaning is uncertain: it may come from the Egyptian root mr, “love; beloved”, while early writers linked it to Hebrew words for “bitter” or “drop of the sea”.",
+      "literal_meaning": "Uncertain — possibly Egyptian mr, “love; beloved”",
+      "meaning_explanation": "The name probably goes back to Egyptian mr, “love, beloved” (compare Merit-Amun, “beloved of Amun”). Ancient interpreters instead read Hebrew roots into it: mr, “bitter”, or mry, “rebellious”. St Jerome (c. 390) translated it “drop of the sea” (stilla maris); a scribal error turned that into stella maris, “star of the sea”, the origin of the Marian title Star of the Sea.",
+      "meaning_confidence": "MEDIUM"
+    },
+    "etymology": {
+      "primary_language": "Hebrew",
+      "lexical_form": "מרים",
+      "transliteration": "Miryam",
+      "root": "",
+      "root_transliteration": "",
+      "morphology": "Personal name; English Mary < French Marie < Latin Maria < Greek Μαρία / Μαριάμ < Hebrew Miryam.",
+      "etymological_meaning": [
+        "beloved (probable, via Egyptian mr)"
+      ],
+      "etymology_explanation": "English Mary comes from French Marie, from Latin Maria, from the Greek forms of Hebrew Miryam. The deeper origin is probably the Egyptian root mr, “love; beloved”.",
+      "etymology_confidence": "MEDIUM",
+      "false_etymology_warning": "“Star of the sea” comes from a scribal error for Jerome's “drop of the sea”; “bitter” and “rebellious” are early folk etymologies."
+    },
+    "language": {
+      "primary": "Hebrew",
+      "associated_languages": [
+        "Hebrew",
+        "Greek",
+        "Latin",
+        "English"
+      ],
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Hebrew",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "Biblical, through Greek and Latin. Middle English took it from French Marie; Wycliffe's Bible still has Marie, and the spelling Mary becomes standard in the 16th century (Tyndale, Coverdale).",
+      "cultural_transmission": [
+        "Hebrew (Miryam)",
+        "Greek (Maria, Mariam)",
+        "Latin (Maria)",
+        "French (Marie)",
+        "English (Mary)",
+        "Arabic (Maryam)"
+      ]
+    },
+    "religion": {
+      "primary_association": "Christian — Mary, mother of Jesus",
+      "religion_confidence": "HIGH",
+      "religious_status": "Name of the mother of Jesus",
+      "religious_explanation": "Mary of Nazareth, wife of Joseph and mother of Jesus, is venerated across Christianity under titles such as Virgin and Queen, and many churches call her Mother of God. In Islam she is Maryam, mother of Isa, and has a surah of the Qur'an named after her.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": "",
+        "note": ""
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": ""
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": ""
+      }
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "English",
+        "Irish",
+        "Christian"
+      ],
+      "cultural_meaning": "In Ireland Mary was long considered too holy to use and only came into common use in the 17th century.",
+      "impact": "The title Star of the Sea (Stella Maris), from Jerome's reading of the name, became one of the best-known titles of the Virgin Mary."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": false,
+      "meaning": "",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false
+    },
+    "translations": {
+      "english": {
+        "name": "Mary",
+        "script": "Mary",
+        "meaning": "English form of Maria / Miriam",
+        "long_meaning": ""
+      },
+      "hebrew": {
+        "name": "מרים",
+        "script": "מרים",
+        "meaning": "מרים (Miryam)",
+        "long_meaning": ""
+      },
+      "greek": {
+        "name": "Μαρία",
+        "script": "Μαρία",
+        "meaning": "Μαρία / Μαριάμ",
+        "long_meaning": ""
+      },
+      "latin": {
+        "name": "Maria",
+        "script": "Maria",
+        "meaning": "Maria",
+        "long_meaning": ""
+      },
+      "arabic": {
+        "name": "مريم",
+        "script": "مريم",
+        "meaning": "مريم (Maryam)",
+        "long_meaning": ""
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "MEDIUM",
+      "native_review_required": true
+    },
+    "pronunciation": {
+      "english": "MAIR-ee",
+      "ipa": "/ˈmɛəri/",
+      "note": "Some American accents merge it with “merry” and “marry”."
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Maria",
+        "Marie",
+        "Miriam",
+        "Maryam",
+        "Mariam",
+        "Molly",
+        "Polly"
+      ],
+      "script_variants": [
+        "מרים (Hebrew)",
+        "Μαρία (Greek)",
+        "مريم (Arabic)"
+      ],
+      "variant_notes": "Maria (Latin, Spanish, Italian), Marie (French), Miriam (Hebrew), Maryam (Arabic); Molly and Polly are old English pet forms."
+    },
+    "related_names": [
+      "Miriam",
+      "Maryam",
+      "Mariam",
+      "Marie",
+      "Maria"
+    ],
+    "historical_context": {
+      "status": "verified",
+      "known_linguistic_history": [
+        "Borne in the New Testament by Mary of Nazareth and Mary Magdalene.",
+        "Entered English from French Marie; the modern spelling dates from the 16th-century Tyndale and Coverdale Bibles."
+      ],
+      "historical_person_association": "Mary, mother of Jesus (1st century, Nazareth).",
+      "historical_event_association": "",
+      "historical_claim_confidence": "HIGH"
+    },
+    "modern_usage": {
+      "status": "qualitative",
+      "modern_context": "Among the top 100 girls' names in Ireland; it was the 179th most popular name for girls in England and Wales in 2007."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": []
+    },
+    "celebrity_usage": {
+      "status": "none",
+      "verified": [],
+      "note": ""
+    },
+    "faq": [
+      {
+        "q": "What does Mary mean?",
+        "a": "Its origin is uncertain. It is the English form of Hebrew Miryam and probably comes from the Egyptian root mr, “love; beloved”."
+      },
+      {
+        "q": "Does Mary mean “bitter”?",
+        "a": "That is an early etymology linking it to Hebrew mr, “bitter”; modern scholarship favours an Egyptian origin meaning “beloved”."
+      },
+      {
+        "q": "Why is Mary called “Star of the Sea”?",
+        "a": "St Jerome translated the name as “drop of the sea” (stilla maris); a scribal error turned it into stella maris, “star of the sea”."
+      },
+      {
+        "q": "Who is Mary in the Bible?",
+        "a": "Mary of Nazareth, the wife of Joseph and the mother of Jesus, described in the Gospels of Matthew and Luke."
+      },
+      {
+        "q": "What is Mary in Arabic?",
+        "a": "Maryam (مريم). In Islam she is the mother of Isa (Jesus), and Surah Maryam is named after her."
+      },
+      {
+        "q": "Is Mary the same name as Miriam?",
+        "a": "Yes. Mary comes, through Greek and Latin, from the Hebrew Miryam, the name of Moses' sister."
+      }
+    ],
+    "seo": {
+      "title": "Mary Name Meaning: Origin from Miriam, “Beloved” & Star of the Sea",
+      "meta_description": "Mary is the English form of Hebrew Miriam, probably from Egyptian mr “beloved”. Name of the mother of Jesus; why it is linked to “bitter” and “Star of the Sea”; variants Maria, Maryam.",
+      "keywords": [
+        "Mary meaning",
+        "Mary name meaning",
+        "Mary in the Bible",
+        "Mary Hebrew meaning",
+        "Mary star of the sea"
+      ],
+      "description_paragraph": "Mary is a feminine name, the English form of Maria, from Greek Μαρία/Μαριάμ, which reflects the Hebrew name Miryam (מרים). It is the name of Mary, the mother of Jesus. Its original meaning is uncertain: it may come from the Egyptian root mr, “love; beloved”, while early writers linked it to Hebrew words for “bitter” or “drop of the sea”."
+    },
+    "content_quality": {
+      "overall_status": "source-checked",
+      "fabricated_content_removed": true,
+      "meaning_authenticity": "Each core claim checked against a cited source page"
+    },
+    "evidence": {
+      "sources": [
+        {
+          "id": "wiki-name",
+          "title": "Mary (given name) — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mary_(given_name)",
+          "supports": [
+            "meaning",
+            "etymology",
+            "usage"
+          ]
+        },
+        {
+          "id": "wiki-mary",
+          "title": "Mary, mother of Jesus — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mary,_mother_of_Jesus",
+          "supports": [
+            "biblical",
+            "islam"
+          ]
+        }
+      ],
+      "core_claims": [
+        {
+          "claim": "Mary is the English form of Maria, from Greek Μαρία/Μαριάμ reflecting Hebrew Miryam.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "It probably derives from Egyptian mr, 'love; beloved'.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Early etymologies linked it to Hebrew mr 'bitter' or mry 'rebellious'.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Jerome translated it 'drop of the sea' (stilla maris); a scribal error gave stella maris.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Wycliffe's Bible has Marie; the modern spelling dates from Tyndale (1525) and Coverdale (1535).",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "In Ireland the name was considered too holy and only came into common usage in the 17th century.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Mary was 179th most popular girls' name in England and Wales in 2007.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Mary of Nazareth was the wife of Joseph and mother of Jesus.",
+          "evidence_type": "wiki-mary",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "In Islam she is Maryam, mother of Isa, with a surah named after her.",
+          "evidence_type": "wiki-mary",
+          "confidence": "HIGH"
+        }
+      ],
+      "verification_method": "v9_upgrade.py: every claim's key terms located in the cited source text"
+    },
+    "provenance": {
+      "pipeline": "NameVerse v9 source-checked upgrade",
+      "upgraded_from": "new",
+      "processed_at": "2026-11-03T03:04:28+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "Mary",
+          "description": "Mary — English form of Miriam; meaning uncertain, perhaps “beloved”",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Christian Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does Mary mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Its origin is uncertain. It is the English form of Hebrew Miryam and probably comes from the Egyptian root mr, “love; beloved”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Does Mary mean “bitter”?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "That is an early etymology linking it to Hebrew mr, “bitter”; modern scholarship favours an Egyptian origin meaning “beloved”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Why is Mary called “Star of the Sea”?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "St Jerome translated the name as “drop of the sea” (stilla maris); a scribal error turned it into stella maris, “star of the sea”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Who is Mary in the Bible?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mary of Nazareth, the wife of Joseph and the mother of Jesus, described in the Gospels of Matthew and Luke."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is Mary in Arabic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Maryam (مريم). In Islam she is the mother of Isa (Jesus), and Surah Maryam is named after her."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Mary the same name as Miriam?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. Mary comes, through Greek and Latin, from the Hebrew Miryam, the name of Moses' sister."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "confidence": "HIGH",
+      "flags": [
+        "translations pending native-speaker review"
+      ],
+      "reviewed_at": "2026-11-03T03:04:28+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": false,
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "real_world_usage",
+        "name_story",
+        "spiritual_meaning"
+      ],
+      "source_checked": true
+    },
+    "biblical_reference": {
+      "is_biblical": true,
+      "origin_scripture": "New Testament — the Gospels",
+      "verse_reference": "Luke 1:26–38 (the Annunciation)",
+      "note": "Mother of Jesus; the Hebrew form Miriam is the sister of Moses."
+    },
+    "saint_reference": {
+      "is_saint_name": true,
+      "saint_name": "Mary, mother of Jesus (the Blessed Virgin Mary)",
+      "note": "Venerated as a saint in Catholic, Orthodox and other traditions."
+    }
+  }
+}

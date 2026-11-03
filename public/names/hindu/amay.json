@@ -80,26 +80,6 @@
       "Amaay"
     ],
     "popularity_score": 70,
-    "popularity_by_region": [
-      {
-        "region": "Karnataka",
-        "country_code": "IN",
-        "score": 53,
-        "year": 2024
-      },
-      {
-        "region": "Uttar Pradesh",
-        "country_code": "IN",
-        "score": 90,
-        "year": 2024
-      },
-      {
-        "region": "Maharashtra",
-        "country_code": "IN",
-        "score": 55,
-        "year": 2024
-      }
-    ],
     "vedic_reference": {
       "is_vedic": true,
       "root_origin": "Sanskrit/Mythology/Vedic",

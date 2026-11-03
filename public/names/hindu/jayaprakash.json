@@ -81,26 +81,6 @@
       "Jayaprakas"
     ],
     "popularity_score": 60,
-    "popularity_by_region": [
-      {
-        "region": "Gujarat",
-        "country_code": "IN",
-        "score": 47,
-        "year": 2024
-      },
-      {
-        "region": "West Bengal",
-        "country_code": "IN",
-        "score": 41,
-        "year": 2024
-      },
-      {
-        "region": "Karnataka",
-        "country_code": "IN",
-        "score": 40,
-        "year": 2024
-      }
-    ],
     "vedic_reference": {
       "is_vedic": false,
       "root_origin": "Sanskrit/Mythology/Non-Vedic",

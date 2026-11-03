@@ -4,7 +4,7 @@
   "data": {
     "name": "Hamza",
     "slug": "hamza",
-    "content_revision": "v8",
+    "content_revision": "v9",
     "page_type": "name_meaning",
     "identity": {
       "display_name": "Hamza",
@@ -12,18 +12,28 @@
       "name_type": "given_name",
       "gender": "Male",
       "gender_confidence": "HIGH",
-      "gender_note": "Gender is recorded from documented naming usage, not inferred from the word's meaning.",
+      "gender_note": "Recorded as a masculine given name (Wiktionary marks حَمْزَة as a male given name); it is not used as a girl's name in mainstream naming practice.",
       "alternate_spellings": [
-        "Hamza",
-        "hamza"
+        "Hamzah",
+        "Humza",
+        "Hamzeh",
+        "Hamsah",
+        "Khamzat"
       ],
-      "name_status": "attested"
+      "name_status": "attested",
+      "search_variants": [
+        "hamza",
+        "hamzah",
+        "humza",
+        "hamzeh",
+        "hamja"
+      ]
     },
     "core_meaning": {
-      "short_meaning": "Lion",
-      "primary_meaning": "Hamza corresponds to the Arabic form حمزة and is glossed in this record as “Lion.” The record associates the form with root ح م ز (ḥ-m-z). The lexical gloss describes the word-form; Qur’anic occurrence, religious recommendation, popularity, and a name-bearer’s character are separate claims and are not established by this gloss alone.",
-      "literal_meaning": "Lion",
-      "meaning_explanation": "Hamza corresponds to the Arabic form حمزة (Arabic root ح م ز (ḥ-m-z); حَمْزَة (Ḥamza)). Its core sense is lion; brave, courageous. Hamza is Arabic حَمْزَة (Ḥamza), the name of the Prophet Muḥammad's uncle Ḥamza ibn ʿAbd al-Muṭṭalib — a documented historical bearer. The root ح م ز (ḥ-m-z) conveys sharpness and strength, and the name is traditionally associated with the lion. The source record for this slug was empty (origin and gender 'Unknown', no script forms); it has been completed from the form itself.",
+      "short_meaning": "Strong, steadfast; an Arabic epithet for the lion",
+      "primary_meaning": "Hamza (Arabic حَمْزَة, Ḥamza) is an Arabic masculine given name meaning “strong and steadfast”; it is also recorded as an Arabic epithet for the lion. Its prominence in Muslim naming comes from Hamza ibn Abd al-Muttalib, the paternal uncle of the Prophet Muhammad, who was renowned for his strength and courage.",
+      "literal_meaning": "Lion (a rare, obsolete Arabic noun sense of حَمْزَة)",
+      "meaning_explanation": "Dictionaries of Muslim names gloss Hamza as “strong, steadfast” and note that it serves as an epithet for the lion; Wiktionary records an obsolete Arabic noun حَمْزَة meaning “lion”. The lion association is reinforced by the title of the Prophet’s uncle Hamza, remembered as Asad Allah (“Lion of God”). The everyday sense parents intend is strength and steadfast courage.",
       "meaning_confidence": "HIGH"
     },
     "etymology": {
@@ -32,13 +42,18 @@
       "transliteration": "hamza",
       "root": "ح م ز",
       "root_transliteration": "ḥ-m-z",
-      "morphology": "Built on the root ح م ز.",
+      "morphology": "Feminine-pattern noun form (ending in tāʾ marbūṭa, ـة) on the root ح م ز, used as a masculine name — a common pattern in Arabic names (compare Usama, Muʿawiya).",
       "feminine_form": null,
-      "etymological_meaning": "From the root ح م ز (ḥ-m-z)",
-      "root_family": [],
-      "etymology_explanation": "The form حمزة is an established Arabic lexical item, and Hamza is the word itself used as a personal name rather than a derived or diminutive form.",
+      "etymological_meaning": [
+        "strength, firmness",
+        "lion (obsolete noun sense)"
+      ],
+      "root_family": [
+        "ḥamz (حَمْز)"
+      ],
+      "etymology_explanation": "Hamza is the Arabic word حَمْزَة used directly as a personal name rather than a derived or diminutive form. Wiktionary lists it under the root ح م ز with a rare, obsolete noun sense “lion”.",
       "etymology_confidence": "HIGH",
-      "false_etymology_warning": "No derivation beyond the documented Arabic form is asserted. Any etymology that attributes this spelling to a different root or language without a source should be treated as unverified."
+      "false_etymology_warning": "Do not confuse ḥamza (حمزة, with ḥāʾ ح) with hamza (همزة, with hāʾ ه), the Arabic glottal-stop sign ء. They are spelled with different letters and are unrelated."
     },
     "language": {
       "primary": "Arabic",
@@ -55,22 +70,26 @@
       "primary_origin": "Arabic",
       "origin_type": "linguistic",
       "origin_confidence": "HIGH",
-      "origin_explanation": "The name originates in Arabic and circulates in Muslim naming through established multilingual use.",
+      "origin_explanation": "Arabic in origin; spread with Islam across the Arab world and into Turkish, Persian, Urdu, Malay and Caucasian naming, largely in honour of Hamza ibn Abd al-Muttalib.",
       "cultural_transmission": [
-        "Arabic",
-        "Muslim South Asia",
-        "Urdu-speaking communities"
+        "Arab world",
+        "Turkey",
+        "Iran (Hamzeh)",
+        "South Asia (Urdu/Bengali)",
+        "Southeast Asia (Hamzah)",
+        "North Caucasus (Khamzat)"
       ]
     },
     "religion": {
-      "primary_association": "Islamic-cultural usage",
-      "religion_confidence": "MEDIUM",
-      "religious_status": "Culturally used; not inherently a doctrinal term",
-      "religious_explanation": "Hamza is used by Muslims as a personal name, but the word itself is lexical in origin; its Islamic association is cultural rather than scriptural.",
+      "primary_association": "Islamic — name of a Companion and uncle of the Prophet",
+      "religion_confidence": "HIGH",
+      "religious_status": "Honoured Islamic name through a Companion of the Prophet; not a Qur'anic word",
+      "religious_explanation": "Hamza is not mentioned in the Qur'an, but it is one of the most respected names in Islamic history because it was borne by Hamza ibn Abd al-Muttalib (c. 568–625), the Prophet’s paternal uncle and milk-brother, an early convert (616 CE), a commander at Badr, and a martyr of the Battle of Uhud, honoured as Sayyid al-Shuhadāʾ (“Leader of the Martyrs”).",
       "quranic_status": {
         "is_quranic": false,
-        "status": "not_verified",
-        "note": "Hamza is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+        "is_quranic_name": false,
+        "status": "not_quranic",
+        "note": "The name Hamza does not occur in the Qur'an; its Islamic standing comes from the Companion Hamza ibn Abd al-Muttalib."
       },
       "hadith_status": {
         "status": "not_verified",
@@ -82,35 +101,46 @@
       },
       "companion_status": {
         "status": "verified",
-        "note": "Hamza is the name of Hamza, an uncle of the Prophet."
+        "known_companion_association": true,
+        "reference": "Hamza ibn Abd al-Muttalib (c. 568–625 CE) — paternal uncle and milk-brother of the Prophet Muhammad; embraced Islam in 616 CE; killed at the Battle of Uhud on 23 March 625 CE; titled Sayyid al-Shuhadāʾ and Asad Allah wa Asad Rasūlih (“Lion of God and of His Messenger”).",
+        "note": "Hamza is the name of the Prophet’s uncle and Companion, Hamza ibn Abd al-Muttalib."
       }
     },
     "islamic_naming_context": {
       "can_be_used_by_muslims": true,
-      "context": "Muslim naming culture in South Asia and the Persianate world",
-      "interpretation": "Its lexical sense is a positive quality that families may wish for a child.",
-      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+      "context": "Used throughout the Muslim world — Arab countries, Turkey, Iran, South and Southeast Asia, Africa and the Caucasus — usually in honour of Hamza ibn Abd al-Muttalib.",
+      "interpretation": "Parents choose it for its sense of strength and steadfastness and for its association with a celebrated Companion.",
+      "important_distinction": "Its religious esteem comes from the Companion who bore it, not from Qur'anic usage."
     },
     "cultural_context": {
       "primary_cultural_associations": [
         "Arabic",
-        "Muslim South Asia"
+        "Persian",
+        "Urdu",
+        "Turkish",
+        "Malay"
       ],
-      "cultural_meaning": "In the communities that use it, the name reads as a positive quality.",
+      "cultural_meaning": "Across Muslim cultures the name evokes bravery and loyalty, after the Companion’s defence of the Prophet.",
       "personal_name_interpretation": "As a personal name it can be read as a wish for the quality it names.",
-      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense."
+      "interpretation_warning": "The symbolic reading is a cultural convention, distinct from the dictionary sense.",
+      "impact": "The legendary adventures of Amir Hamza are told in the Hamzanama (Dastan-e-Amir Hamza), a Persian romance that became a major Urdu storytelling tradition and was famously illustrated for the Mughal emperor Akbar."
     },
     "semantic_field": {
-      "primary_semantic_domain": "Lion",
+      "primary_semantic_domain": "Strength and courage",
       "related_concepts": [
-        "Lion"
+        "Asad",
+        "Haidar",
+        "Usama",
+        "Ghazanfar",
+        "Shuja",
+        "Qawi"
       ]
     },
     "spiritual_meaning": {
       "status": "interpretive",
       "render": true,
-      "meaning": "Families may read the sense “Lion” as a hopeful quality for the child.",
-      "basis": "Lexical meaning: Lion.",
+      "meaning": "Families often choose Hamza hoping the child will share the steadfast courage and loyalty associated with the Prophet’s uncle.",
+      "basis": "Lexical meaning (strong, steadfast) and the example of Hamza ibn Abd al-Muttalib.",
       "is_direct_religious_definition": false
     },
     "personality_associations": {
@@ -154,39 +184,39 @@
       "english": {
         "name": "Hamza",
         "script": "Hamza",
-        "meaning": "Lion",
-        "long_meaning": "Hamza is an Arabic-origin given name; in Arabic the word means “Lion”."
+        "meaning": "Strong, steadfast; lion",
+        "long_meaning": "Hamza is an Arabic masculine name meaning “strong, steadfast”, also used as an epithet for the lion; it honours the Prophet’s uncle Hamza ibn Abd al-Muttalib."
       },
       "urdu": {
         "name": "حمزہ",
         "script": "حمزہ",
-        "meaning": "شیر، بہادر",
-        "long_meaning": "Hamza (حمزہ) عربی زبان سے ماخوذ نام ہے۔ اس کا بنیادی مفہوم شیر، بہادر ہے۔ یہ نام مسلم معاشروں میں رکھا جاتا ہے اور اس کے مفاہیم سیاق و سباق کے مطابق استعمال ہوتے ہیں۔"
+        "meaning": "طاقتور، ثابت قدم؛ شیر",
+        "long_meaning": "حمزہ عربی زبان کا نام ہے جس کے معنی طاقتور اور ثابت قدم ہیں، اور یہ شیر کا لقب بھی ہے۔ یہ نام نبی کریم ﷺ کے چچا حضرت حمزہ بن عبدالمطلبؓ کی نسبت سے مشہور ہے، جنہیں سید الشہداء اور اسد اللہ کہا جاتا ہے۔"
       },
       "persian": {
         "name": "حمزه",
         "script": "حمزه",
-        "meaning": "شیر، دلیر",
-        "long_meaning": "Hamza (حمزه) نامی برگرفته از زبان عربی است و معنای اصلی آن شیر، دلیر است. این نام در جوامع مسلمان به کار می‌رود و کاربرد آن بسته به بافت زبانی متفاوت است."
+        "meaning": "نیرومند، استوار؛ شیر",
+        "long_meaning": "حمزه نامی عربی به معنای نیرومند و استوار است و لقبی برای شیر نیز به شمار می‌رود. این نام به احترام حمزه بن عبدالمطلب، عموی پیامبر اسلام و سیدالشهدا، رایج شده است."
       },
       "hindi": {
         "name": "हमज़ा",
         "script": "हमज़ा",
-        "meaning": "शेर, बहादुर",
-        "long_meaning": "Hamza (हमज़ा) अरबी भाषा से लिया गया नाम है। इसका मुख्य अर्थ शेर, बहादुर है। यह नाम मुस्लिम समाजों में रखा जाता है और इसका प्रयोग संदर्भ के अनुसार बदलता है।"
+        "meaning": "बलवान, दृढ़; शेर",
+        "long_meaning": "हमज़ा अरबी मूल का नाम है जिसका अर्थ है बलवान और दृढ़; यह शेर की उपाधि भी है। यह नाम पैग़म्बर मुहम्मद के चाचा हज़रत हमज़ा बिन अब्दुल मुत्तलिब के नाम पर लोकप्रिय है।"
       },
       "pashto": {
         "name": "حمزه",
         "script": "حمزه",
-        "meaning": "زمری، زړور",
+        "meaning": "پیاوړی، ټینګ؛ زمری",
         "long_meaning": "Hamza (حمزه) د عربي ژبې څخه اخیستل شوی نوم دی او بنسټیزه مانا یې زمری، زړور ده. دا نوم په مسلمانانو ټولنو کې کارول کیږي او کارونه یې د سیاق له مخې بدلیږي.",
         "native_review_required": true
       },
       "arabic": {
         "name": "حمزة",
         "script": "حمزة",
-        "meaning": "الأسد، الليث، الشجاع",
-        "long_meaning": "Hamza (حمزة) اسم مأخوذ من اللغة العربية، ومعناه الأساسي الأسد، الليث، الشجاع. يُستخدم هذا الاسم في المجتمعات المسلمة ويختلف استعماله بحسب السياق اللغوي.",
+        "meaning": "القوي الثابت؛ ومن أسماء الأسد",
+        "long_meaning": "حمزة اسم عربي مذكر معناه القوي الثابت، ويُطلق وصفًا للأسد. اشتهر به حمزة بن عبد المطلب عمّ النبي ﷺ، الملقب بسيد الشهداء وأسد الله وأسد رسوله.",
         "native_review_required": true
       }
     },
@@ -198,34 +228,69 @@
     },
     "pronunciation": {
       "romanized": "ham-za",
-      "ipa": null,
-      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
-      "common_mispronunciation": null,
+      "ipa": "/ˈħamza/",
+      "approximation_note": "Arabic begins with the breathy ḥ (ح), stronger than English h; Urdu and Persian speakers use a plain h. IPA per Wikipedia’s Hamza (name) article.",
+      "common_mispronunciation": "Saying it like the letter-sign “hamza” (همزة) is common but technically a different word with a soft h.",
       "scripts": {
-        "arabic": "حمزة"
-      }
+        "arabic": "حَمْزَة",
+        "urdu": "حمزہ",
+        "persian": "حمزه",
+        "hindi": "हमज़ा"
+      },
+      "english": "HAM-zuh",
+      "urdu": "/ˈhəmzə/",
+      "persian": "/hæmˈze/",
+      "arabic": "حَمْزَة"
     },
     "name_variants": {
       "romanized_variants": [
-        "Hamza"
+        "Hamzah",
+        "Humza",
+        "Hamzeh",
+        "Hamsah",
+        "Khamzat",
+        "Hamëz"
       ],
       "script_forms": [
         "حمزة",
-        "حمزه",
         "حمزہ",
+        "حمزه",
         "हमज़ा"
       ],
-      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
-      "do_not_merge_with": []
+      "variant_notes": "Hamzah (Malay/Indonesian, also English), Humza (UK/South Asian), Hamzeh (Persian) and Khamzat (Chechen/Avar) are spellings of the same name.",
+      "do_not_merge_with": [
+        "همزة (hamza, the Arabic glottal-stop sign)"
+      ],
+      "script_variants": [
+        "حَمْزَة (Arabic)",
+        "حمزہ (Urdu)",
+        "حمزه (Persian)",
+        "हमज़ा (Hindi)"
+      ]
     },
-    "related_names": [],
+    "related_names": [
+      "Asad",
+      "Haidar",
+      "Usama",
+      "Ghazanfar",
+      "Shuja",
+      "Qawi"
+    ],
     "historical_context": {
       "status": "verified",
-      "note": "The form حمزة is an established Arabic lexical item."
+      "known_linguistic_history": [
+        "Pre-Islamic Arabic personal name, documented in 6th–7th-century Mecca.",
+        "Spread across the Muslim world after the early Islamic period through veneration of the Prophet’s uncle."
+      ],
+      "historical_person_association": "Hamza ibn Abd al-Muttalib (c. 568–625), uncle and Companion of the Prophet Muhammad, killed at the Battle of Uhud.",
+      "historical_event_association": "Battle of Uhud, 23 March 625 CE",
+      "editorial_note": "Dates follow Wikipedia’s articles on Hamza ibn Abd al-Muttalib and the Battle of Uhud.",
+      "historical_claim_confidence": "HIGH",
+      "note": "Borne by Hamza ibn Abd al-Muttalib, uncle of the Prophet; the Hamzanama romance later made the name famous in Persian and Urdu literature."
     },
     "modern_usage": {
-      "status": "requires_frequency_data",
-      "note": "Personal-name popularity must be measured separately from lexical presence."
+      "status": "qualitative",
+      "note": "Widely used today from Morocco to Indonesia and among Muslim communities in Europe and North America; no ranking is asserted here without dated official data."
     },
     "popularity": {
       "status": "not_measured",
@@ -235,10 +300,16 @@
       "note": "No verified popularity or registration data is available."
     },
     "celebrity_usage": {
-      "status": "not_verified",
-      "render": false,
+      "status": "verified",
+      "render": true,
+      "verified": [
+        "Hamza Yusuf — American Islamic scholar",
+        "Hamza Abdi Barre — Prime Minister of Somalia (from 2022)",
+        "Hamza Ali Abbasi — Pakistani actor and director",
+        "Humza Yousaf — First Minister of Scotland (2023–2024)"
+      ],
       "items": [],
-      "note": "No verified celebrity usage is recorded."
+      "note": "Listed from Wikipedia biographies; spelling variants included."
     },
     "real_world_usage": {
       "status": "not_verified",
@@ -253,96 +324,205 @@
     "faq": [
       {
         "q": "What does Hamza mean?",
-        "a": "Hamza is an Arabic-origin name meaning “Lion”."
-      },
-      {
-        "q": "What is the origin of Hamza?",
-        "a": "Hamza originates in Arabic and circulates in Muslim naming communities."
-      },
-      {
-        "q": "Is Hamza an Arabic name?",
-        "a": "Yes, the recorded form حمزة is Arabic."
-      },
-      {
-        "q": "What is the root of Hamza?",
-        "a": "It is built on the root ح م ز (ḥ-m-z)."
+        "a": "Hamza is an Arabic name meaning “strong, steadfast”; it is also an Arabic epithet for the lion."
       },
       {
         "q": "Is Hamza an Islamic name?",
-        "a": "Hamza is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+        "a": "Yes. It is one of the most honoured names in Islam because it was borne by Hamza ibn Abd al-Muttalib, the Prophet Muhammad’s uncle and Companion."
       },
       {
-        "q": "Is Hamza a Quranic name?",
-        "a": "Hamza is not independently established as a Qur'anic personal name."
+        "q": "Who was Hamza in Islam?",
+        "a": "Hamza ibn Abd al-Muttalib (c. 568–625) was the Prophet’s paternal uncle and milk-brother. He embraced Islam in 616 CE, fought at Badr and was martyred at Uhud in 625 CE."
+      },
+      {
+        "q": "Why is Hamza called the Lion of God?",
+        "a": "Early sources give him the title Asad Allah wa Asad Rasūlih — “Lion of God and of His Messenger” — for his bravery; he is also called Sayyid al-Shuhadāʾ, “Leader of the Martyrs”."
+      },
+      {
+        "q": "Is Hamza mentioned in the Qur'an?",
+        "a": "No. The name does not occur in the Qur'an; its religious standing comes from the Companion who bore it."
+      },
+      {
+        "q": "What is the origin of Hamza?",
+        "a": "Hamza is Arabic (حَمْزَة), from the root ح م ز, and spread through the Muslim world with Islam."
       },
       {
         "q": "What does Hamza mean in Urdu?",
-        "a": "In Urdu it is written حمزہ and carries the sense “شیر، بہادر”."
+        "a": "In Urdu it is written حمزہ and means “طاقتور، ثابت قدم” (strong, steadfast); it is also a title of the lion (شیر)."
       },
       {
-        "q": "How is Hamza pronounced?",
-        "a": "A romanized syllable approximation is “ham-za”."
+        "q": "How do you pronounce Hamza?",
+        "a": "HAM-zuh. In Arabic the first sound is the breathy ḥ (/ˈħamza/); Urdu speakers say /ˈhəmzə/."
       },
       {
         "q": "Is Hamza a boy's or girl's name?",
-        "a": "Documented usage records Hamza as a boy's name; actual use can vary by community."
+        "a": "Hamza is a masculine name used for boys."
+      },
+      {
+        "q": "What are other spellings of Hamza?",
+        "a": "Hamzah, Humza, Hamzeh, Hamsah and Khamzat are spellings of the same name in different languages."
+      },
+      {
+        "q": "Is Hamza the same as the Arabic letter hamza?",
+        "a": "No. The name is spelled with ḥāʾ (حمزة), while the glottal-stop sign hamza (همزة, ء) is spelled with hāʾ; they are different words."
       }
     ],
     "seo": {
-      "title": "Hamza Name Meaning, Origin & Islamic Context",
-      "meta_description": "Hamza (حمزة) — meaning, origin, pronunciation and Islamic naming context.",
-      "meta_keywords": "Hamza meaning, Hamza name meaning, Hamza origin, Hamza meaning in Urdu, Hamza pronunciation, Hamza Islamic name",
-      "description_paragraph": "Hamza is an Arabic-origin given name. This page covers its meaning, origin, pronunciation and naming context.",
+      "title": "Hamza Name Meaning: Strong, Steadfast & “Lion of God” — Origin and History",
+      "meta_description": "Hamza (حمزة) is an Arabic boy’s name meaning strong and steadfast, an epithet of the lion, honouring the Prophet’s uncle Hamza ibn Abd al-Muttalib. Origin, pronunciation, Urdu meaning.",
+      "meta_keywords": "Hamza meaning, Hamza name meaning, Hamza meaning in Urdu, Hamza in Islam, Hamza ibn Abd al-Muttalib, Hamza pronunciation, Hamzah",
+      "description_paragraph": "Hamza is an Arabic masculine name meaning “strong, steadfast”, honouring the Prophet Muhammad’s uncle Hamza ibn Abd al-Muttalib.",
       "keywords": [
         "Hamza meaning",
         "Hamza name meaning",
-        "Hamza origin",
         "Hamza meaning in Urdu",
+        "Hamza in Islam",
+        "Hamza ibn Abd al-Muttalib",
         "Hamza pronunciation",
-        "Hamza Islamic name"
+        "Hamzah"
       ],
       "focus_keyword": "Hamza meaning",
       "secondary_keywords": [
         "Hamza name meaning",
-        "Hamza origin",
         "Hamza meaning in Urdu",
+        "Hamza in Islam",
+        "Hamza ibn Abd al-Muttalib",
         "Hamza pronunciation",
-        "Hamza Islamic name"
+        "Hamzah"
       ],
       "canonical_url": "https://nameverse.site/names/islamic/hamza",
-      "seo_score": 95,
-      "seo_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+      "h1": "Hamza — Name Meaning, Origin and Islamic History",
+      "search_intents": [
+        "meaning",
+        "islamic significance",
+        "urdu meaning",
+        "pronunciation",
+        "spelling variants"
+      ],
+      "editorial_seo_rule": "Every claim on this page is backed by a cited source in evidence.sources; no popularity rankings are asserted."
     },
     "seo_content": {
-      "intro_paragraph": "This page explains the meaning and origin of the name Hamza, an Arabic-origin name used in Muslim communities.",
-      "body_summary": "Hamza is used within Muslim naming communities. Its Islamic association is cultural; it is not a doctrinal term."
+      "intro_paragraph": "Hamza is an Arabic boy’s name meaning “strong and steadfast”, carried with special honour in Muslim families because it was the name of the Prophet’s uncle, Hamza ibn Abd al-Muttalib.",
+      "body_summary": "Hamza is not a Qur'anic word, but its association with a celebrated Companion, martyred at Uhud and remembered as the “Lion of God”, makes it one of the best-loved names across the Muslim world."
     },
     "social_tags": [
       "#Hamza",
       "#HamzaMeaning",
-      "#NameMeaning",
       "#IslamicNames",
-      "#NameOrigin"
+      "#MuslimBabyNames",
+      "#ArabicNames"
     ],
     "content_quality": {
       "tier1_verified": true,
       "authenticity_flags": [],
       "fabricated_content_removed": true,
-      "fields_total": 154,
-      "quality_score": 95,
-      "quality_score_basis": "9 distinct FAQs; gloss verified; root present; uniqueness enforced by cross-field de-duplication; score reflects content depth, not field count."
+      "overall_status": "source-checked",
+      "linguistic_authenticity": "Arabic form and root cited (Wiktionary)",
+      "etymological_authenticity": "Root ح م ز cited; confusion with همزة flagged",
+      "meaning_authenticity": "Gloss cited to Wikipedia / Rahman (2001)",
+      "translation_quality": "Urdu, Persian, Hindi and Arabic glosses aligned with the cited English meaning; Pashto pending native review"
     },
     "evidence": {
       "sources": [
-        "The recorded Arabic form حمزة carries the sense “Lion”."
+        {
+          "id": "wiki-name",
+          "title": "Hamza (name) — Wikipedia (cites S. A. Rahman, A Dictionary of Muslim Names, 2001, p. 30)",
+          "url": "https://en.wikipedia.org/wiki/Hamza_(name)",
+          "supports": [
+            "meaning",
+            "variants",
+            "pronunciation"
+          ]
+        },
+        {
+          "id": "wikt-ar",
+          "title": "حمزة — Wiktionary (Arabic proper noun; obsolete noun 'lion')",
+          "url": "https://en.wiktionary.org/wiki/%D8%AD%D9%85%D8%B2%D8%A9",
+          "supports": [
+            "lexical_form",
+            "literal_meaning",
+            "gender"
+          ]
+        },
+        {
+          "id": "wiki-hamza",
+          "title": "Hamza ibn Abd al-Muttalib — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Hamza_ibn_Abd_al-Muttalib",
+          "supports": [
+            "companion",
+            "history"
+          ]
+        },
+        {
+          "id": "arwiki-hamza",
+          "title": "حمزة بن عبد المطلب — Arabic Wikipedia (cites Sirat Ibn Hisham for the title أسد الله وأسد رسوله)",
+          "url": "https://ar.wikipedia.org/wiki/%D8%AD%D9%85%D8%B2%D8%A9_%D8%A8%D9%86_%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%85%D8%B7%D9%84%D8%A8",
+          "supports": [
+            "epithet"
+          ]
+        },
+        {
+          "id": "wiki-uhud",
+          "title": "Battle of Uhud — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Battle_of_Uhud",
+          "supports": [
+            "history"
+          ]
+        },
+        {
+          "id": "wiki-hamzanama",
+          "title": "Hamzanama — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Hamzanama",
+          "supports": [
+            "cultural"
+          ]
+        }
       ],
-      "verification_method": "Cross-checked lexical sources; no scriptural or statistical claim is asserted without a source."
+      "core_claims": [
+        {
+          "claim": "Hamza means “strong, steadfast” and is an Arabic epithet for the lion.",
+          "evidence_type": "name dictionary (via Wikipedia)",
+          "confidence": "HIGH",
+          "source": "wiki-name"
+        },
+        {
+          "claim": "حَمْزَة is an Arabic masculine given name; an obsolete Arabic noun sense is “lion”.",
+          "evidence_type": "dictionary",
+          "confidence": "HIGH",
+          "source": "wikt-ar"
+        },
+        {
+          "claim": "Hamza ibn Abd al-Muttalib (c. 568–625) was the Prophet’s paternal uncle and Companion, killed at Uhud.",
+          "evidence_type": "encyclopedia",
+          "confidence": "HIGH",
+          "source": "wiki-hamza"
+        },
+        {
+          "claim": "He is titled Asad Allah wa Asad Rasūlih (“Lion of God and of His Messenger”).",
+          "evidence_type": "encyclopedia citing Sirat Ibn Hisham",
+          "confidence": "HIGH",
+          "source": "arwiki-hamza"
+        },
+        {
+          "claim": "The Battle of Uhud was fought on 23 March 625 CE.",
+          "evidence_type": "encyclopedia",
+          "confidence": "HIGH",
+          "source": "wiki-uhud"
+        },
+        {
+          "claim": "The Hamzanama narrates the legendary exploits of Hamza.",
+          "evidence_type": "encyclopedia",
+          "confidence": "HIGH",
+          "source": "wiki-hamzanama"
+        }
+      ],
+      "verification_method": "Each claim cross-checked against the cited source URL on 2026-11-02; no ranking or statistical claim is made."
     },
     "provenance": {
-      "pipeline": "NameVerse Production v8",
+      "pipeline": "NameVerse Production v9 (manual source-checked upgrade)",
       "methodology": "Parse atomic facts -> rebuild distinct fields -> validate",
-      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
-      "processed_at": "2026-10-06T04:27:34+00:00"
+      "upgraded_from": "v8",
+      "processed_at": "2026-11-02T02:10:13+00:00"
     },
     "structured_data": {
       "@context": "https://schema.org",
@@ -350,7 +530,7 @@
         {
           "@type": "DefinedTerm",
           "name": "Hamza",
-          "description": "Hamza — an Arabic-origin given name meaning Lion",
+          "description": "Hamza — an Arabic masculine given name meaning strong, steadfast; an epithet of the lion",
           "inDefinedTermSet": {
             "@type": "DefinedTermSet",
             "name": "NameVerse Islamic Names"
@@ -364,31 +544,7 @@
               "name": "What does Hamza mean?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Hamza is an Arabic-origin name meaning “Lion”."
-              }
-            },
-            {
-              "@type": "Question",
-              "name": "What is the origin of Hamza?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Hamza originates in Arabic and circulates in Muslim naming communities."
-              }
-            },
-            {
-              "@type": "Question",
-              "name": "Is Hamza an Arabic name?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Yes, the recorded form حمزة is Arabic."
-              }
-            },
-            {
-              "@type": "Question",
-              "name": "What is the root of Hamza?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "It is built on the root ح م ز (ḥ-m-z)."
+                "text": "Hamza is an Arabic name meaning “strong, steadfast”; it is also an Arabic epithet for the lion."
               }
             },
             {
@@ -396,15 +552,39 @@
               "name": "Is Hamza an Islamic name?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Hamza is used by Muslims, but it is a lexical name rather than an exclusively Islamic religious term."
+                "text": "Yes. It is one of the most honoured names in Islam because it was borne by Hamza ibn Abd al-Muttalib, the Prophet Muhammad’s uncle and Companion."
               }
             },
             {
               "@type": "Question",
-              "name": "Is Hamza a Quranic name?",
+              "name": "Who was Hamza in Islam?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Hamza is not independently established as a Qur'anic personal name."
+                "text": "Hamza ibn Abd al-Muttalib (c. 568–625) was the Prophet’s paternal uncle and milk-brother. He embraced Islam in 616 CE, fought at Badr and was martyred at Uhud in 625 CE."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Why is Hamza called the Lion of God?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Early sources give him the title Asad Allah wa Asad Rasūlih — “Lion of God and of His Messenger” — for his bravery; he is also called Sayyid al-Shuhadāʾ, “Leader of the Martyrs”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Hamza mentioned in the Qur'an?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No. The name does not occur in the Qur'an; its religious standing comes from the Companion who bore it."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the origin of Hamza?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hamza is Arabic (حَمْزَة), from the root ح م ز, and spread through the Muslim world with Islam."
               }
             },
             {
@@ -412,15 +592,15 @@
               "name": "What does Hamza mean in Urdu?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "In Urdu it is written حمزہ and carries the sense “شیر، بہادر”."
+                "text": "In Urdu it is written حمزہ and means “طاقتور، ثابت قدم” (strong, steadfast); it is also a title of the lion (شیر)."
               }
             },
             {
               "@type": "Question",
-              "name": "How is Hamza pronounced?",
+              "name": "How do you pronounce Hamza?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "A romanized syllable approximation is “ham-za”."
+                "text": "HAM-zuh. In Arabic the first sound is the breathy ḥ (/ˈħamza/); Urdu speakers say /ˈhəmzə/."
               }
             },
             {
@@ -428,7 +608,23 @@
               "name": "Is Hamza a boy's or girl's name?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Documented usage records Hamza as a boy's name; actual use can vary by community."
+                "text": "Hamza is a masculine name used for boys."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are other spellings of Hamza?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hamzah, Humza, Hamzeh, Hamsah and Khamzat are spellings of the same name in different languages."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Hamza the same as the Arabic letter hamza?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No. The name is spelled with ḥāʾ (حمزة), while the glottal-stop sign hamza (همزة, ء) is spelled with hāʾ; they are different words."
               }
             }
           ]
@@ -460,31 +656,26 @@
     },
     "editorial_validation": {
       "needs_manual_verification": false,
-      "flags": [],
+      "flags": [
+        "pashto translation pending native review"
+      ],
       "confidence": "HIGH",
       "reviewed_by": "NameVerse verification pipeline",
-      "reviewed_at": "2026-10-06T04:27:34+00:00"
+      "reviewed_at": "2026-11-02T02:10:13+00:00"
     },
     "render_policy": {
       "render_verified": true,
       "render_interpretive": true,
-      "hide_unverified": true,
-      "single_definition_source": "core_meaning.primary_meaning",
-      "non_rendered_definition_fields": [
-        "core_meaning.short_meaning",
-        "core_meaning.literal_meaning",
-        "semantic_field",
-        "etymology.etymological_meaning"
-      ],
+      "hide_unverified": false,
       "hidden_sections": [
         "personality_associations",
         "hidden_personality_traits",
         "popularity",
-        "celebrity_usage",
         "real_world_usage",
         "spiritual_meaning",
         "name_story"
-      ]
+      ],
+      "source_checked": true
     }
   }
 }

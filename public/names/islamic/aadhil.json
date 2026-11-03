@@ -317,7 +317,6 @@
         "Aadhil Islamic name"
       ],
       "canonical_url": "https://nameverse.site/names/islamic/aadhil",
-      "seo_score": 78,
       "seo_score_basis": "Provisional editorial estimate: 78/100. Canonical and breadcrumb values are populated in the source JSON, but rendered HTML must be checked after deployment. Claim-level source verification and Arabic/Pashto native-speaker review remain incomplete."
     },
     "seo_content": {
@@ -344,7 +343,6 @@
       ],
       "fabricated_content_removed": true,
       "fields_total": 153,
-      "quality_score": 85,
       "quality_score_basis": "Provisional editorial estimate: 85/100. The Arabic form عادل and justice/equity sense were checked against Lane’s Lexicon. Frequency of the exact Latin spelling Aadhil, regional gender data, Arabic/Pashto native-speaker review, and deployed rendered output remain unverified; this is not a full accuracy certification.",
       "tier1_verified_scope": "Core Arabic lexical form and justice/equity sense checked; exact Latin-spelling usage, regional frequency, translations, and rendered page remain uncertified."
     },

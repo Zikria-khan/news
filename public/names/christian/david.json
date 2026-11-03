@@ -1,13 +1,433 @@
 {
+  "schema_version": "super-2.0",
   "success": true,
   "data": {
     "name": "David",
     "slug": "david",
-    "language": [],
-    "gender": "Unknown",
-    "origin": "Unknown",
-    "religion": "christian",
-    "meaning": "Beloved",
-    "similar_sounding_names": []
+    "content_revision": "v9",
+    "page_type": "name_meaning",
+    "identity": {
+      "display_name": "David",
+      "normalized_name": "david",
+      "name_type": "given_name",
+      "gender": "Male",
+      "gender_confidence": "HIGH",
+      "gender_note": "A masculine given name.",
+      "alternate_spellings": [
+        "Dave",
+        "Davy",
+        "Dafydd",
+        "Dawud",
+        "Davide"
+      ],
+      "name_status": "attested",
+      "search_variants": [
+        "dafydd",
+        "dave",
+        "david",
+        "davide",
+        "davy",
+        "dawud"
+      ]
+    },
+    "core_meaning": {
+      "short_meaning": "Beloved",
+      "primary_meaning": "David (Hebrew דָּוִד, Dāwiḏ) is a masculine name of Hebrew origin meaning “beloved”. Its popularity comes from King David, the shepherd who killed Goliath and became the second king of the united Kingdom of Israel, a central figure in Judaism, Christianity and Islam.",
+      "literal_meaning": "Beloved",
+      "meaning_explanation": "The name is linked to the Hebrew root dôwd (דּוֹד), which in Biblical Hebrew survives in the figurative sense “to love”; as a noun dod means “uncle” and, poetically, “beloved” — as in the Song of Songs 6:3, “I am my beloved's and my beloved is mine”.",
+      "meaning_confidence": "HIGH"
+    },
+    "etymology": {
+      "primary_language": "Hebrew",
+      "lexical_form": "דָּוִד",
+      "transliteration": "Dāwiḏ",
+      "root": "ד־ו־ד",
+      "root_transliteration": "d-w-d",
+      "morphology": "Personal name related to the noun dod, “uncle; beloved”.",
+      "etymological_meaning": [
+        "beloved"
+      ],
+      "etymology_explanation": "From Hebrew דָּוִד, linked to the root dôwd, whose Biblical Hebrew sense is “to love”; dod also means “uncle” and “beloved”.",
+      "etymology_confidence": "HIGH",
+      "false_etymology_warning": ""
+    },
+    "language": {
+      "primary": "Hebrew",
+      "associated_languages": [
+        "Hebrew",
+        "Greek",
+        "Latin",
+        "English"
+      ],
+      "language_confidence": "HIGH"
+    },
+    "origin": {
+      "primary_origin": "Hebrew",
+      "origin_type": "linguistic",
+      "origin_confidence": "HIGH",
+      "origin_explanation": "Hebrew, from the Bible. Christians adopted it early — Greek Δαυίδ, Latin David, Syriac Dawid — and the Qur'anic form is Dāwūd.",
+      "cultural_transmission": [
+        "Hebrew Bible",
+        "Greek (Δαυίδ)",
+        "Latin (David)",
+        "Wales (Dafydd)",
+        "Arabic (Dawud)"
+      ]
+    },
+    "religion": {
+      "primary_association": "Biblical — King David",
+      "religion_confidence": "HIGH",
+      "religious_status": "Name of King David of the Hebrew Bible and Old Testament",
+      "religious_explanation": "In the Books of Samuel David is a young shepherd and harpist who kills the Philistine Goliath, later becomes king of Judah and then of all Israel, and makes Jerusalem his capital. The Book of Samuel calls him “the sweet psalmist of Israel”, and almost half of the Psalms carry the heading “A Psalm of David”. In the New Testament Jesus is called the Son of David.",
+      "quranic_status": {
+        "is_quranic_name": false,
+        "quranic_reference": "",
+        "note": ""
+      },
+      "prophetic_status": {
+        "prophet_association": false,
+        "reference": ""
+      },
+      "companion_status": {
+        "known_companion_association": false,
+        "reference": ""
+      }
+    },
+    "cultural_context": {
+      "primary_cultural_associations": [
+        "Jewish",
+        "Christian",
+        "Welsh",
+        "English"
+      ],
+      "cultural_meaning": "Saint David (6th century) is the patron saint of Wales, where the name also takes the form Dafydd.",
+      "impact": "Name days fall on 1 March for St David of Wales and 29 December for King David."
+    },
+    "spiritual_meaning": {
+      "status": "interpretive",
+      "render": false,
+      "meaning": "",
+      "is_direct_religious_definition": false
+    },
+    "personality_associations": {
+      "status": "not_verified",
+      "render": false
+    },
+    "hidden_personality_traits": {
+      "status": "not_verified",
+      "render": false
+    },
+    "translations": {
+      "english": {
+        "name": "David",
+        "script": "David",
+        "meaning": "Beloved",
+        "long_meaning": ""
+      },
+      "hebrew": {
+        "name": "דָּוִד",
+        "script": "דָּוִד",
+        "meaning": "אהוב",
+        "long_meaning": ""
+      },
+      "greek": {
+        "name": "Δαυίδ",
+        "script": "Δαυίδ",
+        "meaning": "Αγαπημένος",
+        "long_meaning": ""
+      },
+      "latin": {
+        "name": "David",
+        "script": "David",
+        "meaning": "Dilectus",
+        "long_meaning": ""
+      },
+      "arabic": {
+        "name": "داود",
+        "script": "داود",
+        "meaning": "المحبوب",
+        "long_meaning": ""
+      }
+    },
+    "translation_quality": {
+      "strategy": "semantic_translation",
+      "confidence": "MEDIUM",
+      "native_review_required": true
+    },
+    "pronunciation": {
+      "english": "DAY-vid",
+      "ipa": "/ˈdeɪvɪd/",
+      "note": "Modern Hebrew says da-VEED; Welsh Dafydd is DAH-vith."
+    },
+    "name_variants": {
+      "romanized_variants": [
+        "Dave",
+        "Davy",
+        "Dafydd",
+        "Dawud",
+        "Davide"
+      ],
+      "script_variants": [
+        "דָּוִד (Hebrew)",
+        "Δαυίδ (Greek)",
+        "داود (Arabic)"
+      ],
+      "variant_notes": "Dafydd is Welsh, Davide Italian, Dawud/Dāwūd the Arabic and Qur'anic form; Dave and Davy are short forms."
+    },
+    "related_names": [
+      "Solomon",
+      "Jesse",
+      "Jonathan",
+      "Samuel",
+      "Daniel"
+    ],
+    "historical_context": {
+      "status": "verified",
+      "known_linguistic_history": [
+        "King David's reign is placed around the 9th–10th century BC by the biblical account.",
+        "Adopted as a Christian name from an early period, e.g. David of Wales (6th century) and David I of Iberia."
+      ],
+      "historical_person_association": "King David, second king of the united Kingdom of Israel.",
+      "historical_event_association": "David and Goliath (1 Samuel 17)",
+      "historical_claim_confidence": "HIGH"
+    },
+    "modern_usage": {
+      "status": "qualitative",
+      "modern_context": "A classic name across Europe and the English-speaking world; Dave and Davy are its common short forms."
+    },
+    "popularity": {
+      "status": "not_measured",
+      "render": false,
+      "score": null,
+      "by_region": []
+    },
+    "celebrity_usage": {
+      "status": "none",
+      "verified": [],
+      "note": ""
+    },
+    "faq": [
+      {
+        "q": "What does David mean?",
+        "a": "David is Hebrew for “beloved”."
+      },
+      {
+        "q": "Who was King David?",
+        "a": "In the Hebrew Bible David is the shepherd who killed Goliath and became the second king of the united Kingdom of Israel, with Jerusalem as his capital."
+      },
+      {
+        "q": "Is David in the Bible?",
+        "a": "Yes — in 1 and 2 Samuel, 1 Kings, Chronicles and the Psalms, and the New Testament calls Jesus the Son of David."
+      },
+      {
+        "q": "Who is Saint David?",
+        "a": "Saint David of Wales (6th century), the patron saint of Wales, whose feast day is 1 March."
+      },
+      {
+        "q": "What is David in Arabic?",
+        "a": "Dāwūd (داود), the form used in the Qur'an."
+      },
+      {
+        "q": "What are nicknames for David?",
+        "a": "Dave and Davy are the most common English short forms."
+      }
+    ],
+    "seo": {
+      "title": "David Name Meaning: “Beloved” — Hebrew Origin, King David & Saint David",
+      "meta_description": "David (דָּוִד) is a Hebrew boy's name meaning beloved, the name of King David who killed Goliath and of Saint David of Wales. Origin, Bible references, variants Dafydd, Dawud.",
+      "keywords": [
+        "David meaning",
+        "David name meaning",
+        "David in the Bible",
+        "King David",
+        "David Hebrew meaning"
+      ],
+      "description_paragraph": "David (Hebrew דָּוִד, Dāwiḏ) is a masculine name of Hebrew origin meaning “beloved”. Its popularity comes from King David, the shepherd who killed Goliath and became the second king of the united Kingdom of Israel, a central figure in Judaism, Christianity and Islam."
+    },
+    "content_quality": {
+      "overall_status": "source-checked",
+      "fabricated_content_removed": true,
+      "meaning_authenticity": "Each core claim checked against a cited source page"
+    },
+    "evidence": {
+      "sources": [
+        {
+          "id": "wiki-name",
+          "title": "David (name) — Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/David_(name)",
+          "supports": [
+            "meaning",
+            "root",
+            "variants",
+            "name days"
+          ]
+        },
+        {
+          "id": "wiki-king",
+          "title": "David — Wikipedia (King David)",
+          "url": "https://en.wikipedia.org/wiki/David",
+          "supports": [
+            "biblical",
+            "history"
+          ]
+        },
+        {
+          "id": "wikt-dod",
+          "title": "דוד — Wiktionary (Hebrew dod: uncle; beloved)",
+          "url": "https://en.wiktionary.org/wiki/%D7%93%D7%95%D7%93",
+          "supports": [
+            "root"
+          ]
+        }
+      ],
+      "core_claims": [
+        {
+          "claim": "David is of Hebrew origin and means 'beloved'.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Derived from the root dôwd, surviving in Biblical Hebrew in the sense 'to love'; cf. Song of Songs 6:3.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Adopted as a Christian name early: David of Wales (6th century), David I of Iberia.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Name days include 1 March (St David of Wales) and 29 December (King David).",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "The Quranic spelling is Dāwūd.",
+          "evidence_type": "wiki-name",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "David became the second king of the united Kingdom of Israel and killed Goliath.",
+          "evidence_type": "wiki-king",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Almost half of the Psalms are headed 'A Psalm of David'; he is called 'the sweet psalmist of Israel'.",
+          "evidence_type": "wiki-king",
+          "confidence": "HIGH"
+        },
+        {
+          "claim": "Hebrew dod means 'uncle' and poetically 'beloved'.",
+          "evidence_type": "wikt-dod",
+          "confidence": "HIGH"
+        }
+      ],
+      "verification_method": "v9_upgrade.py: every claim's key terms located in the cited source text"
+    },
+    "provenance": {
+      "pipeline": "NameVerse v9 source-checked upgrade",
+      "upgraded_from": "flat",
+      "processed_at": "2026-11-03T03:04:28+00:00"
+    },
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "DefinedTerm",
+          "name": "David",
+          "description": "David — Beloved",
+          "inDefinedTermSet": {
+            "@type": "DefinedTermSet",
+            "name": "NameVerse Christian Names"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What does David mean?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "David is Hebrew for “beloved”."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Who was King David?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In the Hebrew Bible David is the shepherd who killed Goliath and became the second king of the united Kingdom of Israel, with Jerusalem as his capital."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is David in the Bible?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — in 1 and 2 Samuel, 1 Kings, Chronicles and the Psalms, and the New Testament calls Jesus the Son of David."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Who is Saint David?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Saint David of Wales (6th century), the patron saint of Wales, whose feast day is 1 March."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is David in Arabic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Dāwūd (داود), the form used in the Qur'an."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What are nicknames for David?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Dave and Davy are the most common English short forms."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "editorial_validation": {
+      "needs_manual_verification": false,
+      "confidence": "HIGH",
+      "flags": [
+        "translations pending native-speaker review"
+      ],
+      "reviewed_at": "2026-11-03T03:04:28+00:00"
+    },
+    "render_policy": {
+      "render_verified": true,
+      "render_interpretive": true,
+      "hide_unverified": false,
+      "hidden_sections": [
+        "personality_associations",
+        "hidden_personality_traits",
+        "popularity",
+        "real_world_usage",
+        "name_story",
+        "spiritual_meaning"
+      ],
+      "source_checked": true
+    },
+    "biblical_reference": {
+      "is_biblical": true,
+      "origin_scripture": "Old Testament — 1 and 2 Samuel, 1 Kings, Psalms",
+      "verse_reference": "1 Samuel 17 (David and Goliath)",
+      "note": "Second king of the united Kingdom of Israel."
+    },
+    "saint_reference": {
+      "is_saint_name": true,
+      "saint_name": "Saint David of Wales",
+      "note": "Patron saint of Wales, feast day 1 March."
+    }
   }
 }

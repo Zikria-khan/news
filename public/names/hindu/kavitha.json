@@ -86,26 +86,6 @@
       "Kawitha"
     ],
     "popularity_score": 50,
-    "popularity_by_region": [
-      {
-        "region": "Uttar Pradesh",
-        "country_code": "IN",
-        "score": 39,
-        "year": 2024
-      },
-      {
-        "region": "West Bengal",
-        "country_code": "IN",
-        "score": 60,
-        "year": 2024
-      },
-      {
-        "region": "Gujarat",
-        "country_code": "IN",
-        "score": 37,
-        "year": 2024
-      }
-    ],
     "vedic_reference": {
       "is_vedic": false,
       "note": "Kavitha is not derived from any Vedic Sanskrit root or mythology."

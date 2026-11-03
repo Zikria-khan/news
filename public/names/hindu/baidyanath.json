@@ -77,26 +77,6 @@
       "Baaidyaanaath"
     ],
     "popularity_score": 50,
-    "popularity_by_region": [
-      {
-        "region": "West Bengal",
-        "country_code": "IN",
-        "score": 33,
-        "year": 2024
-      },
-      {
-        "region": "Tamil Nadu",
-        "country_code": "IN",
-        "score": 52,
-        "year": 2024
-      },
-      {
-        "region": "Maharashtra",
-        "country_code": "IN",
-        "score": 68,
-        "year": 2024
-      }
-    ],
     "vedic_reference": null,
     "cultural_impact": "",
     "spiritual_significance": "",
