@@ -4,50 +4,51 @@
   "data": {
     "name": "Aaban",
     "slug": "aaban",
-    "content_revision": "v8",
+    "content_revision": "v9",
     "page_type": "name_meaning",
     "identity": {
       "display_name": "Aaban",
       "normalized_name": "aaban",
       "name_type": "given_name",
-      "gender": "Unknown",
-      "gender_confidence": "LOW",
-      "gender_note": "The lexical and historical sources cited here do not establish the gender distribution of Aaban as a modern given name.",
+      "gender": "Boy",
+      "gender_confidence": "MEDIUM",
+      "gender_note": "The Arabic name Abān is masculine and its documented historical bearers were men; Persian dictionaries list Ābān without a stated gender. This is not a measured modern usage statistic.",
       "alternate_spellings": [
         "Aaban",
         "Aban"
       ],
-      "name_status": "lexically_attested; modern given-name usage requires independent evidence"
+      "name_status": "attested_persian_name; modern usage frequency not measured"
     },
     "core_meaning": {
-      "short_meaning": "Persian name of the eighth month of the Solar Hijri calendar",
-      "primary_meaning": "Aaban is a Latin-script spelling of Persian آبان (Ābān), the eighth month of Iran’s Solar Hijri calendar. Persian lexicographic sources also record historical calendar-related senses, and Encyclopaedia Iranica discusses Ābān Māh in Zoroastrian calendrical history. These historical associations should be distinguished from modern personal-name meaning or usage. The word’s Persian origin does not establish Qur’anic status or Islamic prescription.",
-      "literal_meaning": "Ābān, the eighth month of the Iranian Solar Hijri calendar",
-      "meaning_explanation": "Dehkhoda’s Persian dictionary records آبان as the eighth month of the Persian solar year and also notes historical calendar-related meanings. Encyclopaedia Iranica’s entry on Ābān Māh describes its role in Zoroastrian calendrical history. These sources support the calendar and historical references, not the frequency or gender distribution of Aaban as a modern given name.",
+      "short_meaning": "Persian name of the eighth Iranian month, “the Waters”; not the Arabic name Abān",
+      "primary_meaning": "Aaban (آبان, Ābān) is a Persian name for the eighth month of the Iranian solar calendar, roughly late October to late November. It comes from Persian āb, “water”: in Zoroastrian tradition the month, and the tenth day of every month, are dedicated to the Waters, and Persian dictionaries also list Ābān as the name of the angel in charge of water. Because Latin spellings overlap, Aaban is often confused with the Arabic name Abān (أبان, also written Aban), a separate name meaning “clear, evident” that was borne by the Companion Abān ibn Saʿīd.",
+      "literal_meaning": "Ābān, “the waters”; the eighth month of the Iranian solar calendar",
+      "meaning_explanation": "Dehkhoda’s Persian dictionary lists آبان as the eighth month of the solar year, as the tenth day of the traditional month, and as the name of the angel in charge of water. The Persian names dictionary Farhang-e Nāmhā gives the Pahlavi sense as “waters”. Encyclopaedia Iranica describes Ābān Māh as the eighth month of the Zoroastrian year, dedicated to the Waters, with the feast Ābānagān on its tenth day. The separate Arabic name Abān (أبان) is explained in Arabic name references as a past-tense form of the verb abāna, meaning clear or evident.",
       "meaning_confidence": "HIGH"
     },
     "etymology": {
       "primary_language": "Persian",
-      "lexical_form": "آبَان",
-      "transliteration": "aaban",
-      "root": "",
-      "root_transliteration": "",
-      "morphology": "Simple lexical item used as a name.",
+      "lexical_form": "آبان",
+      "transliteration": "ābān",
+      "root": "آب",
+      "root_transliteration": "āb",
+      "morphology": "Persian word formed on āb, “water”; Pahlavi sense “the waters”. Used as a month name, a day name and the name of the angel of water.",
       "feminine_form": null,
-      "etymological_meaning": "The Persian calendar-month name Ābān; older Iranian calendar traditions also associate Ābān with the Waters.",
+      "etymological_meaning": "The Waters; the month and day dedicated to them in the Zoroastrian calendar.",
       "root_family": [],
-      "etymology_explanation": "Persian آبان (Ābān) is documented as a calendar-month name. Dehkhoda records the month and historical calendrical senses; Encyclopaedia Iranica discusses Ābān Māh in Zoroastrian calendar history. This evidence does not establish a distinct modern given-name etymology.",
+      "etymology_explanation": "Persian ābān is recorded in Farhang-e Nāmhā as Pahlavi for “waters” and in Dehkhoda as a month, day and angel name. Encyclopaedia Iranica places the month in the Zoroastrian calendar, dedicated to the Waters. The Arabic name Abān (أبان) has an unrelated origin: it is generally derived from Arabic abāna, “to be clear” (root b-y-n), although sources do not all agree on the derivation of this specific name.",
       "etymology_confidence": "HIGH",
-      "false_etymology_warning": "Do not infer a Qur'anic status, religious prescription, popularity, personality trait, or separate etymology from Muslim usage or Latin spelling alone."
+      "false_etymology_warning": "Do not treat Persian Ābān (آبان) and Arabic Abān (أبان) as one word because their Latin spellings overlap, and do not infer a Qur’anic status, personality trait or popularity from either spelling."
     },
     "language": {
       "primary": "Persian",
       "associated_languages": [
-        "Persian"
+        "Persian",
+        "Middle Persian"
       ],
       "language_notes": {
-        "primary": "Persian is the language of the recorded form آبَان.",
-        "usage": "Other scripts are transliterations of the name into those writing systems; they are not independent origins."
+        "primary": "Persian is the language of the recorded form آبان.",
+        "usage": "Other scripts are transliterations of the name into those writing systems, not independent origins. The Arabic name أبان is a separate word."
       },
       "language_confidence": "HIGH"
     },
@@ -55,60 +56,63 @@
       "primary_origin": "Persian",
       "origin_type": "linguistic",
       "origin_confidence": "HIGH",
-      "origin_explanation": "The documented form آبان is Persian and names the eighth month of Iran’s Solar Hijri calendar. Historical Iranian calendar associations are distinct from evidence about contemporary personal-name use.",
+      "origin_explanation": "The documented form آبان is Persian and names the eighth month of the Iranian solar calendar, a month dedicated to the Waters in Zoroastrian tradition. The Arabic name أبان is a different name with a different origin.",
       "cultural_transmission": [
-        "Persian"
+        "Persian",
+        "Zoroastrian calendar tradition"
       ]
     },
     "religion": {
-      "primary_association": "Islamic-cultural usage",
+      "primary_association": "Persian cultural name used in Muslim communities",
       "religion_confidence": "MEDIUM",
       "religious_status": "Culturally used; not inherently a doctrinal term",
-      "religious_explanation": "The word has Persian calendrical origins. Some families may use it as a given name in Muslim communities, but this record cites no Qur’anic verse, authentic hadith, or Islamic ruling that establishes it as a specifically Islamic or prescribed name.",
+      "religious_explanation": "The word is a Persian calendar and water name with Zoroastrian background. Muslim families may use it as a given name, but this record cites no Qur’anic verse, hadith or Islamic ruling that establishes it as a specifically Islamic or prescribed name. The similar Arabic name Abān is separate and is attested among the Companions.",
       "quranic_status": {
         "is_quranic": false,
         "status": "not_verified",
-        "note": "Aaban is not independently established as a Qur'anic personal name, so no Qur'anic basis is claimed."
+        "note": "Aaban is not identified as a Qur’anic personal name, so no Qur’anic basis is claimed."
       },
       "hadith_status": {
-        "status": "not_verified",
-        "note": "No specific authentic hadith report about this name is cited; none is invented."
+        "status": "bearer_of_arabic_aban_mentioned",
+        "note": "The Companion Abān ibn Saʿīd appears in hadith narrations, for example the Khaybar account in Sahih al-Bukhari 4238. This concerns the person, not a ruling on the name, and applies to Arabic Abān rather than Persian Ābān."
       },
       "prophetic_status": {
         "status": "not_verified",
-        "note": "No verified source establishes Aaban as the name of a prophet."
+        "note": "No verified source establishes Aaban or Abān as the name of a prophet."
       },
       "companion_status": {
-        "status": "not_verified",
-        "note": "No companion (sahabi) of this name is attested in this record."
+        "status": "attested_for_arabic_aban",
+        "note": "Abān ibn Saʿīd ibn al-ʿĀṣ al-Umawī al-Qurashī (أبان بن سعيد), a Companion and scribe appointed by the Prophet ﷺ over Bahrain. His name is the Arabic Abān, so this does not by itself show Companion usage of the Persian name Ābān."
       }
     },
     "islamic_naming_context": {
       "can_be_used_by_muslims": true,
-      "context": "Muslim naming culture in South Asia and the Persianate world",
-      "interpretation": "The documented lexical reference is a Persian calendar month, not a personal virtue. Whether a family assigns additional symbolism to the name is a matter of personal interpretation.",
-      "important_distinction": "Muslim use of the name is not evidence that the word is Qur'anic or religiously prescribed."
+      "context": "Muslim communities, including the Persianate world and South Asia",
+      "interpretation": "The documented meaning of Persian Ābān is a calendar month and “the Waters”, not a personal virtue. If a family means the Arabic name Abān (أبان), the meaning is “clear, evident” and the name has Companion-era bearers. Any further symbolism is personal interpretation.",
+      "important_distinction": "Muslim use of the name is not evidence that the Persian word is Qur’anic or religiously prescribed."
     },
     "cultural_context": {
       "primary_cultural_associations": [
-        "Persian"
+        "Persian",
+        "Zoroastrian calendar tradition"
       ],
-      "cultural_meaning": "The directly documented reference is the Persian calendar month Ābān, with older Iranian calendrical and Zoroastrian associations described in historical sources. These should not be presented as a universal meaning or as proof of modern naming customs.",
-      "personal_name_interpretation": "Families may choose the name for its Persian calendar or cultural associations, but any additional symbolism is personal interpretation rather than an independently established name meaning.",
-      "interpretation_warning": "Keep the calendar-month definition, historical religious-cultural context, and modern personal-name usage distinct."
+      "cultural_meaning": "In Persian and Zoroastrian tradition the month of Ābān and its tenth day are dedicated to the Waters. The tenth day was celebrated as the feast Ābānagān, when people went to streams, lakes or the sea to pray and make offerings. Classical Persian poets also use the month name.",
+      "personal_name_interpretation": "Families may choose the name for its Persian, water-related and calendar associations. This is personal interpretation rather than an independently established meaning of the given name.",
+      "interpretation_warning": "Keep the calendar-month definition, the Zoroastrian background, the Arabic name Abān and modern personal-name usage distinct."
     },
     "semantic_field": {
-      "primary_semantic_domain": "Eighth Persian month",
+      "primary_semantic_domain": "Persian calendar month; water",
       "related_concepts": [
         "Persian calendar month",
-        "Solar Hijri calendar",
-        "Iranian calendrical history"
+        "Iranian solar calendar",
+        "Water in Zoroastrian tradition",
+        "Ābānagān festival"
       ]
     },
     "spiritual_meaning": {
       "status": "not_verified",
       "render": false,
-      "meaning": "No separate spiritual meaning is asserted beyond the documented lexical or religious reference.",
+      "meaning": "No separate spiritual meaning is asserted for the given name beyond the documented Zoroastrian dedication of the month to the Waters.",
       "basis": null,
       "is_direct_religious_definition": false
     },
@@ -134,7 +138,7 @@
         "Orange"
       ],
       "lucky_stone": "Ruby",
-      "meaning": "In Pythagorean numerology the letters of Aaban total 1, associated with leadership, independence and initiative. This is an interpretive tradition, not a factual claim.",
+      "meaning": "In Pythagorean numerology the letters of Aaban total 10 (1+1+2+1+5), which reduces to 1, associated with leadership, independence and initiative. This is an interpretive tradition, not a factual claim.",
       "note": "Numerology/lucky-attribute claims are interpretive beliefs, not evidence-based properties of a name; keep hidden from factual name content."
     },
     "lucky_attributes": {
@@ -154,39 +158,39 @@
       "english": {
         "name": "Aaban",
         "script": "آبان",
-        "meaning": "Ābān, the eighth month of Iran’s Solar Hijri calendar",
-        "long_meaning": "Aaban is a Latin-script spelling of Persian آبان (Ābān), the eighth month of Iran’s Solar Hijri calendar. Persian lexicographic sources also record historical calendar-related senses, and Encyclopaedia Iranica discusses Ābān Māh in Zoroastrian calendrical history. These historical associations should be distinguished from modern personal-name meaning or usage. The word’s Persian origin does not establish Qur’anic status or Islamic prescription."
+        "meaning": "The eighth month of the Iranian solar calendar; “the Waters”",
+        "long_meaning": "Aaban (آبان, Ābān) is a Persian name for the eighth month of the Iranian solar calendar, roughly late October to late November. It comes from Persian āb, “water”: in Zoroastrian tradition the month, and the tenth day of every month, are dedicated to the Waters, and Persian dictionaries also list Ābān as the name of the angel in charge of water. Because Latin spellings overlap, Aaban is often confused with the Arabic name Abān (أبان, also written Aban), a separate name meaning “clear, evident” that was borne by the Companion Abān ibn Saʿīd."
       },
       "urdu": {
         "name": "آبان",
         "script": "آبان",
-        "meaning": "ایران کے شمسی ہجری تقویم کا آٹھواں مہینہ",
-        "long_meaning": "آبان فارسی نام ہے جو ایران کے شمسی ہجری تقویم کے آٹھویں مہینے کے لیے استعمال ہوتا ہے۔ دہخدا کی لغت اس کے قدیم تقویمی مفاہیم بھی درج کرتی ہے، جبکہ Encyclopaedia Iranica ایرانی زرتشتی تقویم میں آبان ماہ کی تاریخی حیثیت بیان کرتی ہے۔ یہ شواہد ذاتی نام کے طور پر اس کے رواج یا جنس کو ثابت نہیں کرتے۔"
+        "meaning": "ایرانی شمسی تقویم کا آٹھواں مہینہ؛ ‘پانیوں’ سے منسوب فارسی نام",
+        "long_meaning": "آبان فارسی نام ہے جو ایرانی شمسی تقویم کے آٹھویں مہینے کا نام ہے (تقریباً اکتوبر کے آخر سے نومبر کے آخر تک)۔ یہ لفظ فارسی ‘آب’ (پانی) سے ماخوذ ہے؛ زرتشتی روایت میں یہ مہینہ اور ہر مہینے کا دسواں دن پانیوں کے لیے مخصوص ہے، اور فارسی لغات میں آبان پانی پر مامور فرشتے کا نام بھی درج ہے۔ آبان کو عربی نام اَبان (أبان) سے الگ سمجھنا چاہیے، جس کا مفہوم ‘واضح، ظاہر’ ہے اور جو صحابیِ رسول ابان بن سعید رضی اللہ عنہ کا نام تھا۔"
       },
       "persian": {
         "name": "آبان",
         "script": "آبان",
-        "meaning": "ماه هشتم تقویم هجری خورشیدی ایران",
-        "long_meaning": "آبان نام ماه هشتم تقویم هجری خورشیدی ایران است. لغت دهخدا کاربردهای تاریخیِ تقویمی آن را نیز ثبت کرده و دانشنامهٔ ایرانیکا به جایگاه آبان‌ماه در تاریخ گاه‌شماری زرتشتی می‌پردازد. این منابع به‌تنهایی رواج آبان به‌عنوان نام شخصی یا جنسیت رایج آن را ثابت نمی‌کنند."
+        "meaning": "ماه هشتم تقویم خورشیدی ایران؛ «آب‌ها»",
+        "long_meaning": "آبان نام ماه هشتم تقویم خورشیدی ایران است. این واژه از «آب» می‌آید؛ در سنت زرتشتی این ماه و روز دهم هر ماه به آب‌ها اختصاص دارد و در فرهنگ‌های فارسی آبان نام فرشتهٔ موکل بر آب نیز ثبت شده است. آبان را باید از نام عربی «اَبان» (أبان) به معنای «روشن و آشکار» که نام صحابی پیامبر، ابان بن سعید، بود جدا دانست."
       },
       "hindi": {
         "name": "आबान",
         "script": "आबान",
-        "meaning": "ईरान के सौर हिजरी कैलेंडर का आठवाँ महीना",
-        "long_meaning": "आबान फ़ारसी नाम है और ईरान के सौर हिजरी कैलेंडर के आठवें महीने को दर्शाता है। देहख़ुदा शब्दकोश में इसके पुराने कैलेंडर-संबंधी अर्थ भी दर्ज हैं; Encyclopaedia Iranica ज़रथुस्त्री कैलेंडर के इतिहास में आबान माह की भूमिका बताती है। ये स्रोत आधुनिक व्यक्तिगत नाम के रूप में इसकी लोकप्रियता या सामान्य लिंग सिद्ध नहीं करते।"
+        "meaning": "ईरानी सौर कैलेंडर का आठवाँ महीना; ‘जल’ से जुड़ा फ़ारसी नाम",
+        "long_meaning": "आबान फ़ारसी नाम है, जो ईरानी सौर कैलेंडर के आठवें महीने का नाम है। यह शब्द फ़ारसी ‘आब’ (पानी) से जुड़ा है; ज़रथुस्त्री परंपरा में यह महीना और हर महीने का दसवाँ दिन जल को समर्पित है, और फ़ारसी शब्दकोशों में आबान जल पर नियुक्त फ़रिश्ते का नाम भी दर्ज है। इसे अरबी नाम अबान (أبان) से अलग समझना चाहिए, जिसका अर्थ ‘स्पष्ट, प्रकट’ है और जो सहाबी अबान इब्न सईद का नाम था।"
       },
       "pashto": {
         "name": "آبان",
         "script": "آبان",
-        "meaning": "آبان، پارسي میاشت",
-        "long_meaning": "آبان د فارسي ژبې نوم دی او د ایران د لمریز هجري کلیز اتمه میاشت ښيي. د دهخدا فارسي لغت یې پخوانۍ کلیزي ماناوې هم ثبتوي، او Encyclopaedia Iranica د زرتشتي کلیز په تاریخ کې د آبان میاشت یادوي. دا سرچینې په یوازې ځان د شخصي نوم په توګه د دې نوم دود یا جنسیت نه ثابتوي.",
+        "meaning": "د ایران د لمریز کلیز اتمه میاشت؛ د اوبو نوم",
+        "long_meaning": "آبان د فارسي ژبې نوم دی او د ایران د لمریز هجري کلیز اتمه میاشت ښيي. دا نوم د فارسي «آب» (اوبه) سره تړاو لري؛ د زرتشتي دود له مخې دا میاشت او د هرې میاشتې لسمه ورځ اوبو ته ځانګړې ده. له عربي نوم «ابان» (أبان) سره باید ګډوډ نشي، چې معنا یې «څرګند، روښانه» ده او د رسول الله ﷺ د یو صحابي، ابان بن سعید، نوم و.",
         "native_review_required": true
       },
       "arabic": {
         "name": "آبان",
         "script": "آبان",
-        "meaning": "آبان: اسم فارسي للشهر الثامن في التقويم الهجري الشمسي الإيراني؛ وليس معنى عربياً.",
-        "long_meaning": "آبان اسم فارسي للشهر الثامن في التقويم الهجري الشمسي الإيراني. يسجل معجم دهخدا معاني تقويمية تاريخية أخرى، وتتناول موسوعة إيرانिका مكانة آبان ماه في تاريخ التقويم الزرادشتي. ولا تثبت هذه المصادر وحدها مدى شيوع آبان اسمًا شخصيًا حديثًا أو جنسه الشائع.",
+        "meaning": "آبان: اسم فارسي للشهر الثامن في التقويم الشمسي الإيراني، ومعناه «المياه»؛ وهو غير اسم «أبان» العربي.",
+        "long_meaning": "آبان اسم فارسي للشهر الثامن من التقويم الشمسي الإيراني. وهو مأخوذ من الفارسية «آب» أي الماء؛ ففي التقليد الزرادشتي يُخصَّص هذا الشهر واليوم العاشر من كل شهر للمياه، وتذكر المعاجم الفارسية «آبان» اسمًا للملَك الموكَّل بالماء. ويختلف عن الاسم العربي «أبان» (من الفعل أبانَ بمعنى ظهر واتضح)، ومن حمله الصحابي أبان بن سعيد بن العاص رضي الله عنه.",
         "native_review_required": true
       }
     },
@@ -194,13 +198,13 @@
       "strategy": "semantic_translation",
       "confidence": "MEDIUM",
       "native_review_required": true,
-      "note": "Core calendar meaning is supported by Persian lexicographic and scholarly historical sources. Pashto and Arabic remain provisional and require qualified native review."
+      "note": "Core meaning is supported by Persian lexicographic and scholarly sources. Pashto and Arabic remain provisional and require qualified native review; a quick native check of the Urdu, Persian and Hindi texts is also recommended."
     },
     "pronunciation": {
-      "romanized": "aa-ban",
-      "ipa": null,
-      "approximation_note": "No verified IPA transcription is available for this form; the romanized syllable split is an approximation only.",
-      "common_mispronunciation": null,
+      "romanized": "aa-BAAN",
+      "ipa": "/ɒːˈbɒːn/",
+      "approximation_note": "Phonemic approximation for standard Iranian Persian, based on the transliteration ābān. Dari and Urdu speakers may use [ɑː] for the long vowels. The Arabic name Abān is /ʔaˈbaːn/.",
+      "common_mispronunciation": "Reading it with a short first vowel (a-BAAN), which is the Arabic name Abān.",
       "scripts": {
         "arabic": "آبَان"
       }
@@ -214,17 +218,19 @@
         "آبَان",
         "आबान"
       ],
-      "variant_notes": "Spelling variants reflect different transliteration conventions, not different names.",
-      "do_not_merge_with": []
+      "variant_notes": "Aban (single a) can also transliterate the separate Arabic name أبان. Other spellings reflect transliteration conventions, not different names.",
+      "do_not_merge_with": [
+        "aban"
+      ]
     },
     "related_names": [],
     "historical_context": {
       "status": "partially_verified",
-      "note": "Persian lexicographic and scholarly calendar sources document Ābān as a month name and discuss its historical calendar associations. Evidence for the history and frequency of Aaban specifically as a modern given name is not supplied."
+      "note": "Ābān is attested as the eighth month of the Zoroastrian year, dedicated to the Waters, with a feast, Ābānagān, on the tenth day of the month (Encyclopaedia Iranica; Dehkhoda), and classical Persian poets use the month name. The similar Arabic name Abān is attested from the first generation of Muslims through the Companion Abān ibn Saʿīd. Evidence for the history of Aaban specifically as a modern given name is not supplied."
     },
     "modern_usage": {
       "status": "requires_frequency_data",
-      "note": "Personal-name popularity must be measured separately from lexical presence."
+      "note": "Personal-name popularity must be measured separately from dictionary presence. Persian name dictionaries list Ābān as a name, but no frequency data is recorded here."
     },
     "popularity": {
       "status": "not_measured",
@@ -252,50 +258,50 @@
     "faq": [
       {
         "q": "What does Aaban mean?",
-        "a": "Aaban is a Latin-script spelling of Persian آبان (Ābān), the eighth month of Iran’s Solar Hijri calendar. Historical calendar associations are documented separately from modern personal-name usage."
+        "a": "Aaban (آبان, Ābān) is the Persian name of the eighth month of the Iranian solar calendar. It comes from Persian āb, “water”, and in Zoroastrian tradition the month is dedicated to the Waters."
       },
       {
         "q": "What is the origin of Aaban?",
-        "a": "The documented word is Persian Ābān, the eighth month of Iran’s Solar Hijri calendar; this does not establish personal-name frequency."
+        "a": "Persian. Ābān is a Middle Persian (Pahlavi) word for “the waters” and the name of the eighth month. The tenth day of the month was traditionally celebrated as a festival, Ābānagān."
       },
       {
         "q": "Is Aaban an Arabic name?",
-        "a": "No. The documented form آبان (Ābān) is Persian, not Arabic."
+        "a": "Not in the form آبان. Aaban normally transliterates the Persian name Ābān. A separate Arabic name, Abān (أبان), also exists and is often spelled Aban in English; it is generally explained as coming from the Arabic verb abāna, “to be or become clear”."
       },
       {
-        "q": "What is the root of Aaban?",
-        "a": "This record does not establish an Arabic derivational root for Persian آبان (Ābān). Its documented use here is as a Persian calendar-month name."
+        "q": "Is Aaban the same as Aban?",
+        "a": "The spellings overlap, but the names can be different. Persian آبان (Ābān) is the month and water name, while Arabic أبان (Abān) means “clear, evident”. Check the Persian or Arabic script to see which one a family means."
       },
       {
         "q": "Is Aaban an Islamic name?",
-        "a": "Aaban may be used by some Muslim families, but the evidence in this record identifies it as a Persian calendar-month name, not a Qur’anic term or an Islamically prescribed name."
+        "a": "Aaban is a Persian cultural name that Muslim families may use, but it is not a Qur’anic term or a name prescribed by Islam. The similar Arabic name Abān has an Islamic history: it was borne by the Companion Abān ibn Saʿīd."
       },
       {
-        "q": "Is Aaban a Quranic name?",
-        "a": "This record does not identify Aaban as a Qur’anic personal name. The documented form آبان (Ābān) is Persian and names a month in Iran’s Solar Hijri calendar."
+        "q": "Is Aaban in the Qur’an?",
+        "a": "This record does not identify Aaban or Abān as a name that appears in the Qur’an, and no Qur’anic basis is claimed."
+      },
+      {
+        "q": "Was there a Companion named Aban?",
+        "a": "Yes. Abān ibn Saʿīd ibn al-ʿĀṣ (أبان بن سعيد) was a Companion of the Prophet Muhammad ﷺ and one of his scribes, and was appointed over Bahrain. His name is the Arabic Abān, not the Persian month name Ābān."
       },
       {
         "q": "What does Aaban mean in Urdu?",
-        "a": "اس ریکارڈ میں آبان کا بنیادی مفہوم ایرانی شمسی ہجری تقویم کا آٹھواں مہینہ ہے۔ یہ لسانی اور تقویمی معنی ہے، نام کی مقبولیت یا مذہبی حیثیت کا دعویٰ نہیں۔"
+        "a": "اس ریکارڈ میں آبان کا بنیادی مفہوم ایرانی شمسی تقویم کا آٹھواں مہینہ ہے، جو فارسی ‘آب’ (پانی) سے ماخوذ ہے۔ یہ عربی نام اَبان (أبان) سے الگ ہے، جس کا مطلب ‘واضح، ظاہر’ ہے۔"
       },
       {
         "q": "How is Aaban pronounced?",
-        "a": "A rough romanized guide is “aa-ban”; pronunciation may vary by language and family."
+        "a": "In Persian it is pronounced roughly “aa-BAAN”, with a long first and last vowel and stress on the last syllable. The Arabic name Abān is pronounced “a-BAAN” with a short first vowel."
       },
       {
         "q": "Is Aaban a boy's or girl's name?",
-        "a": "The cited lexical and historical sources do not establish the gender distribution of Aaban as a modern given name. Treat gender as unknown unless reliable naming-usage data is available."
-      },
-      {
-        "q": "What should be verified about Aaban before relying on its meaning?",
-        "a": "The lexical form and meaning are supported by the sources listed in this record, but regional frequency and modern personal-name usage require separate evidence. Arabic and Pashto translations remain provisional until reviewed by qualified native speakers."
+        "a": "The Arabic name Abān is masculine and its documented historical bearers were men. Persian dictionaries list Ābān as a month and water-angel name without specifying a gender. Aaban is therefore most often treated as a boy's name, but no modern usage statistics are published here."
       }
     ],
     "seo": {
-      "title": "Aaban (Ābān) Name Meaning, Persian Origin & Islamic Context",
-      "meta_description": "Aaban (آبان/Ābān) is a Persian calendar-month name. Explore its documented meaning, pronunciation, origin, and the distinction between cultural use and Qur’anic status.",
+      "title": "Aaban Name Meaning, Origin & Islamic Context (آبان)",
+      "meta_description": "Aaban (آبان) is the Persian name of the eighth Iranian month, “the Waters.” Meaning, origin, pronunciation and how it differs from Arabic Abān.",
       "meta_keywords": "Aaban meaning, Aban name meaning, Aaban Persian origin, Aaban meaning in Urdu, Aaban pronunciation, Aaban Islamic name",
-      "description_paragraph": "Aaban (Ābān, آبان) is a Persian calendar-month name for the eighth month of Iran’s Solar Hijri calendar. Persian lexicographic and scholarly sources also document historical calendar associations. These meanings do not by themselves establish the name’s modern popularity, gender distribution, or Qur’anic status.",
+      "description_paragraph": "Aaban (Ābān, آبان) is a Persian name for the eighth month of the Iranian solar calendar, derived from āb, “water”. This page explains its meaning, Zoroastrian background and pronunciation, and how it differs from the Arabic name Abān.",
       "keywords": [
         "Aaban meaning",
         "Aban name meaning",
@@ -314,11 +320,11 @@
       ],
       "canonical_url": "https://nameverse.site/names/islamic/aaban",
       "seo_score": null,
-      "seo_score_basis": "Not numerically scored in this focused review; factual clarity prioritized over an unsupported score."
+      "seo_score_basis": "Not numerically scored; factual clarity prioritized over an unsupported score."
     },
     "seo_content": {
-      "intro_paragraph": "Explore Aaban (آبان), its Persian calendar meaning and historical context, with a distinction between documented word meaning and unverified modern personal-name usage.",
-      "body_summary": "Aaban (Ābān, آبان) is a Persian calendar-month name for the eighth month of Iran’s Solar Hijri calendar. Persian lexicographic and scholarly sources also document historical calendar associations. These meanings do not by themselves establish the name’s modern popularity, gender distribution, or Qur’anic status."
+      "intro_paragraph": "Explore Aaban (آبان), a Persian month and water name: its meaning, pronunciation, and how it differs from the Arabic name Abān.",
+      "body_summary": "Aaban means “the Waters” and names the month that Zoroastrian tradition dedicates to them. It is not the same as Arabic Abān (أبان), “clear, evident”, the name of the Companion Abān ibn Saʿīd, although the two share Latin spellings."
     },
     "social_tags": [
       "#Aaban",
@@ -330,41 +336,61 @@
     "content_quality": {
       "tier1_verified": false,
       "authenticity_flags": [
-        "Calendar meaning supported; modern personal-name usage not independently established",
-        "Gender distribution not independently established",
+        "Persian month, day and angel meanings re-checked against Dehkhoda, Farhang-e Nāmhā and Encyclopaedia Iranica on 2026-11-05",
+        "Arabic Abān details rest on secondary sources (Arabic and English Wikipedia, sunnah.com narrator listing); primary biographical sources not re-checked",
+        "Modern usage and gender statistics not available",
         "Pashto and Arabic translations require native review"
       ],
       "fabricated_content_removed": true,
       "fields_total": 154,
       "quality_score": null,
-      "quality_score_basis": "Not numerically scored in this focused review; lexical/calendar meaning has named source support, while personal-name usage and gender remain unverified.",
-      "tier1_verified_scope": "Core meaning and every associated claim have not been independently re-verified in this pass; source links, translation review, and usage evidence have separate status."
+      "quality_score_basis": "Not numerically scored; Persian meaning has named, retrieved source support, while personal-name usage and gender remain unmeasured.",
+      "tier1_verified_scope": "Persian month-name meaning verified against three retrieved sources. Arabic Abān details, translations and usage evidence have separate status."
     },
     "evidence": {
       "sources": [
-        "Dehkhoda Dictionary, entry آبان: https://vajehyab.com/dehkhoda/آبان",
-        "Encyclopaedia Iranica, ĀBĀN MĀH: https://www.iranicaonline.org/articles/aban-mah/"
+        "Dehkhoda Dictionary, entry آبان: https://vajehyab.com/dehkhoda/%D8%A2%D8%A8%D8%A7%D9%86",
+        "Farhang-e Nāmhā (Persian names dictionary), entry آبان: https://vajehyab.com/name/%D8%A2%D8%A8%D8%A7%D9%86",
+        "Encyclopaedia Iranica, ĀBĀN MĀH (Mary Boyce, 1982): https://www.iranicaonline.org/articles/aban-mah/",
+        "Abān ibn Saʿīd, English Wikipedia: https://en.wikipedia.org/wiki/Aban_ibn_Sa%27id",
+        "Abān ibn Saʿīd al-Umawī, sunnah.com narrator listing: https://sunnah.com/narrator/8753",
+        "Arabic Wikipedia, أبان (اسم) (mirror): https://areq.net/m/%D8%A3%D8%A8%D8%A7%D9%86_(%D8%A7%D8%B3%D9%85).html"
       ],
-      "verification_method": "Compared the Persian calendar-month definition and historical context against Dehkhoda’s Persian dictionary and Encyclopaedia Iranica. These sources do not establish modern given-name frequency or gender.",
+      "verification_method": "The three Persian sources were retrieved and read in full on 2026-11-05. The Arabic Abān sources were read as search excerpts only and are treated as secondary.",
       "claim_evidence": [
         {
-          "claim": "Persian calendar-month reference for Ābān",
+          "claim": "Ābān is the eighth month of the solar year, a day name and the name of the angel of water",
           "source": "https://vajehyab.com/dehkhoda/%D8%A2%D8%A8%D8%A7%D9%86",
-          "status": "listed_source_not_independently_rechecked"
+          "status": "retrieved_and_read_2026-11-05"
         },
         {
-          "claim": "Historical Iranian calendar context",
+          "claim": "Pahlavi sense “waters”; listed as a name; month and angel meanings",
+          "source": "https://vajehyab.com/name/%D8%A2%D8%A8%D8%A7%D9%86",
+          "status": "retrieved_and_read_2026-11-05"
+        },
+        {
+          "claim": "Eighth month of the Zoroastrian year, dedicated to the Waters; feast Ābānagān on the tenth day",
           "source": "https://www.iranicaonline.org/articles/aban-mah/",
-          "status": "listed_source_not_independently_rechecked"
+          "status": "retrieved_and_read_2026-11-05"
+        },
+        {
+          "claim": "Arabic Abān is a masculine name meaning clear or evident",
+          "source": "https://areq.net/m/%D8%A3%D8%A8%D8%A7%D9%86_(%D8%A7%D8%B3%D9%85).html",
+          "status": "secondary_source_excerpt_read"
+        },
+        {
+          "claim": "Abān ibn Saʿīd was a Companion and scribe appointed over Bahrain",
+          "source": "https://en.wikipedia.org/wiki/Aban_ibn_Sa%27id",
+          "status": "secondary_source_excerpt_read"
         }
       ],
-      "claim_evidence_status": "SOURCE_URLS_LISTED_NOT_INDEPENDENTLY_RECHECKED_IN_THIS_PASS"
+      "claim_evidence_status": "PERSIAN_SOURCES_RETRIEVED_AND_READ; ARABIC_ABAN_SOURCES_SECONDARY_ONLY"
     },
     "provenance": {
       "pipeline": "NameVerse editorial revision",
-      "methodology": "Individual editorial review with named Persian lexicographic and scholarly historical sources; modern naming-usage evidence and native translation review remain pending.",
-      "upgraded_from": "v7 (recursive-corruption and semantic-duplication remediation)",
-      "processed_at": "2026-10-16T05:20:00+00:00"
+      "methodology": "Individual editorial review against named Persian lexicographic and scholarly sources, with the separate Arabic name Abān disambiguated. Modern naming-usage evidence and native translation review remain pending.",
+      "upgraded_from": "v8 (disambiguation of Persian Ābān and Arabic Abān; Arabic-script and gender corrections)",
+      "processed_at": "2026-11-05T00:00:00+00:00"
     },
     "structured_data": {
       "@context": "https://schema.org",
@@ -372,7 +398,7 @@
         {
           "@type": "DefinedTerm",
           "name": "Aaban",
-          "description": "Aaban (Ābān, آبان) is a Persian calendar-month name for the eighth month of Iran’s Solar Hijri calendar. Persian lexicographic and scholarly sources also document historical calendar associations. These meanings do not by themselves establish the name’s modern popularity, gender distribution, or Qur’anic status.",
+          "description": "Aaban (Ābān, آبان) is a Persian name for the eighth month of the Iranian solar calendar, derived from āb, “water”. This page explains its meaning, Zoroastrian background and pronunciation, and how it differs from the Arabic name Abān.",
           "inDefinedTermSet": {
             "@type": "DefinedTermSet",
             "name": "NameVerse Islamic Names"
@@ -386,7 +412,7 @@
               "name": "What does Aaban mean?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Aaban is a Latin-script spelling of Persian آبان (Ābān), the eighth month of Iran’s Solar Hijri calendar. Historical calendar associations are documented separately from modern personal-name usage."
+                "text": "Aaban (آبان, Ābān) is the Persian name of the eighth month of the Iranian solar calendar. It comes from Persian āb, “water”, and in Zoroastrian tradition the month is dedicated to the Waters."
               }
             },
             {
@@ -394,7 +420,7 @@
               "name": "What is the origin of Aaban?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "The documented word is Persian Ābān, the eighth month of Iran’s Solar Hijri calendar; this does not establish personal-name frequency."
+                "text": "Persian. Ābān is a Middle Persian (Pahlavi) word for “the waters” and the name of the eighth month. The tenth day of the month was traditionally celebrated as a festival, Ābānagān."
               }
             },
             {
@@ -402,15 +428,15 @@
               "name": "Is Aaban an Arabic name?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "No. The documented form آبان (Ābān) is Persian, not Arabic."
+                "text": "Not in the form آبان. Aaban normally transliterates the Persian name Ābān. A separate Arabic name, Abān (أبان), also exists and is often spelled Aban in English; it is generally explained as coming from the Arabic verb abāna, “to be or become clear”."
               }
             },
             {
               "@type": "Question",
-              "name": "What is the root of Aaban?",
+              "name": "Is Aaban the same as Aban?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "This record does not establish an Arabic derivational root for Persian آبان (Ābān). Its documented use here is as a Persian calendar-month name."
+                "text": "The spellings overlap, but the names can be different. Persian آبان (Ābān) is the month and water name, while Arabic أبان (Abān) means “clear, evident”. Check the Persian or Arabic script to see which one a family means."
               }
             },
             {
@@ -418,15 +444,23 @@
               "name": "Is Aaban an Islamic name?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "Aaban may be used by some Muslim families, but the evidence in this record identifies it as a Persian calendar-month name, not a Qur’anic term or an Islamically prescribed name."
+                "text": "Aaban is a Persian cultural name that Muslim families may use, but it is not a Qur’anic term or a name prescribed by Islam. The similar Arabic name Abān has an Islamic history: it was borne by the Companion Abān ibn Saʿīd."
               }
             },
             {
               "@type": "Question",
-              "name": "Is Aaban a Quranic name?",
+              "name": "Is Aaban in the Qur’an?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "This record does not identify Aaban as a Qur’anic personal name. The documented form آبان (Ābān) is Persian and names a month in Iran’s Solar Hijri calendar."
+                "text": "This record does not identify Aaban or Abān as a name that appears in the Qur’an, and no Qur’anic basis is claimed."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Was there a Companion named Aban?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. Abān ibn Saʿīd ibn al-ʿĀṣ (أبان بن سعيد) was a Companion of the Prophet Muhammad ﷺ and one of his scribes, and was appointed over Bahrain. His name is the Arabic Abān, not the Persian month name Ābān."
               }
             },
             {
@@ -434,7 +468,7 @@
               "name": "What does Aaban mean in Urdu?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "اس ریکارڈ میں آبان کا بنیادی مفہوم ایرانی شمسی ہجری تقویم کا آٹھواں مہینہ ہے۔ یہ لسانی اور تقویمی معنی ہے، نام کی مقبولیت یا مذہبی حیثیت کا دعویٰ نہیں۔"
+                "text": "اس ریکارڈ میں آبان کا بنیادی مفہوم ایرانی شمسی تقویم کا آٹھواں مہینہ ہے، جو فارسی ‘آب’ (پانی) سے ماخوذ ہے۔ یہ عربی نام اَبان (أبان) سے الگ ہے، جس کا مطلب ‘واضح، ظاہر’ ہے۔"
               }
             },
             {
@@ -442,7 +476,7 @@
               "name": "How is Aaban pronounced?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "A rough romanized guide is “aa-ban”; pronunciation may vary by language and family."
+                "text": "In Persian it is pronounced roughly “aa-BAAN”, with a long first and last vowel and stress on the last syllable. The Arabic name Abān is pronounced “a-BAAN” with a short first vowel."
               }
             },
             {
@@ -450,15 +484,7 @@
               "name": "Is Aaban a boy's or girl's name?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "The cited lexical and historical sources do not establish the gender distribution of Aaban as a modern given name. Treat gender as unknown unless reliable naming-usage data is available."
-              }
-            },
-            {
-              "@type": "Question",
-              "name": "What should be verified about Aaban before relying on its meaning?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "The lexical form and meaning are supported by the sources listed in this record, but regional frequency and modern personal-name usage require separate evidence. Arabic and Pashto translations remain provisional until reviewed by qualified native speakers."
+                "text": "The Arabic name Abān is masculine and its documented historical bearers were men. Persian dictionaries list Ābān as a month and water-angel name without specifying a gender. Aaban is therefore most often treated as a boy's name, but no modern usage statistics are published here."
               }
             }
           ]
@@ -492,11 +518,12 @@
       "needs_manual_verification": true,
       "flags": [
         "Independent evidence for contemporary given-name usage and gender distribution is absent",
-        "Native review needed for Pashto and Arabic translations"
+        "Native review needed for Pashto and Arabic translations; spot check recommended for Urdu, Persian and Hindi",
+        "Confirm the slug used in do_not_merge_with for the separate Arabic name Abān, and add related_names once slugs are known"
       ],
       "confidence": "MEDIUM",
-      "reviewed_by": "NameVerse editorial revision (automated consistency pass; native/human review still required)",
-      "reviewed_at": "2026-10-15"
+      "reviewed_by": "NameVerse editorial revision (automated source check; native/human review still required)",
+      "reviewed_at": "2026-11-05"
     },
     "render_policy": {
       "render_verified": true,
