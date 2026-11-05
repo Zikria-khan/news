@@ -149,13 +149,12 @@ export async function generateMetadata({ params }) {
   if (!raw) return {};
 
   const n = enrichNameProfile(raw);
-  const indexable = isIndexable(n);
+  const knownSlugsMap = getKnownSlugsMap();
+  const entry = knownSlugsMap.get(`${finalReligion}:${normalizedSlug}`);
+  
+  // Use the indexability decision from the precomputed manifest
+  const indexable = entry ? Boolean(entry.indexable) : false;
 
-  // Canonical consolidation. When this record is a duplicate of another record
-  // (same name under a different transliteration), the manifest marks it with
-  // `canonicalSlug`. The page then points its canonical at the surviving page
-  // and is served noindex, so the two never compete for the same query.
-  const entry = getKnownSlugsMap().get(`${finalReligion}:${normalizedSlug}`);
   const canonicalSlug = entry?.canonicalSlug || null;
   const canonicalUrl = canonicalSlug
     ? `${SITE_URL}/names/${finalReligion}/${canonicalSlug}`
