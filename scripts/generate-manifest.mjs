@@ -204,6 +204,29 @@ for (const rel of VALID_RELIGIONS) {
   }
 }
 
+// ── cap indexable records ──────────────────────────────────────────────────
+// "shrink the sitemap of mne to 1000 islamic famous and most fixed names 600 chrisitna and 500 hindu and push to github remvoe otehr from sitemap add no index"
+const limits = { islamic: 1000, christian: 600, hindu: 500, italian: 0 };
+for (const rel of VALID_RELIGIONS) {
+  // Sort all items by popularity_score descending, then by slug
+  const sorted = [...manifest[rel]].sort(
+    (a, b) => (b.popularity_score || 0) - (a.popularity_score || 0) || a.slug.localeCompare(b.slug)
+  );
+  
+  let indexableCount = 0;
+  const limit = limits[rel] || 0;
+  
+  for (const item of sorted) {
+    if (item.indexable) {
+      if (indexableCount < limit) {
+        indexableCount++;
+      } else {
+        item.indexable = false;
+      }
+    }
+  }
+}
+
 // The fingerprint is an internal build artefact — strip it before writing.
 for (const rel of VALID_RELIGIONS) {
   for (const item of manifest[rel]) delete item._fp;
